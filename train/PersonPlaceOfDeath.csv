@@ -1,104 +1,101 @@
-SubjectEntity,ObjectEntity,relation
-Bob marley,['jackson memorial hospital'],PersonPlaceOfDeath
-Michael jackson,['los angeles'],PersonPlaceOfDeath
-John lennon,['new york city'],PersonPlaceOfDeath
-Mohamed morsi,['tora prison'],PersonPlaceOfDeath
-John mccain,['cornville'],PersonPlaceOfDeath
-Kofi annan,['bern'],PersonPlaceOfDeath
-David bowie,['manhattan'],PersonPlaceOfDeath
-Tupac shakur,['university medical center of southern nevada'],PersonPlaceOfDeath
-Lata mangeshkar,['mumbai'],PersonPlaceOfDeath
-Janis joplin,['hollywood'],PersonPlaceOfDeath
-Amy winehouse,['london borough of camden'],PersonPlaceOfDeath
-Bruce lee,['kowloon tong'],PersonPlaceOfDeath
-Mac miller,['los angeles'],PersonPlaceOfDeath
-Muhammad ali,['scottsdale'],PersonPlaceOfDeath
-Stan lee,['cedars-sinai medical center'],PersonPlaceOfDeath
-Patrice o'neal,['jersey city'],PersonPlaceOfDeath
-Rishi kapoor,['mumbai'],PersonPlaceOfDeath
-Vivek,['chennai'],PersonPlaceOfDeath
-Louis armstrong,['new york city'],PersonPlaceOfDeath
-Prince,['chanhassen'],PersonPlaceOfDeath
-Roddy piper,['hollywood'],PersonPlaceOfDeath
-Paul walker,['valencia'],PersonPlaceOfDeath
-Frida kahlo,['coyoacán'],PersonPlaceOfDeath
-Vicente fernández,['guadalajara'],PersonPlaceOfDeath
-Carrie fisher,"['los angeles, california, estados unufos']",PersonPlaceOfDeath
-Elizabeth taylor,['los angeles'],PersonPlaceOfDeath
-Jessica jaymes,['north hills'],PersonPlaceOfDeath
-Sushma swaraj,"['new delhi', 'delhi']",PersonPlaceOfDeath
-Joan rivers,['mount sinai hospital'],PersonPlaceOfDeath
-Bob saget,['orlando'],PersonPlaceOfDeath
-Shane warne,['ko samui'],PersonPlaceOfDeath
-Hugh hefner,['playboy mansion'],PersonPlaceOfDeath
-Gustavo cerati,['núñez'],PersonPlaceOfDeath
-Amber rayne,['sun valley'],PersonPlaceOfDeath
-Alan garcía,['lima'],PersonPlaceOfDeath
-Kurt vonnegut,['new york city'],PersonPlaceOfDeath
-George michael,['goring-on-thames'],PersonPlaceOfDeath
-Alfredo gonzález flores,['heredia'],PersonPlaceOfDeath
-Arun jaitley,"['all india institute of medical sciences, new delhi']",PersonPlaceOfDeath
-Terry pratchett,['broad chalke'],PersonPlaceOfDeath
-Roger ebert,['chicago'],PersonPlaceOfDeath
-Jenni rivera,['monterrey'],PersonPlaceOfDeath
-Pierre nkurunziza,['karuzi'],PersonPlaceOfDeath
-Roald dahl,['oxford'],PersonPlaceOfDeath
-Eddie van halen,['santa monica'],PersonPlaceOfDeath
-Philipp mißfelder,['coesfeld'],PersonPlaceOfDeath
-Roh hoe-chan,['seoul'],PersonPlaceOfDeath
-Gilbert gottfried,['manhattan'],PersonPlaceOfDeath
-Stephen covey,['idaho falls'],PersonPlaceOfDeath
-Rush limbaugh,['palm beach'],PersonPlaceOfDeath
-Charlie daniels,['hermitage'],PersonPlaceOfDeath
-John coltrane,['huntington'],PersonPlaceOfDeath
-Leon allen white,['denver'],PersonPlaceOfDeath
-Raffaella carrà,['rome'],PersonPlaceOfDeath
-Frank sinatra,['los angeles'],PersonPlaceOfDeath
-Thomas oppermann,['göttingen'],PersonPlaceOfDeath
-Tom petty,['ucla santa monica medical center'],PersonPlaceOfDeath
-Paul g. allen,['seattle'],PersonPlaceOfDeath
-Goo hara,['cheongdam-dong'],PersonPlaceOfDeath
-Harry reid,['henderson'],PersonPlaceOfDeath
-Idriss déby,['tibesti region'],PersonPlaceOfDeath
-Jamal khashoggi,['consulate general of saudi arabia in istanbul'],PersonPlaceOfDeath
-Abdul rehman malik,['islamabad'],PersonPlaceOfDeath
-Tabaré vázquez,['montevideo'],PersonPlaceOfDeath
-Merle haggard,['palo cedro'],PersonPlaceOfDeath
-Ennio morricone,['rome'],PersonPlaceOfDeath
-Aretha franklin,['detroit'],PersonPlaceOfDeath
-Sarah harding,['manchester'],PersonPlaceOfDeath
-Shyla stylez,['armstrong'],PersonPlaceOfDeath
-Mourid barghouti,['amman'],PersonPlaceOfDeath
-Kenny rogers,['sandy springs'],PersonPlaceOfDeath
-Olavo de carvalho,['richmond'],PersonPlaceOfDeath
-Edith gonzález,['huixquilucan'],PersonPlaceOfDeath
-Peaches geldof,['wrotham'],PersonPlaceOfDeath
-Meat loaf,['nashville'],PersonPlaceOfDeath
-Caroline flack,['stoke newington'],PersonPlaceOfDeath
-Maurane,['schaerbeek - schaarbeek'],PersonPlaceOfDeath
-Dusty rhodes,['orlando'],PersonPlaceOfDeath
-Sayaka kanda,['sapporo'],PersonPlaceOfDeath
-Scott hall,['marietta'],PersonPlaceOfDeath
-Rituparno ghosh,['kolkata'],PersonPlaceOfDeath
-Chick corea,['tampa bay area'],PersonPlaceOfDeath
-Thomas s. monson,['salt lake city'],PersonPlaceOfDeath
-Harsh vardhan,"['new delhi', 'delhi']",PersonPlaceOfDeath
-Bell hooks,['berea'],PersonPlaceOfDeath
-Ken robinson,['london'],PersonPlaceOfDeath
-Johnny isakson,['atlanta'],PersonPlaceOfDeath
-Mf doom,['london'],PersonPlaceOfDeath
-Michael k. williams,['united states of america'],PersonPlaceOfDeath
-Michael k. williams,['new york city'],PersonPlaceOfDeath
-Michael k. williams,['brooklyn'],PersonPlaceOfDeath
-Ahmed patel,['gurugram'],PersonPlaceOfDeath
-Verne troyer,['los angeles'],PersonPlaceOfDeath
-Eduard punset,['barcelona'],PersonPlaceOfDeath
-Chadwick boseman,['los angeles'],PersonPlaceOfDeath
-"John dingell, jr.",['dearborn'],PersonPlaceOfDeath
-Adam west,['los angeles'],PersonPlaceOfDeath
-Michael hastings,['los angeles'],PersonPlaceOfDeath
-José manuel de la sota,['santa maría department'],PersonPlaceOfDeath
-Gregg allman,['richmond hill'],PersonPlaceOfDeath
-Rachel caine,['united states of america'],PersonPlaceOfDeath
-Rachel caine,['texas'],PersonPlaceOfDeath
-Bekir coşkun,['ankara'],PersonPlaceOfDeath
+SubjectEntity,relation,ObjectEntity
+Elvis presley,PersonPlaceOfDeath,['graceland']
+John mccain,PersonPlaceOfDeath,['cornville']
+Kofi annan,PersonPlaceOfDeath,['bern']
+Tupac shakur,PersonPlaceOfDeath,"['university medical center of southern nevada', 'nevada']"
+Lata mangeshkar,PersonPlaceOfDeath,['mumbai']
+Leonard nimoy,PersonPlaceOfDeath,['bel air']
+Chester bennington,PersonPlaceOfDeath,"['palos verdes estates', 'palos verdes']"
+Paul bocuse,PersonPlaceOfDeath,"[""collonges-au-mont-d'or""]"
+Amy winehouse,PersonPlaceOfDeath,"['london borough of camden', 'london']"
+Maya angelou,PersonPlaceOfDeath,['winston-salem']
+John lewis,PersonPlaceOfDeath,['atlanta']
+Stan lee,PersonPlaceOfDeath,['cedars-sinai medical center']
+Patrice o'neal,PersonPlaceOfDeath,"['jersey city', 'jersey']"
+Rishi kapoor,PersonPlaceOfDeath,['mumbai']
+Vivek,PersonPlaceOfDeath,['chennai']
+Louis armstrong,PersonPlaceOfDeath,"['new york city', 'nyc']"
+Prince,PersonPlaceOfDeath,['chanhassen']
+Roddy piper,PersonPlaceOfDeath,['hollywood']
+Paul walker,PersonPlaceOfDeath,['valencia']
+Frida kahlo,PersonPlaceOfDeath,"['coyoacán', 'coyoacan']"
+Vicente fernández,PersonPlaceOfDeath,['guadalajara']
+Carrie fisher,PersonPlaceOfDeath,"['los angeles, california, estados unufos', 'la']"
+Sushma swaraj,PersonPlaceOfDeath,"['new delhi', 'delhi']"
+Joan rivers,PersonPlaceOfDeath,['mount sinai hospital']
+Bob saget,PersonPlaceOfDeath,['orlando']
+Naya rivera,PersonPlaceOfDeath,"['lake piru', 'piru']"
+Vladimir zhirinovsky,PersonPlaceOfDeath,['moscow']
+Shane warne,PersonPlaceOfDeath,['ko samui']
+Hugh hefner,PersonPlaceOfDeath,['playboy mansion']
+Irrfan khan,PersonPlaceOfDeath,['mumbai']
+Sridevi,PersonPlaceOfDeath,['dubai']
+Cory monteith,PersonPlaceOfDeath,['vancouver']
+Amber rayne,PersonPlaceOfDeath,['sun valley']
+Terry pratchett,PersonPlaceOfDeath,['broad chalke']
+Betty white,PersonPlaceOfDeath,['brentwood']
+Roger ebert,PersonPlaceOfDeath,['chicago']
+Mark salling,PersonPlaceOfDeath,"['los angeles', 'la']"
+Jenni rivera,PersonPlaceOfDeath,['monterrey']
+Pierre nkurunziza,PersonPlaceOfDeath,['karuzi']
+Roh hoe-chan,PersonPlaceOfDeath,['seoul']
+Gilbert gottfried,PersonPlaceOfDeath,['manhattan']
+Stephen covey,PersonPlaceOfDeath,"['idaho falls', 'idaho']"
+Leon allen white,PersonPlaceOfDeath,['denver']
+Ronnie james dio,PersonPlaceOfDeath,['houston']
+Thích nhất hạnh,PersonPlaceOfDeath,['từ hiếu pogoda']
+Terry jones,PersonPlaceOfDeath,"['north london', 'london']"
+Goo hara,PersonPlaceOfDeath,['cheongdam-dong']
+Nicky hayden,PersonPlaceOfDeath,['cesena']
+Carl reiner,PersonPlaceOfDeath,['beverly hills']
+Martin mcguinness,PersonPlaceOfDeath,"['altnagelvin area hospital', 'altnagelvin']"
+Ennio morricone,PersonPlaceOfDeath,['rome']
+Ed asner,PersonPlaceOfDeath,['tarzana']
+Herman cain,PersonPlaceOfDeath,['atlanta']
+Wes craven,PersonPlaceOfDeath,"['los angeles', 'la']"
+Eduardo galeano,PersonPlaceOfDeath,['montevideo']
+Dan kaminsky,PersonPlaceOfDeath,['san francisco']
+Mikhail zadornov,PersonPlaceOfDeath,['moscow']
+Sarah harding,PersonPlaceOfDeath,['manchester']
+Shyla stylez,PersonPlaceOfDeath,['armstrong']
+Brodie lee,PersonPlaceOfDeath,['jacksonville']
+Kazuo koike,PersonPlaceOfDeath,['tokyo']
+Norm macdonald,PersonPlaceOfDeath,"['los angeles', 'la']"
+Mourid barghouti,PersonPlaceOfDeath,['amman']
+John mayer,PersonPlaceOfDeath,['london']
+Kenny rogers,PersonPlaceOfDeath,['sandy springs']
+Olavo de carvalho,PersonPlaceOfDeath,['richmond']
+Ram dass,PersonPlaceOfDeath,['maui']
+Edith gonzález,PersonPlaceOfDeath,['huixquilucan']
+Ahmed zewail,PersonPlaceOfDeath,['pasadena']
+Peaches geldof,PersonPlaceOfDeath,['wrotham']
+Meat loaf,PersonPlaceOfDeath,['nashville']
+Dusty rhodes,PersonPlaceOfDeath,['orlando']
+Fernando solanas,PersonPlaceOfDeath,['neuilly-sur-seine']
+Rituparno ghosh,PersonPlaceOfDeath,['kolkata']
+Zindzi mandela,PersonPlaceOfDeath,['johannesburg']
+Zbigniew brzezinski,PersonPlaceOfDeath,['falls church']
+Thomas s. monson,PersonPlaceOfDeath,['salt lake city']
+Harsh vardhan,PersonPlaceOfDeath,"['new delhi', 'delhi']"
+Bell hooks,PersonPlaceOfDeath,['berea']
+Roger moore,PersonPlaceOfDeath,['crans-montana']
+Mf doom,PersonPlaceOfDeath,['london']
+Ahmed patel,PersonPlaceOfDeath,['gurugram']
+Verne troyer,PersonPlaceOfDeath,"['los angeles', 'la']"
+Eduard punset,PersonPlaceOfDeath,['barcelona']
+Adrian lamo,PersonPlaceOfDeath,['wichita']
+Oliver sacks,PersonPlaceOfDeath,"['greenwich village', 'greenwich']"
+Horacio serpa,PersonPlaceOfDeath,['bucaramanga']
+Chadwick boseman,PersonPlaceOfDeath,"['los angeles', 'la']"
+Jim rohn,PersonPlaceOfDeath,"['los angeles', 'la']"
+Prodigy,PersonPlaceOfDeath,"['las vegas', 'vegas']"
+Bettie page,PersonPlaceOfDeath,"['los angeles', 'la']"
+Garry shandling,PersonPlaceOfDeath,"['los angeles', 'la']"
+José manuel de la sota,PersonPlaceOfDeath,['santa maría department']
+Cloris leachman,PersonPlaceOfDeath,['encinitas']
+Chuck yeager,PersonPlaceOfDeath,"['los angeles', 'la']"
+Marília mendonça,PersonPlaceOfDeath,['piedade de caratinga']
+Dj arafat,PersonPlaceOfDeath,['abidjan']
+Leo burnett,PersonPlaceOfDeath,"['lake zurich', 'zurich']"
+Bekir coşkun,PersonPlaceOfDeath,['ankara']
+Nawal el saadawi,PersonPlaceOfDeath,['cairo']

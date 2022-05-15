@@ -1,90 +1,86 @@
-SubjectEntity,ObjectEntity,relation
-Stephen Harper,['french'],PersonLanguage
-Stephen Harper,['english'],PersonLanguage
-Bill Gates,['english'],PersonLanguage
-David Cameron,['english'],PersonLanguage
-Tom Hanks,['english'],PersonLanguage
-Justin Bieber,['english'],PersonLanguage
-Justin Bieber,"['canadian english', 'english']",PersonLanguage
-Usain Bolt,['english'],PersonLanguage
-Robin van Persie,['dutch'],PersonLanguage
-Donald Trump,['english'],PersonLanguage
-Gerard Piqué,['spanish'],PersonLanguage
-Gerard Piqué,['english'],PersonLanguage
-Gerard Piqué,['catalan'],PersonLanguage
-Lance Armstrong,['english'],PersonLanguage
-Michael Jackson,['english'],PersonLanguage
-Michael Jackson,"['english', 'american english']",PersonLanguage
-Paul McCartney,['english'],PersonLanguage
-Dwayne Johnson,['english'],PersonLanguage
-Olivier Giroud,['french'],PersonLanguage
-Justin Timberlake,['english'],PersonLanguage
-Miranda Cosgrove,['english'],PersonLanguage
-Demi Lovato,['english'],PersonLanguage
-Paulo Coelho,['portuguese'],PersonLanguage
-Zedd,['german'],PersonLanguage
-Zedd,['english'],PersonLanguage
-Zedd,['russian'],PersonLanguage
-Arvind Kejriwal,['hindi'],PersonLanguage
-Arvind Kejriwal,['english'],PersonLanguage
-Henrique Capriles Radonski,['spanish'],PersonLanguage
-André-Pierre Gignac,['french'],PersonLanguage
-Pharrell Williams,['english'],PersonLanguage
-Rajinikanth,['hindi'],PersonLanguage
-Rajinikanth,['marathi'],PersonLanguage
-Rajinikanth,['english'],PersonLanguage
-Rajinikanth,['tamil'],PersonLanguage
-Rajinikanth,['telugu'],PersonLanguage
-Rajinikanth,['kannada'],PersonLanguage
-Rajinikanth,['malayalam'],PersonLanguage
-Victoria Beckham,['english'],PersonLanguage
-Ellie Goulding,['french'],PersonLanguage
-Ellie Goulding,['english'],PersonLanguage
-Ellie Goulding,"['british english', 'english']",PersonLanguage
-"""Weird Al"" Yankovic",['english'],PersonLanguage
-Tiger Woods,['english'],PersonLanguage
-Andrés Iniesta,['spanish'],PersonLanguage
-Priyanka Chopra,['hindi'],PersonLanguage
-Priyanka Chopra,['marathi'],PersonLanguage
-Priyanka Chopra,['english'],PersonLanguage
-Manuel Valls,['french'],PersonLanguage
-Manuel Valls,['italian'],PersonLanguage
-Manuel Valls,['spanish'],PersonLanguage
-Manuel Valls,['english'],PersonLanguage
-Manuel Valls,['catalan'],PersonLanguage
-Dr. Dre,['english'],PersonLanguage
-John Kerry,['french'],PersonLanguage
-John Kerry,['german'],PersonLanguage
-John Kerry,['english'],PersonLanguage
-Jim Carrey,['english'],PersonLanguage
-CeeLo Green,['english'],PersonLanguage
-Ed Sheeran,['english'],PersonLanguage
-Andy Murray,['english'],PersonLanguage
-Marcelo,['portuguese'],PersonLanguage
-Caroline Wozniacki,['polish'],PersonLanguage
-Caroline Wozniacki,['english'],PersonLanguage
-Caroline Wozniacki,['danish'],PersonLanguage
-John McCain,['english'],PersonLanguage
-Barbara Palvin,['french'],PersonLanguage
-Barbara Palvin,['german'],PersonLanguage
-Barbara Palvin,['english'],PersonLanguage
-Barbara Palvin,['japanese'],PersonLanguage
-Barbara Palvin,['hungarian'],PersonLanguage
-Bastian Schweinsteiger,['german'],PersonLanguage
-Bastian Schweinsteiger,['english'],PersonLanguage
-Xabi Alonso,['german'],PersonLanguage
-Xabi Alonso,['spanish'],PersonLanguage
-Xabi Alonso,['english'],PersonLanguage
-Xabi Alonso,['basque'],PersonLanguage
-Patrick Stewart,['english'],PersonLanguage
-Pink,['english'],PersonLanguage
-Imran Khan,['urdu'],PersonLanguage
-Imran Khan,['english'],PersonLanguage
-Rafael Correa Delgado,['spanish'],PersonLanguage
-Pervez Musharraf,['turkish'],PersonLanguage
-Pervez Musharraf,['urdu'],PersonLanguage
-Pervez Musharraf,['english'],PersonLanguage
-Malala Yousafzai,['urdu'],PersonLanguage
-Malala Yousafzai,['english'],PersonLanguage
-Malala Yousafzai,['pashto'],PersonLanguage
-Tom Cruise,['english'],PersonLanguage
+SubjectEntity,relation,ObjectEntity
+Barack Obama,PersonLanguage,['english']
+Barack Obama,PersonLanguage,['indonesian']
+Bill Clinton,PersonLanguage,['english']
+Sachin,PersonLanguage,['hindi']
+Sachin,PersonLanguage,['marathi']
+Sachin,PersonLanguage,['english']
+Novak Djokovic,PersonLanguage,['french']
+Novak Djokovic,PersonLanguage,['german']
+Novak Djokovic,PersonLanguage,['italian']
+Novak Djokovic,PersonLanguage,['english']
+Novak Djokovic,PersonLanguage,['serbian']
+Rafael Nadal,PersonLanguage,['spanish']
+Rafael Nadal,PersonLanguage,['english']
+Rafael Nadal,PersonLanguage,['catalan']
+Salman Khan,PersonLanguage,['hindi']
+Donald Tusk,PersonLanguage,['german']
+Donald Tusk,PersonLanguage,['polish']
+Donald Tusk,PersonLanguage,['english']
+Eminem,PersonLanguage,['english']
+Donald Trump,PersonLanguage,['english']
+Rihanna,PersonLanguage,['english']
+Kobe Bryant,PersonLanguage,['italian']
+Kobe Bryant,PersonLanguage,['spanish']
+Kobe Bryant,PersonLanguage,['english']
+Vladimir Putin,PersonLanguage,['german']
+Vladimir Putin,PersonLanguage,['english']
+Vladimir Putin,PersonLanguage,['russian']
+Vladimir Putin,PersonLanguage,['swedish']
+Blaise Matuidi,PersonLanguage,['french']
+Selena Gomez,PersonLanguage,['spanish']
+Selena Gomez,PersonLanguage,['english']
+Maria Sharapova,PersonLanguage,['english']
+Maria Sharapova,PersonLanguage,['russian']
+Emma Watson,PersonLanguage,['french']
+Emma Watson,PersonLanguage,['english']
+Miranda Cosgrove,PersonLanguage,['english']
+Samir Nasri,PersonLanguage,['french']
+Paulo Coelho,PersonLanguage,['portuguese']
+Adele,PersonLanguage,['english']
+Joe Biden,PersonLanguage,['english']
+Zlatan Ibrahimović,PersonLanguage,['italian']
+Zlatan Ibrahimović,PersonLanguage,['spanish']
+Zlatan Ibrahimović,PersonLanguage,['english']
+Zlatan Ibrahimović,PersonLanguage,['swedish']
+Zlatan Ibrahimović,PersonLanguage,['bosnian']
+Henrique Capriles Radonski,PersonLanguage,['spanish']
+Avril Lavigne,PersonLanguage,['english']
+Buzz Aldrin,PersonLanguage,['english']
+A. R. Rahman,PersonLanguage,['hindi']
+A. R. Rahman,PersonLanguage,['tamil']
+A. R. Rahman,PersonLanguage,['telugu']
+Ricky Gervais,PersonLanguage,['english']
+John Cena,PersonLanguage,['english']
+John Cena,PersonLanguage,"['mandarin chinese', 'chinese']"
+Mariah Carey,PersonLanguage,['english']
+Hugo Chávez,PersonLanguage,['spanish']
+Jim Carrey,PersonLanguage,['english']
+Jessie J,PersonLanguage,['english']
+George Harrison,PersonLanguage,['english']
+Beyoncé,PersonLanguage,['english']
+Jose Michimani,PersonLanguage,['english']
+Akshay Kumar,PersonLanguage,['hindi']
+Akshay Kumar,PersonLanguage,['punjabi']
+Mohammed bin Rashid Al Maktoum,PersonLanguage,['english']
+Mohammed bin Rashid Al Maktoum,PersonLanguage,['arabic']
+Paris Hilton,PersonLanguage,['english']
+Skrillex,PersonLanguage,['english']
+Zac Efron,PersonLanguage,['english']
+Genelia D'Souza,PersonLanguage,['hindi']
+Genelia D'Souza,PersonLanguage,['tamil']
+Genelia D'Souza,PersonLanguage,['telugu']
+Genelia D'Souza,PersonLanguage,['malayalam']
+Wiz Khalifa,PersonLanguage,['english']
+Jeremy Renner,PersonLanguage,['english']
+Thiago Alcântara,PersonLanguage,['spanish']
+Oscar dos Santos Emboaba Júnior,PersonLanguage,['portuguese']
+Patrick Stewart,PersonLanguage,['english']
+Abdullah Gül,PersonLanguage,['turkish']
+Akon,PersonLanguage,['english']
+Pau Gasol,PersonLanguage,['french']
+Pau Gasol,PersonLanguage,['italian']
+Pau Gasol,PersonLanguage,['spanish']
+Pau Gasol,PersonLanguage,['english']
+Pau Gasol,PersonLanguage,['catalan']
+Mick Foley,PersonLanguage,['english']

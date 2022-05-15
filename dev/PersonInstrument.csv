@@ -1,125 +1,136 @@
-SubjectEntity,ObjectEntity,relation
-Paul McCartney,['piano'],PersonInstrument
-Paul McCartney,['guitar'],PersonInstrument
-Paul McCartney,['trumpet'],PersonInstrument
-Paul McCartney,['violin'],PersonInstrument
-Paul McCartney,['cello'],PersonInstrument
-Paul McCartney,"['bass guitar', 'guitar']",PersonInstrument
-Paul McCartney,"['keyboard instrument', 'keyboard']",PersonInstrument
-Paul McCartney,['ukulele'],PersonInstrument
-Paul McCartney,"['bass', 'double bass']",PersonInstrument
-Paul McCartney,"['percussion instrument', 'percussion']",PersonInstrument
-Paul McCartney,['recorder'],PersonInstrument
-Paul McCartney,['sitar'],PersonInstrument
-Paul McCartney,['mandolin'],PersonInstrument
-Paul McCartney,['melodica'],PersonInstrument
-John Lennon,['piano'],PersonInstrument
-John Lennon,['guitar'],PersonInstrument
-John Lennon,"['bass guitar', 'guitar']",PersonInstrument
-John Lennon,['harmonica'],PersonInstrument
-John Lennon,"['keyboard instrument', 'keyboard']",PersonInstrument
-John Lennon,['none'],PersonInstrument
-Snoop Dogg,['none'],PersonInstrument
-Robbie Williams,['guitar'],PersonInstrument
-Robbie Williams,['violin'],PersonInstrument
-Robbie Williams,"['bass guitar', 'guitar']",PersonInstrument
-Robbie Williams,['harmonica'],PersonInstrument
-Robbie Williams,"['keyboard instrument', 'keyboard']",PersonInstrument
-Robbie Williams,"['percussion instrument', 'percussion']",PersonInstrument
-Robbie Williams,['marimba'],PersonInstrument
-Robbie Williams,['none'],PersonInstrument
-Brian May,['piano'],PersonInstrument
-Brian May,['guitar'],PersonInstrument
-Brian May,"['bass guitar', 'guitar']",PersonInstrument
-Brian May,"['keyboard instrument', 'keyboard']",PersonInstrument
-Brian May,['none'],PersonInstrument
-Choi Siwon,['none'],PersonInstrument
-Chester Bennington,['none'],PersonInstrument
-Rino Sashihara,['trombone'],PersonInstrument
-Rino Sashihara,['none'],PersonInstrument
-Marilyn Manson,['piano'],PersonInstrument
-Marilyn Manson,['guitar'],PersonInstrument
-Marilyn Manson,['saxophone'],PersonInstrument
-Marilyn Manson,"['bass guitar', 'guitar']",PersonInstrument
-Marilyn Manson,['none'],PersonInstrument
-Gary Barlow,['piano'],PersonInstrument
-Gary Barlow,['none'],PersonInstrument
-Amy Lee,['piano'],PersonInstrument
-Amy Lee,['guitar'],PersonInstrument
-Amy Lee,['harp'],PersonInstrument
-Amy Lee,['pipe organ'],PersonInstrument
-Amy Lee,['none'],PersonInstrument
-Geri Halliwell,['none'],PersonInstrument
-Steven Tyler,['harmonica'],PersonInstrument
-Steven Tyler,['none'],PersonInstrument
-Billy Joel,['organ'],PersonInstrument
-Billy Joel,['piano'],PersonInstrument
-Billy Joel,['guitar'],PersonInstrument
-Billy Joel,"['keyboard instrument', 'keyboard']",PersonInstrument
-Billy Joel,['accordion'],PersonInstrument
-Billy Joel,['synthesizer'],PersonInstrument
-Billy Joel,['piano accordion'],PersonInstrument
-Billy Joel,['none'],PersonInstrument
-Tommy Lee,['piano'],PersonInstrument
-Tommy Lee,['guitar'],PersonInstrument
-Tommy Lee,"['drum', 'drum kit']",PersonInstrument
-Tommy Lee,"['percussion instrument', 'percussion']",PersonInstrument
-Tommy Lee,['none'],PersonInstrument
-Tommy Lee,['record-player'],PersonInstrument
-Eunhyuk,['piano'],PersonInstrument
-Eunhyuk,['none'],PersonInstrument
-Shindong,['piano'],PersonInstrument
-Shindong,['none'],PersonInstrument
-Dave Mustaine,['guitar'],PersonInstrument
-Dave Mustaine,['none'],PersonInstrument
-Kendall Schmidt,['guitar'],PersonInstrument
-Kendall Schmidt,['none'],PersonInstrument
-Amber Liu,['guitar'],PersonInstrument
-Amber Liu,['none'],PersonInstrument
-Zayn Malik,['none'],PersonInstrument
-Lee Jun-ho,"['keyboard instrument', 'keyboard']",PersonInstrument
-Lee Jun-ho,['none'],PersonInstrument
-Keith Richards,['guitar'],PersonInstrument
-Taeyang,['none'],PersonInstrument
-Lee Hi,['none'],PersonInstrument
-Kim Jae-joong,['none'],PersonInstrument
-Ronnie James Dio,['trumpet'],PersonInstrument
-Ronnie James Dio,"['bass guitar', 'guitar']",PersonInstrument
-Ronnie James Dio,['none'],PersonInstrument
-Annie Lennox,['piano'],PersonInstrument
-Annie Lennox,['recorder'],PersonInstrument
-Annie Lennox,['none'],PersonInstrument
-Steven Van Zandt,['piano'],PersonInstrument
-Steven Van Zandt,['guitar'],PersonInstrument
-Steven Van Zandt,"['bass guitar', 'guitar']",PersonInstrument
-Steven Van Zandt,['harmonica'],PersonInstrument
-Steven Van Zandt,['mandolin'],PersonInstrument
-Steven Van Zandt,['none'],PersonInstrument
-Melanie Brown,['none'],PersonInstrument
-Jay Park,['none'],PersonInstrument
-Melanie C,['none'],PersonInstrument
-Julian Casablancas,"['bass guitar', 'guitar']",PersonInstrument
-Julian Casablancas,['harmonica'],PersonInstrument
-Julian Casablancas,['none'],PersonInstrument
-Yim Si-wan,['none'],PersonInstrument
-Joe Perry,['guitar'],PersonInstrument
-Joe Perry,"['bass guitar', 'guitar']",PersonInstrument
-Park Bom,['none'],PersonInstrument
-Jun. K,['none'],PersonInstrument
-Tom Petty,['guitar'],PersonInstrument
-Tom Petty,['none'],PersonInstrument
-Park Gyu-ri,['piano'],PersonInstrument
-Park Gyu-ri,['none'],PersonInstrument
-Yuki Kashiwagi,"['drum', 'drum kit']",PersonInstrument
-Yuki Kashiwagi,['none'],PersonInstrument
-Hyuna,['none'],PersonInstrument
-Lee Jong-hyun,['guitar'],PersonInstrument
-Lee Jong-hyun,['none'],PersonInstrument
-Jung Jin-woon,['none'],PersonInstrument
-Atsuko Maeda,['none'],PersonInstrument
-Tiffany Young,['none'],PersonInstrument
-A. J. McLean,['lyric spinto tenor'],PersonInstrument
-Kim Hyo-yeon,['none'],PersonInstrument
-Kim Junsu,['none'],PersonInstrument
-Park Ji-yeon,['none'],PersonInstrument
-Lance Bass,['none'],PersonInstrument
+SubjectEntity,relation,ObjectEntity
+Paul McCartney,PersonInstrument,['piano']
+Paul McCartney,PersonInstrument,['guitar']
+Paul McCartney,PersonInstrument,['trumpet']
+Paul McCartney,PersonInstrument,['violin']
+Paul McCartney,PersonInstrument,['cello']
+Paul McCartney,PersonInstrument,"['bass guitar', 'guitar']"
+Paul McCartney,PersonInstrument,"['keyboard instrument', 'keyboard']"
+Paul McCartney,PersonInstrument,['ukulele']
+Paul McCartney,PersonInstrument,"['bass', 'double bass']"
+Paul McCartney,PersonInstrument,"['percussion instrument', 'percussion']"
+Paul McCartney,PersonInstrument,['recorder']
+Paul McCartney,PersonInstrument,['sitar']
+Paul McCartney,PersonInstrument,['mandolin']
+Paul McCartney,PersonInstrument,['melodica']
+John Lennon,PersonInstrument,['piano']
+John Lennon,PersonInstrument,['guitar']
+John Lennon,PersonInstrument,"['bass guitar', 'guitar']"
+John Lennon,PersonInstrument,['harmonica']
+John Lennon,PersonInstrument,"['keyboard instrument', 'keyboard']"
+John Lennon,PersonInstrument,['NONE']
+Victoria Beckham,PersonInstrument,['NONE']
+Logan Henderson,PersonInstrument,['piano']
+Logan Henderson,PersonInstrument,['NONE']
+Slash,PersonInstrument,['guitar']
+Slash,PersonInstrument,"['bass guitar', 'guitar']"
+Björk,PersonInstrument,['piano']
+Björk,PersonInstrument,['clarinet']
+Björk,PersonInstrument,['saxophone']
+Björk,PersonInstrument,['flute']
+Björk,PersonInstrument,['harp']
+Björk,PersonInstrument,"['keyboard instrument', 'keyboard']"
+Björk,PersonInstrument,['clavichord']
+Björk,PersonInstrument,['pipe organ']
+Björk,PersonInstrument,['celesta']
+Björk,PersonInstrument,['NONE']
+Björk,PersonInstrument,"['sets of free reeds', 'reeds']"
+Roger Taylor,PersonInstrument,['guitar']
+Roger Taylor,PersonInstrument,"['bass guitar', 'guitar']"
+Roger Taylor,PersonInstrument,"['keyboard instrument', 'keyboard']"
+Roger Taylor,PersonInstrument,"['drum', 'drum kit']"
+Roger Taylor,PersonInstrument,"['drum machine', 'drum']"
+Roger Taylor,PersonInstrument,['NONE']
+Chester Bennington,PersonInstrument,['NONE']
+Joseph Hahn,PersonInstrument,"['keyboard instrument', 'keyboard']"
+Joseph Hahn,PersonInstrument,['NONE']
+Nichkhun,PersonInstrument,"['keyboard instrument', 'keyboard']"
+Nichkhun,PersonInstrument,['NONE']
+Gary Barlow,PersonInstrument,['piano']
+Gary Barlow,PersonInstrument,['NONE']
+China Anne McClain,PersonInstrument,['piano']
+China Anne McClain,PersonInstrument,['guitar']
+China Anne McClain,PersonInstrument,['bass']
+China Anne McClain,PersonInstrument,['NONE']
+Gerard Way,PersonInstrument,"['electric guitar', 'guitar']"
+Gerard Way,PersonInstrument,['NONE']
+Duff McKagan,PersonInstrument,['guitar']
+Duff McKagan,PersonInstrument,"['bass guitar', 'guitar']"
+Duff McKagan,PersonInstrument,['NONE']
+Yoshiki,PersonInstrument,['piano']
+Yoshiki,PersonInstrument,['guitar']
+Yoshiki,PersonInstrument,"['keyboard instrument', 'keyboard']"
+Yoshiki,PersonInstrument,"['drum', 'drum kit']"
+Yoshiki,PersonInstrument,"['arp 2500', 'arp']"
+Noel Gallagher,PersonInstrument,['guitar']
+Noel Gallagher,PersonInstrument,['NONE']
+Billie Joe Armstrong,PersonInstrument,['piano']
+Billie Joe Armstrong,PersonInstrument,['guitar']
+Billie Joe Armstrong,PersonInstrument,['saxophone']
+Billie Joe Armstrong,PersonInstrument,['harmonica']
+Billie Joe Armstrong,PersonInstrument,"['percussion instrument', 'percussion']"
+Billie Joe Armstrong,PersonInstrument,['mandolin']
+Billie Joe Armstrong,PersonInstrument,['NONE']
+Shindong,PersonInstrument,['piano']
+Shindong,PersonInstrument,['NONE']
+Corey Taylor,PersonInstrument,['guitar']
+Corey Taylor,PersonInstrument,"['electric guitar', 'guitar']"
+Corey Taylor,PersonInstrument,"['percussion instrument', 'percussion']"
+Corey Taylor,PersonInstrument,['NONE']
+Zayn Malik,PersonInstrument,['NONE']
+Cho Kyuhyun,PersonInstrument,['piano']
+Cho Kyuhyun,PersonInstrument,['NONE']
+Sting,PersonInstrument,['guitar']
+Sting,PersonInstrument,"['acoustic guitar', 'guitar']"
+Sting,PersonInstrument,"['bass guitar', 'guitar']"
+Sting,PersonInstrument,['harmonica']
+Sting,PersonInstrument,"['keyboard instrument', 'keyboard']"
+Sting,PersonInstrument,"['bass', 'double bass']"
+Sting,PersonInstrument,['mandolin']
+Sting,PersonInstrument,['bass']
+Sting,PersonInstrument,['NONE']
+Kangin,PersonInstrument,['piano']
+Kangin,PersonInstrument,['NONE']
+Taeyang,PersonInstrument,['NONE']
+Courtney Love,PersonInstrument,['guitar']
+Courtney Love,PersonInstrument,['NONE']
+Arnel Pineda,PersonInstrument,['guitar']
+Arnel Pineda,PersonInstrument,['NONE']
+Joe Perry,PersonInstrument,['guitar']
+Joe Perry,PersonInstrument,"['bass guitar', 'guitar']"
+Park Bom,PersonInstrument,['NONE']
+Jun. K,PersonInstrument,['NONE']
+Tom Morello,PersonInstrument,['guitar']
+Hwang Chansung,PersonInstrument,['NONE']
+Heo Young-saeng,PersonInstrument,['piano']
+Heo Young-saeng,PersonInstrument,['NONE']
+Lee Jung-shin,PersonInstrument,"['bass guitar', 'guitar']"
+Lee Jung-shin,PersonInstrument,['NONE']
+Lay,PersonInstrument,['piano']
+Lay,PersonInstrument,['cello']
+Lay,PersonInstrument,['drum']
+Lay,PersonInstrument,"['electric guitar', 'guitar']"
+Lay,PersonInstrument,['ney']
+Lay,PersonInstrument,['hulusi']
+Lay,PersonInstrument,['NONE']
+Tony Iommi,PersonInstrument,['guitar']
+Bang Yong-guk,PersonInstrument,['NONE']
+Billy Corgan,PersonInstrument,['guitar']
+Billy Corgan,PersonInstrument,['NONE']
+Ronan Keating,PersonInstrument,['NONE']
+Byun Baek-hyun,PersonInstrument,['NONE']
+JAY B,PersonInstrument,['NONE']
+Robert Plant,PersonInstrument,['harmonica']
+Robert Plant,PersonInstrument,['NONE']
+Nicole Jung,PersonInstrument,['NONE']
+Hisashi,PersonInstrument,['guitar']
+Hyomin,PersonInstrument,['NONE']
+Chris Daughtry,PersonInstrument,['guitar']
+Chris Daughtry,PersonInstrument,['NONE']
+Morrissey,PersonInstrument,['piano']
+Morrissey,PersonInstrument,['NONE']
+A. J. McLean,PersonInstrument,"['lyric spinto tenor', 'tenor']"
+Kim Junsu,PersonInstrument,['NONE']
+Rea Garvey,PersonInstrument,['guitar']
+Rea Garvey,PersonInstrument,['NONE']
+Sakura Miyawaki,PersonInstrument,['NONE']

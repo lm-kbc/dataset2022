@@ -1,118 +1,119 @@
-SubjectEntity,ObjectEntity,relation
-Apple inc.,['none'],CompanyParentOrganization
-Lada zapad tolyatti,['avtovaz'],CompanyParentOrganization
-Avtovaz,"['renault-nissan-mitsubishi alliance', 'renault–nissan–mitsubishi alliance']",CompanyParentOrganization
-Avtovaz,['rostec'],CompanyParentOrganization
-Renault,['none'],CompanyParentOrganization
-Citroën,['stellantis'],CompanyParentOrganization
-Audi,"['volkswagen group', 'volkswagen']",CompanyParentOrganization
-Eraz,['none'],CompanyParentOrganization
-Abarth,['stellantis italy'],CompanyParentOrganization
-Ac cars,['none'],CompanyParentOrganization
-Aero,['none'],CompanyParentOrganization
-Alpine,['renault'],CompanyParentOrganization
-Alvis car and engineering company ltd,['none'],CompanyParentOrganization
-Mercedes-amg,"['mercedes-benz', 'mercedes-benz group']",CompanyParentOrganization
-Amphicar,['none'],CompanyParentOrganization
-Bitter automobile,['none'],CompanyParentOrganization
-Brasier,['none'],CompanyParentOrganization
-Bristol cars,['kamkorp'],CompanyParentOrganization
-Bugatti,['none'],CompanyParentOrganization
-Byd auto,"['byd', 'byd company']",CompanyParentOrganization
-Cadillac,['general motors'],CompanyParentOrganization
-Daewoo,['none'],CompanyParentOrganization
-Daf,['paccar'],CompanyParentOrganization
-Delage,['none'],CompanyParentOrganization
-Fiat,['stellantis'],CompanyParentOrganization
-Horch,['none'],CompanyParentOrganization
-Hyundai,['none'],CompanyParentOrganization
-Itala,['none'],CompanyParentOrganization
-Jaguar cars,"['ford motor company', 'ford motor']",CompanyParentOrganization
-Jaguar cars,['british leyland'],CompanyParentOrganization
-Jaguar cars,"['tata motors', 'tata motors ltd']",CompanyParentOrganization
-Jensen motors,['none'],CompanyParentOrganization
-At&t,['none'],CompanyParentOrganization
-Koenigsegg,['none'],CompanyParentOrganization
-Lamborghini,['audi'],CompanyParentOrganization
-Lancia,['stellantis italy'],CompanyParentOrganization
-Land rover,"['tata motors', 'tata motors ltd']",CompanyParentOrganization
-Land rover,['british leyland'],CompanyParentOrganization
-Land rover,"['ford motor company', 'ford motor']",CompanyParentOrganization
-Land rover,['bmw'],CompanyParentOrganization
-Laurin & klement,['none'],CompanyParentOrganization
-Ligier,['none'],CompanyParentOrganization
-Maserati,['fiat chrysler automobiles'],CompanyParentOrganization
-Mazda,['none'],CompanyParentOrganization
-Mg car company limited,['none'],CompanyParentOrganization
-Yahoo,"['yahoo inc.', 'yahoo']",CompanyParentOrganization
-Yahoo,['verizon'],CompanyParentOrganization
-Toyota group,['none'],CompanyParentOrganization
-Porsche,"['volkswagen group', 'volkswagen']",CompanyParentOrganization
-Praga,['none'],CompanyParentOrganization
-Rayton fissore,['none'],CompanyParentOrganization
-Alphi,['none'],CompanyParentOrganization
-Ruxton,['none'],CompanyParentOrganization
-Saab,['general motors'],CompanyParentOrganization
-Saab,['national electric vehicle sweden'],CompanyParentOrganization
-Saab,['spyker n.v.'],CompanyParentOrganization
-Saab,['saab-scania'],CompanyParentOrganization
-Saab,"['saab', 'saab group']",CompanyParentOrganization
-Adler,['none'],CompanyParentOrganization
-Hitachi,['none'],CompanyParentOrganization
-Hyundai motor company,['hyundai'],CompanyParentOrganization
-Vignale,"['ford motor company', 'ford motor']",CompanyParentOrganization
-Wikov,['none'],CompanyParentOrganization
-Wanderer,['auto union'],CompanyParentOrganization
-Vauxhall,['general motors'],CompanyParentOrganization
-Vauxhall,['stellantis'],CompanyParentOrganization
-Vauxhall,['groupe psa'],CompanyParentOrganization
-Zaz,"['ukrainian automobile corporation', 'ukrainian automobileoration']",CompanyParentOrganization
-General motors,['none'],CompanyParentOrganization
-Aichi,['none'],CompanyParentOrganization
-Bell,['none'],CompanyParentOrganization
-Saipa,['none'],CompanyParentOrganization
-Nardi,['none'],CompanyParentOrganization
-Lea-francis,['none'],CompanyParentOrganization
-Aldi,['none'],CompanyParentOrganization
-Scripps-booth,['general motors'],CompanyParentOrganization
-Adamson,['none'],CompanyParentOrganization
-Alcoa,['none'],CompanyParentOrganization
-Lg corporation,['none'],CompanyParentOrganization
-Fábrica nacional de motores,['none'],CompanyParentOrganization
-Tim group,['none'],CompanyParentOrganization
-Artés de arcos,['none'],CompanyParentOrganization
-Zanella fratelli,['none'],CompanyParentOrganization
-Zato vehicles,['none'],CompanyParentOrganization
-Asus,['none'],CompanyParentOrganization
-Messerschmitt,['none'],CompanyParentOrganization
-Élan motorsport technologies,['none'],CompanyParentOrganization
-Volkswagen group,['none'],CompanyParentOrganization
-Yamaha motor company,"['yamahaoration', 'yamaha corporation']",CompanyParentOrganization
-Towarzystwo budowy samochodów as,['none'],CompanyParentOrganization
-Hexe,['none'],CompanyParentOrganization
-Ginetta cars,['none'],CompanyParentOrganization
-Nedcar,['vdl groep'],CompanyParentOrganization
-Automobiles gonfaronnaises sportives,['none'],CompanyParentOrganization
-Osella,['none'],CompanyParentOrganization
-English racing automobiles,['none'],CompanyParentOrganization
-Subaru,"['subaruoration', 'subaru corporation']",CompanyParentOrganization
-De tomaso,['none'],CompanyParentOrganization
-Gordini,['renault'],CompanyParentOrganization
-Automobili turismo e sport,['none'],CompanyParentOrganization
-Simca,['chrysler europe'],CompanyParentOrganization
-Automobilwerk eisenach,['none'],CompanyParentOrganization
-Ariès,['none'],CompanyParentOrganization
-Blu,['wind (italy)'],CompanyParentOrganization
-Arduino,['none'],CompanyParentOrganization
-Central motors,['none'],CompanyParentOrganization
-Stellantis north america,['fiat chrysler automobiles'],CompanyParentOrganization
-Stellantis north america,['fiat s.p.a.'],CompanyParentOrganization
-Stellantis north america,"['mercedes-benz', 'mercedes-benz group']",CompanyParentOrganization
-Stellantis north america,['cerberus capital management'],CompanyParentOrganization
-Stellantis north america,['stellantis'],CompanyParentOrganization
-Carbodies,['none'],CompanyParentOrganization
-Mitsubishi group,['none'],CompanyParentOrganization
-Seat,"['volkswagen group', 'volkswagen']",CompanyParentOrganization
-Tata motors ltd,['none'],CompanyParentOrganization
-Zentralmobil,['none'],CompanyParentOrganization
-Prada,['none'],CompanyParentOrganization
+SubjectEntity,relation,ObjectEntity
+Apple inc.,CompanyParentOrganization,['NONE']
+Microsoft,CompanyParentOrganization,['NONE']
+Waymo,CompanyParentOrganization,"['alphabet inc.', 'alphabet']"
+Audi,CompanyParentOrganization,"['volkswagen group', 'volkswagen']"
+Eraz,CompanyParentOrganization,['NONE']
+Bmw,CompanyParentOrganization,['NONE']
+Abarth,CompanyParentOrganization,"['stellantis', 'stellantis italy']"
+Abbott-detroit,CompanyParentOrganization,['NONE']
+Ac cars,CompanyParentOrganization,['NONE']
+Aero,CompanyParentOrganization,['NONE']
+Alfa romeo,CompanyParentOrganization,['stellantis']
+Alpine,CompanyParentOrganization,['renault']
+Mercedes-amg,CompanyParentOrganization,"['mercedes-benz', 'mercedes-benz group']"
+Aro,CompanyParentOrganization,['NONE']
+Autobianchi,CompanyParentOrganization,['fiat']
+Avia,CompanyParentOrganization,['ashok leyland']
+Avia,CompanyParentOrganization,"['czechoslovak group', 'czechoslovak']"
+Avia,CompanyParentOrganization,['daewoo']
+Auto union,CompanyParentOrganization,['NONE']
+Barkas,CompanyParentOrganization,['industrieverband fahrzeugbau']
+Bentley,CompanyParentOrganization,"['volkswagen group', 'volkswagen']"
+Bitter automobile,CompanyParentOrganization,['NONE']
+Borgward,CompanyParentOrganization,['NONE']
+Bristol cars,CompanyParentOrganization,['kamkorp']
+Byd auto,CompanyParentOrganization,"['byd', 'byd company']"
+Dacia,CompanyParentOrganization,['renault']
+Dacia,CompanyParentOrganization,"['renault-nissan-mitsubishi', 'renault–nissan–mitsubishi alliance']"
+Daewoo,CompanyParentOrganization,['NONE']
+Daf,CompanyParentOrganization,['paccar']
+Daihatsu,CompanyParentOrganization,['toyota']
+Mercedes-benz group,CompanyParentOrganization,['NONE']
+Daimler company,CompanyParentOrganization,"['birmingham small arms', 'birmingham small arms company']"
+Daimler company,CompanyParentOrganization,['jaguar cars']
+Daimler company,CompanyParentOrganization,"['daimler motorsoration', 'daimler motors corporation', 'daimler']"
+Daimler company,CompanyParentOrganization,"['ford', 'ford of europe']"
+Daimler company,CompanyParentOrganization,"['tata motors', 'tata motors ltd']"
+Dodge,CompanyParentOrganization,"['stellantis', 'stellantis north america']"
+Ferrari s.p.a.,CompanyParentOrganization,"['ferrari', 'ferrari n.v.']"
+Fiat,CompanyParentOrganization,['stellantis']
+Fabryka samochodów małolitrażowych,CompanyParentOrganization,['fiat']
+Holden,CompanyParentOrganization,['general motors']
+Chrysler,CompanyParentOrganization,['NONE']
+Isuzu,CompanyParentOrganization,['NONE']
+At&t,CompanyParentOrganization,['NONE']
+Koenigsegg,CompanyParentOrganization,['NONE']
+Lamborghini,CompanyParentOrganization,['audi']
+Lancia,CompanyParentOrganization,"['stellantis italy', 'stellantis']"
+Land rover,CompanyParentOrganization,"['tata motors', 'tata motors ltd']"
+Land rover,CompanyParentOrganization,['british leyland']
+Land rover,CompanyParentOrganization,"['ford motor company', 'ford motor', 'ford']"
+Land rover,CompanyParentOrganization,['bmw']
+Mitsubishi motors,CompanyParentOrganization,"['mitsubishi group', 'mitsubishi']"
+Mtx,CompanyParentOrganization,['NONE']
+Ibm,CompanyParentOrganization,['NONE']
+Oltcit,CompanyParentOrganization,"['citroen', 'citroën']"
+Porsche,CompanyParentOrganization,"['volkswagen group', 'volkswagen']"
+Praga,CompanyParentOrganization,['NONE']
+Rayton fissore,CompanyParentOrganization,['NONE']
+Sony,CompanyParentOrganization,"['sony group', 'sony']"
+Ford motor company,CompanyParentOrganization,['NONE']
+Alphi,CompanyParentOrganization,['NONE']
+Ruxton,CompanyParentOrganization,['NONE']
+Tvr,CompanyParentOrganization,['NONE']
+Saab,CompanyParentOrganization,['general motors']
+Saab,CompanyParentOrganization,['national electric vehicle sweden']
+Saab,CompanyParentOrganization,['spyker n.v.']
+Saab,CompanyParentOrganization,['saab-scania']
+Saab,CompanyParentOrganization,"['saab', 'saab group']"
+Ericsson,CompanyParentOrganization,['NONE']
+Adler,CompanyParentOrganization,['NONE']
+Hitachi,CompanyParentOrganization,['NONE']
+Vignale,CompanyParentOrganization,"['ford motor company', 'ford motor', 'ford']"
+Hyundai motor group,CompanyParentOrganization,['NONE']
+Zaz,CompanyParentOrganization,"['ukrainian automobile corporation', 'ukrainian automobileoration']"
+Aichi,CompanyParentOrganization,['NONE']
+Max motors,CompanyParentOrganization,['NONE']
+Clénet coachworks,CompanyParentOrganization,['NONE']
+Lea-francis,CompanyParentOrganization,['NONE']
+David,CompanyParentOrganization,['NONE']
+Aldi,CompanyParentOrganization,['NONE']
+Alcoa,CompanyParentOrganization,['NONE']
+Zato vehicles,CompanyParentOrganization,['NONE']
+Asus,CompanyParentOrganization,['NONE']
+Messerschmitt,CompanyParentOrganization,['NONE']
+Huawei,CompanyParentOrganization,['NONE']
+Velie,CompanyParentOrganization,['NONE']
+Hexe,CompanyParentOrganization,['NONE']
+Umm,CompanyParentOrganization,['NONE']
+Ginetta cars,CompanyParentOrganization,['NONE']
+Nedcar,CompanyParentOrganization,['vdl groep']
+Unic,CompanyParentOrganization,"['fiat industrial vehicles', 'fiat']"
+Automobiles gonfaronnaises sportives,CompanyParentOrganization,['NONE']
+Osella,CompanyParentOrganization,['NONE']
+English racing automobiles,CompanyParentOrganization,['NONE']
+Subaru,CompanyParentOrganization,"['subaruoration', 'subaru corporation', 'subaru']"
+De tomaso,CompanyParentOrganization,['NONE']
+Gordini,CompanyParentOrganization,['renault']
+Automobili turismo e sport,CompanyParentOrganization,['NONE']
+Bmw m,CompanyParentOrganization,['bmw']
+Pope-toledo,CompanyParentOrganization,['NONE']
+Ariès,CompanyParentOrganization,['NONE']
+Blu,CompanyParentOrganization,"['wind (italy)', 'wind']"
+Stellantis north america,CompanyParentOrganization,"['fiat chrysler automobiles', 'fiat']"
+Stellantis north america,CompanyParentOrganization,"['fiat s.p.a.', 'fiat']"
+Stellantis north america,CompanyParentOrganization,"['mercedes-benz', 'mercedes-benz group']"
+Stellantis north america,CompanyParentOrganization,"['cerberus capital management', 'cerberus']"
+Stellantis north america,CompanyParentOrganization,['stellantis']
+Suzuki,CompanyParentOrganization,['NONE']
+Zeddeco,CompanyParentOrganization,['NONE']
+Zeiller & fournier,CompanyParentOrganization,['NONE']
+Seat,CompanyParentOrganization,"['volkswagen group', 'volkswagen']"
+Tata motors ltd,CompanyParentOrganization,['NONE']
+Zeno galassi,CompanyParentOrganization,['NONE']
+Zentralmobil,CompanyParentOrganization,['NONE']
+Louis vuitton,CompanyParentOrganization,['lvmh']
+Prada,CompanyParentOrganization,['NONE']
+Texas instruments,CompanyParentOrganization,['NONE']
+Zetgelette,CompanyParentOrganization,['NONE']

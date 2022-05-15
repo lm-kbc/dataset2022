@@ -1,215 +1,187 @@
-SubjectEntity,ObjectEntity,relation
-Tim Berners-Lee,['world wide web consortium'],PersonEmployer
-Tim Berners-Lee,['cern'],PersonEmployer
-Tim Berners-Lee,['massachusetts institute of technology'],PersonEmployer
-Tim Berners-Lee,['open data institute'],PersonEmployer
-Tim Berners-Lee,['plessey'],PersonEmployer
-Tim Berners-Lee,"['school of electronics and computer science, university of southampton']",PersonEmployer
-Bill Gates,['bill & melinda gates foundation'],PersonEmployer
-Elon Musk,['spacex'],PersonEmployer
-Elon Musk,"['tesla', 'tesla, inc.']",PersonEmployer
-Elon Musk,['paypal'],PersonEmployer
-Elon Musk,['solarcity'],PersonEmployer
-Elon Musk,['openai'],PersonEmployer
-Elon Musk,"['the boring company', 'boring']",PersonEmployer
-Elon Musk,['neuralink'],PersonEmployer
-Mohamed Morsi,"['california state university, northridge']",PersonEmployer
-Mohamed Morsi,['zagazig university'],PersonEmployer
-Buzz Aldrin,['national aeronautics and space administration'],PersonEmployer
-Mitt Romney,"['bain &', 'bain & company']",PersonEmployer
-Marissa Mayer,['google'],PersonEmployer
-Marissa Mayer,['yahoo'],PersonEmployer
-Marissa Mayer,['lumi labs'],PersonEmployer
-Al Gore,"['university of california, los angeles']",PersonEmployer
-Al Gore,['middle tennessee state university'],PersonEmployer
-Vince McMahon,['wwe'],PersonEmployer
-Vince McMahon,['world championship wrestling'],PersonEmployer
-Vince McMahon,['world wrestling federation'],PersonEmployer
-Gisele Bündchen,['chanel'],PersonEmployer
-Gisele Bündchen,"[""victoria's secret""]",PersonEmployer
-Gisele Bündchen,['c&a'],PersonEmployer
-Gisele Bündchen,['pantene'],PersonEmployer
-Gisele Bündchen,['img models'],PersonEmployer
-Gisele Bündchen,['falabella'],PersonEmployer
-Gisele Bündchen,['elite model brazil'],PersonEmployer
-Ivanka Trump,['federal government of the united states of america'],PersonEmployer
-Ivanka Trump,"['the trump organization', 'trump organization']",PersonEmployer
-Ivanka Trump,['forest city realty trust'],PersonEmployer
-"Tyler, the Creator",['starbucks'],PersonEmployer
-"Tyler, the Creator",['fedex'],PersonEmployer
-George Soros,['soros fund management'],PersonEmployer
-George Soros,['open society foundations'],PersonEmployer
-George Soros,['kaupthing singer & friedlander'],PersonEmployer
-Eric Schmidt,"['apple inc.', 'apple']",PersonEmployer
-Eric Schmidt,['stanford university'],PersonEmployer
-Eric Schmidt,"['alphabet inc.', 'alphabet']",PersonEmployer
-Margaret Atwood,['new york university'],PersonEmployer
-Margaret Atwood,['concordia university'],PersonEmployer
-Margaret Atwood,['university of british columbia'],PersonEmployer
-Margaret Atwood,['university of alberta'],PersonEmployer
-Margaret Atwood,['york university'],PersonEmployer
-Margaret Atwood,['sir george williams university'],PersonEmployer
-Padmasree Warrior,['cisco systems'],PersonEmployer
-Padmasree Warrior,['motorola'],PersonEmployer
-Jeff Bezos,['amazon'],PersonEmployer
-Jeff Bezos,['bankers trust'],PersonEmployer
-Jeff Bezos,['d. e. shaw & co.'],PersonEmployer
-Jeff Bezos,['first international telecom'],PersonEmployer
-Alan Sugar,['bbc'],PersonEmployer
-Alan Sugar,['amstrad'],PersonEmployer
-Marc Andreessen,['netscape'],PersonEmployer
-Marc Andreessen,['andreessen horowitz'],PersonEmployer
-Naftali Bennett,"[""prime minister's office""]",PersonEmployer
-Naftali Bennett,['soluto'],PersonEmployer
-Martha Stewart,['martha stewart living omnimedia'],PersonEmployer
-Scott Kelly,['national aeronautics and space administration'],PersonEmployer
-Silvio Berlusconi,['a.c. milan'],PersonEmployer
-Mark Zuckerberg,['meta platforms'],PersonEmployer
-Muhammad Yunus,['la trobe university'],PersonEmployer
-Muhammad Yunus,['university of dhaka'],PersonEmployer
-Muhammad Yunus,['middle tennessee state university'],PersonEmployer
-Miuccia Prada,['prada'],PersonEmployer
-Miuccia Prada,['miu miu'],PersonEmployer
-Winnie Byanyima,"['united nations', 'un']",PersonEmployer
-Pavel Durov,['telegram fz-llc'],PersonEmployer
-Dana White,['ultimate fighting championship'],PersonEmployer
-Reid Hoffman,['linkedin'],PersonEmployer
-Reid Hoffman,['paypal'],PersonEmployer
-Reid Hoffman,['chaosium'],PersonEmployer
-Vicente Fox Quesada,"['coca-cola', 'the coca-cola company']",PersonEmployer
-Jack Welch,['massachusetts institute of technology'],PersonEmployer
-Jack Welch,['mit sloan school of management'],PersonEmployer
-Susan Wojcicki,['google'],PersonEmployer
-Lenín Moreno,"['united nations', 'un']",PersonEmployer
-Lenín Moreno,['ministry of public health'],PersonEmployer
-Lenín Moreno,['ministry of government of ecuador'],PersonEmployer
-Arthur,['tf1'],PersonEmployer
-Arthur,['europe 1'],PersonEmployer
-Arthur,['fun radio'],PersonEmployer
-Arthur,['europe 2'],PersonEmployer
-Arthur,"['oui fm', 'ouï fm']",PersonEmployer
-Arthur,['rfm'],PersonEmployer
-Arthur,['skyrock'],PersonEmployer
-Adam Savage,['academy of art university'],PersonEmployer
-Jacques Attali,"['ecole des ponts paristech', 'école des ponts paristech']",PersonEmployer
-Jacques Attali,"['école polytechnique', 'ecole polytechnique']",PersonEmployer
-Jacques Attali,"[""l'express (neuchâtel)"", ""l'express (neuchatel)""]",PersonEmployer
-Jacques Attali,"[""conseil d'etat""]",PersonEmployer
-Jacques Attali,"['les echos', 'les échos']",PersonEmployer
-Jacques Attali,['paris dauphine university'],PersonEmployer
-Jacques Attali,['le journal des arts'],PersonEmployer
-Jacques Attali,['french national school of forestry'],PersonEmployer
-Howard Stern,['nbc'],PersonEmployer
-Stephen Covey,['brigham young university'],PersonEmployer
-Stephen Covey,['utah state university'],PersonEmployer
-Nandan Nilekani,['infosys'],PersonEmployer
-Nandan Nilekani,['igate patni'],PersonEmployer
-Kiran Mazumdar-Shaw,['biocon'],PersonEmployer
-Jelena Jensen,['twistys.com'],PersonEmployer
-Jelena Jensen,['pinupfiles'],PersonEmployer
-Jelena Jensen,['danni.com'],PersonEmployer
-Suze Orman,['prudential securities'],PersonEmployer
-Douglas G. Hurley,['national aeronautics and space administration'],PersonEmployer
-Sundar Pichai,['google'],PersonEmployer
-Sundar Pichai,"['alphabet inc.', 'alphabet']",PersonEmployer
-Bill Browder,"['boston consulting', 'boston consulting group']",PersonEmployer
-Bill Browder,['salomon brothers'],PersonEmployer
-Bill Browder,['hermitage capital management'],PersonEmployer
-Pedro Duque,['european space agency'],PersonEmployer
-Pedro Duque,['deimos imaging'],PersonEmployer
-Cindy McCain,['agua fria high school'],PersonEmployer
-Cindy McCain,['hensley & co.'],PersonEmployer
-Kent Beck,['meta platforms'],PersonEmployer
-Angela Ahrendts,"['apple inc.', 'apple']",PersonEmployer
-Angela Ahrendts,['burberry'],PersonEmployer
-Angela Ahrendts,['donna karan'],PersonEmployer
-Angela Ahrendts,"['kate spade &', 'kate spade & company']",PersonEmployer
-Angela Ahrendts,['henri bendel'],PersonEmployer
-Angela Ahrendts,"['warnaco group', 'warnaco']",PersonEmployer
-Marcos Pontes,['brazilian air force'],PersonEmployer
-Devin Nunes,['united states department of agriculture'],PersonEmployer
-Josep Borrell,['complutense university of madrid'],PersonEmployer
-Josep Borrell,"['spanish petroleum', 'spanish petroleum company']",PersonEmployer
-Jacqueline Novogratz,['world bank'],PersonEmployer
-Jacqueline Novogratz,['chase bank'],PersonEmployer
-Jacqueline Novogratz,['unicef'],PersonEmployer
-Paul G. Allen,['microsoft'],PersonEmployer
-Pierre Omidyar,['santa fe institute'],PersonEmployer
-Peter Schiff,['euro pacific capital'],PersonEmployer
-Karen L. Nyberg,['national aeronautics and space administration'],PersonEmployer
-John Romero,['id software'],PersonEmployer
-John Romero,['softdisk'],PersonEmployer
-Mikhail Zadornov,['moscow aviation institute'],PersonEmployer
-Marina Ruy Barbosa,['tv globo'],PersonEmployer
-Bob Iger,"['the walt disney company', 'walt disney']",PersonEmployer
-Bob Iger,"['american broadcasting', 'american broadcasting company']",PersonEmployer
-Kristalina Georgieva,['sofia university'],PersonEmployer
-Miquel Calçada,"['catalunya radio', 'catalunya ràdio']",PersonEmployer
-Miquel Calçada,['flaix'],PersonEmployer
-Tzipi Livni,['mossad'],PersonEmployer
-Robert L. Behnken,['national aeronautics and space administration'],PersonEmployer
-Satya Nadella,['microsoft'],PersonEmployer
-Satya Nadella,['sun microsystems'],PersonEmployer
-Aliko Dangote,"['dangote', 'dangote group']",PersonEmployer
-Wishnutama,['indosiar'],PersonEmployer
-Wishnutama,['trans7'],PersonEmployer
-Wishnutama,['whdh'],PersonEmployer
-Wishnutama,['trans tv'],PersonEmployer
-Wishnutama,['new england cable news'],PersonEmployer
-Wishnutama,['detik.com'],PersonEmployer
-Wishnutama,['net.'],PersonEmployer
-Wishnutama,['kumparan'],PersonEmployer
-Alexander Lebedev,['foreign intelligence service'],PersonEmployer
-Alexander Lebedev,['first chief directorate'],PersonEmployer
-Eddy Cue,"['apple inc.', 'apple']",PersonEmployer
-Eric Cantor,"['moelis & company', 'moelis &']",PersonEmployer
-Yahtzee Croshaw,['hyper'],PersonEmployer
-Yahtzee Croshaw,['pc gamer'],PersonEmployer
-Yahtzee Croshaw,"['escapist', 'the escapist']",PersonEmployer
-Chris Sacca,['google'],PersonEmployer
-Andrey Vorobyov,['national research university – higher school of economics'],PersonEmployer
-Gugu Liberato,"['sistema brasileiro de televisão', 'sistema brasileiro de televisao']",PersonEmployer
-Gugu Liberato,['recordtv'],PersonEmployer
-Peter Diamandis,['xprize foundation'],PersonEmployer
-Jim Cramer,['goldman sachs'],PersonEmployer
-Chris Anderson,['wired'],PersonEmployer
-Omarosa Manigault Newman,['howard university'],PersonEmployer
-Lana Rhoades,['bang bros'],PersonEmployer
-Lana Rhoades,['brazzers'],PersonEmployer
-Lana Rhoades,['evil angel'],PersonEmployer
-Lana Rhoades,['naughty america'],PersonEmployer
-Lana Rhoades,['tushy'],PersonEmployer
-John Doerr,['kleiner perkins caufield & byers'],PersonEmployer
-Ian Bremmer,['columbia university'],PersonEmployer
-Ian Bremmer,['new york university'],PersonEmployer
-Alexis Ohanian,['initialized capital'],PersonEmployer
-Alexis Ohanian,"['reddit inc.', 'reddit']",PersonEmployer
-Leland D. Melvin,['national aeronautics and space administration'],PersonEmployer
-Sergio Melnick,['universidad mayor'],PersonEmployer
-Sergio Melnick,"['university of california, los angeles']",PersonEmployer
-Sergio Melnick,['university of chile'],PersonEmployer
-Sergio Melnick,['adolfo ibáñez university'],PersonEmployer
-Stewart Butterfield,['flickr'],PersonEmployer
-Stewart Butterfield,['slack technologies'],PersonEmployer
-Gregory Reid Wiseman,['national aeronautics and space administration'],PersonEmployer
-Demis Hassabis,['university college london'],PersonEmployer
-Demis Hassabis,['deepmind'],PersonEmployer
-Alki David,['filmon'],PersonEmployer
-Alki David,['hologram usa'],PersonEmployer
-Alki David,"['anakando media group', 'anakando media']",PersonEmployer
-Herbert Fisk Johnson III,['s. c. johnson & son'],PersonEmployer
-Sam Pitroda,['prime minister of india'],PersonEmployer
-Harsh Goenka,"['rpg', 'rpg group']",PersonEmployer
-Aylin Nazlıaka,['bilkent university'],PersonEmployer
-Dara Khosrowshahi,['uber technology'],PersonEmployer
-Dara Khosrowshahi,['iac'],PersonEmployer
-Dara Khosrowshahi,"['allen &', 'allen & company']",PersonEmployer
-Dara Khosrowshahi,"['expedia group', 'expedia']",PersonEmployer
-Brian Chesky,['airbnb'],PersonEmployer
-Doug Ducey,['procter & gamble'],PersonEmployer
-Doug Ducey,['cold stone creamery'],PersonEmployer
-Doug Ducey,['hensley & co.'],PersonEmployer
-José Alberto Ciurana,['tv azteca'],PersonEmployer
-Bobak Ferdowsi,['national aeronautics and space administration'],PersonEmployer
-Bobak Ferdowsi,['jet propulsion laboratory'],PersonEmployer
-Edd China,['discovery channel'],PersonEmployer
+SubjectEntity,relation,ObjectEntity
+Sebastián Piñera,PersonEmployer,['university of chile']
+Sebastián Piñera,PersonEmployer,['adolfo ibáñez university']
+Sebastián Piñera,PersonEmployer,['pontifical catholic university of chile']
+Bill Gates,PersonEmployer,['bill & melinda gates foundation']
+Katy Perry,PersonEmployer,['unicef']
+Jimmy Wales,PersonEmployer,['fandom']
+Jimmy Wales,PersonEmployer,['bomis']
+Mohamed Morsi,PersonEmployer,"['california state university, northridge']"
+Mohamed Morsi,PersonEmployer,['zagazig university']
+Dr. Dre,PersonEmployer,"['apple inc.', 'apple']"
+Mitt Romney,PersonEmployer,"['bain &', 'bain & company']"
+Al Gore,PersonEmployer,"['university of california, los angeles']"
+Al Gore,PersonEmployer,['middle tennessee state university']
+Vince McMahon,PersonEmployer,['wwe']
+Vince McMahon,PersonEmployer,['world championship wrestling']
+Vince McMahon,PersonEmployer,['world wrestling federation']
+Gisele Bündchen,PersonEmployer,['chanel']
+Gisele Bündchen,PersonEmployer,"[""victoria's secret""]"
+Gisele Bündchen,PersonEmployer,['c&a']
+Gisele Bündchen,PersonEmployer,['pantene']
+Gisele Bündchen,PersonEmployer,['img models']
+Gisele Bündchen,PersonEmployer,['falabella']
+Gisele Bündchen,PersonEmployer,['elite model brazil']
+Tim Cook,PersonEmployer,"['apple inc.', 'apple']"
+Tim Cook,PersonEmployer,['ibm']
+Tim Cook,PersonEmployer,['nike']
+Ivanka Trump,PersonEmployer,['federal government of the united states of america']
+Ivanka Trump,PersonEmployer,"['the trump organization', 'trump organization']"
+Ivanka Trump,PersonEmployer,['forest city realty trust']
+George Soros,PersonEmployer,['soros fund management']
+George Soros,PersonEmployer,['open society foundations']
+George Soros,PersonEmployer,['kaupthing singer & friedlander']
+Ahn Cheol-soo,PersonEmployer,['seoul national university']
+Ahn Cheol-soo,PersonEmployer,['kaist']
+Padmasree Warrior,PersonEmployer,"['cisco systems', 'cisco']"
+Padmasree Warrior,PersonEmployer,['motorola']
+Jeff Bezos,PersonEmployer,['amazon']
+Jeff Bezos,PersonEmployer,['bankers trust']
+Jeff Bezos,PersonEmployer,['d. e. shaw & co.']
+Jeff Bezos,PersonEmployer,['first international telecom']
+John Carmack,PersonEmployer,['id software']
+John Carmack,PersonEmployer,['armadillo aerospace']
+John Carmack,PersonEmployer,['softdisk']
+John Carmack,PersonEmployer,"['facebook technologies, llc', 'facebook']"
+Alan Sugar,PersonEmployer,['bbc']
+Alan Sugar,PersonEmployer,['amstrad']
+Silvio Berlusconi,PersonEmployer,['a.c. milan']
+John Green,PersonEmployer,['kenyon college']
+John Green,PersonEmployer,['booklist']
+George H. W. Bush,PersonEmployer,['central intelligence agency']
+John Kasich,PersonEmployer,['donald lukens']
+Yukio Hatoyama,PersonEmployer,['tokyo institute of technology']
+Yukio Hatoyama,PersonEmployer,['senshu university']
+Kai-Fu Lee,PersonEmployer,['google']
+Kai-Fu Lee,PersonEmployer,"['apple inc.', 'apple']"
+Kai-Fu Lee,PersonEmployer,['microsoft']
+Kai-Fu Lee,PersonEmployer,"['carnegie mellon university', 'cmu']"
+Kai-Fu Lee,PersonEmployer,['silicon graphics']
+Miuccia Prada,PersonEmployer,['prada']
+Miuccia Prada,PersonEmployer,['miu miu']
+Winnie Byanyima,PersonEmployer,"['united nations', 'un']"
+Vicente Fox Quesada,PersonEmployer,"['coca-cola', 'the coca-cola company']"
+Jerzy Buzek,PersonEmployer,['university of cambridge']
+Susan Wojcicki,PersonEmployer,['google']
+Lenín Moreno,PersonEmployer,"['united nations', 'un']"
+Lenín Moreno,PersonEmployer,['ministry of public health']
+Lenín Moreno,PersonEmployer,['ministry of government of ecuador']
+Melinda Gates,PersonEmployer,['microsoft']
+Steve Wozniak,PersonEmployer,"['apple inc.', 'apple']"
+Steve Wozniak,PersonEmployer,"['hewlett-packard', 'hp']"
+Steve Wozniak,PersonEmployer,['university of technology sydney']
+Steve Wozniak,PersonEmployer,"['atari', 'atari, inc.']"
+Thaksin Shinawatra,PersonEmployer,['takushoku university']
+Jacques Attali,PersonEmployer,"['ecole des ponts paristech', 'école des ponts paristech']"
+Jacques Attali,PersonEmployer,"['école polytechnique', 'ecole polytechnique']"
+Jacques Attali,PersonEmployer,"[""l'express (neuchâtel)"", ""l'express (neuchatel)""]"
+Jacques Attali,PersonEmployer,"[""conseil d'etat""]"
+Jacques Attali,PersonEmployer,"['les echos', 'les échos']"
+Jacques Attali,PersonEmployer,['paris dauphine university']
+Jacques Attali,PersonEmployer,['le journal des arts']
+Jacques Attali,PersonEmployer,['french national school of forestry']
+Anand Mahindra,PersonEmployer,"['mahindra', 'mahindra group']"
+Mahmoud Ahmadinejad,PersonEmployer,['iran university of science and technology']
+Stephen Covey,PersonEmployer,['brigham young university']
+Stephen Covey,PersonEmployer,['utah state university']
+Kiran Mazumdar-Shaw,PersonEmployer,['biocon']
+Jelena Jensen,PersonEmployer,['twistys']
+Jelena Jensen,PersonEmployer,['pinupfiles']
+Jelena Jensen,PersonEmployer,['danni']
+Vivienne Westwood,PersonEmployer,['berlin university of the arts']
+Sundar Pichai,PersonEmployer,['google']
+Sundar Pichai,PersonEmployer,"['alphabet inc.', 'alphabet']"
+Bill Nye,PersonEmployer,['cornell university']
+Daymond John,PersonEmployer,['fubu']
+Reggie Fils-Aimé,PersonEmployer,['nintendo']
+Chad Hurley,PersonEmployer,['google']
+Jacqueline Novogratz,PersonEmployer,['world bank']
+Jacqueline Novogratz,PersonEmployer,['chase bank']
+Jacqueline Novogratz,PersonEmployer,['unicef']
+Paul G. Allen,PersonEmployer,['microsoft']
+Ricardo Salinas Pliego,PersonEmployer,['grupo salinas']
+Marc Benioff,PersonEmployer,['oracle']
+Marc Benioff,PersonEmployer,['salesforce']
+Pierre Omidyar,PersonEmployer,['santa fe institute']
+Adam Back,PersonEmployer,['blockstream']
+Andy Cohen,PersonEmployer,['bravo']
+Sheryl Sandberg,PersonEmployer,['facebook']
+Malcolm Turnbull,PersonEmployer,['goldman sachs']
+Mikhail Zadornov,PersonEmployer,['moscow aviation institute']
+Marina Ruy Barbosa,PersonEmployer,['tv globo']
+Andrew Y. Ng,PersonEmployer,['google']
+Andrew Y. Ng,PersonEmployer,['baidu']
+Andrew Y. Ng,PersonEmployer,"['stanford university', 'stanford']"
+Andrew Y. Ng,PersonEmployer,['coursera']
+Miquel Calçada,PersonEmployer,"['catalunya radio', 'catalunya ràdio']"
+Miquel Calçada,PersonEmployer,['flaix']
+Tzipi Livni,PersonEmployer,['mossad']
+Shane McMahon,PersonEmployer,['wwe']
+Satya Nadella,PersonEmployer,['microsoft']
+Satya Nadella,PersonEmployer,['sun microsystems']
+Larry Kudlow,PersonEmployer,"['the washington times', 'washington times']"
+Larry Kudlow,PersonEmployer,['fox business']
+Randall Munroe,PersonEmployer,['langley research center']
+Iman,PersonEmployer,"['united states of america', 'usa']"
+Aliko Dangote,PersonEmployer,"['dangote', 'dangote group']"
+Mark Hurd,PersonEmployer,['oracle']
+Mark Hurd,PersonEmployer,"['hewlett-packard', 'hp']"
+Mark Hurd,PersonEmployer,"['ncr corporation', 'ncroration']"
+David Heinemeier Hansson,PersonEmployer,['basecamp']
+Jose M. Hernandez,PersonEmployer,['nara prefecture']
+Yahtzee Croshaw,PersonEmployer,['hyper']
+Yahtzee Croshaw,PersonEmployer,['pc gamer']
+Yahtzee Croshaw,PersonEmployer,"['escapist', 'the escapist']"
+Naoko Yamazaki,PersonEmployer,['joshibi university of art and design']
+Sam Altman,PersonEmployer,['y combinator']
+Sam Altman,PersonEmployer,['loopt']
+Sam Altman,PersonEmployer,['openai']
+Sam Altman,PersonEmployer,"['reddit inc.', 'reddit']"
+Peter Thiel,PersonEmployer,"['stanford university', 'stanford']"
+Ronald J. Garan,PersonEmployer,['national aeronautics and space administration']
+Andrey Vorobyov,PersonEmployer,['national research university – higher school of economics']
+Gugu Liberato,PersonEmployer,"['sistema brasileiro de televisão', 'sistema brasileiro de televisao']"
+Gugu Liberato,PersonEmployer,['recordtv']
+Peter Diamandis,PersonEmployer,"['xprize foundation', 'xprize']"
+Guillermo Lasso,PersonEmployer,['banco guayaquil']
+Guillermo Lasso,PersonEmployer,['bolsa de valores de guayaquil']
+Jim Cramer,PersonEmployer,['goldman sachs']
+Benjamín Vicuña,PersonEmployer,['unicef']
+Anthony Scaramucci,PersonEmployer,['goldman sachs']
+Leland D. Melvin,PersonEmployer,['national aeronautics and space administration']
+Randy Pitchford,PersonEmployer,['3d realms']
+Randy Pitchford,PersonEmployer,['gearbox software']
+Larry Hryb,PersonEmployer,['microsoft']
+Stewart Butterfield,PersonEmployer,['flickr']
+Stewart Butterfield,PersonEmployer,"['slack technologies', 'slack']"
+David O. Sacks,PersonEmployer,"['mckinsey', 'mckinsey & company']"
+David O. Sacks,PersonEmployer,['paypal']
+David O. Sacks,PersonEmployer,['craft ventures']
+Gregory Reid Wiseman,PersonEmployer,['national aeronautics and space administration']
+Demis Hassabis,PersonEmployer,"['university college london', 'ucl']"
+Demis Hassabis,PersonEmployer,['deepmind']
+Alki David,PersonEmployer,['filmon']
+Alki David,PersonEmployer,['hologram usa']
+Alki David,PersonEmployer,"['anakando media group', 'anakando']"
+Don Tapscott,PersonEmployer,"['university of toronto', 'uoft']"
+Sam Pitroda,PersonEmployer,['prime minister of india']
+Danny Sullivan,PersonEmployer,['google']
+Guy Oseary,PersonEmployer,['hard candy fitness']
+Guy Oseary,PersonEmployer,['maverick']
+Guy Oseary,PersonEmployer,['truth or dare by madonna']
+Guy Oseary,PersonEmployer,['a-grade investments']
+Anwar Mohammed Gargash,PersonEmployer,['united arab emirates university']
+Steven Sinofsky,PersonEmployer,['microsoft']
+Dara Khosrowshahi,PersonEmployer,"['uber technology', 'uber']"
+Dara Khosrowshahi,PersonEmployer,['iac']
+Dara Khosrowshahi,PersonEmployer,"['allen', 'allen & company']"
+Dara Khosrowshahi,PersonEmployer,"['expedia group', 'expedia']"
+Brian Chesky,PersonEmployer,['airbnb']
+Chamath Palihapitiya,PersonEmployer,['facebook']
+Chamath Palihapitiya,PersonEmployer,['social capital']
+José Alberto Ciurana,PersonEmployer,['tv azteca']
+Tom Steyer,PersonEmployer,['goldman sachs']
+Tom Steyer,PersonEmployer,['morgan stanley']
+Tom Steyer,PersonEmployer,['farallon capital']
+Grigoriy Nikolayevich Bakunov,PersonEmployer,['yandex']
+Grigoriy Nikolayevich Bakunov,PersonEmployer,['parimatch']

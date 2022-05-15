@@ -1,84 +1,101 @@
-SubjectEntity,ObjectEntity,relation
-United states of america,"['english', 'american english']",CountryOfficialLanguage
-Italy,['italian'],CountryOfficialLanguage
-Greece,['demotic greek'],CountryOfficialLanguage
-Greece,['greek'],CountryOfficialLanguage
-United kingdom,['english'],CountryOfficialLanguage
-Russia,['russian'],CountryOfficialLanguage
-Latvia,['latvian'],CountryOfficialLanguage
-Bosnia and herzegovina,['croatian'],CountryOfficialLanguage
-Bosnia and herzegovina,['serbian'],CountryOfficialLanguage
-Bosnia and herzegovina,['bosnian'],CountryOfficialLanguage
-Monaco,['french'],CountryOfficialLanguage
-Montenegro,['montenegrin'],CountryOfficialLanguage
-Barbados,['english'],CountryOfficialLanguage
-Barbados,['bajan creole'],CountryOfficialLanguage
-South africa,['southern ndebele'],CountryOfficialLanguage
-South africa,['sesotho'],CountryOfficialLanguage
-South africa,['tsonga'],CountryOfficialLanguage
-South africa,['tswana'],CountryOfficialLanguage
-South africa,['swazi'],CountryOfficialLanguage
-South africa,['english'],CountryOfficialLanguage
-South africa,['venda'],CountryOfficialLanguage
-South africa,['afrikaans'],CountryOfficialLanguage
-South africa,['xhosa'],CountryOfficialLanguage
-South africa,['zulu'],CountryOfficialLanguage
-South africa,['northern sotho'],CountryOfficialLanguage
-Chile,['spanish'],CountryOfficialLanguage
-Liechtenstein,['german'],CountryOfficialLanguage
-North korea,"['north korean standard language', 'north korean standard']",CountryOfficialLanguage
-North korea,['korean'],CountryOfficialLanguage
-Papua new guinea,['english'],CountryOfficialLanguage
-Papua new guinea,['hiri motu'],CountryOfficialLanguage
-Papua new guinea,['tok pisin'],CountryOfficialLanguage
-Papua new guinea,"['papua new guinean sign', 'papua new guinean sign language']",CountryOfficialLanguage
-Federated states of micronesia,['english'],CountryOfficialLanguage
-Fiji,['fiji hindi'],CountryOfficialLanguage
-Fiji,['fijian'],CountryOfficialLanguage
-Fiji,['hindustani'],CountryOfficialLanguage
-Fiji,['english'],CountryOfficialLanguage
-Venezuela,['spanish'],CountryOfficialLanguage
-Venezuela,"['venezuelan sign language', 'venezuelan sign']",CountryOfficialLanguage
-Suriname,['dutch'],CountryOfficialLanguage
-Saint kitts and nevis,['english'],CountryOfficialLanguage
-Haiti,['french'],CountryOfficialLanguage
-Haiti,['haitian creole'],CountryOfficialLanguage
-Iran,['persian'],CountryOfficialLanguage
-Costa rica,['spanish'],CountryOfficialLanguage
-Panama,['spanish'],CountryOfficialLanguage
-Jordan,['arabic'],CountryOfficialLanguage
-Oman,['arabic'],CountryOfficialLanguage
-Qatar,['arabic'],CountryOfficialLanguage
-Thailand,['thai'],CountryOfficialLanguage
-United arab emirates,['arabic'],CountryOfficialLanguage
-South korea,['korean'],CountryOfficialLanguage
-South korea,"['korean sign language', 'korean sign']",CountryOfficialLanguage
-Mali,['french'],CountryOfficialLanguage
-Tanzania,['swahili'],CountryOfficialLanguage
-Tanzania,['english'],CountryOfficialLanguage
-Philippines,['english'],CountryOfficialLanguage
-Philippines,['filipino'],CountryOfficialLanguage
-Togo,['french'],CountryOfficialLanguage
-Benin,['french'],CountryOfficialLanguage
-Burkina faso,['french'],CountryOfficialLanguage
-Comoros,['arabic'],CountryOfficialLanguage
-Comoros,['comorian'],CountryOfficialLanguage
-Comoros,['french'],CountryOfficialLanguage
-Republic of the congo,['french'],CountryOfficialLanguage
-Equatorial guinea,['spanish'],CountryOfficialLanguage
-Equatorial guinea,['portuguese'],CountryOfficialLanguage
-Equatorial guinea,['french'],CountryOfficialLanguage
-Gabon,['french'],CountryOfficialLanguage
-Guinea-bissau,['portuguese'],CountryOfficialLanguage
-Cape verde,['portuguese'],CountryOfficialLanguage
-Cape verde,['cape verdean creole'],CountryOfficialLanguage
-Niger,['french'],CountryOfficialLanguage
-Senegal,['french'],CountryOfficialLanguage
-Senegal,['wolof'],CountryOfficialLanguage
-Senegal,['balanta'],CountryOfficialLanguage
-Senegal,['badyara'],CountryOfficialLanguage
-Sudan,['english'],CountryOfficialLanguage
-Sudan,['arabic'],CountryOfficialLanguage
-Eswatini,['english'],CountryOfficialLanguage
-Eswatini,['swazi'],CountryOfficialLanguage
-Kingdom of the netherlands,['dutch'],CountryOfficialLanguage
+SubjectEntity,relation,ObjectEntity
+Norway,CountryOfficialLanguage,['norwegian']
+Norway,CountryOfficialLanguage,['nynorsk']
+Norway,CountryOfficialLanguage,"['bokmal', 'bokmål']"
+Norway,CountryOfficialLanguage,"['sami', 'sámi']"
+Finland,CountryOfficialLanguage,['finnish']
+Finland,CountryOfficialLanguage,['swedish']
+Austria,CountryOfficialLanguage,['german']
+Austria,CountryOfficialLanguage,"['austrian sign language', 'austrian']"
+France,CountryOfficialLanguage,['french']
+People's republic of china,CountryOfficialLanguage,"['languages of china', 'chinese']"
+People's republic of china,CountryOfficialLanguage,['chinese']
+People's republic of china,CountryOfficialLanguage,"['standard mandarin', 'mandarin']"
+Iceland,CountryOfficialLanguage,['icelandic']
+Latvia,CountryOfficialLanguage,['latvian']
+North macedonia,CountryOfficialLanguage,['albanian']
+North macedonia,CountryOfficialLanguage,['macedonian']
+Croatia,CountryOfficialLanguage,['croatian']
+Kazakhstan,CountryOfficialLanguage,['russian']
+Kazakhstan,CountryOfficialLanguage,['kazakh']
+San marino,CountryOfficialLanguage,['italian']
+Liechtenstein,CountryOfficialLanguage,['german']
+Australia,CountryOfficialLanguage,['english']
+Argentina,CountryOfficialLanguage,['spanish']
+East timor,CountryOfficialLanguage,['portuguese']
+East timor,CountryOfficialLanguage,['tetum']
+India,CountryOfficialLanguage,['hindi']
+India,CountryOfficialLanguage,['english']
+Guyana,CountryOfficialLanguage,['english']
+Colombia,CountryOfficialLanguage,['spanish']
+Jamaica,CountryOfficialLanguage,['english']
+Grenada,CountryOfficialLanguage,['english']
+Grenada,CountryOfficialLanguage,"['grenadian creole english', 'english', 'creole', 'grenadian']"
+bahamas,CountryOfficialLanguage,['english']
+Costa rica,CountryOfficialLanguage,['spanish']
+Israel,CountryOfficialLanguage,['hebrew']
+Panama,CountryOfficialLanguage,['spanish']
+Yemen,CountryOfficialLanguage,['arabic']
+Jordan,CountryOfficialLanguage,['arabic']
+Nicaragua,CountryOfficialLanguage,['spanish']
+Maldives,CountryOfficialLanguage,['maldivian']
+Pakistan,CountryOfficialLanguage,['urdu']
+Pakistan,CountryOfficialLanguage,['english']
+Pakistan,CountryOfficialLanguage,['arabic']
+Qatar,CountryOfficialLanguage,['arabic']
+Tajikistan,CountryOfficialLanguage,['tajik']
+Tajikistan,CountryOfficialLanguage,['russian']
+Taiwan,CountryOfficialLanguage,['amis']
+Taiwan,CountryOfficialLanguage,"['taiwanese hokkien', 'taiwanese', 'hokkien']"
+Taiwan,CountryOfficialLanguage,['austronesian']
+Taiwan,CountryOfficialLanguage,"['taiwanese', 'standard taiwanese mandarin', 'mandarin']"
+Taiwan,CountryOfficialLanguage,['formosan']
+Taiwan,CountryOfficialLanguage,['paiwan']
+Taiwan,CountryOfficialLanguage,['hakka']
+Afghanistan,CountryOfficialLanguage,['uzbek']
+Afghanistan,CountryOfficialLanguage,['turkmen']
+Afghanistan,CountryOfficialLanguage,['arabic']
+Afghanistan,CountryOfficialLanguage,['baluchi']
+Afghanistan,CountryOfficialLanguage,['pashayi']
+Afghanistan,CountryOfficialLanguage,['pashto']
+Afghanistan,CountryOfficialLanguage,['nuristani']
+Afghanistan,CountryOfficialLanguage,['dari']
+Afghanistan,CountryOfficialLanguage,['pamir']
+Brunei,CountryOfficialLanguage,['malay']
+Brunei,CountryOfficialLanguage,['english']
+Philippines,CountryOfficialLanguage,['english']
+Philippines,CountryOfficialLanguage,['filipino']
+Central african republic,CountryOfficialLanguage,['french']
+Central african republic,CountryOfficialLanguage,['sango']
+Zimbabwe,CountryOfficialLanguage,['tonga']
+Zimbabwe,CountryOfficialLanguage,['tswana']
+Zimbabwe,CountryOfficialLanguage,['tsonga']
+Zimbabwe,CountryOfficialLanguage,['nambya']
+Zimbabwe,CountryOfficialLanguage,"['northern ndebele', 'ndebele']"
+Zimbabwe,CountryOfficialLanguage,['shona']
+Zimbabwe,CountryOfficialLanguage,['sesotho']
+Zimbabwe,CountryOfficialLanguage,['kalanga']
+Zimbabwe,CountryOfficialLanguage,"['zimbabwe', 'zimbabwe sign language']"
+Zimbabwe,CountryOfficialLanguage,['chewa']
+Zimbabwe,CountryOfficialLanguage,['venda']
+Zimbabwe,CountryOfficialLanguage,['ndau']
+Zimbabwe,CountryOfficialLanguage,['xhosa']
+Zimbabwe,CountryOfficialLanguage,['english']
+Zimbabwe,CountryOfficialLanguage,['khoisan']
+Zimbabwe,CountryOfficialLanguage,['barwe']
+Botswana,CountryOfficialLanguage,['english']
+Burkina faso,CountryOfficialLanguage,['french']
+Burundi,CountryOfficialLanguage,['french']
+Burundi,CountryOfficialLanguage,['english']
+Burundi,CountryOfficialLanguage,['kirundi']
+gambia,CountryOfficialLanguage,['english']
+Cameroon,CountryOfficialLanguage,['french']
+Cameroon,CountryOfficialLanguage,['english']
+Mozambique,CountryOfficialLanguage,['portuguese']
+Niger,CountryOfficialLanguage,['french']
+Rwanda,CountryOfficialLanguage,['swahili']
+Rwanda,CountryOfficialLanguage,['kinyarwanda']
+Rwanda,CountryOfficialLanguage,['french']
+Rwanda,CountryOfficialLanguage,['english']
+Sao tome and principe,CountryOfficialLanguage,['portuguese']
+Sierra leone,CountryOfficialLanguage,['english']

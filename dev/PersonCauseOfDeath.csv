@@ -1,58 +1,52 @@
-SubjectEntity,ObjectEntity,relation
-Michael jackson,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
-Michael jackson,['combined drug intoxication'],PersonCauseOfDeath
-Elvis presley,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
-Hugo chávez,"['colorectal cancer', 'cancer']",PersonCauseOfDeath
-Tupac shakur,['drive-by'],PersonCauseOfDeath
-Lata mangeshkar,['multiple organ dysfunction syndrome'],PersonCauseOfDeath
-Janis joplin,['opioid overdose'],PersonCauseOfDeath
-Joan rivers,['cardiac arrest'],PersonCauseOfDeath
-Joan rivers,['cerebral hypoxia'],PersonCauseOfDeath
-Bob saget,['blunt trauma'],PersonCauseOfDeath
-Bob saget,['head injury'],PersonCauseOfDeath
-Vladimir zhirinovsky,['septic shock'],PersonCauseOfDeath
-Vladimir zhirinovsky,"['covid-19', 'covid']",PersonCauseOfDeath
-Prince,['fentanyl toxicity'],PersonCauseOfDeath
-Carrie fisher,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
-Johnny hallyday,"['cancer', 'lung cancer']",PersonCauseOfDeath
-Shane warne,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
-Alan garcía,['shot to the head'],PersonCauseOfDeath
-Avicii,['exsanguination'],PersonCauseOfDeath
-Selena,['ballistic trauma'],PersonCauseOfDeath
-Leon allen white,['pneumonia'],PersonCauseOfDeath
-Leon allen white,['heart failure'],PersonCauseOfDeath
-Jenni rivera,['aircraft crash'],PersonCauseOfDeath
-Cameron boyce,"['sudden unexpected death in epilepsy', 'epilepsy']",PersonCauseOfDeath
-Stephen covey,['infarction'],PersonCauseOfDeath
-Rush limbaugh,"['cancer', 'lung cancer']",PersonCauseOfDeath
-Tom petty,['cardiac arrest'],PersonCauseOfDeath
-Sayaka kanda,['shock'],PersonCauseOfDeath
-Sayaka kanda,"['suicide by jumping from height', 'suicide']",PersonCauseOfDeath
-Ennio morricone,['femoral fracture'],PersonCauseOfDeath
-Anne rice,['stroke'],PersonCauseOfDeath
-Dan kaminsky,['diabetic ketoacidosis'],PersonCauseOfDeath
-Jules bianchi,['diffuse axonal injury'],PersonCauseOfDeath
-John wayne,"['cancer', 'stomach cancer']",PersonCauseOfDeath
-John mayer,['traffic collision'],PersonCauseOfDeath
-The ultimate warrior,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
-Bell hooks,['kidney failure'],PersonCauseOfDeath
-Ken robinson,['cancer'],PersonCauseOfDeath
-Roger moore,['cancer'],PersonCauseOfDeath
-Ahmed patel,"['covid-19', 'covid']",PersonCauseOfDeath
-Nipsey hussle,['ballistic trauma'],PersonCauseOfDeath
-Chadwick boseman,"['colorectal cancer', 'cancer']",PersonCauseOfDeath
-Adam west,['leukemia'],PersonCauseOfDeath
-Michael hastings,['traffic collision'],PersonCauseOfDeath
-T. boone pickens,['cerebrovascular disease'],PersonCauseOfDeath
-Marília mendonça,"['accident', 'aviation accident']",PersonCauseOfDeath
-Gregg allman,"['liver cancer', 'cancer']",PersonCauseOfDeath
-René auberjonois,"['cancer', 'lung cancer']",PersonCauseOfDeath
-Frank schirrmacher,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
-Juan gabriel,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
-Peter fonda,"['cancer', 'lung cancer']",PersonCauseOfDeath
-Kō masaki,['appendicitis'],PersonCauseOfDeath
-Kō masaki,['peritonitis'],PersonCauseOfDeath
-Haruma miura,['hanging'],PersonCauseOfDeath
-Lorin maazel,['pneumonia'],PersonCauseOfDeath
-Pat summitt,"[""alzheimer's disease""]",PersonCauseOfDeath
-Lorena rojas,"['liver cancer', 'cancer']",PersonCauseOfDeath
+SubjectEntity,relation,ObjectEntity
+George harrison,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Nelson mandela,PersonCauseOfDeath,['respiratory disease']
+Maya angelou,PersonCauseOfDeath,['disease']
+Bruce lee,PersonCauseOfDeath,"['edema', 'cerebral edema']"
+Karl lagerfeld,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
+George h. w. bush,PersonCauseOfDeath,"[""parkinson's disease"", 'parkinson']"
+Rishi kapoor,PersonCauseOfDeath,['leukemia']
+Larry king,PersonCauseOfDeath,['sepsis']
+Roddy piper,PersonCauseOfDeath,['cardiac arrest']
+Paul walker,PersonCauseOfDeath,['traffic collision']
+Johnny hallyday,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Hugh hefner,PersonCauseOfDeath,['sepsis']
+Sridevi,PersonCauseOfDeath,['drowning']
+Cory monteith,PersonCauseOfDeath,['drug overdose']
+Amber rayne,PersonCauseOfDeath,['drug overdose']
+Kurt vonnegut,PersonCauseOfDeath,"['falling', 'fall']"
+Avicii,PersonCauseOfDeath,['exsanguination']
+Christina grimmie,PersonCauseOfDeath,"['ballistic trauma', 'trauma']"
+Roald dahl,PersonCauseOfDeath,['myelodysplastic syndrome']
+Ronnie james dio,PersonCauseOfDeath,"['cancer', 'stomach cancer']"
+Dilip kumar,PersonCauseOfDeath,"['cancer', 'prostate cancer']"
+Frank sinatra,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Harry reid,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
+Idriss déby,PersonCauseOfDeath,"['ballistic trauma', 'trauma']"
+Zindzi mandela,PersonCauseOfDeath,"['covid-19', 'covid']"
+Ennio morricone,PersonCauseOfDeath,"['femoral fracture', 'fracture']"
+Aretha franklin,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
+Mikhail zadornov,PersonCauseOfDeath,"['brain cancer', 'cancer']"
+Johnny cash,PersonCauseOfDeath,['diabetes']
+Brodie lee,PersonCauseOfDeath,"['idiopathic pulmonary fibrosis', 'fibrosis']"
+Miles davis,PersonCauseOfDeath,['pneumonia']
+Miles davis,PersonCauseOfDeath,['stroke']
+The ultimate warrior,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Ahmed zewail,PersonCauseOfDeath,"['lymphoma', 'spinal cord lymphoma']"
+Maurane,PersonCauseOfDeath,['falling']
+Chick corea,PersonCauseOfDeath,['cancer']
+Zbigniew brzezinski,PersonCauseOfDeath,['pneumonia']
+Bell hooks,PersonCauseOfDeath,['kidney failure']
+Ken robinson,PersonCauseOfDeath,['cancer']
+Roger moore,PersonCauseOfDeath,['cancer']
+Ahmed patel,PersonCauseOfDeath,"['covid-19', 'covid']"
+Oliver sacks,PersonCauseOfDeath,"['liver metastasis', 'metastasis']"
+Dj am,PersonCauseOfDeath,['drug overdose']
+Jim rohn,PersonCauseOfDeath,['pulmonary fibrosis']
+Bettie page,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Nina simone,PersonCauseOfDeath,"['cancer', 'breast cancer']"
+Kimbo slice,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Haruma miura,PersonCauseOfDeath,['hanging']
+Roy orbison,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Michael robinson,PersonCauseOfDeath,"['cancer', 'skin cancer']"
+John magufuli,PersonCauseOfDeath,"['arrhythmia', 'heart arrhythmia']"

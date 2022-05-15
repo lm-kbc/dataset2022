@@ -1,117 +1,117 @@
-SubjectEntity,ObjectEntity,relation
-Benzene,['hydrogen'],ChemicalCompoundElement
-Benzene,['carbon'],ChemicalCompoundElement
-Sodium chloride,['sodium'],ChemicalCompoundElement
-Sodium chloride,['chlorine'],ChemicalCompoundElement
-Hydrogen fluoride,['hydrogen'],ChemicalCompoundElement
-Hydrogen fluoride,['fluorine'],ChemicalCompoundElement
-Potassium bromide,['potassium'],ChemicalCompoundElement
-Adenine,['hydrogen'],ChemicalCompoundElement
-Adenine,['carbon'],ChemicalCompoundElement
-Adenine,['nitrogen'],ChemicalCompoundElement
-Adenine,['oxygen'],ChemicalCompoundElement
-Toluene,['carbon'],ChemicalCompoundElement
-Aspirin,['hydrogen'],ChemicalCompoundElement
-Aspirin,['carbon'],ChemicalCompoundElement
-Aspirin,['oxygen'],ChemicalCompoundElement
-Hydrogen cyanide,['hydrogen'],ChemicalCompoundElement
-Hydrogen cyanide,['carbon'],ChemicalCompoundElement
-Hydrogen cyanide,['nitrogen'],ChemicalCompoundElement
-Progesterone,['carbon'],ChemicalCompoundElement
-Budipine,['carbon'],ChemicalCompoundElement
-Budipine,['nitrogen'],ChemicalCompoundElement
-Tropisetron,['carbon'],ChemicalCompoundElement
-Tropisetron,['nitrogen'],ChemicalCompoundElement
-Tropisetron,['oxygen'],ChemicalCompoundElement
-Nifedipine,['carbon'],ChemicalCompoundElement
-Nifedipine,['nitrogen'],ChemicalCompoundElement
-Nifedipine,['oxygen'],ChemicalCompoundElement
-Sphingosine,['carbon'],ChemicalCompoundElement
-Sphingosine,['oxygen'],ChemicalCompoundElement
-Hydrazine,['hydrogen'],ChemicalCompoundElement
-Hydrazine,['carbon'],ChemicalCompoundElement
-Methenamine,['hydrogen'],ChemicalCompoundElement
-Methenamine,['carbon'],ChemicalCompoundElement
-Methenamine,['nitrogen'],ChemicalCompoundElement
-Lithium iodide,['lithium'],ChemicalCompoundElement
-Lithium iodide,['iodine'],ChemicalCompoundElement
-Cyclobutane,['hydrogen'],ChemicalCompoundElement
-Cyclobutane,['carbon'],ChemicalCompoundElement
-Mustard gas,['carbon'],ChemicalCompoundElement
-Mustard gas,['sulfur'],ChemicalCompoundElement
-Mustard gas,['chlorine'],ChemicalCompoundElement
-Bismuth subsalicylate,['bismuth'],ChemicalCompoundElement
-Chlorophyll f,['carbon'],ChemicalCompoundElement
-Chlorophyll f,['nitrogen'],ChemicalCompoundElement
-Adiponitrile,['carbon'],ChemicalCompoundElement
-Sodium hydroxide,['hydrogen'],ChemicalCompoundElement
-Sodium hydroxide,['oxygen'],ChemicalCompoundElement
-Sodium hydroxide,['sodium'],ChemicalCompoundElement
-Sodium hydroxide,"['hydroxide ion', 'hydroxide']",ChemicalCompoundElement
-Sodium hydroxide,"['sodium', 'sodium ion']",ChemicalCompoundElement
-Bilirubin,['carbon'],ChemicalCompoundElement
-Bilirubin,['nitrogen'],ChemicalCompoundElement
-Cupric sulfate,['oxygen'],ChemicalCompoundElement
-Cupric sulfate,['sulfur'],ChemicalCompoundElement
-Cupric sulfate,['copper'],ChemicalCompoundElement
-Coumarin,['hydrogen'],ChemicalCompoundElement
-Coumarin,['carbon'],ChemicalCompoundElement
-Coumarin,['oxygen'],ChemicalCompoundElement
-Disilane,['hydrogen'],ChemicalCompoundElement
-Disilane,['silicon'],ChemicalCompoundElement
-Corrin,['carbon'],ChemicalCompoundElement
-Corrin,['nitrogen'],ChemicalCompoundElement
-Glycerol,['hydrogen'],ChemicalCompoundElement
-Glycerol,['carbon'],ChemicalCompoundElement
-Glycerol,['oxygen'],ChemicalCompoundElement
-Glycerol,['glyceryl'],ChemicalCompoundElement
-Epinephrine,['carbon'],ChemicalCompoundElement
-Epinephrine,['nitrogen'],ChemicalCompoundElement
-Niacin,['hydrogen'],ChemicalCompoundElement
-Niacin,['carbon'],ChemicalCompoundElement
-Niacin,['nitrogen'],ChemicalCompoundElement
-Niacin,['oxygen'],ChemicalCompoundElement
-Inositol trisphosphate,['carbon'],ChemicalCompoundElement
-Triethylamine,['hydrogen'],ChemicalCompoundElement
-Triethylamine,['carbon'],ChemicalCompoundElement
-Triethylamine,['nitrogen'],ChemicalCompoundElement
-Fumaric acid,['hydrogen'],ChemicalCompoundElement
-Fumaric acid,['carbon'],ChemicalCompoundElement
-Fumaric acid,['oxygen'],ChemicalCompoundElement
-Pimozide,['carbon'],ChemicalCompoundElement
-Pimozide,['fluorine'],ChemicalCompoundElement
-Azulene,['carbon'],ChemicalCompoundElement
-Nonane,['carbon'],ChemicalCompoundElement
-Octadecane,['carbon'],ChemicalCompoundElement
-Trimethyl phosphite,['hydrogen'],ChemicalCompoundElement
-Trimethyl phosphite,['carbon'],ChemicalCompoundElement
-Trimethyl phosphite,['oxygen'],ChemicalCompoundElement
-Trimethyl phosphite,['phosphorus'],ChemicalCompoundElement
-Valsartan,['carbon'],ChemicalCompoundElement
-Valsartan,['nitrogen'],ChemicalCompoundElement
-Vinylidene fluoride,['carbon'],ChemicalCompoundElement
-Vinylidene fluoride,['fluorine'],ChemicalCompoundElement
-Benzylpiperazine,['carbon'],ChemicalCompoundElement
-Benzylpiperazine,['nitrogen'],ChemicalCompoundElement
-Ddt,['carbon'],ChemicalCompoundElement
-Ddt,['chlorine'],ChemicalCompoundElement
-Glucagon,['carbon'],ChemicalCompoundElement
-Glucagon,['nitrogen'],ChemicalCompoundElement
-Glucagon,['glucagon/gip/secretin/vip'],ChemicalCompoundElement
-Phytane,['carbon'],ChemicalCompoundElement
-Potassium nitrate,['nitrogen'],ChemicalCompoundElement
-Potassium nitrate,['oxygen'],ChemicalCompoundElement
-Potassium nitrate,['potassium'],ChemicalCompoundElement
-Cadmium sulfide,['sulfur'],ChemicalCompoundElement
-Cadmium sulfide,['cadmium'],ChemicalCompoundElement
-Sodium bicarbonate,['hydrogen'],ChemicalCompoundElement
-Sodium bicarbonate,['carbon'],ChemicalCompoundElement
-Sodium bicarbonate,['oxygen'],ChemicalCompoundElement
-Sodium bicarbonate,['sodium'],ChemicalCompoundElement
-Melatonin,['carbon'],ChemicalCompoundElement
-Melatonin,['nitrogen'],ChemicalCompoundElement
-Aspartame,['carbon'],ChemicalCompoundElement
-Aspartame,['oxygen'],ChemicalCompoundElement
-Ammonium nitrate,['hydrogen'],ChemicalCompoundElement
-Ammonium nitrate,['nitrogen'],ChemicalCompoundElement
-Ammonium nitrate,['oxygen'],ChemicalCompoundElement
+SubjectEntity,relation,ObjectEntity
+Ammonia,ChemicalCompoundElement,['hydrogen']
+Ammonia,ChemicalCompoundElement,['nitrogen']
+Sulfuric acid,ChemicalCompoundElement,['hydrogen']
+Sulfuric acid,ChemicalCompoundElement,['oxygen']
+Sulfuric acid,ChemicalCompoundElement,['sulfur']
+Hyponitrous acid,ChemicalCompoundElement,['hydrogen']
+Hyponitrous acid,ChemicalCompoundElement,['oxygen']
+Azathioprine,ChemicalCompoundElement,['carbon']
+Azathioprine,ChemicalCompoundElement,['nitrogen']
+Azathioprine,ChemicalCompoundElement,['oxygen']
+Metformin,ChemicalCompoundElement,['hydrogen']
+Metformin,ChemicalCompoundElement,['carbon']
+Metformin,ChemicalCompoundElement,['nitrogen']
+Lysergic acid diethylamide,ChemicalCompoundElement,['carbon']
+Lysergic acid diethylamide,ChemicalCompoundElement,['nitrogen']
+Lysergic acid diethylamide,ChemicalCompoundElement,['oxygen']
+Flavin adenine dinucleotide,ChemicalCompoundElement,['carbon']
+Sodium tripolyphosphate,ChemicalCompoundElement,['oxygen']
+Sodium tripolyphosphate,ChemicalCompoundElement,['sodium']
+Sodium tripolyphosphate,ChemicalCompoundElement,['phosphorus']
+Aminomethylpropanol,ChemicalCompoundElement,['hydrogen']
+Aminomethylpropanol,ChemicalCompoundElement,['carbon']
+Aminomethylpropanol,ChemicalCompoundElement,['nitrogen']
+Aminomethylpropanol,ChemicalCompoundElement,['oxygen']
+Maleic acid,ChemicalCompoundElement,['carbon']
+Maleic acid,ChemicalCompoundElement,['oxygen']
+Tenoxicam,ChemicalCompoundElement,['carbon']
+Tenoxicam,ChemicalCompoundElement,['sulfur']
+Ethyl acetoacetate,ChemicalCompoundElement,['hydrogen']
+Ethyl acetoacetate,ChemicalCompoundElement,['carbon']
+Ethyl acetoacetate,ChemicalCompoundElement,['oxygen']
+Acetone,ChemicalCompoundElement,['hydrogen']
+Acetone,ChemicalCompoundElement,['carbon']
+Acetone,ChemicalCompoundElement,['oxygen']
+Pethidine,ChemicalCompoundElement,['hydrogen']
+Pethidine,ChemicalCompoundElement,['carbon']
+Pethidine,ChemicalCompoundElement,['nitrogen']
+Pethidine,ChemicalCompoundElement,['oxygen']
+Hydrazine,ChemicalCompoundElement,['hydrogen']
+Hydrazine,ChemicalCompoundElement,['carbon']
+Heroin,ChemicalCompoundElement,['carbon']
+Heroin,ChemicalCompoundElement,['oxygen']
+Adenosine diphosphate ribose,ChemicalCompoundElement,['hydrogen']
+Hydroxocobalamin,ChemicalCompoundElement,['carbon']
+Hydroxocobalamin,ChemicalCompoundElement,['cobalt']
+Cyclopropane,ChemicalCompoundElement,['carbon']
+Mustard gas,ChemicalCompoundElement,['carbon']
+Mustard gas,ChemicalCompoundElement,['sulfur']
+Mustard gas,ChemicalCompoundElement,['chlorine']
+Chlorophyll f,ChemicalCompoundElement,['carbon']
+Chlorophyll f,ChemicalCompoundElement,['nitrogen']
+Sodium hydroxide,ChemicalCompoundElement,['hydrogen']
+Sodium hydroxide,ChemicalCompoundElement,['oxygen']
+Sodium hydroxide,ChemicalCompoundElement,['sodium']
+Sodium hydroxide,ChemicalCompoundElement,"['hydroxide ion', 'hydroxide']"
+Sodium hydroxide,ChemicalCompoundElement,"['sodium', 'sodium ion']"
+Carbonic acid,ChemicalCompoundElement,['hydrogen']
+Carbonic acid,ChemicalCompoundElement,['carbon']
+Carbonic acid,ChemicalCompoundElement,['oxygen']
+Coumarin,ChemicalCompoundElement,['hydrogen']
+Coumarin,ChemicalCompoundElement,['carbon']
+Coumarin,ChemicalCompoundElement,['oxygen']
+Cupric phosphate,ChemicalCompoundElement,['oxygen']
+Cupric phosphate,ChemicalCompoundElement,['phosphorus']
+Cupric phosphate,ChemicalCompoundElement,['copper']
+Triphenylphosphine,ChemicalCompoundElement,['carbon']
+Triphenylphosphine,ChemicalCompoundElement,['phosphorus']
+Glutathione,ChemicalCompoundElement,['carbon']
+Glutathione,ChemicalCompoundElement,['nitrogen']
+Rubidium hydroxide,ChemicalCompoundElement,['hydrogen']
+Rubidium hydroxide,ChemicalCompoundElement,['oxygen']
+Rubidium hydroxide,ChemicalCompoundElement,['rubidium']
+Motilin,ChemicalCompoundElement,['carbon']
+Motilin,ChemicalCompoundElement,['nitrogen']
+Aluminium chlorohydrate,ChemicalCompoundElement,['aluminium']
+Aluminium chlorohydrate,ChemicalCompoundElement,['chlorine']
+Ecdysone,ChemicalCompoundElement,['carbon']
+Triethylamine,ChemicalCompoundElement,['hydrogen']
+Triethylamine,ChemicalCompoundElement,['carbon']
+Triethylamine,ChemicalCompoundElement,['nitrogen']
+Tabun,ChemicalCompoundElement,['carbon']
+Tabun,ChemicalCompoundElement,['nitrogen']
+Tabun,ChemicalCompoundElement,['phosphorus']
+Azulene,ChemicalCompoundElement,['carbon']
+Hexadecane,ChemicalCompoundElement,['carbon']
+Heptadecane,ChemicalCompoundElement,['carbon']
+Nonadecane,ChemicalCompoundElement,['carbon']
+Icosane,ChemicalCompoundElement,['hydrogen']
+Icosane,ChemicalCompoundElement,['carbon']
+Aluminum iodide,ChemicalCompoundElement,['aluminium']
+Aluminum iodide,ChemicalCompoundElement,['iodine']
+Aluminum iodide,ChemicalCompoundElement,"['iodide', 'iodide ion']"
+Vinylidene fluoride,ChemicalCompoundElement,['carbon']
+Vinylidene fluoride,ChemicalCompoundElement,['fluorine']
+Cetyl alcohol,ChemicalCompoundElement,['carbon']
+Cetyl alcohol,ChemicalCompoundElement,['oxygen']
+Atracurium besylate,ChemicalCompoundElement,['carbon']
+Atracurium besylate,ChemicalCompoundElement,['nitrogen']
+Methacrylic acid,ChemicalCompoundElement,['hydrogen']
+Methacrylic acid,ChemicalCompoundElement,['carbon']
+Methacrylic acid,ChemicalCompoundElement,['oxygen']
+Zeaxanthin,ChemicalCompoundElement,['carbon']
+Tnt,ChemicalCompoundElement,['hydrogen']
+Tnt,ChemicalCompoundElement,['carbon']
+Tnt,ChemicalCompoundElement,['nitrogen']
+Tnt,ChemicalCompoundElement,['oxygen']
+Glucagon,ChemicalCompoundElement,['carbon']
+Glucagon,ChemicalCompoundElement,['nitrogen']
+Mercurous fluoride,ChemicalCompoundElement,['fluorine']
+Mercurous fluoride,ChemicalCompoundElement,['mercury']
+Mercuric fluoride,ChemicalCompoundElement,['fluorine']
+Mercuric fluoride,ChemicalCompoundElement,['mercury']
+Gold trichloride,ChemicalCompoundElement,['chlorine']
+Gold trichloride,ChemicalCompoundElement,['gold']
+Imatinib,ChemicalCompoundElement,['carbon']
+Imatinib,ChemicalCompoundElement,['nitrogen']
