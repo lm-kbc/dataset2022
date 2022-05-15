@@ -6,9 +6,8 @@ Norway,CountryOfficialLanguage,"['sami', 'sámi']"
 Finland,CountryOfficialLanguage,['finnish']
 Finland,CountryOfficialLanguage,['swedish']
 Austria,CountryOfficialLanguage,['german']
-Austria,CountryOfficialLanguage,"['austrian sign language', 'austrian']"
 France,CountryOfficialLanguage,['french']
-People's republic of china,CountryOfficialLanguage,"['languages of china', 'chinese']"
+People's republic of china,CountryOfficialLanguage,"['chinese']"
 People's republic of china,CountryOfficialLanguage,['chinese']
 People's republic of china,CountryOfficialLanguage,"['standard mandarin', 'mandarin']"
 Iceland,CountryOfficialLanguage,['icelandic']
@@ -75,7 +74,6 @@ Zimbabwe,CountryOfficialLanguage,"['northern ndebele', 'ndebele']"
 Zimbabwe,CountryOfficialLanguage,['shona']
 Zimbabwe,CountryOfficialLanguage,['sesotho']
 Zimbabwe,CountryOfficialLanguage,['kalanga']
-Zimbabwe,CountryOfficialLanguage,"['zimbabwe', 'zimbabwe sign language']"
 Zimbabwe,CountryOfficialLanguage,['chewa']
 Zimbabwe,CountryOfficialLanguage,['venda']
 Zimbabwe,CountryOfficialLanguage,['ndau']
