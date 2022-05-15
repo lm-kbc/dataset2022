@@ -1,0 +1,269 @@
+SubjectEntity,ObjectEntity,relation
+Justin Timberlake,['piano'],PersonInstrument
+Justin Timberlake,['guitar'],PersonInstrument
+Justin Timberlake,"['keyboard instrument', 'keyboard']",PersonInstrument
+Justin Timberlake,['beatboxing'],PersonInstrument
+Justin Timberlake,['none'],PersonInstrument
+Neil Young,['guitar'],PersonInstrument
+Victoria Beckham,['none'],PersonInstrument
+Axl Rose,['piano'],PersonInstrument
+Axl Rose,['guitar'],PersonInstrument
+Axl Rose,['bass'],PersonInstrument
+Axl Rose,['pander'],PersonInstrument
+Axl Rose,['none'],PersonInstrument
+James Maslow,['piano'],PersonInstrument
+James Maslow,['guitar'],PersonInstrument
+James Maslow,"['drum', 'drum kit']",PersonInstrument
+James Maslow,['none'],PersonInstrument
+Mike Shinoda,['organ'],PersonInstrument
+Mike Shinoda,['piano'],PersonInstrument
+Mike Shinoda,['guitar'],PersonInstrument
+Mike Shinoda,"['bass guitar', 'guitar']",PersonInstrument
+Mike Shinoda,"['drum', 'drum kit']",PersonInstrument
+Mike Shinoda,['synthesizer'],PersonInstrument
+Mike Shinoda,['sampler'],PersonInstrument
+Mike Shinoda,['none'],PersonInstrument
+Logan Henderson,['piano'],PersonInstrument
+Logan Henderson,['none'],PersonInstrument
+Slash,['guitar'],PersonInstrument
+Slash,"['bass guitar', 'guitar']",PersonInstrument
+Carlos PenaVega,['ukulele'],PersonInstrument
+Carlos PenaVega,['none'],PersonInstrument
+Björk,['piano'],PersonInstrument
+Björk,['clarinet'],PersonInstrument
+Björk,['saxophone'],PersonInstrument
+Björk,['flute'],PersonInstrument
+Björk,['harp'],PersonInstrument
+Björk,"['keyboard instrument', 'keyboard']",PersonInstrument
+Björk,['clavichord'],PersonInstrument
+Björk,['pipe organ'],PersonInstrument
+Björk,['celesta'],PersonInstrument
+Björk,['none'],PersonInstrument
+Björk,['sets of free reeds'],PersonInstrument
+Hayley Williams,['piano'],PersonInstrument
+Hayley Williams,['guitar'],PersonInstrument
+Hayley Williams,"['bass guitar', 'guitar']",PersonInstrument
+Hayley Williams,"['keyboard instrument', 'keyboard']",PersonInstrument
+Hayley Williams,"['drum', 'drum kit']",PersonInstrument
+Hayley Williams,['none'],PersonInstrument
+Niall Horan,['piano'],PersonInstrument
+Niall Horan,['guitar'],PersonInstrument
+Niall Horan,['none'],PersonInstrument
+Ozzy Osbourne,['harmonica'],PersonInstrument
+Ozzy Osbourne,"['keyboard instrument', 'keyboard']",PersonInstrument
+Ozzy Osbourne,['none'],PersonInstrument
+Tablo,['none'],PersonInstrument
+Roger Taylor,['guitar'],PersonInstrument
+Roger Taylor,"['bass guitar', 'guitar']",PersonInstrument
+Roger Taylor,"['keyboard instrument', 'keyboard']",PersonInstrument
+Roger Taylor,"['drum', 'drum kit']",PersonInstrument
+Roger Taylor,"['drum machine', 'drum']",PersonInstrument
+Roger Taylor,['none'],PersonInstrument
+Mick Jagger,['piano'],PersonInstrument
+Mick Jagger,['guitar'],PersonInstrument
+Mick Jagger,['harmonica'],PersonInstrument
+Mick Jagger,"['piano', 'upright piano']",PersonInstrument
+Mick Jagger,['none'],PersonInstrument
+Lee Dong-hae,['piano'],PersonInstrument
+Lee Dong-hae,['none'],PersonInstrument
+Liam Gallagher,['guitar'],PersonInstrument
+Liam Gallagher,['maraca'],PersonInstrument
+Liam Gallagher,['none'],PersonInstrument
+Marisa Monte,['guitar'],PersonInstrument
+Marisa Monte,['none'],PersonInstrument
+Henry Lau,['piano'],PersonInstrument
+Henry Lau,['guitar'],PersonInstrument
+Henry Lau,['violin'],PersonInstrument
+Henry Lau,['drum'],PersonInstrument
+Henry Lau,['none'],PersonInstrument
+Joseph Hahn,"['keyboard instrument', 'keyboard']",PersonInstrument
+Joseph Hahn,['none'],PersonInstrument
+Nichkhun,"['keyboard instrument', 'keyboard']",PersonInstrument
+Nichkhun,['none'],PersonInstrument
+China Anne McClain,['piano'],PersonInstrument
+China Anne McClain,['guitar'],PersonInstrument
+China Anne McClain,['bass'],PersonInstrument
+China Anne McClain,['none'],PersonInstrument
+Gustavo Cerati,['guitar'],PersonInstrument
+Gustavo Cerati,"['bass guitar', 'guitar']",PersonInstrument
+Gustavo Cerati,['sampler'],PersonInstrument
+Gustavo Cerati,['none'],PersonInstrument
+Matt Bellamy,['piano'],PersonInstrument
+Matt Bellamy,['guitar'],PersonInstrument
+Matt Bellamy,['clarinet'],PersonInstrument
+Matt Bellamy,"['keyboard instrument', 'keyboard']",PersonInstrument
+Matt Bellamy,['mandolin'],PersonInstrument
+Matt Bellamy,"['keyboard', 'musical keyboard']",PersonInstrument
+Matt Bellamy,['keytar'],PersonInstrument
+Matt Bellamy,['none'],PersonInstrument
+Yesung,['piano'],PersonInstrument
+Yesung,['none'],PersonInstrument
+Willie Nelson,['guitar'],PersonInstrument
+Willie Nelson,"['acoustic guitar', 'guitar']",PersonInstrument
+Willie Nelson,"['electric guitar', 'guitar']",PersonInstrument
+Willie Nelson,"['guitar', 'classical guitar']",PersonInstrument
+Willie Nelson,"['steel-string acoustic guitar', 'guitar']",PersonInstrument
+Willie Nelson,['none'],PersonInstrument
+Leeteuk,['piano'],PersonInstrument
+Leeteuk,['none'],PersonInstrument
+G-Dragon,['none'],PersonInstrument
+Kim Jong-hyun,['piano'],PersonInstrument
+Kim Jong-hyun,['guitar'],PersonInstrument
+Kim Jong-hyun,"['bass guitar', 'guitar']",PersonInstrument
+Kim Jong-hyun,['kazoo'],PersonInstrument
+Kim Jong-hyun,['none'],PersonInstrument
+Dave Farrell,"['bass guitar', 'guitar']",PersonInstrument
+Gerard Way,"['electric guitar', 'guitar']",PersonInstrument
+Gerard Way,['none'],PersonInstrument
+Duff McKagan,['guitar'],PersonInstrument
+Duff McKagan,"['bass guitar', 'guitar']",PersonInstrument
+Duff McKagan,['none'],PersonInstrument
+Yoshiki,['piano'],PersonInstrument
+Yoshiki,['guitar'],PersonInstrument
+Yoshiki,"['keyboard instrument', 'keyboard']",PersonInstrument
+Yoshiki,"['drum', 'drum kit']",PersonInstrument
+Yoshiki,['arp 2500'],PersonInstrument
+Gene Simmons,['guitar'],PersonInstrument
+Gene Simmons,"['bass guitar', 'guitar']",PersonInstrument
+Gene Simmons,['none'],PersonInstrument
+Jung Yong-hwa,['guitar'],PersonInstrument
+Jung Yong-hwa,['none'],PersonInstrument
+David Coverdale,['guitar'],PersonInstrument
+David Coverdale,"['bass guitar', 'guitar']",PersonInstrument
+David Coverdale,"['keyboard instrument', 'keyboard']",PersonInstrument
+David Coverdale,"['percussion instrument', 'percussion']",PersonInstrument
+David Coverdale,['none'],PersonInstrument
+Yui Yokoyama,['trumpet'],PersonInstrument
+Yui Yokoyama,['none'],PersonInstrument
+Corey Taylor,['guitar'],PersonInstrument
+Corey Taylor,"['electric guitar', 'guitar']",PersonInstrument
+Corey Taylor,"['percussion instrument', 'percussion']",PersonInstrument
+Corey Taylor,['none'],PersonInstrument
+Minami Takahashi,['none'],PersonInstrument
+Mithra Jin,"['drum', 'drum kit']",PersonInstrument
+Mithra Jin,['none'],PersonInstrument
+Howard Donald,['piano'],PersonInstrument
+Howard Donald,['trumpet'],PersonInstrument
+Howard Donald,"['drum', 'drum kit']",PersonInstrument
+Howard Donald,"['percussion instrument', 'percussion']",PersonInstrument
+Howard Donald,['none'],PersonInstrument
+Haruna Kojima,['none'],PersonInstrument
+Eric Clapton,['guitar'],PersonInstrument
+Eric Clapton,"['electric guitar', 'guitar']",PersonInstrument
+Eric Clapton,['none'],PersonInstrument
+Rivers Cuomo,['guitar'],PersonInstrument
+Rivers Cuomo,['none'],PersonInstrument
+Anna Iriyama,['flute'],PersonInstrument
+Anna Iriyama,['none'],PersonInstrument
+Stevie Nicks,['guitar'],PersonInstrument
+Stevie Nicks,"['keyboard instrument', 'keyboard']",PersonInstrument
+Stevie Nicks,['tambourine'],PersonInstrument
+Stevie Nicks,['none'],PersonInstrument
+Randy Jackson,['guitar'],PersonInstrument
+Randy Jackson,"['bass guitar', 'guitar']",PersonInstrument
+Randy Jackson,['bass'],PersonInstrument
+Randy Jackson,['none'],PersonInstrument
+Emma Bunton,['none'],PersonInstrument
+Mayu Watanabe,['none'],PersonInstrument
+Lee Hong-gi,['guitar'],PersonInstrument
+Lee Hong-gi,['none'],PersonInstrument
+Alice Cooper,['harmonica'],PersonInstrument
+Alice Cooper,['none'],PersonInstrument
+Arnel Pineda,['guitar'],PersonInstrument
+Arnel Pineda,['none'],PersonInstrument
+David Gilmour,['guitar'],PersonInstrument
+David Gilmour,['saxophone'],PersonInstrument
+David Gilmour,"['bass guitar', 'guitar']",PersonInstrument
+David Gilmour,"['drum', 'drum kit']",PersonInstrument
+Nikki Sixx,['guitar'],PersonInstrument
+Nikki Sixx,"['bass guitar', 'guitar']",PersonInstrument
+Mike Portnoy,"['drum', 'drum kit']",PersonInstrument
+Mike Portnoy,['none'],PersonInstrument
+Yoon Doo-joon,['piano'],PersonInstrument
+Yoon Doo-joon,['none'],PersonInstrument
+David Crosby,['piano'],PersonInstrument
+David Crosby,['guitar'],PersonInstrument
+David Crosby,['violin'],PersonInstrument
+David Crosby,['tambourine'],PersonInstrument
+David Crosby,"['guitar', '12-string guitar']",PersonInstrument
+David Crosby,['none'],PersonInstrument
+Jack White,['piano'],PersonInstrument
+Jack White,['guitar'],PersonInstrument
+Jack White,"['drum', 'drum kit']",PersonInstrument
+Jack White,['mandolin'],PersonInstrument
+Jack White,"['keyboard', 'musical keyboard']",PersonInstrument
+Jack White,['none'],PersonInstrument
+Tomomi Itano,['piano'],PersonInstrument
+Tomomi Itano,['none'],PersonInstrument
+Tom Morello,['guitar'],PersonInstrument
+Hwang Chansung,['none'],PersonInstrument
+Frank Iero,['guitar'],PersonInstrument
+Frank Iero,"['bass guitar', 'guitar']",PersonInstrument
+Frank Iero,['none'],PersonInstrument
+Hahm Eun-jung,['none'],PersonInstrument
+Heo Young-saeng,['piano'],PersonInstrument
+Heo Young-saeng,['none'],PersonInstrument
+Geezer Butler,['guitar'],PersonInstrument
+Geezer Butler,"['bass guitar', 'guitar']",PersonInstrument
+Geezer Butler,['bass'],PersonInstrument
+Jo Kwon,['none'],PersonInstrument
+Kang Min-hyuk,"['drum', 'drum kit']",PersonInstrument
+Kang Min-hyuk,['none'],PersonInstrument
+Zhou Mi,['none'],PersonInstrument
+Choi Jong-hoon,['guitar'],PersonInstrument
+Choi Jong-hoon,['none'],PersonInstrument
+Lee Jung-shin,"['bass guitar', 'guitar']",PersonInstrument
+Lee Jung-shin,['none'],PersonInstrument
+Kim Kibum,['young plan'],PersonInstrument
+Kim Kibum,['none'],PersonInstrument
+Yūko Ōshima,"['bass guitar', 'guitar']",PersonInstrument
+Yūko Ōshima,['none'],PersonInstrument
+Soprano,['none'],PersonInstrument
+Peter Hook,"['bass guitar', 'guitar']",PersonInstrument
+Peter Hook,"['keyboard instrument', 'keyboard']",PersonInstrument
+Peter Hook,['cymbal'],PersonInstrument
+Peter Hook,['melodica'],PersonInstrument
+Peter Hook,['bass'],PersonInstrument
+Peter Hook,"['drum', 'electronic drum']",PersonInstrument
+Peter Hook,['none'],PersonInstrument
+Peter Hook,['guitar'],PersonInstrument
+Bang Yong-guk,['none'],PersonInstrument
+Johnny Marr,['guitar'],PersonInstrument
+Johnny Marr,['none'],PersonInstrument
+Jamie,['none'],PersonInstrument
+Billy Corgan,['guitar'],PersonInstrument
+Billy Corgan,['none'],PersonInstrument
+Ronan Keating,['none'],PersonInstrument
+Mikey Way,['guitar'],PersonInstrument
+Mikey Way,"['bass guitar', 'guitar']",PersonInstrument
+Debbie Harry,['none'],PersonInstrument
+Goo Hara,['none'],PersonInstrument
+JAY B,['none'],PersonInstrument
+Robert Plant,['harmonica'],PersonInstrument
+Robert Plant,['none'],PersonInstrument
+Ryo Nishikido,['guitar'],PersonInstrument
+Ryo Nishikido,['none'],PersonInstrument
+Lars Ulrich,"['drum', 'drum kit']",PersonInstrument
+Nicole Jung,['none'],PersonInstrument
+Hyomin,['none'],PersonInstrument
+Glenn Hughes,['guitar'],PersonInstrument
+Glenn Hughes,"['bass guitar', 'guitar']",PersonInstrument
+Glenn Hughes,['none'],PersonInstrument
+Chris Daughtry,['guitar'],PersonInstrument
+Chris Daughtry,['none'],PersonInstrument
+Song Jieun,['piano'],PersonInstrument
+Song Jieun,['none'],PersonInstrument
+Lee Hyun,['none'],PersonInstrument
+Jen Ledger,"['drum', 'drum kit']",PersonInstrument
+Jen Ledger,"['percussion instrument', 'percussion']",PersonInstrument
+Jen Ledger,['none'],PersonInstrument
+Rea Garvey,['guitar'],PersonInstrument
+Rea Garvey,['none'],PersonInstrument
+Dominic Howard,"['drum', 'drum kit']",PersonInstrument
+Dominic Howard,"['percussion instrument', 'percussion']",PersonInstrument
+Dominic Howard,['none'],PersonInstrument
+Onew,['none'],PersonInstrument
+Sakura Miyawaki,['none'],PersonInstrument
+Florence Welch,['guitar'],PersonInstrument
+Florence Welch,['none'],PersonInstrument
+Sarah Harding,['none'],PersonInstrument

@@ -1,0 +1,157 @@
+SubjectEntity,ObjectEntity,relation
+Barack Obama,['english'],PersonLanguage
+Barack Obama,['indonesian'],PersonLanguage
+Narendra Modi,['hindi'],PersonLanguage
+Narendra Modi,['english'],PersonLanguage
+Narendra Modi,['gujarati'],PersonLanguage
+Narendra Modi,['bengali'],PersonLanguage
+Narendra Modi,['sanskrit'],PersonLanguage
+Narendra Modi,['punjabi'],PersonLanguage
+Bruno Mars,['spanish'],PersonLanguage
+Bruno Mars,['english'],PersonLanguage
+Cristiano Ronaldo,['spanish'],PersonLanguage
+Cristiano Ronaldo,['english'],PersonLanguage
+Cristiano Ronaldo,['portuguese'],PersonLanguage
+Sebastián Piñera,['french'],PersonLanguage
+Sebastián Piñera,['spanish'],PersonLanguage
+Sebastián Piñera,['english'],PersonLanguage
+Rachel Maddow,['english'],PersonLanguage
+François Hollande,['french'],PersonLanguage
+Bill Clinton,['english'],PersonLanguage
+Sachin,['hindi'],PersonLanguage
+Sachin,['marathi'],PersonLanguage
+Sachin,['english'],PersonLanguage
+Miley Cyrus,['english'],PersonLanguage
+Shakira,['french'],PersonLanguage
+Shakira,['italian'],PersonLanguage
+Shakira,['spanish'],PersonLanguage
+Shakira,['english'],PersonLanguage
+Shakira,['portuguese'],PersonLanguage
+Shakira,['catalan'],PersonLanguage
+Aamir Khan,['hindi'],PersonLanguage
+Aamir Khan,['urdu'],PersonLanguage
+Aamir Khan,['english'],PersonLanguage
+Karim Benzema,['french'],PersonLanguage
+Arnold Schwarzenegger,['german'],PersonLanguage
+Arnold Schwarzenegger,['english'],PersonLanguage
+Arnold Schwarzenegger,['austrian german'],PersonLanguage
+Hillary Clinton,['english'],PersonLanguage
+Rafael Nadal,['spanish'],PersonLanguage
+Rafael Nadal,['english'],PersonLanguage
+Rafael Nadal,['catalan'],PersonLanguage
+Michael Bloomberg,['english'],PersonLanguage
+Ezra Klein,['english'],PersonLanguage
+Lady Gaga,['english'],PersonLanguage
+Donald Tusk,['german'],PersonLanguage
+Donald Tusk,['polish'],PersonLanguage
+Donald Tusk,['english'],PersonLanguage
+Alessandro Del Piero,['italian'],PersonLanguage
+Eminem,['english'],PersonLanguage
+Bob Marley,['english'],PersonLanguage
+Taylor Swift,['english'],PersonLanguage
+Rihanna,['english'],PersonLanguage
+Katy Perry,['english'],PersonLanguage
+David Guetta,['french'],PersonLanguage
+Lil Wayne,['english'],PersonLanguage
+Rahul Gandhi,['hindi'],PersonLanguage
+Kanye West,['english'],PersonLanguage
+Serena Williams,['french'],PersonLanguage
+Serena Williams,['english'],PersonLanguage
+Kobe Bryant,['italian'],PersonLanguage
+Kobe Bryant,['spanish'],PersonLanguage
+Kobe Bryant,['english'],PersonLanguage
+Blaise Matuidi,['french'],PersonLanguage
+Leonardo DiCaprio,['german'],PersonLanguage
+Leonardo DiCaprio,['italian'],PersonLanguage
+Leonardo DiCaprio,['english'],PersonLanguage
+Maria Sharapova,['english'],PersonLanguage
+Maria Sharapova,['russian'],PersonLanguage
+Emma Watson,['french'],PersonLanguage
+Emma Watson,['english'],PersonLanguage
+V. V. S. Laxman,['english'],PersonLanguage
+V. V. S. Laxman,['telugu'],PersonLanguage
+Carles Puyol,['spanish'],PersonLanguage
+Carles Puyol,['catalan'],PersonLanguage
+LeBron James,['english'],PersonLanguage
+Jennette McCurdy,['english'],PersonLanguage
+Adele,['english'],PersonLanguage
+Joe Biden,['english'],PersonLanguage
+Cesc Fàbregas,['spanish'],PersonLanguage
+Cesc Fàbregas,['catalan'],PersonLanguage
+Ronaldinho,['spanish'],PersonLanguage
+Ronaldinho,['portuguese'],PersonLanguage
+Mohamed Morsi,['english'],PersonLanguage
+Mohamed Morsi,['arabic'],PersonLanguage
+Mitt Romney,['french'],PersonLanguage
+Mitt Romney,['english'],PersonLanguage
+Mesut Özil,['german'],PersonLanguage
+Mesut Özil,['turkish'],PersonLanguage
+Mesut Özil,['english'],PersonLanguage
+Jean-Luc Mélenchon,['french'],PersonLanguage
+Jean-Luc Mélenchon,['spanish'],PersonLanguage
+Iker Casillas,['spanish'],PersonLanguage
+Ringo Starr,['english'],PersonLanguage
+Oprah Winfrey,['english'],PersonLanguage
+Avril Lavigne,['english'],PersonLanguage
+A. R. Rahman,['hindi'],PersonLanguage
+A. R. Rahman,['tamil'],PersonLanguage
+A. R. Rahman,['telugu'],PersonLanguage
+Mark Hoppus,['english'],PersonLanguage
+Luis Suárez,['spanish'],PersonLanguage
+Troian Bellisario,['english'],PersonLanguage
+John Cena,['english'],PersonLanguage
+John Cena,"['mandarin chinese', 'chinese']",PersonLanguage
+Enrique Iglesias,['spanish'],PersonLanguage
+Enrique Iglesias,['english'],PersonLanguage
+William Bonner,['portuguese'],PersonLanguage
+tanayo,['spanish'],PersonLanguage
+tanayo,['english'],PersonLanguage
+Ariana Grande,['english'],PersonLanguage
+Mariah Carey,['english'],PersonLanguage
+Lana Del Rey,['spanish'],PersonLanguage
+Lana Del Rey,['english'],PersonLanguage
+Elizabeth II,['english'],PersonLanguage
+Hugo Chávez,['spanish'],PersonLanguage
+Jessie J,['english'],PersonLanguage
+George Harrison,['english'],PersonLanguage
+Beyoncé,['english'],PersonLanguage
+Jose Michimani,['english'],PersonLanguage
+Christina Aguilera,['english'],PersonLanguage
+Elton John,['english'],PersonLanguage
+Claire Holt,['english'],PersonLanguage
+Mohammed bin Rashid Al Maktoum,['english'],PersonLanguage
+Mohammed bin Rashid Al Maktoum,['arabic'],PersonLanguage
+Paris Hilton,['english'],PersonLanguage
+Skrillex,['english'],PersonLanguage
+Seth Meyers,['english'],PersonLanguage
+Cher,['english'],PersonLanguage
+Genelia D'Souza,['hindi'],PersonLanguage
+Genelia D'Souza,['tamil'],PersonLanguage
+Genelia D'Souza,['telugu'],PersonLanguage
+Genelia D'Souza,['malayalam'],PersonLanguage
+Ricky Martin,['spanish'],PersonLanguage
+Ricky Martin,['english'],PersonLanguage
+Wiz Khalifa,['english'],PersonLanguage
+Jenson Button,['english'],PersonLanguage
+Franz Beckenbauer,['german'],PersonLanguage
+Ashley Young,['english'],PersonLanguage
+Jessica B. Hill,['english'],PersonLanguage
+Jeremy Renner,['english'],PersonLanguage
+Thiago Alcântara,['spanish'],PersonLanguage
+Psy,['korean'],PersonLanguage
+John Cleese,['english'],PersonLanguage
+Andrew Cuomo,['english'],PersonLanguage
+Pelé,['portuguese'],PersonLanguage
+Chris Brown,['english'],PersonLanguage
+Marine Le Pen,['french'],PersonLanguage
+Abdullah Gül,['turkish'],PersonLanguage
+Marc Márquez,['spanish'],PersonLanguage
+Marc Márquez,['english'],PersonLanguage
+Marc Márquez,['catalan'],PersonLanguage
+Brie Larson,['french'],PersonLanguage
+Brie Larson,['english'],PersonLanguage
+Akon,['english'],PersonLanguage
+Lindsay Lohan,['english'],PersonLanguage
+Carly Rae Jepsen,['english'],PersonLanguage
+Kylie Minogue,['english'],PersonLanguage
+Kemal Kılıçdaroğlu,['turkish'],PersonLanguage

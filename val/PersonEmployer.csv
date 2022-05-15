@@ -1,0 +1,99 @@
+SubjectEntity,ObjectEntity,relation
+Sebastián Piñera,['university of chile'],PersonEmployer
+Sebastián Piñera,['adolfo ibáñez university'],PersonEmployer
+Sebastián Piñera,['pontifical catholic university of chile'],PersonEmployer
+Oprah Winfrey,['harpo productions'],PersonEmployer
+Oprah Winfrey,['wls-tv'],PersonEmployer
+Oprah Winfrey,['wjz-tv'],PersonEmployer
+Oprah Winfrey,['wtvf'],PersonEmployer
+Oprah Winfrey,['wvol'],PersonEmployer
+Katy Perry,['unicef'],PersonEmployer
+Serena Williams,['unicef'],PersonEmployer
+Dr. Dre,"['apple inc.', 'apple']",PersonEmployer
+John McAfee,"['lockheedoration', 'lockheed corporation']",PersonEmployer
+John McAfee,['xerox'],PersonEmployer
+John McAfee,"['mcafee, llc']",PersonEmployer
+John McAfee,['goddard institute for space studies'],PersonEmployer
+John McAfee,['booz allen hamilton'],PersonEmployer
+John McAfee,"['computer sciencesoration', 'computer sciences corporation']",PersonEmployer
+John McAfee,['univac'],PersonEmployer
+Michael J. Massimino,['national aeronautics and space administration'],PersonEmployer
+Michael J. Massimino,['ibm'],PersonEmployer
+Michael J. Massimino,['rice university'],PersonEmployer
+Michael J. Massimino,['georgia institute of technology'],PersonEmployer
+Meg Whitman,"['the walt disney company', 'walt disney']",PersonEmployer
+Meg Whitman,['ebay'],PersonEmployer
+Meg Whitman,['hewlett-packard'],PersonEmployer
+Meg Whitman,['dreamworks'],PersonEmployer
+Meg Whitman,['procter & gamble'],PersonEmployer
+Meg Whitman,['hasbro'],PersonEmployer
+Meg Whitman,"['bain &', 'bain & company']",PersonEmployer
+Meg Whitman,['quibi'],PersonEmployer
+John Kasich,['donald lukens'],PersonEmployer
+Chelsea Clinton,['columbia university'],PersonEmployer
+Kai-Fu Lee,['google'],PersonEmployer
+Kai-Fu Lee,"['apple inc.', 'apple']",PersonEmployer
+Kai-Fu Lee,['microsoft'],PersonEmployer
+Kai-Fu Lee,['carnegie mellon university'],PersonEmployer
+Kai-Fu Lee,['silicon graphics'],PersonEmployer
+Jerzy Buzek,['university of cambridge'],PersonEmployer
+Thomas Pesquet,['european space agency'],PersonEmployer
+Thomas Pesquet,['cnes'],PersonEmployer
+Thomas Pesquet,['air france'],PersonEmployer
+Thomas Pesquet,['gmv innovating solutions'],PersonEmployer
+Mike Pompeo,['central intelligence agency'],PersonEmployer
+Melinda Gates,['microsoft'],PersonEmployer
+Steve Wozniak,"['apple inc.', 'apple']",PersonEmployer
+Steve Wozniak,['hewlett-packard'],PersonEmployer
+Steve Wozniak,['university of technology sydney'],PersonEmployer
+Steve Wozniak,"['atari', 'atari, inc.']",PersonEmployer
+Mahmoud Ahmadinejad,['iran university of science and technology'],PersonEmployer
+Stephanie McMahon,['wwe'],PersonEmployer
+Dick Costolo,['google'],PersonEmployer
+Dick Costolo,"['twitter, inc.', 'twitter']",PersonEmployer
+Vivienne Westwood,['berlin university of the arts'],PersonEmployer
+Joan Laporta,['university of barcelona'],PersonEmployer
+Reggie Fils-Aimé,['nintendo'],PersonEmployer
+Chad Hurley,['google'],PersonEmployer
+Ricardo Salinas Pliego,['grupo salinas'],PersonEmployer
+Marc Benioff,['oracle'],PersonEmployer
+Marc Benioff,['salesforce.com'],PersonEmployer
+Rahm Emanuel,['goldman sachs'],PersonEmployer
+Rahm Emanuel,['democratic congressional campaign committee'],PersonEmployer
+Rahm Emanuel,['wasserstein perella & co.'],PersonEmployer
+Adam Back,['blockstream'],PersonEmployer
+Anatoly Chubais,['moscow institute of physics and technology'],PersonEmployer
+Shane McMahon,['wwe'],PersonEmployer
+David Heinemeier Hansson,['basecamp'],PersonEmployer
+Jose M. Hernandez,['nara prefecture'],PersonEmployer
+Hikakin,['yoshiike'],PersonEmployer
+Shane Kimbrough,['united states military academy'],PersonEmployer
+Shane Kimbrough,['national aeronautics and space administration'],PersonEmployer
+Peter Thiel,['stanford university'],PersonEmployer
+Guillermo Lasso,['banco guayaquil'],PersonEmployer
+Guillermo Lasso,['bolsa de valores de guayaquil'],PersonEmployer
+Amber Rudd,['j.p. morgan & co.'],PersonEmployer
+Anthony Scaramucci,['goldman sachs'],PersonEmployer
+Randy Pitchford,['3d realms'],PersonEmployer
+Randy Pitchford,['gearbox software'],PersonEmployer
+David O. Sacks,"['mckinsey &', 'mckinsey & company']",PersonEmployer
+David O. Sacks,['paypal'],PersonEmployer
+David O. Sacks,['craft ventures'],PersonEmployer
+Joi Ito,['massachusetts institute of technology'],PersonEmployer
+Cory Barlog,['santa monica studio'],PersonEmployer
+Cory Barlog,['crystal dynamics'],PersonEmployer
+Turki Al-Sheikh,['royal court'],PersonEmployer
+Don Tapscott,['university of toronto'],PersonEmployer
+Danny Sullivan,['google'],PersonEmployer
+Guy Oseary,['hard candy fitness'],PersonEmployer
+Guy Oseary,['maverick'],PersonEmployer
+Guy Oseary,['truth or dare by madonna'],PersonEmployer
+Guy Oseary,['a-grade investments'],PersonEmployer
+Anwar Mohammed Gargash,['united arab emirates university'],PersonEmployer
+Larry Brilliant,['skoll foundation'],PersonEmployer
+Larry Brilliant,['google.org'],PersonEmployer
+Chamath Palihapitiya,['facebook'],PersonEmployer
+Chamath Palihapitiya,['social capital'],PersonEmployer
+Joel Spolsky,['microsoft'],PersonEmployer
+Grigoriy Nikolayevich Bakunov,['yandex'],PersonEmployer
+Grigoriy Nikolayevich Bakunov,['parimatch'],PersonEmployer

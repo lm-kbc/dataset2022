@@ -1,0 +1,329 @@
+SubjectEntity,ObjectEntity,relation
+Vistula,['poland'],RiverBasinsCountry
+Vistula,['poland'],RiverBasinsCountry
+Oder,['poland'],RiverBasinsCountry
+Oder,"['czech republic', 'czechia']",RiverBasinsCountry
+Oder,['germany'],RiverBasinsCountry
+Oder,['poland'],RiverBasinsCountry
+Oder,['germany'],RiverBasinsCountry
+Oder,"['czech republic', 'czechia']",RiverBasinsCountry
+Rhine,['netherlands'],RiverBasinsCountry
+Rhine,['switzerland'],RiverBasinsCountry
+Rhine,['france'],RiverBasinsCountry
+Rhine,['germany'],RiverBasinsCountry
+Rhine,['liechtenstein'],RiverBasinsCountry
+Rhine,['switzerland'],RiverBasinsCountry
+Rhine,['austria'],RiverBasinsCountry
+Rhine,['netherlands'],RiverBasinsCountry
+Rhine,['france'],RiverBasinsCountry
+Rhine,['germany'],RiverBasinsCountry
+Rhine,['liechtenstein'],RiverBasinsCountry
+Volga,['russia'],RiverBasinsCountry
+Volga,['russia'],RiverBasinsCountry
+Neva,['russia'],RiverBasinsCountry
+Neva,['russia'],RiverBasinsCountry
+Don,['russia'],RiverBasinsCountry
+Don,['russia'],RiverBasinsCountry
+Loire,['france'],RiverBasinsCountry
+Loire,['france'],RiverBasinsCountry
+Mississippi river,['canada'],RiverBasinsCountry
+Mississippi river,"['usa', 'united states of america']",RiverBasinsCountry
+Mississippi river,"['usa', 'united states of america']",RiverBasinsCountry
+Elbe,['poland'],RiverBasinsCountry
+Elbe,"['czech republic', 'czechia']",RiverBasinsCountry
+Elbe,['austria'],RiverBasinsCountry
+Elbe,['germany'],RiverBasinsCountry
+Elbe,['germany'],RiverBasinsCountry
+Elbe,"['czech republic', 'czechia']",RiverBasinsCountry
+Moselle,['luxembourg'],RiverBasinsCountry
+Moselle,['france'],RiverBasinsCountry
+Moselle,['germany'],RiverBasinsCountry
+Moselle,['luxembourg'],RiverBasinsCountry
+Moselle,['france'],RiverBasinsCountry
+Moselle,['germany'],RiverBasinsCountry
+Aare,['switzerland'],RiverBasinsCountry
+Aare,['switzerland'],RiverBasinsCountry
+Spree,"['czech republic', 'czechia']",RiverBasinsCountry
+Spree,['germany'],RiverBasinsCountry
+Spree,['germany'],RiverBasinsCountry
+Athabasca river,['canada'],RiverBasinsCountry
+Athabasca river,['canada'],RiverBasinsCountry
+Columbia river,['canada'],RiverBasinsCountry
+Columbia river,"['usa', 'united states of america']",RiverBasinsCountry
+Columbia river,['canada'],RiverBasinsCountry
+Columbia river,"['usa', 'united states of america']",RiverBasinsCountry
+Amazon,['brazil'],RiverBasinsCountry
+Amazon,['peru'],RiverBasinsCountry
+Amazon,['venezuela'],RiverBasinsCountry
+Amazon,['ecuador'],RiverBasinsCountry
+Amazon,['colombia'],RiverBasinsCountry
+Amazon,['bolivia'],RiverBasinsCountry
+Amazon,['brazil'],RiverBasinsCountry
+Amazon,['peru'],RiverBasinsCountry
+Amazon,['colombia'],RiverBasinsCountry
+Missouri river,"['usa', 'united states of america']",RiverBasinsCountry
+Missouri river,"['usa', 'united states of america']",RiverBasinsCountry
+Fulda,['germany'],RiverBasinsCountry
+Fulda,['germany'],RiverBasinsCountry
+Amur,['russia'],RiverBasinsCountry
+Amur,"['china', ""people's republic of china""]",RiverBasinsCountry
+Amur,['russia'],RiverBasinsCountry
+Indus river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Indus river,['pakistan'],RiverBasinsCountry
+Indus river,['india'],RiverBasinsCountry
+Indus river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Indus river,['india'],RiverBasinsCountry
+Indus river,['pakistan'],RiverBasinsCountry
+Yellow river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Yellow river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Illinois river,['illinois'],RiverBasinsCountry
+Illinois river,"['usa', 'united states of america']",RiverBasinsCountry
+Amu darya,['turkmenistan'],RiverBasinsCountry
+Amu darya,['uzbekistan'],RiverBasinsCountry
+Amu darya,['tajikistan'],RiverBasinsCountry
+Amu darya,['turkmenistan'],RiverBasinsCountry
+Amu darya,['afghanistan'],RiverBasinsCountry
+Hari river,['iran'],RiverBasinsCountry
+Hari river,['turkmenistan'],RiverBasinsCountry
+Hari river,['afghanistan'],RiverBasinsCountry
+Hari river,['iran'],RiverBasinsCountry
+Hari river,['turkmenistan'],RiverBasinsCountry
+Hari river,['afghanistan'],RiverBasinsCountry
+Adige,['italy'],RiverBasinsCountry
+Adige,['italy'],RiverBasinsCountry
+Tiber,['italy'],RiverBasinsCountry
+Tiber,['italy'],RiverBasinsCountry
+Mondego river,['portugal'],RiverBasinsCountry
+Mondego river,['portugal'],RiverBasinsCountry
+Alagón river,['spain'],RiverBasinsCountry
+Alagón river,['spain'],RiverBasinsCountry
+Segura,['spain'],RiverBasinsCountry
+Segura,['spain'],RiverBasinsCountry
+Vilyuy,['russia'],RiverBasinsCountry
+Vilyuy,['russia'],RiverBasinsCountry
+Tigris,['turkey'],RiverBasinsCountry
+Tigris,['turkey'],RiverBasinsCountry
+Tigris,['iraq'],RiverBasinsCountry
+Tigris,['syria'],RiverBasinsCountry
+Río de la plata,['uruguay'],RiverBasinsCountry
+Río de la plata,['argentina'],RiverBasinsCountry
+Río de la plata,['uruguay'],RiverBasinsCountry
+Río de la plata,['argentina'],RiverBasinsCountry
+Jordan river,['israel'],RiverBasinsCountry
+Jordan river,['jordan'],RiverBasinsCountry
+Jordan river,['lebanon'],RiverBasinsCountry
+Jordan river,['syria'],RiverBasinsCountry
+Jordan river,['palestine'],RiverBasinsCountry
+Jordan river,['israel'],RiverBasinsCountry
+Jordan river,['jordan'],RiverBasinsCountry
+Jordan river,['lebanon'],RiverBasinsCountry
+Jordan river,['syria'],RiverBasinsCountry
+Jordan river,['palestine'],RiverBasinsCountry
+Jordan river,"['state of palestine', 'palestine']",RiverBasinsCountry
+Mekong river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Mekong river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Mekong river,['cambodia'],RiverBasinsCountry
+Mekong river,['laos'],RiverBasinsCountry
+Mekong river,['myanmar'],RiverBasinsCountry
+Mekong river,['thailand'],RiverBasinsCountry
+Mekong river,['vietnam'],RiverBasinsCountry
+Marne,['france'],RiverBasinsCountry
+Marne,['france'],RiverBasinsCountry
+Brahmaputra river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Brahmaputra river,['india'],RiverBasinsCountry
+Brahmaputra river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Brahmaputra river,['india'],RiverBasinsCountry
+Brahmaputra river,['nepal'],RiverBasinsCountry
+Brahmaputra river,['bangladesh'],RiverBasinsCountry
+Yalu river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Yalu river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Narew,['belarus'],RiverBasinsCountry
+Narew,['poland'],RiverBasinsCountry
+Narew,['poland'],RiverBasinsCountry
+Narew,['belarus'],RiverBasinsCountry
+Ottawa river,['canada'],RiverBasinsCountry
+Ottawa river,['canada'],RiverBasinsCountry
+Çoruh river,['turkey'],RiverBasinsCountry
+Çoruh river,['georgia'],RiverBasinsCountry
+Çoruh river,['turkey'],RiverBasinsCountry
+Çoruh river,['georgia'],RiverBasinsCountry
+Jurua river,['brazil'],RiverBasinsCountry
+Jurua river,['brazil'],RiverBasinsCountry
+Jurua river,['peru'],RiverBasinsCountry
+Rio negro,['colombia'],RiverBasinsCountry
+Rio negro,['brazil'],RiverBasinsCountry
+Rio negro,['venezuela'],RiverBasinsCountry
+Rio negro,['colombia'],RiverBasinsCountry
+Chao phraya river,['thailand'],RiverBasinsCountry
+Chao phraya river,['thailand'],RiverBasinsCountry
+Eurotas,['greece'],RiverBasinsCountry
+Eurotas,['greece'],RiverBasinsCountry
+Torne river,['norway'],RiverBasinsCountry
+Torne river,['finland'],RiverBasinsCountry
+Torne river,['sweden'],RiverBasinsCountry
+Torne river,['finland'],RiverBasinsCountry
+Torne river,['sweden'],RiverBasinsCountry
+Paraná river,['brazil'],RiverBasinsCountry
+Paraná river,['argentina'],RiverBasinsCountry
+Paraná river,['paraguay'],RiverBasinsCountry
+Paraná river,['bolivia'],RiverBasinsCountry
+Paraná river,['brazil'],RiverBasinsCountry
+Paraná river,['argentina'],RiverBasinsCountry
+Paraná river,['paraguay'],RiverBasinsCountry
+Irtysh,['russia'],RiverBasinsCountry
+Irtysh,"['china', ""people's republic of china""]",RiverBasinsCountry
+Irtysh,['russia'],RiverBasinsCountry
+Irtysh,['kazakhstan'],RiverBasinsCountry
+Willamette river,"['usa', 'united states of america']",RiverBasinsCountry
+Willamette river,"['usa', 'united states of america']",RiverBasinsCountry
+Dniester,['ukraine'],RiverBasinsCountry
+Dniester,['ukraine'],RiverBasinsCountry
+Dniester,['moldova'],RiverBasinsCountry
+Vltava,"['czech republic', 'czechia']",RiverBasinsCountry
+Vltava,"['czech republic', 'czechia']",RiverBasinsCountry
+Orinoco river,['venezuela'],RiverBasinsCountry
+Orinoco river,['venezuela'],RiverBasinsCountry
+Orinoco river,['colombia'],RiverBasinsCountry
+Nevėžis,['lithuania'],RiverBasinsCountry
+Nevėžis,['lithuania'],RiverBasinsCountry
+São francisco river,['brazil'],RiverBasinsCountry
+São francisco river,['brazil'],RiverBasinsCountry
+Salzach,['austria'],RiverBasinsCountry
+Salzach,['austria'],RiverBasinsCountry
+Salzach,['germany'],RiverBasinsCountry
+Saar,['france'],RiverBasinsCountry
+Saar,['germany'],RiverBasinsCountry
+Saar,['france'],RiverBasinsCountry
+Saar,['germany'],RiverBasinsCountry
+Lech,['austria'],RiverBasinsCountry
+Lech,['austria'],RiverBasinsCountry
+Lech,['germany'],RiverBasinsCountry
+Red river of the south,['texas'],RiverBasinsCountry
+Red river of the south,"['usa', 'united states of america']",RiverBasinsCountry
+Tocantins river,['brazil'],RiverBasinsCountry
+Tocantins river,['brazil'],RiverBasinsCountry
+Prypiat river,['belarus'],RiverBasinsCountry
+Prypiat river,['ukraine'],RiverBasinsCountry
+Prypiat river,['belarus'],RiverBasinsCountry
+Prypiat river,['ukraine'],RiverBasinsCountry
+Black drin,"['north macedonia', 'macedonia']",RiverBasinsCountry
+Black drin,"['north macedonia', 'macedonia']",RiverBasinsCountry
+Black drin,['albania'],RiverBasinsCountry
+Zayandeh river,['iran'],RiverBasinsCountry
+Zayandeh river,['iran'],RiverBasinsCountry
+Drava,['italy'],RiverBasinsCountry
+Drava,['hungary'],RiverBasinsCountry
+Drava,['italy'],RiverBasinsCountry
+Drava,['austria'],RiverBasinsCountry
+Drava,['slovenia'],RiverBasinsCountry
+Drava,['croatia'],RiverBasinsCountry
+Didi liakhvi river,['georgia'],RiverBasinsCountry
+Didi liakhvi river,['georgia'],RiverBasinsCountry
+Tone river,['japan'],RiverBasinsCountry
+Tone river,['japan'],RiverBasinsCountry
+Paraguay river,['brazil'],RiverBasinsCountry
+Paraguay river,['argentina'],RiverBasinsCountry
+Paraguay river,['paraguay'],RiverBasinsCountry
+Paraguay river,['brazil'],RiverBasinsCountry
+Paraguay river,['argentina'],RiverBasinsCountry
+Paraguay river,['paraguay'],RiverBasinsCountry
+Potomac river,"['usa', 'united states of america']",RiverBasinsCountry
+Potomac river,"['usa', 'united states of america']",RiverBasinsCountry
+Aras river,['turkey'],RiverBasinsCountry
+Aras river,['azerbaijan'],RiverBasinsCountry
+Aras river,['armenia'],RiverBasinsCountry
+Aras river,['iran'],RiverBasinsCountry
+Aras river,['turkey'],RiverBasinsCountry
+Aras river,['azerbaijan'],RiverBasinsCountry
+Aras river,['armenia'],RiverBasinsCountry
+Aras river,['iran'],RiverBasinsCountry
+Orange river,['lesotho'],RiverBasinsCountry
+Orange river,"['south africa', 'africa']",RiverBasinsCountry
+Orange river,['lesotho'],RiverBasinsCountry
+Orange river,['namibia'],RiverBasinsCountry
+Darling river,['new south wales'],RiverBasinsCountry
+Darling river,['australia'],RiverBasinsCountry
+Niagara river,"['usa', 'united states of america']",RiverBasinsCountry
+Niagara river,['canada'],RiverBasinsCountry
+Niagara river,"['usa', 'united states of america']",RiverBasinsCountry
+Kasai river,"['democratic republic of the congo', 'congo']",RiverBasinsCountry
+Kasai river,['angola'],RiverBasinsCountry
+Kasai river,"['democratic republic of the congo', 'congo']",RiverBasinsCountry
+Saône,['france'],RiverBasinsCountry
+Saône,['france'],RiverBasinsCountry
+Orontes river,['turkey'],RiverBasinsCountry
+Orontes river,['turkey'],RiverBasinsCountry
+Orontes river,['lebanon'],RiverBasinsCountry
+Orontes river,['syria'],RiverBasinsCountry
+Iguazu river,['brazil'],RiverBasinsCountry
+Iguazu river,['brazil'],RiverBasinsCountry
+Iguazu river,['argentina'],RiverBasinsCountry
+Vyatka,['russia'],RiverBasinsCountry
+Vyatka,['russia'],RiverBasinsCountry
+Ili river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Ili river,['kazakhstan'],RiverBasinsCountry
+Ili river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Ili river,['kazakhstan'],RiverBasinsCountry
+River shannon,"['ireland', 'republic of ireland']",RiverBasinsCountry
+River shannon,"['ireland', 'republic of ireland']",RiverBasinsCountry
+Marañón river,['peru'],RiverBasinsCountry
+Marañón river,['peru'],RiverBasinsCountry
+Oise,['france'],RiverBasinsCountry
+Oise,['belgium'],RiverBasinsCountry
+Oise,['france'],RiverBasinsCountry
+Isère,['france'],RiverBasinsCountry
+Isère,['france'],RiverBasinsCountry
+Rioni,['georgia'],RiverBasinsCountry
+Rioni,['georgia'],RiverBasinsCountry
+Red river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Red river,['vietnam'],RiverBasinsCountry
+Red river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Þjórsá,['iceland'],RiverBasinsCountry
+Þjórsá,['iceland'],RiverBasinsCountry
+Ussuri,['russia'],RiverBasinsCountry
+Ussuri,['russia'],RiverBasinsCountry
+Gauja,['estonia'],RiverBasinsCountry
+Gauja,['latvia'],RiverBasinsCountry
+Gauja,['estonia'],RiverBasinsCountry
+Gauja,['latvia'],RiverBasinsCountry
+Zeya river,['russia'],RiverBasinsCountry
+Zeya river,['russia'],RiverBasinsCountry
+Alazani,['azerbaijan'],RiverBasinsCountry
+Alazani,['georgia'],RiverBasinsCountry
+Alazani,['azerbaijan'],RiverBasinsCountry
+Alazani,['georgia'],RiverBasinsCountry
+Hron,['slovakia'],RiverBasinsCountry
+Hron,['slovakia'],RiverBasinsCountry
+Huai river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Huai river,"['china', ""people's republic of china""]",RiverBasinsCountry
+Drin,['albania'],RiverBasinsCountry
+Drin,['albania'],RiverBasinsCountry
+Dâmbovița river,['romania'],RiverBasinsCountry
+Dâmbovița river,['romania'],RiverBasinsCountry
+Argeș river,['romania'],RiverBasinsCountry
+Argeș river,['romania'],RiverBasinsCountry
+Lielupe,['lithuania'],RiverBasinsCountry
+Lielupe,['latvia'],RiverBasinsCountry
+Lielupe,['latvia'],RiverBasinsCountry
+San,['poland'],RiverBasinsCountry
+San,['ukraine'],RiverBasinsCountry
+San,['poland'],RiverBasinsCountry
+San,['ukraine'],RiverBasinsCountry
+Chenab river,['india'],RiverBasinsCountry
+Chenab river,['india'],RiverBasinsCountry
+Chenab river,['pakistan'],RiverBasinsCountry
+Abakan,['russia'],RiverBasinsCountry
+Abakan,['russia'],RiverBasinsCountry
+Someș river,['hungary'],RiverBasinsCountry
+Someș river,['hungary'],RiverBasinsCountry
+Someș river,['romania'],RiverBasinsCountry
+Zrmanja,['croatia'],RiverBasinsCountry
+Zrmanja,['croatia'],RiverBasinsCountry
+Great whale river,['canada'],RiverBasinsCountry
+Great whale river,['canada'],RiverBasinsCountry
+Kızılırmak river,['turkey'],RiverBasinsCountry
+Kızılırmak river,['turkey'],RiverBasinsCountry
+Kızılırmak river,['turkey'],RiverBasinsCountry
+Kızılırmak river,['turkey'],RiverBasinsCountry
+Zangmar river,['iran'],RiverBasinsCountry
+Zangmar river,['iran'],RiverBasinsCountry

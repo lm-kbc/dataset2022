@@ -1,0 +1,225 @@
+SubjectEntity,ObjectEntity,relation
+Republic of ireland,"['ireland', 'northern ireland']",CountryBordersWithCountry
+Republic of ireland,"['united kingdom', 'uk']",CountryBordersWithCountry
+Poland,['ukraine'],CountryBordersWithCountry
+Poland,['slovakia'],CountryBordersWithCountry
+Poland,['belarus'],CountryBordersWithCountry
+Poland,"['czechia', 'czech republic']",CountryBordersWithCountry
+Poland,['russia'],CountryBordersWithCountry
+Poland,['lithuania'],CountryBordersWithCountry
+Poland,['germany'],CountryBordersWithCountry
+Lithuania,['poland'],CountryBordersWithCountry
+Lithuania,['russia'],CountryBordersWithCountry
+Lithuania,['belarus'],CountryBordersWithCountry
+Lithuania,['latvia'],CountryBordersWithCountry
+Italy,['switzerland'],CountryBordersWithCountry
+Italy,['austria'],CountryBordersWithCountry
+Italy,['france'],CountryBordersWithCountry
+Italy,['slovenia'],CountryBordersWithCountry
+Italy,['malta'],CountryBordersWithCountry
+Italy,"['vatican city', 'vatican']",CountryBordersWithCountry
+Italy,['san marino'],CountryBordersWithCountry
+Switzerland,['italy'],CountryBordersWithCountry
+Switzerland,['austria'],CountryBordersWithCountry
+Switzerland,['france'],CountryBordersWithCountry
+Switzerland,['germany'],CountryBordersWithCountry
+Switzerland,['liechtenstein'],CountryBordersWithCountry
+Switzerland,['european union'],CountryBordersWithCountry
+Turkey,['syria'],CountryBordersWithCountry
+Turkey,['greece'],CountryBordersWithCountry
+Turkey,['bulgaria'],CountryBordersWithCountry
+Turkey,['azerbaijan'],CountryBordersWithCountry
+Turkey,['georgia'],CountryBordersWithCountry
+Turkey,['armenia'],CountryBordersWithCountry
+Turkey,['european union'],CountryBordersWithCountry
+Turkey,['iran'],CountryBordersWithCountry
+Turkey,['iraq'],CountryBordersWithCountry
+Turkey,['arab league'],CountryBordersWithCountry
+Ethiopia,['arab league'],CountryBordersWithCountry
+Ethiopia,['somalia'],CountryBordersWithCountry
+Ethiopia,['eritrea'],CountryBordersWithCountry
+Ethiopia,['sudan'],CountryBordersWithCountry
+Ethiopia,"['south sudan', 'sudan']",CountryBordersWithCountry
+Ethiopia,['kenya'],CountryBordersWithCountry
+Ethiopia,['djibouti'],CountryBordersWithCountry
+People's republic of china,['nepal'],CountryBordersWithCountry
+People's republic of china,['bhutan'],CountryBordersWithCountry
+People's republic of china,['afghanistan'],CountryBordersWithCountry
+People's republic of china,"['korea', 'south korea']",CountryBordersWithCountry
+People's republic of china,['vietnam'],CountryBordersWithCountry
+People's republic of china,['tajikistan'],CountryBordersWithCountry
+People's republic of china,['pakistan'],CountryBordersWithCountry
+People's republic of china,['myanmar'],CountryBordersWithCountry
+People's republic of china,"['korea', 'north korea']",CountryBordersWithCountry
+People's republic of china,['kyrgyzstan'],CountryBordersWithCountry
+People's republic of china,['mongolia'],CountryBordersWithCountry
+People's republic of china,['india'],CountryBordersWithCountry
+People's republic of china,['kazakhstan'],CountryBordersWithCountry
+People's republic of china,['russia'],CountryBordersWithCountry
+People's republic of china,['japan'],CountryBordersWithCountry
+People's republic of china,['laos'],CountryBordersWithCountry
+Belarus,['european union'],CountryBordersWithCountry
+Belarus,['ukraine'],CountryBordersWithCountry
+Belarus,['latvia'],CountryBordersWithCountry
+Belarus,['lithuania'],CountryBordersWithCountry
+Belarus,['poland'],CountryBordersWithCountry
+Belarus,['russia'],CountryBordersWithCountry
+Iceland,['greenland'],CountryBordersWithCountry
+Iceland,['faroe islands'],CountryBordersWithCountry
+Iceland,['svalbard'],CountryBordersWithCountry
+Latvia,['estonia'],CountryBordersWithCountry
+Latvia,['belarus'],CountryBordersWithCountry
+Latvia,['sweden'],CountryBordersWithCountry
+Latvia,['lithuania'],CountryBordersWithCountry
+Latvia,['russia'],CountryBordersWithCountry
+Ukraine,['moldova'],CountryBordersWithCountry
+Ukraine,['slovakia'],CountryBordersWithCountry
+Ukraine,['european union'],CountryBordersWithCountry
+Ukraine,['romania'],CountryBordersWithCountry
+Ukraine,['belarus'],CountryBordersWithCountry
+Ukraine,['poland'],CountryBordersWithCountry
+Ukraine,['hungary'],CountryBordersWithCountry
+Ukraine,['russia'],CountryBordersWithCountry
+Croatia,['hungary'],CountryBordersWithCountry
+Croatia,['slovenia'],CountryBordersWithCountry
+Croatia,['bosnia and herzegovina'],CountryBordersWithCountry
+Croatia,['montenegro'],CountryBordersWithCountry
+Croatia,['serbia'],CountryBordersWithCountry
+Croatia,['liberland'],CountryBordersWithCountry
+Andorra,['spain'],CountryBordersWithCountry
+Andorra,['france'],CountryBordersWithCountry
+Andorra,['european union'],CountryBordersWithCountry
+San marino,['italy'],CountryBordersWithCountry
+San marino,['european union'],CountryBordersWithCountry
+Cuba,"['usa', 'united states of america']",CountryBordersWithCountry
+Algeria,"['sahara', 'western sahara']",CountryBordersWithCountry
+Algeria,['niger'],CountryBordersWithCountry
+Algeria,['morocco'],CountryBordersWithCountry
+Algeria,['mauritania'],CountryBordersWithCountry
+Algeria,['spain'],CountryBordersWithCountry
+Algeria,['tunisia'],CountryBordersWithCountry
+Algeria,['mali'],CountryBordersWithCountry
+Algeria,['italy'],CountryBordersWithCountry
+Algeria,['libya'],CountryBordersWithCountry
+Armenia,['turkey'],CountryBordersWithCountry
+Armenia,['azerbaijan'],CountryBordersWithCountry
+Armenia,['georgia'],CountryBordersWithCountry
+Armenia,['iran'],CountryBordersWithCountry
+North korea,"['china', ""people's republic of china""]",CountryBordersWithCountry
+North korea,['russia'],CountryBordersWithCountry
+North korea,"['korea', 'south korea']",CountryBordersWithCountry
+North korea,['soviet union'],CountryBordersWithCountry
+Chad,['nigeria'],CountryBordersWithCountry
+Chad,['arab league'],CountryBordersWithCountry
+Chad,['sudan'],CountryBordersWithCountry
+Chad,['niger'],CountryBordersWithCountry
+Chad,['libya'],CountryBordersWithCountry
+Chad,['cameroon'],CountryBordersWithCountry
+Chad,"['africa', 'central african republic']",CountryBordersWithCountry
+Solomon islands,['fiji'],CountryBordersWithCountry
+Solomon islands,['vanuatu'],CountryBordersWithCountry
+Solomon islands,['australia'],CountryBordersWithCountry
+Solomon islands,['france'],CountryBordersWithCountry
+Solomon islands,['papua new guinea'],CountryBordersWithCountry
+Vanuatu,['NONE'],CountryBordersWithCountry
+Federated states of micronesia,"['usa', 'united states of america']",CountryBordersWithCountry
+Federated states of micronesia,['papua new guinea'],CountryBordersWithCountry
+Federated states of micronesia,['palau'],CountryBordersWithCountry
+Marshall islands,"['usa', 'united states of america']",CountryBordersWithCountry
+Marshall islands,['nauru'],CountryBordersWithCountry
+Marshall islands,"['micronesia', 'federated states of micronesia']",CountryBordersWithCountry
+Marshall islands,['kiribati'],CountryBordersWithCountry
+Kiribati,"['usa', 'united states of america']",CountryBordersWithCountry
+Kiribati,['france'],CountryBordersWithCountry
+Fiji,['NONE'],CountryBordersWithCountry
+Ecuador,['peru'],CountryBordersWithCountry
+Ecuador,['colombia'],CountryBordersWithCountry
+Trinidad and tobago,['venezuela'],CountryBordersWithCountry
+Saint vincent and the grenadines,['venezuela'],CountryBordersWithCountry
+Iran,['nakhchivan autonomous republic'],CountryBordersWithCountry
+Iran,['saudi arabia'],CountryBordersWithCountry
+Iran,['soviet union'],CountryBordersWithCountry
+Iran,['arab league'],CountryBordersWithCountry
+Iran,['afghanistan'],CountryBordersWithCountry
+Iran,"['united arab emirates', 'uae']",CountryBordersWithCountry
+Iran,['turkmenistan'],CountryBordersWithCountry
+Iran,['qatar'],CountryBordersWithCountry
+Iran,['turkey'],CountryBordersWithCountry
+Iran,['oman'],CountryBordersWithCountry
+Iran,['kuwait'],CountryBordersWithCountry
+Iran,['iraq'],CountryBordersWithCountry
+Iran,['armenia'],CountryBordersWithCountry
+Iran,['bahrain'],CountryBordersWithCountry
+Iran,['azerbaijan'],CountryBordersWithCountry
+Iran,['pakistan'],CountryBordersWithCountry
+Iraq,['saudi arabia'],CountryBordersWithCountry
+Iraq,['kuwait'],CountryBordersWithCountry
+Iraq,['syria'],CountryBordersWithCountry
+Iraq,['iran'],CountryBordersWithCountry
+Iraq,['turkey'],CountryBordersWithCountry
+Iraq,['jordan'],CountryBordersWithCountry
+Costa rica,['panama'],CountryBordersWithCountry
+Costa rica,['nicaragua'],CountryBordersWithCountry
+Israel,['egypt'],CountryBordersWithCountry
+Israel,['jordan'],CountryBordersWithCountry
+Israel,['lebanon'],CountryBordersWithCountry
+Israel,['syria'],CountryBordersWithCountry
+Panama,['colombia'],CountryBordersWithCountry
+Panama,['costa rica'],CountryBordersWithCountry
+Panama,"['usa', 'united states of america']",CountryBordersWithCountry
+Nicaragua,['costa rica'],CountryBordersWithCountry
+Nicaragua,['colombia'],CountryBordersWithCountry
+Nicaragua,['honduras'],CountryBordersWithCountry
+Sri Lanka,['NONE'],CountryBordersWithCountry
+South korea,"['china', ""people's republic of china""]",CountryBordersWithCountry
+South korea,['japan'],CountryBordersWithCountry
+South korea,"['korea', 'north korea']",CountryBordersWithCountry
+Mali,['niger'],CountryBordersWithCountry
+Mali,['senegal'],CountryBordersWithCountry
+Mali,['mauritania'],CountryBordersWithCountry
+Mali,['algeria'],CountryBordersWithCountry
+Mali,['guinea'],CountryBordersWithCountry
+Mali,['burkina faso'],CountryBordersWithCountry
+Mali,['ivory coast'],CountryBordersWithCountry
+Zambia,['botswana'],CountryBordersWithCountry
+Zambia,"['congo', 'democratic republic of the congo']",CountryBordersWithCountry
+Zambia,['malawi'],CountryBordersWithCountry
+Zambia,['zimbabwe'],CountryBordersWithCountry
+Zambia,['mozambique'],CountryBordersWithCountry
+Zambia,['angola'],CountryBordersWithCountry
+Zambia,['tanzania'],CountryBordersWithCountry
+Zambia,['namibia'],CountryBordersWithCountry
+Botswana,"['africa', 'south africa']",CountryBordersWithCountry
+Botswana,['zambia'],CountryBordersWithCountry
+Botswana,['zimbabwe'],CountryBordersWithCountry
+Botswana,['namibia'],CountryBordersWithCountry
+Republic of the congo,['angola'],CountryBordersWithCountry
+Republic of the congo,"['africa', 'central african republic']",CountryBordersWithCountry
+Republic of the congo,"['congo', 'democratic republic of the congo']",CountryBordersWithCountry
+Republic of the congo,['gabon'],CountryBordersWithCountry
+Republic of the congo,['cameroon'],CountryBordersWithCountry
+Gabon,['angola'],CountryBordersWithCountry
+Gabon,"['republic of the congo', 'congo']",CountryBordersWithCountry
+Gabon,['equatorial guinea'],CountryBordersWithCountry
+Gabon,['cameroon'],CountryBordersWithCountry
+Gabon,"['sao tome and principe', 'são tomé and príncipe']",CountryBordersWithCountry
+gambia,['senegal'],CountryBordersWithCountry
+Madagascar,['seychelles'],CountryBordersWithCountry
+Madagascar,['mozambique'],CountryBordersWithCountry
+Madagascar,['france'],CountryBordersWithCountry
+Madagascar,['comoros'],CountryBordersWithCountry
+Niger,['algeria'],CountryBordersWithCountry
+Niger,['chad'],CountryBordersWithCountry
+Niger,['mali'],CountryBordersWithCountry
+Niger,['benin'],CountryBordersWithCountry
+Niger,['burkina faso'],CountryBordersWithCountry
+Niger,['libya'],CountryBordersWithCountry
+Niger,['nigeria'],CountryBordersWithCountry
+Niger,['arab league'],CountryBordersWithCountry
+Nigeria,['cameroon'],CountryBordersWithCountry
+Nigeria,"['sao tome and principe', 'são tomé and príncipe']",CountryBordersWithCountry
+Nigeria,['niger'],CountryBordersWithCountry
+Nigeria,['chad'],CountryBordersWithCountry
+Nigeria,['benin'],CountryBordersWithCountry
+Eswatini,"['africa', 'south africa']",CountryBordersWithCountry
+Eswatini,['mozambique'],CountryBordersWithCountry

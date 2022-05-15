@@ -1,0 +1,58 @@
+SubjectEntity,ObjectEntity,relation
+Microsoft,['none'],CompanyParentOrganization
+Peugeot,['stellantis'],CompanyParentOrganization
+Aixam,['none'],CompanyParentOrganization
+Honda,['none'],CompanyParentOrganization
+Waymo,"['alphabet inc.', 'alphabet']",CompanyParentOrganization
+Zastava automobiles,['fiat chrysler automobiles'],CompanyParentOrganization
+Abbott-detroit,['none'],CompanyParentOrganization
+Alfa romeo,['stellantis'],CompanyParentOrganization
+Aston martin lagonda,['none'],CompanyParentOrganization
+Austro-daimler,['none'],CompanyParentOrganization
+Avia,['ashok leyland'],CompanyParentOrganization
+Avia,"['czechoslovak group', 'czechoslovak']",CompanyParentOrganization
+Avia,['ashok leyland'],CompanyParentOrganization
+Avia,['daewoo'],CompanyParentOrganization
+Barkas,['industrieverband fahrzeugbau'],CompanyParentOrganization
+Daihatsu,['toyota'],CompanyParentOrganization
+Daimler company,"['birmingham small arms', 'birmingham small arms company']",CompanyParentOrganization
+Daimler company,['jaguar cars'],CompanyParentOrganization
+Daimler company,"['daimler motorsoration', 'daimler motors corporation']",CompanyParentOrganization
+Daimler company,['ford of europe'],CompanyParentOrganization
+Daimler company,"['tata motors', 'tata motors ltd']",CompanyParentOrganization
+Dodge,['stellantis north america'],CompanyParentOrganization
+Donkervoort,['none'],CompanyParentOrganization
+Fabryka samochodów ciężarowych,['none'],CompanyParentOrganization
+Fabryka samochodów małolitrażowych,['fiat'],CompanyParentOrganization
+Gaz,"['gaz group', 'gaz']",CompanyParentOrganization
+Holden,['general motors'],CompanyParentOrganization
+Isuzu,['none'],CompanyParentOrganization
+Kaipan,['none'],CompanyParentOrganization
+Kia,"['hyundai motor', 'hyundai motor group']",CompanyParentOrganization
+Lotus cars,['geely'],CompanyParentOrganization
+Mathis,['none'],CompanyParentOrganization
+Moskvitch,['none'],CompanyParentOrganization
+Mtx,['none'],CompanyParentOrganization
+Ibm,['none'],CompanyParentOrganization
+Nsu,['volkswagen'],CompanyParentOrganization
+Oltcit,"['citroen', 'citroën']",CompanyParentOrganization
+Packard,['none'],CompanyParentOrganization
+Pierce-arrow,['none'],CompanyParentOrganization
+Richard-brasier,['none'],CompanyParentOrganization
+Sony,"['sony group', 'sony']",CompanyParentOrganization
+Guerry et bourguignon,['none'],CompanyParentOrganization
+Tvr,['none'],CompanyParentOrganization
+Ericsson,['none'],CompanyParentOrganization
+Toyota,['none'],CompanyParentOrganization
+Velorex,['none'],CompanyParentOrganization
+Valmet automotive,['none'],CompanyParentOrganization
+David,['none'],CompanyParentOrganization
+Zsd nysa,['none'],CompanyParentOrganization
+Huawei,['none'],CompanyParentOrganization
+Kojima engineering,['none'],CompanyParentOrganization
+March engineering,['none'],CompanyParentOrganization
+Pope-toledo,['none'],CompanyParentOrganization
+Società torinese automobili elettrici,['none'],CompanyParentOrganization
+Gucci,['kering'],CompanyParentOrganization
+Zeddeco,['none'],CompanyParentOrganization
+Zetgelette,['none'],CompanyParentOrganization

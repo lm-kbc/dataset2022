@@ -1,0 +1,110 @@
+SubjectEntity,ObjectEntity,relation
+Bob marley,['melanoma'],PersonCauseOfDeath
+Kobe bryant,['aircraft crash'],PersonCauseOfDeath
+Nelson mandela,['respiratory disease'],PersonCauseOfDeath
+David bowie,"['liver cancer', 'cancer']",PersonCauseOfDeath
+Jimi hendrix,['pulmonary emphysema'],PersonCauseOfDeath
+Paul bocuse,"[""parkinson's disease""]",PersonCauseOfDeath
+Maya angelou,['disease'],PersonCauseOfDeath
+Bruce lee,"['edema', 'cerebral edema']",PersonCauseOfDeath
+John lewis,"['pancreatic cancer', 'cancer']",PersonCauseOfDeath
+Mac miller,['drug overdose'],PersonCauseOfDeath
+Muhammad ali,['respiratory disease'],PersonCauseOfDeath
+Stan lee,"['infarction', 'acute myocardial infarction']",PersonCauseOfDeath
+Anthony bourdain,['hanging'],PersonCauseOfDeath
+Rishi kapoor,['leukemia'],PersonCauseOfDeath
+Vivek,['cardiac arrest'],PersonCauseOfDeath
+Chespirito,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
+Larry king,['sepsis'],PersonCauseOfDeath
+Paul walker,['traffic collision'],PersonCauseOfDeath
+Frida kahlo,['bronchopneumonia'],PersonCauseOfDeath
+George michael,['dilated cardiomyopathy'],PersonCauseOfDeath
+George michael,['fatty liver disease'],PersonCauseOfDeath
+Elizabeth taylor,['congestive heart failure'],PersonCauseOfDeath
+Sushma swaraj,['cardiac arrest'],PersonCauseOfDeath
+Terry pratchett,"[""alzheimer's disease""]",PersonCauseOfDeath
+Terry pratchett,['posterior cortical atrophy'],PersonCauseOfDeath
+Naya rivera,['drowning'],PersonCauseOfDeath
+Hugh hefner,['sepsis'],PersonCauseOfDeath
+Gustavo cerati,['cardiac arrest'],PersonCauseOfDeath
+Pierre nkurunziza,['cardiac arrest'],PersonCauseOfDeath
+Pierre nkurunziza,"['covid-19', 'covid']",PersonCauseOfDeath
+Sridevi,['drowning'],PersonCauseOfDeath
+Amber rayne,['drug overdose'],PersonCauseOfDeath
+Arun jaitley,['cancer'],PersonCauseOfDeath
+Jack welch,['kidney failure'],PersonCauseOfDeath
+Roger ebert,"['thyroid cancer', 'cancer']",PersonCauseOfDeath
+Kim jong-hyun,['carbon monoxide poisoning'],PersonCauseOfDeath
+Grant imahara,"['intracranial aneurysm', 'aneurysm']",PersonCauseOfDeath
+Roh hoe-chan,['falling'],PersonCauseOfDeath
+Gilbert gottfried,['ventricular tachycardia'],PersonCauseOfDeath
+Madeleine albright,['cancer'],PersonCauseOfDeath
+Raffaella carrà,"['cancer', 'lung cancer']",PersonCauseOfDeath
+Ronnie james dio,"['cancer', 'stomach cancer']",PersonCauseOfDeath
+Frank sinatra,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
+Terry jones,"['frontotemporal dementia', 'dementia']",PersonCauseOfDeath
+Emiliano sala,['aircraft crash'],PersonCauseOfDeath
+Nicky hayden,"['accident', 'bicycle accident']",PersonCauseOfDeath
+Harry reid,"['pancreatic cancer', 'cancer']",PersonCauseOfDeath
+Abdul rehman malik,"['covid-19', 'covid']",PersonCauseOfDeath
+Tabaré vázquez,"['cancer', 'lung cancer']",PersonCauseOfDeath
+Martin mcguinness,['amyloidosis'],PersonCauseOfDeath
+Zindzi mandela,['not yet determined'],PersonCauseOfDeath
+Zindzi mandela,"['covid-19', 'covid']",PersonCauseOfDeath
+Aretha franklin,"['pancreatic cancer', 'cancer']",PersonCauseOfDeath
+Herman cain,"['covid-19', 'covid']",PersonCauseOfDeath
+Wes craven,"['brain cancer', 'cancer']",PersonCauseOfDeath
+Mike gravel,"['multiple myeloma', 'myeloma']",PersonCauseOfDeath
+Eduardo galeano,"['cancer', 'lung cancer']",PersonCauseOfDeath
+Mikhail zadornov,"['brain cancer', 'cancer']",PersonCauseOfDeath
+Johnny cash,['diabetes'],PersonCauseOfDeath
+Sarah harding,"['cancer', 'breast cancer']",PersonCauseOfDeath
+Michael collins,['cancer'],PersonCauseOfDeath
+Kazuo koike,['pneumonia'],PersonCauseOfDeath
+Norm macdonald,['cancer'],PersonCauseOfDeath
+Miles davis,['pneumonia'],PersonCauseOfDeath
+Miles davis,['stroke'],PersonCauseOfDeath
+Lina ben mhenni,['kidney failure'],PersonCauseOfDeath
+Edith gonzález,"['cancer', 'ovarian cancer']",PersonCauseOfDeath
+Ahmed zewail,"['lymphoma', 'spinal cord lymphoma']",PersonCauseOfDeath
+Peaches geldof,['opioid overdose'],PersonCauseOfDeath
+Meat loaf,"['covid-19', 'covid']",PersonCauseOfDeath
+Almudena grandes,['cancer'],PersonCauseOfDeath
+Caroline flack,['hanging'],PersonCauseOfDeath
+Peter mayhew,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
+Maurane,['falling'],PersonCauseOfDeath
+Dusty rhodes,"['cancer', 'stomach cancer']",PersonCauseOfDeath
+Fernando solanas,"['covid-19', 'covid']",PersonCauseOfDeath
+Rituparno ghosh,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
+Hans rosling,"['pancreatic cancer', 'cancer']",PersonCauseOfDeath
+Zbigniew brzezinski,['pneumonia'],PersonCauseOfDeath
+Jonah lomu,['cardiac arrest'],PersonCauseOfDeath
+Jonah lomu,['kidney failure'],PersonCauseOfDeath
+Jonah lomu,['nephrotic syndrome'],PersonCauseOfDeath
+Eduard punset,"['cancer', 'lung cancer']",PersonCauseOfDeath
+Adrian lamo,['http://www.wikidata.org/.well-known/genid/175b3912f6572c0b1af3667fc20025b3'],PersonCauseOfDeath
+Jim rohn,['pulmonary fibrosis'],PersonCauseOfDeath
+Prodigy,['hematopoietic system diseases'],PersonCauseOfDeath
+"John dingell, jr.","['cancer', 'prostate cancer']",PersonCauseOfDeath
+Bettie page,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
+Garry shandling,['thrombosis'],PersonCauseOfDeath
+Richard l. hanna,['cancer'],PersonCauseOfDeath
+Dj arafat,['traffic collision'],PersonCauseOfDeath
+André leon talley,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
+André leon talley,"['covid-19', 'covid']",PersonCauseOfDeath
+Chris kirubi,"['colorectal cancer', 'cancer']",PersonCauseOfDeath
+Alfredo lim,"['covid-19', 'covid']",PersonCauseOfDeath
+Nina simone,"['cancer', 'breast cancer']",PersonCauseOfDeath
+Mike fitzpatrick,['melanoma'],PersonCauseOfDeath
+Kimbo slice,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
+Eric carr,['cancer'],PersonCauseOfDeath
+Mike enzi,"['accident', 'bicycle accident']",PersonCauseOfDeath
+Roy orbison,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
+Dean martin,['pulmonary emphysema'],PersonCauseOfDeath
+Dean martin,['small cell carcinoma'],PersonCauseOfDeath
+Jonathan sacks,['cancer'],PersonCauseOfDeath
+Willie garson,"['pancreatic cancer', 'cancer']",PersonCauseOfDeath
+John magufuli,"['arrhythmia', 'heart arrhythmia']",PersonCauseOfDeath
+Dmx,"['myocardial infarction', 'infarction']",PersonCauseOfDeath
+Peter r. de vries,['shot to the head'],PersonCauseOfDeath
+Rafael moreno valle,['2018 puebla helicopter crash'],PersonCauseOfDeath

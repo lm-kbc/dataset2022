@@ -1,0 +1,117 @@
+SubjectEntity,ObjectEntity,relation
+Benzene,['hydrogen'],ChemicalCompoundElement
+Benzene,['carbon'],ChemicalCompoundElement
+Sodium chloride,['sodium'],ChemicalCompoundElement
+Sodium chloride,['chlorine'],ChemicalCompoundElement
+Hydrogen fluoride,['hydrogen'],ChemicalCompoundElement
+Hydrogen fluoride,['fluorine'],ChemicalCompoundElement
+Potassium bromide,['potassium'],ChemicalCompoundElement
+Adenine,['hydrogen'],ChemicalCompoundElement
+Adenine,['carbon'],ChemicalCompoundElement
+Adenine,['nitrogen'],ChemicalCompoundElement
+Adenine,['oxygen'],ChemicalCompoundElement
+Toluene,['carbon'],ChemicalCompoundElement
+Aspirin,['hydrogen'],ChemicalCompoundElement
+Aspirin,['carbon'],ChemicalCompoundElement
+Aspirin,['oxygen'],ChemicalCompoundElement
+Hydrogen cyanide,['hydrogen'],ChemicalCompoundElement
+Hydrogen cyanide,['carbon'],ChemicalCompoundElement
+Hydrogen cyanide,['nitrogen'],ChemicalCompoundElement
+Progesterone,['carbon'],ChemicalCompoundElement
+Budipine,['carbon'],ChemicalCompoundElement
+Budipine,['nitrogen'],ChemicalCompoundElement
+Tropisetron,['carbon'],ChemicalCompoundElement
+Tropisetron,['nitrogen'],ChemicalCompoundElement
+Tropisetron,['oxygen'],ChemicalCompoundElement
+Nifedipine,['carbon'],ChemicalCompoundElement
+Nifedipine,['nitrogen'],ChemicalCompoundElement
+Nifedipine,['oxygen'],ChemicalCompoundElement
+Sphingosine,['carbon'],ChemicalCompoundElement
+Sphingosine,['oxygen'],ChemicalCompoundElement
+Hydrazine,['hydrogen'],ChemicalCompoundElement
+Hydrazine,['carbon'],ChemicalCompoundElement
+Methenamine,['hydrogen'],ChemicalCompoundElement
+Methenamine,['carbon'],ChemicalCompoundElement
+Methenamine,['nitrogen'],ChemicalCompoundElement
+Lithium iodide,['lithium'],ChemicalCompoundElement
+Lithium iodide,['iodine'],ChemicalCompoundElement
+Cyclobutane,['hydrogen'],ChemicalCompoundElement
+Cyclobutane,['carbon'],ChemicalCompoundElement
+Mustard gas,['carbon'],ChemicalCompoundElement
+Mustard gas,['sulfur'],ChemicalCompoundElement
+Mustard gas,['chlorine'],ChemicalCompoundElement
+Bismuth subsalicylate,['bismuth'],ChemicalCompoundElement
+Chlorophyll f,['carbon'],ChemicalCompoundElement
+Chlorophyll f,['nitrogen'],ChemicalCompoundElement
+Adiponitrile,['carbon'],ChemicalCompoundElement
+Sodium hydroxide,['hydrogen'],ChemicalCompoundElement
+Sodium hydroxide,['oxygen'],ChemicalCompoundElement
+Sodium hydroxide,['sodium'],ChemicalCompoundElement
+Sodium hydroxide,"['hydroxide ion', 'hydroxide']",ChemicalCompoundElement
+Sodium hydroxide,"['sodium', 'sodium ion']",ChemicalCompoundElement
+Bilirubin,['carbon'],ChemicalCompoundElement
+Bilirubin,['nitrogen'],ChemicalCompoundElement
+Cupric sulfate,['oxygen'],ChemicalCompoundElement
+Cupric sulfate,['sulfur'],ChemicalCompoundElement
+Cupric sulfate,['copper'],ChemicalCompoundElement
+Coumarin,['hydrogen'],ChemicalCompoundElement
+Coumarin,['carbon'],ChemicalCompoundElement
+Coumarin,['oxygen'],ChemicalCompoundElement
+Disilane,['hydrogen'],ChemicalCompoundElement
+Disilane,['silicon'],ChemicalCompoundElement
+Corrin,['carbon'],ChemicalCompoundElement
+Corrin,['nitrogen'],ChemicalCompoundElement
+Glycerol,['hydrogen'],ChemicalCompoundElement
+Glycerol,['carbon'],ChemicalCompoundElement
+Glycerol,['oxygen'],ChemicalCompoundElement
+Glycerol,['glyceryl'],ChemicalCompoundElement
+Epinephrine,['carbon'],ChemicalCompoundElement
+Epinephrine,['nitrogen'],ChemicalCompoundElement
+Niacin,['hydrogen'],ChemicalCompoundElement
+Niacin,['carbon'],ChemicalCompoundElement
+Niacin,['nitrogen'],ChemicalCompoundElement
+Niacin,['oxygen'],ChemicalCompoundElement
+Inositol trisphosphate,['carbon'],ChemicalCompoundElement
+Triethylamine,['hydrogen'],ChemicalCompoundElement
+Triethylamine,['carbon'],ChemicalCompoundElement
+Triethylamine,['nitrogen'],ChemicalCompoundElement
+Fumaric acid,['hydrogen'],ChemicalCompoundElement
+Fumaric acid,['carbon'],ChemicalCompoundElement
+Fumaric acid,['oxygen'],ChemicalCompoundElement
+Pimozide,['carbon'],ChemicalCompoundElement
+Pimozide,['fluorine'],ChemicalCompoundElement
+Azulene,['carbon'],ChemicalCompoundElement
+Nonane,['carbon'],ChemicalCompoundElement
+Octadecane,['carbon'],ChemicalCompoundElement
+Trimethyl phosphite,['hydrogen'],ChemicalCompoundElement
+Trimethyl phosphite,['carbon'],ChemicalCompoundElement
+Trimethyl phosphite,['oxygen'],ChemicalCompoundElement
+Trimethyl phosphite,['phosphorus'],ChemicalCompoundElement
+Valsartan,['carbon'],ChemicalCompoundElement
+Valsartan,['nitrogen'],ChemicalCompoundElement
+Vinylidene fluoride,['carbon'],ChemicalCompoundElement
+Vinylidene fluoride,['fluorine'],ChemicalCompoundElement
+Benzylpiperazine,['carbon'],ChemicalCompoundElement
+Benzylpiperazine,['nitrogen'],ChemicalCompoundElement
+Ddt,['carbon'],ChemicalCompoundElement
+Ddt,['chlorine'],ChemicalCompoundElement
+Glucagon,['carbon'],ChemicalCompoundElement
+Glucagon,['nitrogen'],ChemicalCompoundElement
+Glucagon,['glucagon/gip/secretin/vip'],ChemicalCompoundElement
+Phytane,['carbon'],ChemicalCompoundElement
+Potassium nitrate,['nitrogen'],ChemicalCompoundElement
+Potassium nitrate,['oxygen'],ChemicalCompoundElement
+Potassium nitrate,['potassium'],ChemicalCompoundElement
+Cadmium sulfide,['sulfur'],ChemicalCompoundElement
+Cadmium sulfide,['cadmium'],ChemicalCompoundElement
+Sodium bicarbonate,['hydrogen'],ChemicalCompoundElement
+Sodium bicarbonate,['carbon'],ChemicalCompoundElement
+Sodium bicarbonate,['oxygen'],ChemicalCompoundElement
+Sodium bicarbonate,['sodium'],ChemicalCompoundElement
+Melatonin,['carbon'],ChemicalCompoundElement
+Melatonin,['nitrogen'],ChemicalCompoundElement
+Aspartame,['carbon'],ChemicalCompoundElement
+Aspartame,['oxygen'],ChemicalCompoundElement
+Ammonium nitrate,['hydrogen'],ChemicalCompoundElement
+Ammonium nitrate,['nitrogen'],ChemicalCompoundElement
+Ammonium nitrate,['oxygen'],ChemicalCompoundElement

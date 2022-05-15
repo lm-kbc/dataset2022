@@ -1,0 +1,757 @@
+SubjectEntity,ObjectEntity,relation
+Bruno Mars,['composer'],PersonProfession
+Bruno Mars,"['producer', 'record producer']",PersonProfession
+Bruno Mars,"['singer-songwriter', 'singer']",PersonProfession
+Bruno Mars,['songwriter'],PersonProfession
+Bruno Mars,"['multi-instrumentalist', 'instrumentalist']",PersonProfession
+Bruno Mars,"['music video director', 'director']",PersonProfession
+Bruno Mars,"['voice actor', 'actor']",PersonProfession
+Bruno Mars,['choreographer'],PersonProfession
+Bruno Mars,['dancer'],PersonProfession
+Tom Hanks,['screenwriter'],PersonProfession
+Tom Hanks,['actor'],PersonProfession
+Tom Hanks,['writer'],PersonProfession
+Tom Hanks,['composer'],PersonProfession
+Tom Hanks,['comedian'],PersonProfession
+Tom Hanks,"['television producer', 'producer']",PersonProfession
+Tom Hanks,"['presenter', 'television presenter']",PersonProfession
+Tom Hanks,"['actor', 'character actor']",PersonProfession
+Tom Hanks,"['executive producer', 'producer']",PersonProfession
+Tom Hanks,"['television director', 'director']",PersonProfession
+Tom Hanks,"['actor', 'stage actor']",PersonProfession
+Tom Hanks,"['voice actor', 'actor']",PersonProfession
+Tom Hanks,"['director', 'film director']",PersonProfession
+Tom Hanks,"['producer', 'film producer']",PersonProfession
+Tom Hanks,"['actor', 'television actor']",PersonProfession
+Tom Hanks,"['actor', 'film actor']",PersonProfession
+Tom Hanks,"['short story writer', 'writer']",PersonProfession
+Tom Hanks,['narrator'],PersonProfession
+Bill Clinton,['writer'],PersonProfession
+Bill Clinton,['teacher'],PersonProfession
+Bill Clinton,['lawyer'],PersonProfession
+Bill Clinton,['politician'],PersonProfession
+Bill Clinton,['diplomat'],PersonProfession
+Bill Clinton,['statesperson'],PersonProfession
+Bill Clinton,['saxophonist'],PersonProfession
+Bill Clinton,['autobiographer'],PersonProfession
+Miley Cyrus,['actor'],PersonProfession
+Miley Cyrus,['singer'],PersonProfession
+Miley Cyrus,"['singer-songwriter', 'singer']",PersonProfession
+Miley Cyrus,['musician'],PersonProfession
+Miley Cyrus,"['voice actor', 'actor']",PersonProfession
+Miley Cyrus,"['actor', 'television actor']",PersonProfession
+Miley Cyrus,"['actor', 'film actor']",PersonProfession
+Donald Trump,['actor'],PersonProfession
+Donald Trump,['writer'],PersonProfession
+Donald Trump,['businessperson'],PersonProfession
+Donald Trump,['politician'],PersonProfession
+Donald Trump,['entrepreneur'],PersonProfession
+Donald Trump,"['ceo', 'chief executive officer']",PersonProfession
+Donald Trump,['investor'],PersonProfession
+Donald Trump,"['television producer', 'producer']",PersonProfession
+Donald Trump,['business magnate'],PersonProfession
+Donald Trump,"['presenter', 'television presenter']",PersonProfession
+Donald Trump,"['producer', 'film producer']",PersonProfession
+Donald Trump,['restaurateur'],PersonProfession
+Donald Trump,['real estate entrepreneur'],PersonProfession
+Donald Trump,"['non-fiction writer', 'writer']",PersonProfession
+Donald Trump,"['real estate developer', 'developer']",PersonProfession
+Donald Trump,['conspiracy theorist'],PersonProfession
+Donald Trump,"['host', 'game show host']",PersonProfession
+Hillary Clinton,['writer'],PersonProfession
+Hillary Clinton,['lawyer'],PersonProfession
+Hillary Clinton,['politician'],PersonProfession
+Hillary Clinton,['diplomat'],PersonProfession
+Hillary Clinton,"['university teacher', 'teacher']",PersonProfession
+Hillary Clinton,['podcaster'],PersonProfession
+Hillary Clinton,['autobiographer'],PersonProfession
+Michael Bloomberg,['actor'],PersonProfession
+Michael Bloomberg,['writer'],PersonProfession
+Michael Bloomberg,['businessperson'],PersonProfession
+Michael Bloomberg,['politician'],PersonProfession
+Michael Bloomberg,['trader'],PersonProfession
+Michael Bloomberg,"['aircraft pilot', 'pilot']",PersonProfession
+Michael Bloomberg,"['bank manager', 'manager']",PersonProfession
+Ezra Klein,['writer'],PersonProfession
+Ezra Klein,"['television producer', 'producer']",PersonProfession
+Ezra Klein,['columnist'],PersonProfession
+Ezra Klein,['journalist'],PersonProfession
+Ezra Klein,['blogger'],PersonProfession
+Ezra Klein,['political pundit'],PersonProfession
+Ezra Klein,['podcaster'],PersonProfession
+Paul McCartney,['screenwriter'],PersonProfession
+Paul McCartney,['actor'],PersonProfession
+Paul McCartney,['composer'],PersonProfession
+Paul McCartney,['singer'],PersonProfession
+Paul McCartney,['drummer'],PersonProfession
+Paul McCartney,['pianist'],PersonProfession
+Paul McCartney,"['singer-songwriter', 'singer']",PersonProfession
+Paul McCartney,['bassist'],PersonProfession
+Paul McCartney,['musician'],PersonProfession
+Paul McCartney,['lyricist'],PersonProfession
+Paul McCartney,['guitarist'],PersonProfession
+Paul McCartney,['painter'],PersonProfession
+Paul McCartney,"['film score composer', 'composer']",PersonProfession
+Paul McCartney,"['producer', 'film producer']",PersonProfession
+Paul McCartney,['bass guitarist'],PersonProfession
+Paul McCartney,"['artist', 'recording artist']",PersonProfession
+Amitabh Bachchan,['actor'],PersonProfession
+Amitabh Bachchan,['singer'],PersonProfession
+Amitabh Bachchan,"['producer', 'film producer']",PersonProfession
+Amitabh Bachchan,"['actor', 'television actor']",PersonProfession
+Amitabh Bachchan,"['actor', 'film actor']",PersonProfession
+Rachel Maddow,['journalist'],PersonProfession
+Salman Khan,['singer'],PersonProfession
+Salman Khan,"['presenter', 'television presenter']",PersonProfession
+Salman Khan,"['producer', 'film producer']",PersonProfession
+Salman Khan,"['actor', 'film actor']",PersonProfession
+Stephen Harper,['politician'],PersonProfession
+Stephen Harper,['economist'],PersonProfession
+Stephen Harper,['pianist'],PersonProfession
+Shakira,['actor'],PersonProfession
+Shakira,['composer'],PersonProfession
+Shakira,['singer'],PersonProfession
+Shakira,"['producer', 'record producer']",PersonProfession
+Shakira,"['singer-songwriter', 'singer']",PersonProfession
+Shakira,['guitarist'],PersonProfession
+Shakira,"['voice actor', 'actor']",PersonProfession
+Shakira,['choreographer'],PersonProfession
+Shakira,['model'],PersonProfession
+Shakira,['philanthropist'],PersonProfession
+Shakira,['manufacturer'],PersonProfession
+Jennifer Lopez,"['producer', 'record producer']",PersonProfession
+Jennifer Lopez,"['singer-songwriter', 'singer']",PersonProfession
+Jennifer Lopez,"['television producer', 'producer']",PersonProfession
+Jennifer Lopez,"['executive producer', 'producer']",PersonProfession
+Jennifer Lopez,"['voice actor', 'actor']",PersonProfession
+Jennifer Lopez,['choreographer'],PersonProfession
+Jennifer Lopez,"['director', 'film director']",PersonProfession
+Jennifer Lopez,"['producer', 'film producer']",PersonProfession
+Jennifer Lopez,['restaurateur'],PersonProfession
+Jennifer Lopez,"['designer', 'fashion designer']",PersonProfession
+Jennifer Lopez,['model'],PersonProfession
+Jennifer Lopez,['dancer'],PersonProfession
+Jennifer Lopez,"['actor', 'television actor']",PersonProfession
+Jennifer Lopez,"['actor', 'film actor']",PersonProfession
+Jennifer Lopez,['autobiographer'],PersonProfession
+Michael Jackson,['screenwriter'],PersonProfession
+Michael Jackson,['actor'],PersonProfession
+Michael Jackson,['businessperson'],PersonProfession
+Michael Jackson,['poet'],PersonProfession
+Michael Jackson,['entrepreneur'],PersonProfession
+Michael Jackson,['singer'],PersonProfession
+Michael Jackson,"['producer', 'record producer']",PersonProfession
+Michael Jackson,"['singer-songwriter', 'singer']",PersonProfession
+Michael Jackson,['musician'],PersonProfession
+Michael Jackson,['songwriter'],PersonProfession
+Michael Jackson,"['voice actor', 'actor']",PersonProfession
+Michael Jackson,"['director', 'film director']",PersonProfession
+Michael Jackson,['model'],PersonProfession
+Michael Jackson,['dancer'],PersonProfession
+Michael Jackson,"['art collector', 'collector']",PersonProfession
+Michael Jackson,"['actor', 'film actor']",PersonProfession
+Michael Jackson,['philanthropist'],PersonProfession
+Michael Jackson,['autobiographer'],PersonProfession
+Michael Jackson,"['artist', 'recording artist']",PersonProfession
+Jennette McCurdy,['screenwriter'],PersonProfession
+Jennette McCurdy,['actor'],PersonProfession
+Jennette McCurdy,['singer'],PersonProfession
+Jennette McCurdy,"['singer-songwriter', 'singer']",PersonProfession
+Jennette McCurdy,['musician'],PersonProfession
+Jennette McCurdy,['songwriter'],PersonProfession
+Jennette McCurdy,['journalist'],PersonProfession
+Jennette McCurdy,"['voice actor', 'actor']",PersonProfession
+Jennette McCurdy,['dancer'],PersonProfession
+Jennette McCurdy,"['actor', 'television actor']",PersonProfession
+Jennette McCurdy,"['actor', 'film actor']",PersonProfession
+Jennette McCurdy,['manufacturer'],PersonProfession
+François Hollande,['statesperson'],PersonProfession
+Dwayne Johnson,['actor'],PersonProfession
+Dwayne Johnson,['businessperson'],PersonProfession
+Dwayne Johnson,"['executive producer', 'producer']",PersonProfession
+Dwayne Johnson,"['voice actor', 'actor']",PersonProfession
+Dwayne Johnson,"['producer', 'film producer']",PersonProfession
+Dwayne Johnson,"['actor', 'television actor']",PersonProfession
+Dwayne Johnson,"['actor', 'film actor']",PersonProfession
+Dwayne Johnson,"['wrestler', 'professional wrestler']",PersonProfession
+Dwayne Johnson,"['american football player', 'player']",PersonProfession
+Dwayne Johnson,"['player', 'canadian football player']",PersonProfession
+Chris Rock,['screenwriter'],PersonProfession
+Chris Rock,['comedian'],PersonProfession
+Chris Rock,"['television producer', 'producer']",PersonProfession
+Chris Rock,"['presenter', 'television presenter']",PersonProfession
+Chris Rock,"['voice actor', 'actor']",PersonProfession
+Chris Rock,"['director', 'film director']",PersonProfession
+Chris Rock,"['producer', 'film producer']",PersonProfession
+Chris Rock,"['actor', 'television actor']",PersonProfession
+Chris Rock,"['actor', 'film actor']",PersonProfession
+Chris Rock,"['comedian', 'stand-up comedian']",PersonProfession
+Miranda Cosgrove,['actor'],PersonProfession
+Miranda Cosgrove,['singer'],PersonProfession
+Miranda Cosgrove,['musician'],PersonProfession
+Miranda Cosgrove,"['actor', 'child actor']",PersonProfession
+Miranda Cosgrove,"['actor', 'television actor']",PersonProfession
+Miranda Cosgrove,"['actor', 'dub actor']",PersonProfession
+Miranda Cosgrove,"['singer', 'pop singer']",PersonProfession
+Ricky Gervais,['screenwriter'],PersonProfession
+Ricky Gervais,['actor'],PersonProfession
+Ricky Gervais,['writer'],PersonProfession
+Ricky Gervais,['comedian'],PersonProfession
+Ricky Gervais,"['television producer', 'producer']",PersonProfession
+Ricky Gervais,['musician'],PersonProfession
+Ricky Gervais,"['presenter', 'television presenter']",PersonProfession
+Ricky Gervais,"['television director', 'director']",PersonProfession
+Ricky Gervais,"['voice actor', 'actor']",PersonProfession
+Ricky Gervais,"['director', 'film director']",PersonProfession
+Ricky Gervais,['radio personality'],PersonProfession
+Ricky Gervais,"['producer', 'film producer']",PersonProfession
+Ricky Gervais,"['actor', 'television actor']",PersonProfession
+Ricky Gervais,"['actor', 'film actor']",PersonProfession
+Ricky Gervais,"['comedian', 'stand-up comedian']",PersonProfession
+Selena Gomez,['actor'],PersonProfession
+Selena Gomez,['singer'],PersonProfession
+Selena Gomez,"['producer', 'record producer']",PersonProfession
+Selena Gomez,['songwriter'],PersonProfession
+Selena Gomez,"['actor', 'child actor']",PersonProfession
+Selena Gomez,"['voice actor', 'actor']",PersonProfession
+Selena Gomez,"['producer', 'film producer']",PersonProfession
+Selena Gomez,"['designer', 'fashion designer']",PersonProfession
+Selena Gomez,['model'],PersonProfession
+Selena Gomez,"['actor', 'television actor']",PersonProfession
+Selena Gomez,"['actor', 'film actor']",PersonProfession
+Sachin,['politician'],PersonProfession
+Sachin,['cricketer'],PersonProfession
+Bruce Springsteen,['singer'],PersonProfession
+Bruce Springsteen,"['producer', 'record producer']",PersonProfession
+Bruce Springsteen,['pianist'],PersonProfession
+Bruce Springsteen,['musician'],PersonProfession
+Bruce Springsteen,['songwriter'],PersonProfession
+Bruce Springsteen,['guitarist'],PersonProfession
+Bruce Springsteen,"['artist', 'recording artist']",PersonProfession
+Drake,['actor'],PersonProfession
+Drake,['businessperson'],PersonProfession
+Drake,['singer'],PersonProfession
+Drake,"['producer', 'record producer']",PersonProfession
+Drake,['songwriter'],PersonProfession
+Drake,['rapper'],PersonProfession
+Lance Armstrong,"['sport cyclist', 'cyclist']",PersonProfession
+Lance Armstrong,['podcaster'],PersonProfession
+Lance Armstrong,['triathlete'],PersonProfession
+Lance Armstrong,['autobiographer'],PersonProfession
+Mariah Carey,['actor'],PersonProfession
+Mariah Carey,['composer'],PersonProfession
+Mariah Carey,['businessperson'],PersonProfession
+Mariah Carey,['entertainer'],PersonProfession
+Mariah Carey,['singer'],PersonProfession
+Mariah Carey,"['singer-songwriter', 'singer']",PersonProfession
+Mariah Carey,"['music video director', 'director']",PersonProfession
+Mariah Carey,"['voice actor', 'actor']",PersonProfession
+Mariah Carey,"['producer', 'film producer']",PersonProfession
+Mariah Carey,"['music producer', 'producer']",PersonProfession
+Mariah Carey,['model'],PersonProfession
+Mariah Carey,['philanthropist'],PersonProfession
+Mariah Carey,"['artist', 'recording artist']",PersonProfession
+Dr. Dre,['screenwriter'],PersonProfession
+Dr. Dre,['actor'],PersonProfession
+Dr. Dre,['composer'],PersonProfession
+Dr. Dre,"['engineer', 'audio engineer']",PersonProfession
+Dr. Dre,['entrepreneur'],PersonProfession
+Dr. Dre,"['television producer', 'producer']",PersonProfession
+Dr. Dre,['rapper'],PersonProfession
+Dr. Dre,"['director', 'film director']",PersonProfession
+Dr. Dre,"['executive', 'music executive']",PersonProfession
+Dr. Dre,"['producer', 'film producer']",PersonProfession
+Dr. Dre,"['actor', 'film actor']",PersonProfession
+LeBron James,['screenwriter'],PersonProfession
+LeBron James,"['player', 'basketball player']",PersonProfession
+LeBron James,"['actor', 'television actor']",PersonProfession
+Robin van Persie,"['association football player', 'footballer']",PersonProfession
+Leonardo DiCaprio,['screenwriter'],PersonProfession
+Leonardo DiCaprio,['actor'],PersonProfession
+Leonardo DiCaprio,"['actor', 'stage actor']",PersonProfession
+Leonardo DiCaprio,"['producer', 'film producer']",PersonProfession
+Leonardo DiCaprio,['environmentalist'],PersonProfession
+Leonardo DiCaprio,"['actor', 'television actor']",PersonProfession
+Leonardo DiCaprio,"['actor', 'film actor']",PersonProfession
+Joe Biden,['lawyer'],PersonProfession
+Joe Biden,['politician'],PersonProfession
+Joe Biden,"['university teacher', 'teacher']",PersonProfession
+Taylor Swift,['singer'],PersonProfession
+Mark Hoppus,['singer'],PersonProfession
+Mark Hoppus,"['producer', 'record producer']",PersonProfession
+Mark Hoppus,['musician'],PersonProfession
+Mark Hoppus,['songwriter'],PersonProfession
+Mark Hoppus,['guitarist'],PersonProfession
+Vladimir Putin,['lawyer'],PersonProfession
+Vladimir Putin,['coach'],PersonProfession
+Vladimir Putin,['military personnel'],PersonProfession
+Vladimir Putin,['politician'],PersonProfession
+Vladimir Putin,['intelligence agent'],PersonProfession
+Vladimir Putin,"['performer', 'stunt performer']",PersonProfession
+Vladimir Putin,['judoka'],PersonProfession
+Zedd,['composer'],PersonProfession
+Zedd,"['dj', 'disc jockey']",PersonProfession
+Zedd,"['producer', 'record producer']",PersonProfession
+Zedd,['pianist'],PersonProfession
+Zedd,['musician'],PersonProfession
+Zedd,"['music producer', 'producer']",PersonProfession
+Zedd,['manufacturer'],PersonProfession
+Zedd,"['artist', 'recording artist']",PersonProfession
+Jose Michimani,['actor'],PersonProfession
+Jose Michimani,['composer'],PersonProfession
+Jose Michimani,['singer'],PersonProfession
+Jose Michimani,"['actor', 'television actor']",PersonProfession
+Jose Michimani,"['actor', 'film actor']",PersonProfession
+Jose Michimani,"['artist', 'recording artist']",PersonProfession
+Jose Michimani,['salsa musician'],PersonProfession
+Justin Timberlake,['actor'],PersonProfession
+Justin Timberlake,['singer'],PersonProfession
+J. K. Rowling,['screenwriter'],PersonProfession
+J. K. Rowling,['writer'],PersonProfession
+J. K. Rowling,['author'],PersonProfession
+J. K. Rowling,"['executive producer', 'producer']",PersonProfession
+J. K. Rowling,"['producer', 'film producer']",PersonProfession
+J. K. Rowling,"['writer', ""children's writer""]",PersonProfession
+J. K. Rowling,['novelist'],PersonProfession
+Zac Efron,['actor'],PersonProfession
+Zac Efron,"['dj', 'disc jockey']",PersonProfession
+Zac Efron,['singer'],PersonProfession
+Zac Efron,"['actor', 'stage actor']",PersonProfession
+Zac Efron,"['voice actor', 'actor']",PersonProfession
+Zac Efron,"['producer', 'film producer']",PersonProfession
+Zac Efron,"['actor', 'television actor']",PersonProfession
+Zac Efron,"['actor', 'film actor']",PersonProfession
+Donald Tusk,['politician'],PersonProfession
+Donald Tusk,['historian'],PersonProfession
+A. R. Rahman,['composer'],PersonProfession
+A. R. Rahman,['entrepreneur'],PersonProfession
+A. R. Rahman,['singer'],PersonProfession
+A. R. Rahman,"['producer', 'record producer']",PersonProfession
+A. R. Rahman,['musician'],PersonProfession
+A. R. Rahman,['songwriter'],PersonProfession
+A. R. Rahman,"['director', 'music director']",PersonProfession
+A. R. Rahman,"['multi-instrumentalist', 'instrumentalist']",PersonProfession
+A. R. Rahman,"['film score composer', 'composer']",PersonProfession
+A. R. Rahman,"['director', 'film director']",PersonProfession
+A. R. Rahman,"['producer', 'film producer']",PersonProfession
+A. R. Rahman,"['actor', 'film actor']",PersonProfession
+David Guetta,"['dj', 'disc jockey']",PersonProfession
+Seth Meyers,['screenwriter'],PersonProfession
+Seth Meyers,['writer'],PersonProfession
+Seth Meyers,['comedian'],PersonProfession
+Seth Meyers,['journalist'],PersonProfession
+Seth Meyers,"['voice actor', 'actor']",PersonProfession
+Seth Meyers,"['actor', 'television actor']",PersonProfession
+Seth Meyers,"['actor', 'film actor']",PersonProfession
+Ellie Goulding,['actor'],PersonProfession
+Ellie Goulding,['composer'],PersonProfession
+Ellie Goulding,['singer'],PersonProfession
+Ellie Goulding,"['producer', 'record producer']",PersonProfession
+Ellie Goulding,['drummer'],PersonProfession
+Ellie Goulding,['pianist'],PersonProfession
+Ellie Goulding,"['singer-songwriter', 'singer']",PersonProfession
+Ellie Goulding,['songwriter'],PersonProfession
+Ellie Goulding,['guitarist'],PersonProfession
+Ellie Goulding,"['multi-instrumentalist', 'instrumentalist']",PersonProfession
+Ellie Goulding,"['artist', 'recording artist']",PersonProfession
+Jessie J,['singer'],PersonProfession
+Jessie J,"['singer-songwriter', 'singer']",PersonProfession
+Jessie J,['songwriter'],PersonProfession
+Jessie J,"['executive', 'music executive']",PersonProfession
+Jessie J,['autobiographer'],PersonProfession
+Memphis Depay,"['association football player', 'footballer']",PersonProfession
+Memphis Depay,['rapper'],PersonProfession
+Wiz Khalifa,['actor'],PersonProfession
+Wiz Khalifa,['singer'],PersonProfession
+Wiz Khalifa,"['singer-songwriter', 'singer']",PersonProfession
+Wiz Khalifa,['musician'],PersonProfession
+Wiz Khalifa,['rapper'],PersonProfession
+Wiz Khalifa,"['actor', 'television actor']",PersonProfession
+Wiz Khalifa,"['actor', 'film actor']",PersonProfession
+Enrique Iglesias,['actor'],PersonProfession
+Enrique Iglesias,['composer'],PersonProfession
+Enrique Iglesias,"['producer', 'record producer']",PersonProfession
+Enrique Iglesias,"['singer-songwriter', 'singer']",PersonProfession
+Enrique Iglesias,['musician'],PersonProfession
+Enrique Iglesias,['model'],PersonProfession
+Enrique Iglesias,['manufacturer'],PersonProfession
+Troian Bellisario,['actor'],PersonProfession
+Troian Bellisario,"['actor', 'television actor']",PersonProfession
+Troian Bellisario,"['actor', 'film actor']",PersonProfession
+Stephen King,['screenwriter'],PersonProfession
+Stephen King,['actor'],PersonProfession
+Stephen King,['writer'],PersonProfession
+Stephen King,['teacher'],PersonProfession
+Stephen King,"['television producer', 'producer']",PersonProfession
+Stephen King,['columnist'],PersonProfession
+Stephen King,['journalist'],PersonProfession
+Stephen King,"['director', 'film director']",PersonProfession
+Stephen King,['director'],PersonProfession
+Stephen King,['novelist'],PersonProfession
+Stephen King,"['science fiction writer', 'writer']",PersonProfession
+Ellen DeGeneres,['screenwriter'],PersonProfession
+Ellen DeGeneres,['actor'],PersonProfession
+Ellen DeGeneres,['writer'],PersonProfession
+Ellen DeGeneres,['comedian'],PersonProfession
+Ellen DeGeneres,"['television producer', 'producer']",PersonProfession
+Ellen DeGeneres,"['presenter', 'television presenter']",PersonProfession
+Ellen DeGeneres,"['voice actor', 'actor']",PersonProfession
+Ellen DeGeneres,"['actor', 'television actor']",PersonProfession
+Ellen DeGeneres,"['actor', 'film actor']",PersonProfession
+Ellen DeGeneres,['presenter'],PersonProfession
+Ellen DeGeneres,"['talk show host', 'host']",PersonProfession
+Pink,['spokesperson'],PersonProfession
+Pink,"['producer', 'record producer']",PersonProfession
+Pink,"['singer-songwriter', 'singer']",PersonProfession
+Pink,['songwriter'],PersonProfession
+Pink,['model'],PersonProfession
+Pink,['dancer'],PersonProfession
+Pink,"['actor', 'film actor']",PersonProfession
+Pink,"['artist', 'recording artist']",PersonProfession
+Henrique Capriles Radonski,['lawyer'],PersonProfession
+Henrique Capriles Radonski,['politician'],PersonProfession
+William Bonner,['writer'],PersonProfession
+William Bonner,"['presenter', 'news presenter']",PersonProfession
+William Bonner,['journalist'],PersonProfession
+Psy,['singer'],PersonProfession
+Psy,"['producer', 'record producer']",PersonProfession
+Psy,"['television producer', 'producer']",PersonProfession
+Psy,['songwriter'],PersonProfession
+Psy,['rapper'],PersonProfession
+Psy,['choreographer'],PersonProfession
+Psy,"['actor', 'film actor']",PersonProfession
+Blaise Matuidi,"['association football player', 'footballer']",PersonProfession
+Jimmy Fallon,['screenwriter'],PersonProfession
+Jimmy Fallon,['actor'],PersonProfession
+Jimmy Fallon,['writer'],PersonProfession
+Jimmy Fallon,['comedian'],PersonProfession
+Jimmy Fallon,"['television producer', 'producer']",PersonProfession
+Jimmy Fallon,"['presenter', 'television presenter']",PersonProfession
+Jimmy Fallon,"['voice actor', 'actor']",PersonProfession
+Jimmy Fallon,"['actor', 'television actor']",PersonProfession
+Jimmy Fallon,"['actor', 'film actor']",PersonProfession
+Jimmy Fallon,"['talk show host', 'host']",PersonProfession
+Lewis Hamilton,"['racing automobile driver', 'driver']",PersonProfession
+Lewis Hamilton,"['formula one driver', 'driver']",PersonProfession
+Jeremy Renner,['musician'],PersonProfession
+Jeremy Renner,"['make-up artist', 'artist']",PersonProfession
+Jeremy Renner,"['actor', 'stage actor']",PersonProfession
+Jeremy Renner,"['producer', 'film producer']",PersonProfession
+Jeremy Renner,"['actor', 'television actor']",PersonProfession
+Jeremy Renner,"['actor', 'film actor']",PersonProfession
+Samir Nasri,"['association football player', 'footballer']",PersonProfession
+Lindsay Lohan,['singer'],PersonProfession
+Lindsay Lohan,['songwriter'],PersonProfession
+Lindsay Lohan,"['actor', 'stage actor']",PersonProfession
+Lindsay Lohan,['model'],PersonProfession
+Lindsay Lohan,"['actor', 'television actor']",PersonProfession
+Lindsay Lohan,"['actor', 'film actor']",PersonProfession
+Lindsay Lohan,"['artist', 'recording artist']",PersonProfession
+Harbhajan Singh,['cricketer'],PersonProfession
+Al Gore,['writer'],PersonProfession
+Al Gore,['businessperson'],PersonProfession
+Al Gore,['politician'],PersonProfession
+Al Gore,['journalist'],PersonProfession
+Al Gore,['financier'],PersonProfession
+Al Gore,['environmentalist'],PersonProfession
+Al Gore,"['activist', 'climate activist']",PersonProfession
+James Maslow,['actor'],PersonProfession
+James Maslow,['singer'],PersonProfession
+James Maslow,"['singer-songwriter', 'singer']",PersonProfession
+James Maslow,['musician'],PersonProfession
+James Maslow,['model'],PersonProfession
+James Maslow,['dancer'],PersonProfession
+James Maslow,"['actor', 'television actor']",PersonProfession
+James Maslow,"['actor', 'film actor']",PersonProfession
+James Maslow,['manufacturer'],PersonProfession
+James Maslow,['youtuber'],PersonProfession
+Gerard Piqué,"['association football player', 'footballer']",PersonProfession
+Ricky Martin,['writer'],PersonProfession
+Ricky Martin,['composer'],PersonProfession
+Ricky Martin,['singer'],PersonProfession
+Ricky Martin,['musician'],PersonProfession
+Ricky Martin,"['actor', 'stage actor']",PersonProfession
+Ricky Martin,['model'],PersonProfession
+Ricky Martin,"['actor', 'television actor']",PersonProfession
+Stephen Fry,['screenwriter'],PersonProfession
+Stephen Fry,['actor'],PersonProfession
+Stephen Fry,['writer'],PersonProfession
+Stephen Fry,['comedian'],PersonProfession
+Stephen Fry,"['performing artist', 'artist']",PersonProfession
+Stephen Fry,"['presenter', 'television presenter']",PersonProfession
+Stephen Fry,['journalist'],PersonProfession
+Stephen Fry,"['actor', 'stage actor']",PersonProfession
+Stephen Fry,"['director', 'film director']",PersonProfession
+Stephen Fry,['improviser'],PersonProfession
+Stephen Fry,['director'],PersonProfession
+Stephen Fry,['novelist'],PersonProfession
+Stephen Fry,"['actor', 'television actor']",PersonProfession
+Stephen Fry,"['actor', 'film actor']",PersonProfession
+Stephen Fry,['autobiographer'],PersonProfession
+Stephen Fry,"['science fiction writer', 'writer']",PersonProfession
+Stephen Fry,['narrator'],PersonProfession
+Ashley Tisdale,['composer'],PersonProfession
+Ashley Tisdale,['singer'],PersonProfession
+Ashley Tisdale,"['singer-songwriter', 'singer']",PersonProfession
+Ashley Tisdale,"['television producer', 'producer']",PersonProfession
+Ashley Tisdale,"['actor', 'stage actor']",PersonProfession
+Ashley Tisdale,"['voice actor', 'actor']",PersonProfession
+Ashley Tisdale,"['producer', 'film producer']",PersonProfession
+Ashley Tisdale,['model'],PersonProfession
+Ashley Tisdale,"['actor', 'television actor']",PersonProfession
+Ashley Tisdale,"['actor', 'film actor']",PersonProfession
+Ashley Tisdale,"['artist', 'recording artist']",PersonProfession
+will.i.am,['businessperson'],PersonProfession
+will.i.am,"['dj', 'disc jockey']",PersonProfession
+will.i.am,['entrepreneur'],PersonProfession
+will.i.am,"['singer-songwriter', 'singer']",PersonProfession
+will.i.am,['songwriter'],PersonProfession
+will.i.am,['guitarist'],PersonProfession
+will.i.am,['educator'],PersonProfession
+will.i.am,"['film score composer', 'composer']",PersonProfession
+will.i.am,['rapper'],PersonProfession
+will.i.am,"['voice actor', 'actor']",PersonProfession
+will.i.am,"['producer', 'film producer']",PersonProfession
+will.i.am,"['music producer', 'producer']",PersonProfession
+will.i.am,['dancer'],PersonProfession
+will.i.am,"['comics writer', 'writer']",PersonProfession
+will.i.am,['philanthropist'],PersonProfession
+Seth MacFarlane,['screenwriter'],PersonProfession
+Seth MacFarlane,['actor'],PersonProfession
+Seth MacFarlane,['composer'],PersonProfession
+Seth MacFarlane,['singer'],PersonProfession
+Seth MacFarlane,['comedian'],PersonProfession
+Seth MacFarlane,['animator'],PersonProfession
+Seth MacFarlane,"['television producer', 'producer']",PersonProfession
+Seth MacFarlane,['lyricist'],PersonProfession
+Seth MacFarlane,['showrunner'],PersonProfession
+Seth MacFarlane,"['television director', 'director']",PersonProfession
+Seth MacFarlane,"['voice actor', 'actor']",PersonProfession
+Seth MacFarlane,"['director', 'film director']",PersonProfession
+Seth MacFarlane,"['producer', 'film producer']",PersonProfession
+Seth MacFarlane,['presenter'],PersonProfession
+Mick Foley,['actor'],PersonProfession
+Mick Foley,['writer'],PersonProfession
+Mick Foley,"['writer', ""children's writer""]",PersonProfession
+Mick Foley,['novelist'],PersonProfession
+Mick Foley,"['actor', 'film actor']",PersonProfession
+Mick Foley,"['wrestler', 'professional wrestler']",PersonProfession
+Sean Combs,['actor'],PersonProfession
+Sean Combs,['composer'],PersonProfession
+Sean Combs,['businessperson'],PersonProfession
+Sean Combs,['entrepreneur'],PersonProfession
+Sean Combs,['singer'],PersonProfession
+Sean Combs,"['producer', 'record producer']",PersonProfession
+Sean Combs,['musician'],PersonProfession
+Sean Combs,['songwriter'],PersonProfession
+Sean Combs,"['executive producer', 'producer']",PersonProfession
+Sean Combs,['rapper'],PersonProfession
+Sean Combs,"['producer', 'film producer']",PersonProfession
+Sean Combs,['restaurateur'],PersonProfession
+Sean Combs,"['designer', 'fashion designer']",PersonProfession
+Sean Combs,"['actor', 'television actor']",PersonProfession
+Sean Combs,"['actor', 'film actor']",PersonProfession
+Richard Dawkins,['screenwriter'],PersonProfession
+Richard Dawkins,['actor'],PersonProfession
+Richard Dawkins,['writer'],PersonProfession
+Richard Dawkins,['zoologist'],PersonProfession
+Richard Dawkins,['author'],PersonProfession
+Richard Dawkins,['biologist'],PersonProfession
+Richard Dawkins,"['university teacher', 'teacher']",PersonProfession
+Richard Dawkins,['geneticist'],PersonProfession
+Richard Dawkins,"['writer', 'science writer']",PersonProfession
+Richard Dawkins,['essayist'],PersonProfession
+Richard Dawkins,"['science communicator', 'communicator']",PersonProfession
+Richard Dawkins,['epistemologist'],PersonProfession
+Richard Dawkins,['evolutionary biologist'],PersonProfession
+Richard Dawkins,['theoretical biologist'],PersonProfession
+Richard Dawkins,['ethologist'],PersonProfession
+Richard Dawkins,['sociobiologist'],PersonProfession
+Tablo,['actor'],PersonProfession
+Tablo,['composer'],PersonProfession
+Tablo,['poet'],PersonProfession
+Tablo,"['dj', 'disc jockey']",PersonProfession
+Tablo,['singer'],PersonProfession
+Tablo,"['producer', 'record producer']",PersonProfession
+Tablo,['songwriter'],PersonProfession
+Tablo,"['actor', 'television actor']",PersonProfession
+Tablo,"['artist', 'recording artist']",PersonProfession
+Chris Brown,['actor'],PersonProfession
+Chris Brown,['singer'],PersonProfession
+Chris Brown,['songwriter'],PersonProfession
+Chris Brown,['rapper'],PersonProfession
+Chris Brown,['dancer'],PersonProfession
+Priyanka Chopra,['singer'],PersonProfession
+Priyanka Chopra,"['producer', 'film producer']",PersonProfession
+Priyanka Chopra,"['fashion model', 'model']",PersonProfession
+Priyanka Chopra,['model'],PersonProfession
+Priyanka Chopra,"['actor', 'film actor']",PersonProfession
+Priyanka Chopra,['beauty pageant contestant'],PersonProfession
+Jonathan Ross,['screenwriter'],PersonProfession
+Jonathan Ross,"['television producer', 'producer']",PersonProfession
+Jonathan Ross,"['presenter', 'television presenter']",PersonProfession
+Jonathan Ross,['journalist'],PersonProfession
+Jonathan Ross,['radio personality'],PersonProfession
+Jonathan Ross,"['critic', 'film critic']",PersonProfession
+Jonathan Ross,"['actor', 'television actor']",PersonProfession
+Jonathan Ross,"['actor', 'film actor']",PersonProfession
+Tyra Banks,['actor'],PersonProfession
+Tyra Banks,['businessperson'],PersonProfession
+Tyra Banks,['entrepreneur'],PersonProfession
+Tyra Banks,['singer'],PersonProfession
+Tyra Banks,"['television producer', 'producer']",PersonProfession
+Tyra Banks,['musician'],PersonProfession
+Tyra Banks,"['presenter', 'television presenter']",PersonProfession
+Tyra Banks,['model'],PersonProfession
+Tyra Banks,"['actor', 'television actor']",PersonProfession
+Tyra Banks,"['actor', 'film actor']",PersonProfession
+Tyra Banks,"['talk show host', 'host']",PersonProfession
+Tyra Banks,"['host', 'game show host']",PersonProfession
+Akon,['entrepreneur'],PersonProfession
+Akon,['singer'],PersonProfession
+Akon,"['producer', 'record producer']",PersonProfession
+Akon,['songwriter'],PersonProfession
+Akon,['philanthropist'],PersonProfession
+Bryan Cranston,['screenwriter'],PersonProfession
+Bryan Cranston,"['television producer', 'producer']",PersonProfession
+Bryan Cranston,"['executive producer', 'producer']",PersonProfession
+Bryan Cranston,"['television director', 'director']",PersonProfession
+Bryan Cranston,"['actor', 'stage actor']",PersonProfession
+Bryan Cranston,"['voice actor', 'actor']",PersonProfession
+Bryan Cranston,"['director', 'film director']",PersonProfession
+Bryan Cranston,"['producer', 'film producer']",PersonProfession
+Bryan Cranston,"['actor', 'television actor']",PersonProfession
+Bryan Cranston,"['actor', 'film actor']",PersonProfession
+John Kerry,['lawyer'],PersonProfession
+John Kerry,['politician'],PersonProfession
+John Kerry,['diplomat'],PersonProfession
+John Kerry,"['aircraft pilot', 'pilot']",PersonProfession
+John Kerry,"['officer', 'naval officer']",PersonProfession
+John Kerry,"['peace activist', 'activist']",PersonProfession
+Hugo Chávez,['politician'],PersonProfession
+Hugo Chávez,"['military officer', 'officer']",PersonProfession
+Ashton Kutcher,['actor'],PersonProfession
+Ashton Kutcher,['comedian'],PersonProfession
+Ashton Kutcher,"['television producer', 'producer']",PersonProfession
+Ashton Kutcher,['financier'],PersonProfession
+Ashton Kutcher,['restaurateur'],PersonProfession
+Ashton Kutcher,['model'],PersonProfession
+Ashton Kutcher,"['actor', 'television actor']",PersonProfession
+Ashton Kutcher,"['actor', 'film actor']",PersonProfession
+Pelé,['actor'],PersonProfession
+Pelé,['politician'],PersonProfession
+Pelé,"['association football player', 'footballer']",PersonProfession
+Pelé,"['actor', 'film actor']",PersonProfession
+Demi Moore,['actor'],PersonProfession
+Demi Moore,"['actor', 'stage actor']",PersonProfession
+Demi Moore,"['voice actor', 'actor']",PersonProfession
+Demi Moore,"['director', 'film director']",PersonProfession
+Demi Moore,"['producer', 'film producer']",PersonProfession
+Demi Moore,['model'],PersonProfession
+Demi Moore,"['actor', 'television actor']",PersonProfession
+Demi Moore,"['actor', 'film actor']",PersonProfession
+Brian May,['actor'],PersonProfession
+Brian May,['composer'],PersonProfession
+Brian May,['physicist'],PersonProfession
+Brian May,['singer'],PersonProfession
+Brian May,"['producer', 'record producer']",PersonProfession
+Brian May,['pianist'],PersonProfession
+Brian May,"['singer-songwriter', 'singer']",PersonProfession
+Brian May,['astrophysicist'],PersonProfession
+Brian May,['guitarist'],PersonProfession
+Brian May,"['presenter', 'television presenter']",PersonProfession
+Brian May,['research fellow'],PersonProfession
+Brian May,['youtuber'],PersonProfession
+Arvind Kejriwal,['politician'],PersonProfession
+Arvind Kejriwal,['bureaucrat'],PersonProfession
+André-Pierre Gignac,"['association football player', 'footballer']",PersonProfession
+Russell Brand,['screenwriter'],PersonProfession
+Russell Brand,['actor'],PersonProfession
+Russell Brand,['poet'],PersonProfession
+Russell Brand,['singer'],PersonProfession
+Russell Brand,['playwright'],PersonProfession
+Russell Brand,['comedian'],PersonProfession
+Russell Brand,"['television producer', 'producer']",PersonProfession
+Russell Brand,['musician'],PersonProfession
+Russell Brand,['guitarist'],PersonProfession
+Russell Brand,"['presenter', 'television presenter']",PersonProfession
+Russell Brand,['columnist'],PersonProfession
+Russell Brand,['journalist'],PersonProfession
+Russell Brand,['radio personality'],PersonProfession
+Russell Brand,"['producer', 'film producer']",PersonProfession
+Russell Brand,['novelist'],PersonProfession
+Russell Brand,['blogger'],PersonProfession
+Russell Brand,"['actor', 'television actor']",PersonProfession
+Russell Brand,"['actor', 'film actor']",PersonProfession
+Russell Brand,['youtuber'],PersonProfession
+Russell Brand,"['comedian', 'stand-up comedian']",PersonProfession
+Russell Brand,['autobiographer'],PersonProfession
+Ringo Starr,['drummer'],PersonProfession
+Brie Larson,['screenwriter'],PersonProfession
+Brie Larson,['actor'],PersonProfession
+Brie Larson,['singer'],PersonProfession
+Brie Larson,"['television producer', 'producer']",PersonProfession
+Brie Larson,"['director', 'film director']",PersonProfession
+Brie Larson,"['producer', 'film producer']",PersonProfession
+Brie Larson,"['actor', 'television actor']",PersonProfession
+Brie Larson,"['actor', 'film actor']",PersonProfession
+Ludacris,['actor'],PersonProfession
+Ludacris,['composer'],PersonProfession
+Ludacris,['businessperson'],PersonProfession
+Ludacris,['entrepreneur'],PersonProfession
+Ludacris,['singer'],PersonProfession
+Ludacris,"['producer', 'record producer']",PersonProfession
+Ludacris,['musician'],PersonProfession
+Ludacris,"['manager', 'talent manager']",PersonProfession
+Ludacris,['rapper'],PersonProfession
+Ludacris,"['voice actor', 'actor']",PersonProfession
+Ludacris,"['producer', 'film producer']",PersonProfession
+Ludacris,"['actor', 'television actor']",PersonProfession
+Ludacris,"['actor', 'film actor']",PersonProfession
+Asha Bhosle,['actor'],PersonProfession
+Asha Bhosle,['composer'],PersonProfession
+Asha Bhosle,['singer'],PersonProfession
+Asha Bhosle,['guitarist'],PersonProfession
+Asha Bhosle,"['playback singer', 'singer']",PersonProfession
+Asha Bhosle,"['actor', 'film actor']",PersonProfession
+Claire Holt,['actor'],PersonProfession
+Claire Holt,"['actor', 'film actor']",PersonProfession
+Gwyneth Paltrow,['screenwriter'],PersonProfession
+Gwyneth Paltrow,['businessperson'],PersonProfession
+Gwyneth Paltrow,['singer'],PersonProfession
+Gwyneth Paltrow,"['television producer', 'producer']",PersonProfession
+Gwyneth Paltrow,['musician'],PersonProfession
+Gwyneth Paltrow,['songwriter'],PersonProfession
+Gwyneth Paltrow,"['actor', 'stage actor']",PersonProfession
+Gwyneth Paltrow,"['actor', 'television actor']",PersonProfession
+Gwyneth Paltrow,"['actor', 'film actor']",PersonProfession
+Daniel Tosh,['screenwriter'],PersonProfession
+Daniel Tosh,['actor'],PersonProfession
+Daniel Tosh,['singer'],PersonProfession
+Daniel Tosh,['comedian'],PersonProfession
+Daniel Tosh,"['television producer', 'producer']",PersonProfession
+Daniel Tosh,"['presenter', 'television presenter']",PersonProfession
+Daniel Tosh,"['executive producer', 'producer']",PersonProfession
+Daniel Tosh,"['television director', 'director']",PersonProfession
+Daniel Tosh,"['voice actor', 'actor']",PersonProfession
+Daniel Tosh,"['director', 'film director']",PersonProfession
+Daniel Tosh,"['producer', 'film producer']",PersonProfession
+Daniel Tosh,['dancer'],PersonProfession
+Daniel Tosh,"['actor', 'television actor']",PersonProfession
+Daniel Tosh,"['actor', 'film actor']",PersonProfession
+Daniel Tosh,"['comedian', 'stand-up comedian']",PersonProfession
+Leonard Nimoy,['screenwriter'],PersonProfession
+Leonard Nimoy,['photographer'],PersonProfession
+Leonard Nimoy,['actor'],PersonProfession
+Leonard Nimoy,['writer'],PersonProfession
+Leonard Nimoy,['poet'],PersonProfession
+Leonard Nimoy,['musician'],PersonProfession
+Leonard Nimoy,"['voice actor', 'actor']",PersonProfession
+Leonard Nimoy,"['director', 'film director']",PersonProfession
+Leonard Nimoy,"['producer', 'film producer']",PersonProfession
+Leonard Nimoy,"['actor', 'television actor']",PersonProfession
+Leonard Nimoy,"['actor', 'film actor']",PersonProfession
+Gary Lineker,"['association football player', 'footballer']",PersonProfession
+Gary Lineker,['journalist'],PersonProfession
+Gary Lineker,"['sports commentator', 'commentator']",PersonProfession
+Gary Lineker,['broadcaster'],PersonProfession
