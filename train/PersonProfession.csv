@@ -1,7 +1,7 @@
 SubjectEntity,relation,ObjectEntity
 Bruno Mars,PersonProfession,['composer']
 Bruno Mars,PersonProfession,"['producer', 'record producer']"
-Bruno Mars,PersonProfession,"['singer-songwriter', 'singer']"
+Bruno Mars,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Bruno Mars,PersonProfession,['songwriter']
 Bruno Mars,PersonProfession,"['multi-instrumentalist', 'instrumentalist']"
 Bruno Mars,PersonProfession,"['music video director', 'director']"
@@ -26,7 +26,7 @@ Bill Clinton,PersonProfession,['saxophonist']
 Bill Clinton,PersonProfession,['autobiographer']
 Miley Cyrus,PersonProfession,['actor']
 Miley Cyrus,PersonProfession,['singer']
-Miley Cyrus,PersonProfession,"['singer-songwriter', 'singer']"
+Miley Cyrus,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Miley Cyrus,PersonProfession,['musician']
 Miley Cyrus,PersonProfession,"['voice actor', 'actor']"
 Miley Cyrus,PersonProfession,"['actor', 'television actor']"
@@ -60,7 +60,7 @@ Snoop Dogg,PersonProfession,['actor']
 Snoop Dogg,PersonProfession,['businessperson']
 Snoop Dogg,PersonProfession,['singer']
 Snoop Dogg,PersonProfession,"['producer', 'record producer']"
-Snoop Dogg,PersonProfession,"['singer-songwriter', 'singer']"
+Snoop Dogg,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Snoop Dogg,PersonProfession,"['television producer', 'producer']"
 Snoop Dogg,PersonProfession,['musician']
 Snoop Dogg,PersonProfession,['songwriter']
@@ -112,7 +112,7 @@ Rihanna,PersonProfession,['actor']
 Rihanna,PersonProfession,['businessperson']
 Rihanna,PersonProfession,['singer']
 Rihanna,PersonProfession,['diplomat']
-Rihanna,PersonProfession,"['singer-songwriter', 'singer']"
+Rihanna,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Rihanna,PersonProfession,['rapper']
 Rihanna,PersonProfession,"['voice actor', 'actor']"
 Rihanna,PersonProfession,"['designer', 'fashion designer']"
@@ -154,7 +154,7 @@ Nicolas Sarkozy,PersonProfession,['politician']
 Nicolas Sarkozy,PersonProfession,['statesperson']
 Bob Marley,PersonProfession,['composer']
 Bob Marley,PersonProfession,['singer']
-Bob Marley,PersonProfession,"['singer-songwriter', 'singer']"
+Bob Marley,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Bob Marley,PersonProfession,['guitarist']
 Bob Marley,PersonProfession,['operator']
 Bob Marley,PersonProfession,['assembly line worker']
@@ -177,7 +177,7 @@ Shakira,PersonProfession,['actor']
 Shakira,PersonProfession,['composer']
 Shakira,PersonProfession,['singer']
 Shakira,PersonProfession,"['producer', 'record producer']"
-Shakira,PersonProfession,"['singer-songwriter', 'singer']"
+Shakira,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Shakira,PersonProfession,['guitarist']
 Shakira,PersonProfession,"['voice actor', 'actor']"
 Shakira,PersonProfession,['choreographer']
@@ -185,7 +185,7 @@ Shakira,PersonProfession,['model']
 Shakira,PersonProfession,['philanthropist']
 Shakira,PersonProfession,['manufacturer']
 Jennifer Lopez,PersonProfession,"['producer', 'record producer']"
-Jennifer Lopez,PersonProfession,"['singer-songwriter', 'singer']"
+Jennifer Lopez,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Jennifer Lopez,PersonProfession,"['television producer', 'producer']"
 Jennifer Lopez,PersonProfession,"['executive producer', 'producer']"
 Jennifer Lopez,PersonProfession,"['voice actor', 'actor']"
@@ -230,7 +230,7 @@ Miranda Cosgrove,PersonProfession,"['singer', 'pop singer']"
 Demi Lovato,PersonProfession,['actor']
 Demi Lovato,PersonProfession,['composer']
 Demi Lovato,PersonProfession,['pianist']
-Demi Lovato,PersonProfession,"['singer-songwriter', 'singer']"
+Demi Lovato,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Demi Lovato,PersonProfession,['guitarist']
 Demi Lovato,PersonProfession,"['actor', 'child actor']"
 Demi Lovato,PersonProfession,"['television personality', 'personality']"
@@ -280,7 +280,7 @@ Mariah Carey,PersonProfession,['composer']
 Mariah Carey,PersonProfession,['businessperson']
 Mariah Carey,PersonProfession,['entertainer']
 Mariah Carey,PersonProfession,['singer']
-Mariah Carey,PersonProfession,"['singer-songwriter', 'singer']"
+Mariah Carey,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Mariah Carey,PersonProfession,"['music video director', 'director']"
 Mariah Carey,PersonProfession,"['voice actor', 'actor']"
 Mariah Carey,PersonProfession,"['producer', 'film producer']"
@@ -304,7 +304,7 @@ Beyoncé,PersonProfession,['screenwriter']
 Beyoncé,PersonProfession,['composer']
 Beyoncé,PersonProfession,['entrepreneur']
 Beyoncé,PersonProfession,"['producer', 'record producer']"
-Beyoncé,PersonProfession,"['singer-songwriter', 'singer']"
+Beyoncé,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Beyoncé,PersonProfession,"['voice actor', 'actor']"
 Beyoncé,PersonProfession,['choreographer']
 Beyoncé,PersonProfession,"['director', 'film director']"
@@ -326,7 +326,7 @@ Christina Aguilera,PersonProfession,['actor']
 Christina Aguilera,PersonProfession,['composer']
 Christina Aguilera,PersonProfession,['entrepreneur']
 Christina Aguilera,PersonProfession,"['producer', 'record producer']"
-Christina Aguilera,PersonProfession,"['singer-songwriter', 'singer']"
+Christina Aguilera,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Christina Aguilera,PersonProfession,['musician']
 Christina Aguilera,PersonProfession,"['music video director', 'director']"
 Christina Aguilera,PersonProfession,"['voice actor', 'actor']"
@@ -350,7 +350,7 @@ Pharrell Williams,PersonProfession,"['designer', 'fashion designer']"
 Victoria Beckham,PersonProfession,['actor']
 Victoria Beckham,PersonProfession,['entrepreneur']
 Victoria Beckham,PersonProfession,['singer']
-Victoria Beckham,PersonProfession,"['singer-songwriter', 'singer']"
+Victoria Beckham,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Victoria Beckham,PersonProfession,"['designer', 'fashion designer']"
 Victoria Beckham,PersonProfession,['model']
 Victoria Beckham,PersonProfession,['blogger']
@@ -362,7 +362,7 @@ Ed Sheeran,PersonProfession,['actor']
 Ed Sheeran,PersonProfession,['composer']
 Ed Sheeran,PersonProfession,['singer']
 Ed Sheeran,PersonProfession,"['producer', 'record producer']"
-Ed Sheeran,PersonProfession,"['singer-songwriter', 'singer']"
+Ed Sheeran,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Ed Sheeran,PersonProfession,['musician']
 Ed Sheeran,PersonProfession,['songwriter']
 Ed Sheeran,PersonProfession,['guitarist']
@@ -380,7 +380,7 @@ Kim Kardashian,PersonProfession,['model']
 Kim Kardashian,PersonProfession,['blogger']
 Ariana Grande,PersonProfession,['actor']
 Ariana Grande,PersonProfession,"['producer', 'record producer']"
-Ariana Grande,PersonProfession,"['singer-songwriter', 'singer']"
+Ariana Grande,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Ariana Grande,PersonProfession,"['voice actor', 'actor']"
 Ariana Grande,PersonProfession,['model']
 Ariana Grande,PersonProfession,['dancer']
@@ -413,7 +413,7 @@ John Legend,PersonProfession,['actor']
 John Legend,PersonProfession,['singer']
 John Legend,PersonProfession,"['producer', 'record producer']"
 John Legend,PersonProfession,['pianist']
-John Legend,PersonProfession,"['singer-songwriter', 'singer']"
+John Legend,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 John Legend,PersonProfession,['musician']
 John Legend,PersonProfession,['keyboardist']
 John Legend,PersonProfession,"['actor', 'television actor']"
@@ -433,7 +433,7 @@ Lana Del Rey,PersonProfession,['actor']
 Lana Del Rey,PersonProfession,['poet']
 Lana Del Rey,PersonProfession,['singer']
 Lana Del Rey,PersonProfession,"['producer', 'record producer']"
-Lana Del Rey,PersonProfession,"['singer-songwriter', 'singer']"
+Lana Del Rey,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Lana Del Rey,PersonProfession,['guitarist']
 Lana Del Rey,PersonProfession,['model']
 Lana Del Rey,PersonProfession,"['actor', 'film actor']"
@@ -453,7 +453,7 @@ Jean-Luc Mélenchon,PersonProfession,['high school teacher']
 Rahul Gandhi,PersonProfession,['politician']
 """Weird Al"" Yankovic",PersonProfession,['actor']
 """Weird Al"" Yankovic",PersonProfession,['comedian']
-"""Weird Al"" Yankovic",PersonProfession,"['singer-songwriter', 'singer']"
+"""Weird Al"" Yankovic",PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Kevin Spacey,PersonProfession,['screenwriter']
 Kevin Spacey,PersonProfession,['actor']
 Kevin Spacey,PersonProfession,"['television producer', 'producer']"
@@ -550,7 +550,7 @@ Kobe Bryant,PersonProfession,['screenwriter']
 Kobe Bryant,PersonProfession,"['player', 'basketball player']"
 James Maslow,PersonProfession,['actor']
 James Maslow,PersonProfession,['singer']
-James Maslow,PersonProfession,"['singer-songwriter', 'singer']"
+James Maslow,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 James Maslow,PersonProfession,['musician']
 James Maslow,PersonProfession,['model']
 James Maslow,PersonProfession,['dancer']
@@ -605,7 +605,7 @@ Tyra Banks,PersonProfession,"['host', 'game show host']"
 Logan Henderson,PersonProfession,['actor']
 Logan Henderson,PersonProfession,['singer']
 Logan Henderson,PersonProfession,['pianist']
-Logan Henderson,PersonProfession,"['singer-songwriter', 'singer']"
+Logan Henderson,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Logan Henderson,PersonProfession,['guitarist']
 Logan Henderson,PersonProfession,['rapper']
 Logan Henderson,PersonProfession,['dancer']
@@ -646,7 +646,7 @@ Brian May,PersonProfession,['physicist']
 Brian May,PersonProfession,['singer']
 Brian May,PersonProfession,"['producer', 'record producer']"
 Brian May,PersonProfession,['pianist']
-Brian May,PersonProfession,"['singer-songwriter', 'singer']"
+Brian May,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Brian May,PersonProfession,['astrophysicist']
 Brian May,PersonProfession,['guitarist']
 Brian May,PersonProfession,"['presenter', 'television presenter']"
@@ -708,7 +708,7 @@ Hilary Duff,PersonProfession,['businessperson']
 Hilary Duff,PersonProfession,['entrepreneur']
 Hilary Duff,PersonProfession,['singer']
 Hilary Duff,PersonProfession,"['producer', 'record producer']"
-Hilary Duff,PersonProfession,"['singer-songwriter', 'singer']"
+Hilary Duff,PersonProfession,"['singer-songwriter', 'singer', 'songwriter']"
 Hilary Duff,PersonProfession,['musician']
 Hilary Duff,PersonProfession,"['voice actor', 'actor']"
 Hilary Duff,PersonProfession,"['producer', 'film producer']"
