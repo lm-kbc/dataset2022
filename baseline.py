@@ -11,7 +11,7 @@ device = torch.device(torch.device("cuda:0" if torch.cuda.is_available() else "c
 torch.manual_seed(1000)
 
 
-RELATIONS = [
+RELATIONS = {
     "CountryBordersWithCountry",
     "CountryOfficialLanguage",
     "StateSharesBorderState",
@@ -24,7 +24,7 @@ RELATIONS = [
     "PersonPlaceOfDeath",
     "PersonCauseOfDeath",
     "CompanyParentOrganization",
-]
+}
 
 
 def prompt_lm(model_type, top_k, relation, entities, output_dir: Path):
@@ -128,7 +128,7 @@ def baseline(relations, input_dir, output_dir: Path):
             assert output_dir.is_dir()
         else:
             output_dir.mkdir(exist_ok=True, parents=True)
-        
+
         df.to_csv(
             output_dir / f"{relation}.csv", index=False
         )  ### save the selected output tokens separately for each relation
