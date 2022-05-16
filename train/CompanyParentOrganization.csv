@@ -39,11 +39,11 @@ Dacia,CompanyParentOrganization,['renault']
 Daewoo,CompanyParentOrganization,['NONE']
 Daf,CompanyParentOrganization,['paccar']
 Daihatsu,CompanyParentOrganization,['toyota']
-Daimler company,CompanyParentOrganization,"['birmingham small arms', 'birmingham small arms company']"
-Daimler company,CompanyParentOrganization,['jaguar cars']
+Daimler company,CompanyParentOrganization,"['tata motors', 'tata motors ltd', 'tata']"
 Daimler company,CompanyParentOrganization,"['daimler motorsoration', 'daimler motors corporation', 'daimler']"
 Daimler company,CompanyParentOrganization,"['ford', 'ford of europe']"
-Daimler company,CompanyParentOrganization,"['tata motors', 'tata motors ltd', 'tata']"
+Daimler company,CompanyParentOrganization,"['birmingham small arms', 'birmingham small arms company']"
+Daimler company,CompanyParentOrganization,['jaguar cars']
 David,CompanyParentOrganization,['NONE']
 De tomaso,CompanyParentOrganization,['NONE']
 Dodge,CompanyParentOrganization,"['stellantis', 'stellantis north america']"

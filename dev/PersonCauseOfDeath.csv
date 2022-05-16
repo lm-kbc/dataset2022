@@ -24,29 +24,29 @@ Idriss déby,PersonCauseOfDeath,"['ballistic trauma', 'trauma']"
 Jim rohn,PersonCauseOfDeath,"['pulmonary fibrosis', 'fibrosis']"
 John magufuli,PersonCauseOfDeath,"['arrhythmia', 'heart arrhythmia']"
 Johnny cash,PersonCauseOfDeath,['diabetes']
-Johnny hallyday,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Justin Bieber,PersonCauseOfDeath,['NONE']
 Karl lagerfeld,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
-Ken robinson,PersonCauseOfDeath,['cancer']
 Kimbo slice,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
 Kurt vonnegut,PersonCauseOfDeath,"['falling', 'fall']"
 Larry king,PersonCauseOfDeath,['sepsis']
+Lionel Messi,PersonCauseOfDeath,['NONE']
 Maurane,PersonCauseOfDeath,['falling']
 Maya angelou,PersonCauseOfDeath,['disease']
-Michael robinson,PersonCauseOfDeath,"['cancer', 'skin cancer']"
 Mikhail zadornov,PersonCauseOfDeath,"['brain cancer', 'cancer']"
 Miles davis,PersonCauseOfDeath,['pneumonia']
 Miles davis,PersonCauseOfDeath,['stroke']
 Nelson mandela,PersonCauseOfDeath,['respiratory disease']
 Nina simone,PersonCauseOfDeath,"['cancer', 'breast cancer']"
 Oliver sacks,PersonCauseOfDeath,"['liver metastasis', 'metastasis']"
+Oprah Winfrey,PersonCauseOfDeath,['NONE']
 Paul walker,PersonCauseOfDeath,"['traffic collision', 'collision']"
 Rishi kapoor,PersonCauseOfDeath,['leukemia']
 Roald dahl,PersonCauseOfDeath,['myelodysplastic syndrome']
 Roddy piper,PersonCauseOfDeath,['cardiac arrest']
-Roger moore,PersonCauseOfDeath,['cancer']
 Ronnie james dio,PersonCauseOfDeath,"['cancer', 'stomach cancer']"
 Roy orbison,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
 Sridevi,PersonCauseOfDeath,['drowning']
-The ultimate warrior,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Taylor Swift,PersonCauseOfDeath,['NONE']
+Will Smith,PersonCauseOfDeath,['NONE']
 Zbigniew brzezinski,PersonCauseOfDeath,['pneumonia']
 Zindzi mandela,PersonCauseOfDeath,"['covid-19', 'covid']"
