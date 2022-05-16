@@ -4,9 +4,12 @@ Dataset for the LM-KBC challenge at ISWC 2022
 
 ## Download the data
 
+```
 wget https://github.com/lm-kbc/dataset/zipball/master.zip
 unzip master.zip
 cd lm_kbc*
+```
+
 ## Usage
 
 ```
