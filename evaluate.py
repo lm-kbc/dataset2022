@@ -14,7 +14,7 @@ def precision(x, y):
         count += 1 if any(pred in string for string in y) else 0 
     return (count/len(x))
 
-### Recall = how of the LM's predictions match are within ground truth (GT) - |LM intersection GT| / |GT|
+### Recall = how much of the LM's predictions match are within ground truth (GT) - |LM intersection GT| / |GT|
 def recall(x, y):
     count  = 0
     for pred in x:
