@@ -56,13 +56,15 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_type", type=str, default='bert-large-cased')
     parser.add_argument("--input_dir", type=str, default='./dev/')
-    parser.add_argument("--output_dir", type=str, default='./prompt_output_bert_large_cased/')
+    parser.add_argument("--prompt_output_dir", type=str, default='./prompt_output_bert_large_cased/')
+    parser.add_argument("--baseline_output_dir", type=str, default='./baseline/')
     args = parser.parse_args()
     print (args)
 
     model_type = args.model_type
     input_dir = args.input_dir
-    output_dir = args.output_dir
+    prompt_output_dir = args.prompt_output_dir
+    baseline_output_dir = args.baseline_output_dir
     
     top_k = 100
     relations = ['CountryBordersWithCountry', 
@@ -80,10 +82,9 @@ def main():
   
     for relation in relations:
         entities = pd.read_csv(input_dir+relation+'.csv')['SubjectEntity'].drop_duplicates(keep='first').tolist()
-        prompt_lm(model_type, top_k, relation, entities, output_dir)    
+        prompt_lm(model_type, top_k, relation, entities, prompt_output_dir)    
     
-    save_dirc = './baseline/'
-    baseline(relations, output_dir, save_dirc)
+    baseline(relations, prompt_output_dir, baseline_output_dir)
     
 if __name__ == '__main__':
     main()
