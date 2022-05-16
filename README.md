@@ -1,8 +1,8 @@
-# Knowledge Base Construction from Pre-trained Language Models (LM-KBC)
+## Knowledge Base Construction from Pre-trained Language Models (LM-KBC)
 
 Dataset for the LM-KBC challenge at ISWC 2022
 
-## Download the data
+### Download the data
 
 ```
 wget https://github.com/lm-kbc/dataset/zipball/master.zip
@@ -10,7 +10,7 @@ unzip master.zip
 cd lm_kbc*
 ```
 
-## Usage
+### Usage
 
 ```
 pip install -r requirements.txt
