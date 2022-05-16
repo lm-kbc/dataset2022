@@ -7,22 +7,20 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-RELATIONS = set(
-    [
-        "CountryBordersWithCountry",
-        "CountryOfficialLanguage",
-        "StateSharesBorderState",
-        "RiverBasinsCountry",
-        "ChemicalCompoundElement",
-        "PersonLanguage",
-        "PersonProfession",
-        "PersonInstrument",
-        "PersonEmployer",
-        "PersonPlaceOfDeath",
-        "PersonCauseOfDeath",
-        "CompanyParentOrganization",
-    ]
-)
+RELATIONS = {
+    "CountryBordersWithCountry",
+    "CountryOfficialLanguage",
+    "StateSharesBorderState",
+    "RiverBasinsCountry",
+    "ChemicalCompoundElement",
+    "PersonLanguage",
+    "PersonProfession",
+    "PersonInstrument",
+    "PersonEmployer",
+    "PersonPlaceOfDeath",
+    "PersonCauseOfDeath",
+    "CompanyParentOrganization",
+}
 
 ### Precision = how much of the LM's predictions match with ground truth (GT) - |LM intersection GT| / |LM|
 def precision(x, y):
