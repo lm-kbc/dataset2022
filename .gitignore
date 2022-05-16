@@ -28,3 +28,6 @@ var/
 
 # Mac os x stuff
 .DS_Store
+
+
+.vscode
