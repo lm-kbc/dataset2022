@@ -114,11 +114,11 @@ def prompt_lm(model_type, top_k, relation, entities, output_dir: Path):
     res_df.to_csv(output_dir / f"{relation}.csv", index=False)
 
 
-def baseline(relations, input_dir, output_dir: Path):
+def baseline(input_dir, output_dir: Path):
     print("Running the baseline method ...")
 
     ### for each relation, we run the baseline method
-    for relation in relations:
+    for relation in RELATIONS:
         df = pd.read_csv(input_dir / f"{relation}.csv")
         df = df[
             df["Probability"] >= 0.5
@@ -182,7 +182,7 @@ def main():
         prompt_lm(model_type, top_k, relation, entities, prompt_output_dir)
 
     ### run the baseline method on the prompt outputs
-    baseline(RELATIONS, prompt_output_dir, baseline_output_dir)
+    baseline(prompt_output_dir, baseline_output_dir)
 
 
 if __name__ == "__main__":

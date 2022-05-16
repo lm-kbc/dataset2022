@@ -116,7 +116,7 @@ def evaluate(input_dir: Path, ground_truth_dir: Path, results_dir: Path):
     ### NOTE: this score will be used to rank the participating systems
     f1 = round(np.mean(list(average_f1.values())) * 100, 2)
 
-    print("averagef F1-score for each relation:")
+    print("average F1-score for each relation:")
     pprint.pprint(average_f1)
 
     print("Final F1-score: {} %".format(f1))
