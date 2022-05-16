@@ -1,52 +1,52 @@
 SubjectEntity,relation,ObjectEntity
-Bob marley,PersonPlaceOfDeath,['jackson memorial hospital']
-Michael jackson,PersonPlaceOfDeath,"['los angeles', 'la']"
-John lennon,PersonPlaceOfDeath,"['new york city', 'nyc']"
-Hugo chávez,PersonPlaceOfDeath,['hospital militar de caracas']
-George harrison,PersonPlaceOfDeath,"['los angeles', 'la']"
-Janis joplin,PersonPlaceOfDeath,['hollywood']
-Mac miller,PersonPlaceOfDeath,"['los angeles', 'la']"
-John mcafee,PersonPlaceOfDeath,['centre penitenciari brians 2']
-George h. w. bush,PersonPlaceOfDeath,['houston']
 Aaliyah,PersonPlaceOfDeath,['marsh harbour']
-Chespirito,PersonPlaceOfDeath,['cancun']
-Chris cornell,PersonPlaceOfDeath,['detroit']
-Alan garcía,PersonPlaceOfDeath,['lima']
-Kurt vonnegut,PersonPlaceOfDeath,"['new york city', 'nyc']"
-Alfredo gonzález flores,PersonPlaceOfDeath,['heredia']
-Avicii,PersonPlaceOfDeath,['muscat']
-Arun jaitley,PersonPlaceOfDeath,"['all india institute of medical sciences, new delhi']"
-Roald dahl,PersonPlaceOfDeath,['oxford']
-Cameron boyce,PersonPlaceOfDeath,"['los angeles', 'la']"
-Charlie daniels,PersonPlaceOfDeath,['hermitage']
-John coltrane,PersonPlaceOfDeath,['huntington']
-Tom petty,PersonPlaceOfDeath,['ucla santa monica medical center']
-Paul g. allen,PersonPlaceOfDeath,['seattle']
-Jamal khashoggi,PersonPlaceOfDeath,['consulate general of saudi arabia in istanbul']
 Abdul rehman malik,PersonPlaceOfDeath,['islamabad']
-Tabaré vázquez,PersonPlaceOfDeath,['montevideo']
-Aretha franklin,PersonPlaceOfDeath,['detroit']
-Anne rice,PersonPlaceOfDeath,['rancho mirage']
-Michael collins,PersonPlaceOfDeath,['naples']
-Almudena grandes,PersonPlaceOfDeath,['madrid']
-Peter mayhew,PersonPlaceOfDeath,['boyd']
-Maurane,PersonPlaceOfDeath,"['schaerbeek - schaarbeek', 'schaarbeek']"
-Scott hall,PersonPlaceOfDeath,['marietta']
-Chick corea,PersonPlaceOfDeath,"['tampa bay area', 'tampa']"
-Elijah cummings,PersonPlaceOfDeath,['baltimore']
-Ken robinson,PersonPlaceOfDeath,['london']
-Johnny isakson,PersonPlaceOfDeath,['atlanta']
-Ashley massaro,PersonPlaceOfDeath,['smithtown']
-Nipsey hussle,PersonPlaceOfDeath,"['los angeles', 'la']"
-Glenn fredly,PersonPlaceOfDeath,['jakarta']
-"John dingell, jr.",PersonPlaceOfDeath,['dearborn']
-Carlos ruiz zafón,PersonPlaceOfDeath,"['los angeles', 'la']"
-Miles davis,PersonPlaceOfDeath,['santa monica']
 Adam west,PersonPlaceOfDeath,"['los angeles', 'la']"
-Michael hastings,PersonPlaceOfDeath,"['los angeles', 'la']"
-T. boone pickens,PersonPlaceOfDeath,['dallas']
+Alan garcía,PersonPlaceOfDeath,['lima']
+Alfredo gonzález flores,PersonPlaceOfDeath,['heredia']
+Almudena grandes,PersonPlaceOfDeath,['madrid']
+Anne rice,PersonPlaceOfDeath,['rancho mirage']
+Aretha franklin,PersonPlaceOfDeath,['detroit']
+Arun jaitley,PersonPlaceOfDeath,"['all india institute of medical sciences, new delhi']"
+Ashley massaro,PersonPlaceOfDeath,['smithtown']
+Avicii,PersonPlaceOfDeath,['muscat']
+Bob marley,PersonPlaceOfDeath,['jackson memorial hospital']
+Cameron boyce,PersonPlaceOfDeath,"['los angeles', 'la']"
+Carlos ruiz zafón,PersonPlaceOfDeath,"['los angeles', 'la']"
+Charlie daniels,PersonPlaceOfDeath,['hermitage']
+Chespirito,PersonPlaceOfDeath,['cancun']
+Chick corea,PersonPlaceOfDeath,"['tampa bay area', 'tampa']"
+Chris cornell,PersonPlaceOfDeath,['detroit']
 Davide astori,PersonPlaceOfDeath,['udine']
-Richard l. hanna,PersonPlaceOfDeath,"['oneida county', 'oneida']"
+Elijah cummings,PersonPlaceOfDeath,['baltimore']
+George h. w. bush,PersonPlaceOfDeath,['houston']
+George harrison,PersonPlaceOfDeath,"['los angeles', 'la']"
+Glenn fredly,PersonPlaceOfDeath,['jakarta']
 Gregg allman,PersonPlaceOfDeath,['richmond hill']
-Rachel caine,PersonPlaceOfDeath,"['united states of america', 'usa']"
+Hugo chávez,PersonPlaceOfDeath,['hospital militar de caracas']
+Jamal khashoggi,PersonPlaceOfDeath,['consulate general of saudi arabia in istanbul']
+Janis joplin,PersonPlaceOfDeath,['hollywood']
+John coltrane,PersonPlaceOfDeath,['huntington']
+"John dingell, jr.",PersonPlaceOfDeath,['dearborn']
+John lennon,PersonPlaceOfDeath,"['new york city', 'nyc']"
+John mcafee,PersonPlaceOfDeath,['centre penitenciari brians 2']
+Johnny isakson,PersonPlaceOfDeath,['atlanta']
+Ken robinson,PersonPlaceOfDeath,['london']
+Kurt vonnegut,PersonPlaceOfDeath,"['new york city', 'nyc']"
+Mac miller,PersonPlaceOfDeath,"['los angeles', 'la']"
+Maurane,PersonPlaceOfDeath,"['schaerbeek - schaarbeek', 'schaarbeek']"
+Michael collins,PersonPlaceOfDeath,['naples']
+Michael hastings,PersonPlaceOfDeath,"['los angeles', 'la']"
+Michael jackson,PersonPlaceOfDeath,"['los angeles', 'la']"
+Miles davis,PersonPlaceOfDeath,['santa monica']
+Nipsey hussle,PersonPlaceOfDeath,"['los angeles', 'la']"
+Paul g. allen,PersonPlaceOfDeath,['seattle']
+Peter mayhew,PersonPlaceOfDeath,['boyd']
 Rachel caine,PersonPlaceOfDeath,['texas']
+Rachel caine,PersonPlaceOfDeath,"['united states of america', 'usa']"
+Richard l. hanna,PersonPlaceOfDeath,"['oneida county', 'oneida']"
+Roald dahl,PersonPlaceOfDeath,['oxford']
+Scott hall,PersonPlaceOfDeath,['marietta']
+T. boone pickens,PersonPlaceOfDeath,['dallas']
+Tabaré vázquez,PersonPlaceOfDeath,['montevideo']
+Tom petty,PersonPlaceOfDeath,['ucla santa monica medical center']

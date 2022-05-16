@@ -1,112 +1,112 @@
 SubjectEntity,relation,ObjectEntity
-Bob marley,PersonCauseOfDeath,"['melanoma']"
-Michael jackson,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
-Michael jackson,PersonCauseOfDeath,"['combined drug intoxication', 'intoxication']"
-John mccain,PersonCauseOfDeath,"['glioblastoma']"
-David bowie,PersonCauseOfDeath,"['liver cancer', 'cancer']"
-Tupac shakur,PersonCauseOfDeath,"['drive-by', 'homicide', 'murder']"
-Lata mangeshkar,PersonCauseOfDeath,"['multiple organ dysfunction syndrome']"
-Jimi hendrix,PersonCauseOfDeath,"['pulmonary emphysema', 'emphysema']"
-Janis joplin,PersonCauseOfDeath,"['opioid overdose', 'overdose']"
-Amy winehouse,PersonCauseOfDeath,"['intoxication']"
-John lewis,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
-Mac miller,PersonCauseOfDeath,"['drug overdose', 'overdose']"
-John mcafee,PersonCauseOfDeath,"['hanging']"
-Muhammad ali,PersonCauseOfDeath,"['respiratory disease']"
-Stan lee,PersonCauseOfDeath,"['infarction', 'acute myocardial infarction']"
+Aaliyah,PersonCauseOfDeath,"['accident', 'aviation accident']"
+Adam west,PersonCauseOfDeath,['leukemia']
+Alfredo lim,PersonCauseOfDeath,"['covid-19', 'covid']"
+Almudena grandes,PersonCauseOfDeath,['cancer']
+Amy winehouse,PersonCauseOfDeath,['intoxication']
+André leon talley,PersonCauseOfDeath,"['covid-19', 'covid']"
+André leon talley,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Anne rice,PersonCauseOfDeath,['stroke']
+Ashley massaro,PersonCauseOfDeath,['hanging']
+Axel kahn,PersonCauseOfDeath,['cancer']
+Bekir coşkun,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Bob marley,PersonCauseOfDeath,['melanoma']
 Bob saget,PersonCauseOfDeath,"['blunt trauma', 'trauma']"
 Bob saget,PersonCauseOfDeath,"['head injury', 'injury']"
-Vivek,PersonCauseOfDeath,"['cardiac arrest']"
-Aaliyah,PersonCauseOfDeath,"['accident', 'aviation accident']"
-Louis armstrong,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
-Chespirito,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
-Prince,PersonCauseOfDeath,"['fentanyl toxicity', 'toxicity']"
-Carrie fisher,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
-George michael,PersonCauseOfDeath,"['dilated cardiomyopathy', 'cardiomyopathy']"
-George michael,PersonCauseOfDeath,"['fatty liver disease']"
-Elizabeth taylor,PersonCauseOfDeath,"['congestive heart failure', 'heart failure']"
-Sushma swaraj,PersonCauseOfDeath,"['cardiac arrest']"
-Naya rivera,PersonCauseOfDeath,"['drowning']"
-Chris cornell,PersonCauseOfDeath,"['hanging']"
-Irrfan khan,PersonCauseOfDeath,"['tumor', 'neuroendocrine tumor']"
-Pierre nkurunziza,PersonCauseOfDeath,"['cardiac arrest']"
-Pierre nkurunziza,PersonCauseOfDeath,"['covid-19', 'covid']"
-Leon allen white,PersonCauseOfDeath,"['pneumonia']"
-Leon allen white,PersonCauseOfDeath,"['heart failure']"
-Roger ebert,PersonCauseOfDeath,"['thyroid cancer', 'cancer']"
-Jenni rivera,PersonCauseOfDeath,"['aircraft crash', 'crash']"
 Cameron boyce,PersonCauseOfDeath,"['sudden unexpected death in epilepsy', 'epilepsy']"
-Grant imahara,PersonCauseOfDeath,"['intracranial aneurysm', 'aneurysm']"
-Philipp mißfelder,PersonCauseOfDeath,"['pulmonary embolism', 'embolism']"
-Roh hoe-chan,PersonCauseOfDeath,"['falling']"
-Gilbert gottfried,PersonCauseOfDeath,"['ventricular tachycardia', 'tachycardia']"
-Rush limbaugh,PersonCauseOfDeath,"['cancer', 'lung cancer']"
-Charlie daniels,PersonCauseOfDeath,"['stroke']"
-Shintarō ishihara,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
-Madeleine albright,PersonCauseOfDeath,"['cancer']"
-Raffaella carrà,PersonCauseOfDeath,"['cancer', 'lung cancer']"
-Terry jones,PersonCauseOfDeath,"['frontotemporal dementia', 'dementia']"
-Tom petty,PersonCauseOfDeath,"['cardiac arrest']"
-Paul g. allen,PersonCauseOfDeath,"['non-hodgkin lymphoma', 'lymphoma']"
-Jamal khashoggi,PersonCauseOfDeath,"['murder']"
-Tabaré vázquez,PersonCauseOfDeath,"['cancer', 'lung cancer']"
-Martin mcguinness,PersonCauseOfDeath,"['amyloidosis']"
-Merle haggard,PersonCauseOfDeath,"['pneumonia']"
-Sayaka kanda,PersonCauseOfDeath,"['shock']"
-Sayaka kanda,PersonCauseOfDeath,"['suicide by jumping from height', 'suicide']"
-Herman cain,PersonCauseOfDeath,"['covid-19', 'covid']"
-Anne rice,PersonCauseOfDeath,"['stroke']"
-Wes craven,PersonCauseOfDeath,"['brain cancer', 'cancer']"
-Eduardo galeano,PersonCauseOfDeath,"['cancer', 'lung cancer']"
-Dan kaminsky,PersonCauseOfDeath,"['diabetic ketoacidosis', 'ketoacidosis']"
-Sarah harding,PersonCauseOfDeath,"['cancer', 'breast cancer']"
-Michael collins,PersonCauseOfDeath,"['cancer']"
-Jules bianchi,PersonCauseOfDeath,"['diffuse axonal injury', 'injury']"
-Kazuo koike,PersonCauseOfDeath,"['pneumonia']"
-Norm macdonald,PersonCauseOfDeath,"['cancer']"
-Fred willard,PersonCauseOfDeath,"['cardiac arrest']"
-Fred willard,PersonCauseOfDeath,"['coronary artery disease']"
-Fred willard,PersonCauseOfDeath,"['myelodysplastic syndrome']"
-John mayer,PersonCauseOfDeath,"['traffic collision', 'collision']"
-Lina ben mhenni,PersonCauseOfDeath,"['kidney failure']"
-Edith gonzález,PersonCauseOfDeath,"['cancer', 'ovarian cancer']"
-Peaches geldof,PersonCauseOfDeath,"['opioid overdose', 'overdose']"
-Meat loaf,PersonCauseOfDeath,"['covid-19', 'covid']"
-Almudena grandes,PersonCauseOfDeath,"['cancer']"
-Peter mayhew,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
-Dusty rhodes,PersonCauseOfDeath,"['cancer', 'stomach cancer']"
-Fernando solanas,PersonCauseOfDeath,"['covid-19', 'covid']"
-Hans rosling,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
-Jonah lomu,PersonCauseOfDeath,"['cardiac arrest']"
-Jonah lomu,PersonCauseOfDeath,"['kidney failure']"
-Jonah lomu,PersonCauseOfDeath,"['nephrotic syndrome']"
-Ashley massaro,PersonCauseOfDeath,"['hanging']"
-Eduard punset,PersonCauseOfDeath,"['cancer', 'lung cancer']"
-Nipsey hussle,PersonCauseOfDeath,"['ballistic trauma', 'trauma']"
+Carrie fisher,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
 Chadwick boseman,PersonCauseOfDeath,"['colorectal cancer', 'cancer']"
-Glenn fredly,PersonCauseOfDeath,"['meningitis']"
-Prodigy,PersonCauseOfDeath,"['hematopoietic system diseases']"
-"John dingell, jr.",PersonCauseOfDeath,"['cancer', 'prostate cancer']"
-Adam west,PersonCauseOfDeath,"['leukemia']"
-Davide astori,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
-Richard l. hanna,PersonCauseOfDeath,"['cancer']"
-Marília mendonça,PersonCauseOfDeath,"['accident', 'aviation accident']"
-André leon talley,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
-André leon talley,PersonCauseOfDeath,"['covid-19', 'covid']"
-Bekir coşkun,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Charlie daniels,PersonCauseOfDeath,['stroke']
+Chespirito,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Chris cornell,PersonCauseOfDeath,['hanging']
 Chris kirubi,PersonCauseOfDeath,"['colorectal cancer', 'cancer']"
-Alfredo lim,PersonCauseOfDeath,"['covid-19', 'covid']"
-Juan gabriel,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
-Jack layton,PersonCauseOfDeath,"['cancer']"
-Mike fitzpatrick,PersonCauseOfDeath,"['melanoma']"
-Kō masaki,PersonCauseOfDeath,"['appendicitis']"
-Kō masaki,PersonCauseOfDeath,"['peritonitis']"
-Lorin maazel,PersonCauseOfDeath,"['pneumonia']"
-Sushant singh rajput,PersonCauseOfDeath,"['asphyxia']"
+Dan kaminsky,PersonCauseOfDeath,"['diabetic ketoacidosis', 'ketoacidosis']"
+David bowie,PersonCauseOfDeath,"['liver cancer', 'cancer']"
+David graeber,PersonCauseOfDeath,['internal bleeding']
 David graeber,PersonCauseOfDeath,"['acute pancreatitis', 'pancreatitis']"
-David graeber,PersonCauseOfDeath,"['internal bleeding']"
-Jonathan sacks,PersonCauseOfDeath,"['cancer']"
-Lorena rojas,PersonCauseOfDeath,"['liver cancer', 'cancer']"
+Davide astori,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
 Dmx,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Dusty rhodes,PersonCauseOfDeath,"['cancer', 'stomach cancer']"
+Edith gonzález,PersonCauseOfDeath,"['cancer', 'ovarian cancer']"
+Eduard punset,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Eduardo galeano,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Elizabeth taylor,PersonCauseOfDeath,"['congestive heart failure', 'heart failure']"
+Fernando solanas,PersonCauseOfDeath,"['covid-19', 'covid']"
+Fred willard,PersonCauseOfDeath,['coronary artery disease']
+Fred willard,PersonCauseOfDeath,['myelodysplastic syndrome']
+Fred willard,PersonCauseOfDeath,['cardiac arrest']
+George michael,PersonCauseOfDeath,"['dilated cardiomyopathy', 'cardiomyopathy']"
+George michael,PersonCauseOfDeath,['fatty liver disease']
+Gilbert gottfried,PersonCauseOfDeath,"['ventricular tachycardia', 'tachycardia']"
+Glenn fredly,PersonCauseOfDeath,['meningitis']
+Grant imahara,PersonCauseOfDeath,"['intracranial aneurysm', 'aneurysm']"
+Hans rosling,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
+Herman cain,PersonCauseOfDeath,"['covid-19', 'covid']"
+Irrfan khan,PersonCauseOfDeath,"['tumor', 'neuroendocrine tumor']"
+Jack layton,PersonCauseOfDeath,['cancer']
+Jamal khashoggi,PersonCauseOfDeath,['murder']
+Janis joplin,PersonCauseOfDeath,"['opioid overdose', 'overdose']"
+Jenni rivera,PersonCauseOfDeath,"['aircraft crash', 'crash']"
+Jimi hendrix,PersonCauseOfDeath,"['pulmonary emphysema', 'emphysema']"
+"John dingell, jr.",PersonCauseOfDeath,"['cancer', 'prostate cancer']"
+John lewis,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
+John mayer,PersonCauseOfDeath,"['traffic collision', 'collision']"
+John mcafee,PersonCauseOfDeath,['hanging']
+John mccain,PersonCauseOfDeath,['glioblastoma']
+Jonah lomu,PersonCauseOfDeath,['cardiac arrest']
+Jonah lomu,PersonCauseOfDeath,['nephrotic syndrome']
+Jonah lomu,PersonCauseOfDeath,['kidney failure']
+Jonathan sacks,PersonCauseOfDeath,['cancer']
+Juan gabriel,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Jules bianchi,PersonCauseOfDeath,"['diffuse axonal injury', 'injury']"
+Kazuo koike,PersonCauseOfDeath,['pneumonia']
+Kō masaki,PersonCauseOfDeath,['appendicitis']
+Kō masaki,PersonCauseOfDeath,['peritonitis']
+Lata mangeshkar,PersonCauseOfDeath,['multiple organ dysfunction syndrome']
+Leon allen white,PersonCauseOfDeath,['heart failure']
+Leon allen white,PersonCauseOfDeath,['pneumonia']
+Lina ben mhenni,PersonCauseOfDeath,['kidney failure']
+Lorena rojas,PersonCauseOfDeath,"['liver cancer', 'cancer']"
+Lorin maazel,PersonCauseOfDeath,['pneumonia']
+Louis armstrong,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Mac miller,PersonCauseOfDeath,"['drug overdose', 'overdose']"
+Madeleine albright,PersonCauseOfDeath,['cancer']
+Martin mcguinness,PersonCauseOfDeath,['amyloidosis']
+Marília mendonça,PersonCauseOfDeath,"['accident', 'aviation accident']"
+Meat loaf,PersonCauseOfDeath,"['covid-19', 'covid']"
+Merle haggard,PersonCauseOfDeath,['pneumonia']
+Michael collins,PersonCauseOfDeath,['cancer']
+Michael jackson,PersonCauseOfDeath,"['combined drug intoxication', 'intoxication']"
+Michael jackson,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Mike fitzpatrick,PersonCauseOfDeath,['melanoma']
+Muhammad ali,PersonCauseOfDeath,['respiratory disease']
+Naya rivera,PersonCauseOfDeath,['drowning']
+Nipsey hussle,PersonCauseOfDeath,"['ballistic trauma', 'trauma']"
+Norm macdonald,PersonCauseOfDeath,['cancer']
+Paul g. allen,PersonCauseOfDeath,"['non-hodgkin lymphoma', 'lymphoma']"
+Peaches geldof,PersonCauseOfDeath,"['opioid overdose', 'overdose']"
+Peter mayhew,PersonCauseOfDeath,"['myocardial infarction', 'infarction']"
+Philipp mißfelder,PersonCauseOfDeath,"['pulmonary embolism', 'embolism']"
+Pierre nkurunziza,PersonCauseOfDeath,['cardiac arrest']
+Pierre nkurunziza,PersonCauseOfDeath,"['covid-19', 'covid']"
+Prince,PersonCauseOfDeath,"['fentanyl toxicity', 'toxicity']"
+Prodigy,PersonCauseOfDeath,['hematopoietic system diseases']
 Rafael moreno valle,PersonCauseOfDeath,"['2018 puebla helicopter crash', 'crash']"
-Axel kahn,PersonCauseOfDeath,"['cancer']"
+Raffaella carrà,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Richard l. hanna,PersonCauseOfDeath,['cancer']
+Roger ebert,PersonCauseOfDeath,"['thyroid cancer', 'cancer']"
+Roh hoe-chan,PersonCauseOfDeath,['falling']
+Rush limbaugh,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Sarah harding,PersonCauseOfDeath,"['cancer', 'breast cancer']"
+Sayaka kanda,PersonCauseOfDeath,"['suicide by jumping from height', 'suicide']"
+Sayaka kanda,PersonCauseOfDeath,['shock']
+Shintarō ishihara,PersonCauseOfDeath,"['pancreatic cancer', 'cancer']"
+Stan lee,PersonCauseOfDeath,"['infarction', 'acute myocardial infarction']"
+Sushant singh rajput,PersonCauseOfDeath,['asphyxia']
+Sushma swaraj,PersonCauseOfDeath,['cardiac arrest']
+Tabaré vázquez,PersonCauseOfDeath,"['cancer', 'lung cancer']"
+Terry jones,PersonCauseOfDeath,"['frontotemporal dementia', 'dementia']"
+Tom petty,PersonCauseOfDeath,['cardiac arrest']
+Tupac shakur,PersonCauseOfDeath,"['drive-by', 'homicide', 'murder']"
+Vivek,PersonCauseOfDeath,['cardiac arrest']
+Wes craven,PersonCauseOfDeath,"['brain cancer', 'cancer']"
