@@ -26,8 +26,7 @@ RELATIONS = {
     "CompanyParentOrganization",
 }
 
-
-def prompt_lm(model_type, top_k, relation, entities, output_dir: Path):
+def initialize_lm(model_type, top_k):
     ### using the HuggingFace pipeline to initialize the model and its corresponding tokenizer
     tokenizer = AutoTokenizer.from_pretrained(model_type)
     model = AutoModelForMaskedLM.from_pretrained(model_type).to(device)
@@ -37,64 +36,72 @@ def prompt_lm(model_type, top_k, relation, entities, output_dir: Path):
     nlp = pipeline(
         "fill-mask", model=model, tokenizer=tokenizer, top_k=top_k, device=device_id
     )  ### top_k defines the number of ranked output tokens to pick in the [MASK] position
+    return nlp, tokenizer.mask_token
 
+def create_prompt(subject_entity, relation, mask_token):
+    ### depending on the relation, we fix the prompt
+    if relation == "CountryBordersWithCountry":
+        prompt = subject_entity + " shares border with {}.".format(mask_token)
+    elif relation == "CountryOfficialLanguage":
+        prompt = (
+            "The official language of "
+            + subject_entity
+            + " is {}.".format(mask_token)
+        )
+    elif relation == "StateSharesBorderState":
+        prompt = subject_entity + " shares border with {} state.".format(mask_token)
+    elif relation == "RiverBasinsCountry":
+        prompt = subject_entity + " river basins in {}.".format(mask_token)
+    elif relation == "ChemicalCompoundElement":
+        prompt = subject_entity + " consits of {}, which is an element.".format(
+            mask_token
+        )
+    elif relation == "PersonLanguage":
+        prompt = subject_entity + " speaks in {}.".format(mask_token)
+    elif relation == "PersonProfession":
+        prompt = subject_entity + " is a {} by profession.".format(mask_token)
+    elif relation == "PersonInstrument":
+        prompt = subject_entity + " plays {}, which is an instrument.".format(
+            mask_token
+        )
+    elif relation == "PersonEmployer":
+        prompt = subject_entity + " is an employer at {}, which is a company.".format(
+            mask_token
+        )
+    elif relation == "PersonPlaceOfDeath":
+        prompt = subject_entity + " died at {}.".format(mask_token)
+    elif relation == "PersonCauseOfDeath":
+        prompt = subject_entity + " died due to {}.".format(mask_token)
+    elif relation == "CompanyParentOrganization":
+        prompt = (
+            "The parent organization of "
+            + subject_entity
+            + " is {}.".format(mask_token)
+        )
+    return prompt
+
+def probe_lm(model_type, top_k, relation, subject_entities, output_dir: Path):
+    
+    ### initializing the language model
+    nlp, mask_token = initialize_lm(model_type, top_k) 
+        
     ### for every subject-entity in the entities list, we probe the LM using the below sample prompts
-    res = []
-    for ent in entities:
+    results = []
+    for subject_entity in subject_entities:
         print(
             "Probing the {} language model for {} (subject-entity) and {} relation".format(
-                model_type, ent, relation
+                model_type, subject_entity, relation
             )
         )
-
-        ### depending on the relation, we fix the prompt
-        if relation == "CountryBordersWithCountry":
-            prompt = ent + " shares border with {}.".format(tokenizer.mask_token)
-        elif relation == "CountryOfficialLanguage":
-            prompt = (
-                "The official language of "
-                + ent
-                + " is {}.".format(tokenizer.mask_token)
-            )
-        elif relation == "StateSharesBorderState":
-            prompt = ent + " shares border with {} state.".format(tokenizer.mask_token)
-        elif relation == "RiverBasinsCountry":
-            prompt = ent + " river basins in {}.".format(tokenizer.mask_token)
-        elif relation == "ChemicalCompoundElement":
-            prompt = ent + " consits of {}, which is an element.".format(
-                tokenizer.mask_token
-            )
-        elif relation == "PersonLanguage":
-            prompt = ent + " speaks in {}.".format(tokenizer.mask_token)
-        elif relation == "PersonProfession":
-            prompt = ent + " is a {} by profession.".format(tokenizer.mask_token)
-        elif relation == "PersonInstrument":
-            prompt = ent + " plays {}, which is an instrument.".format(
-                tokenizer.mask_token
-            )
-        elif relation == "PersonEmployer":
-            prompt = ent + " is an employer at {}, which is a company.".format(
-                tokenizer.mask_token
-            )
-        elif relation == "PersonPlaceOfDeath":
-            prompt = ent + " died at {}.".format(tokenizer.mask_token)
-        elif relation == "PersonCauseOfDeath":
-            prompt = ent + " died due to {}.".format(tokenizer.mask_token)
-        elif relation == "CompanyParentOrganization":
-            prompt = (
-                "The parent organization of "
-                + ent
-                + " is {}.".format(tokenizer.mask_token)
-            )
-
-        outputs = nlp(prompt)
+        prompt = create_prompt(subject_entity, relation, mask_token) ### creating a specific prompt for the given relation
+        probe_outputs = nlp(prompt) ### probing the language model and obtaining the ranked tokens in the masked_position
 
         ### saving the top_k outputs and the likelihood scores received with the sample prompt
-        for sequence in outputs:
-            res.append(
+        for sequence in probe_outputs:
+            results.append(
                 {
                     "Prompt": prompt,
-                    "SubjectEntity": ent,
+                    "SubjectEntity": subject_entity,
                     "Relation": relation,
                     "ObjectEntity": sequence["token_str"],
                     "Probability": round(sequence["score"], 4),
@@ -102,7 +109,7 @@ def prompt_lm(model_type, top_k, relation, entities, output_dir: Path):
             )
 
     ### saving the prompt outputs separately for each relation type
-    res_df = pd.DataFrame(res).sort_values(
+    results_df = pd.DataFrame(results).sort_values(
         by=["SubjectEntity", "Probability"], ascending=(True, False)
     )
 
@@ -111,17 +118,17 @@ def prompt_lm(model_type, top_k, relation, entities, output_dir: Path):
     else:
         output_dir.mkdir(exist_ok=True, parents=True)
 
-    res_df.to_csv(output_dir / f"{relation}.csv", index=False)
+    results_df.to_csv(output_dir / f"{relation}.csv", index=False)
 
 
-def baseline(input_dir, output_dir: Path):
+def baseline(input_dir, prob_threshold, relations, output_dir: Path):
     print("Running the baseline method ...")
 
     ### for each relation, we run the baseline method
-    for relation in RELATIONS:
+    for relation in relations:
         df = pd.read_csv(input_dir / f"{relation}.csv")
         df = df[
-            df["Probability"] >= 0.5
+            df["Probability"] >= prob_threshold
         ]  ### all the output tokens with >= 0.5 likelihood are chosen and the rest are discarded
 
         if output_dir.exists():
@@ -179,10 +186,12 @@ def main():
             .drop_duplicates(keep="first")
             .tolist()
         )
-        prompt_lm(model_type, top_k, relation, entities, prompt_output_dir)
+        probe_lm(model_type, top_k, relation, entities, prompt_output_dir)
 
+    prob_threshold = 0.5 ### setting the baseline threshold to select the output tokens
+    
     ### run the baseline method on the prompt outputs
-    baseline(prompt_output_dir, baseline_output_dir)
+    baseline(prompt_output_dir, prob_threshold, RELATIONS, baseline_output_dir)
 
 
 if __name__ == "__main__":
