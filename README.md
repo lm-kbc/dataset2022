@@ -107,12 +107,12 @@ entity's aliases, such as:
 }
 ```
 
-### 🌟🌟🌟 YOUR prediction files
+### 🌟🌟🌟 YOUR prediction file
 
-Your prediction files should be in the jsonl format as described
+Your prediction file should be in the jsonl format as described
 above.
-Each line of a prediction file constitutes a JSON object which must contain
-at least 3 fields to be used by the evaluation script:
+Each line of a valid prediction file constitutes a JSON object which must
+contain at least 3 fields to be used by the evaluation script:
 
 - ``SubjectEntity``: the subject entity (string)
 - ``Relation``: the relation (string)
@@ -124,4 +124,4 @@ at least 3 fields to be used by the evaluation script:
   is ``None``).
 
 You can take a look at the [example prediction file](data/dev.pred.jsonl) to
-see how the prediction file should look like.
+see how a valid prediction file should look like.
