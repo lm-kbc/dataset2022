@@ -63,6 +63,9 @@ Parameters of the evaluation script:
 
 ## Data format
 
+We use the json-lines (*.jsonl) format (https://jsonlines.org/).
+Please take a look at [``file_io.py``](file_io.py) for how we read the files.
+
 ### Ground truth ([``data/dev.jsonl``](data/dev.jsonl) and [``data/train.jsonl``](data/train.jsonl) and our private test files)
 
 Each line of a ground-truth file constitutes a JSON object with the following
@@ -106,7 +109,7 @@ entity's aliases, such as:
 
 ### 🌟🌟🌟 YOUR prediction files
 
-Your prediction files should be in the jsonl (json lines) format as described
+Your prediction files should be in the jsonl format as described
 above.
 Each line of a prediction file constitutes a JSON object which must contain
 at least 3 fields to be used by the evaluation script:
