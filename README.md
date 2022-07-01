@@ -25,7 +25,7 @@ $ pip install -r requirements.txt
 
 ## Usage
 
-1. Run the baseline on the dev set
+### Step 1: Run the baseline on the dev set
 
 ```
 $ python baseline.py -i data/dev.jsonl -o data/dev.pred.jsonl
@@ -46,7 +46,7 @@ You can also modify the following parameters of the baseline:
   default: ``0.5``)
 - ``--gpu``: id of the GPU to use (default: ``-1``, i.e. using CPU)
 
-2. Run the evaluation script
+### Step 2: Run the evaluation script
 
 ``` 
 $ python evaluate.py -g data/dev.jsonl -p data/dev.pred.jsonl
