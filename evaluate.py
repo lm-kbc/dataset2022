@@ -32,9 +32,8 @@ def is_none_preds(preds: List[str]) -> bool:
     """
     Checks if the prediction object is none (with relaxing rules).
     """
-    return preds is None or len(preds) == 0 or (
-            len(preds) == 1 and (
-            preds[0].lower() in {"", "none", "null"} or preds[0] is None))
+    return preds is None or len(preds) == 0 or (len(preds) == 1 and (
+                preds[0].lower() in {"", "none", "null"} or preds[0] is None))
 
 
 def true_positives(preds: List[str], gts: List[List[str]]) -> int:
