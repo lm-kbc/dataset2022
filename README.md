@@ -125,3 +125,35 @@ contain at least 3 fields to be used by the evaluation script:
 
 You can take a look at the [example prediction file](data/dev.pred.jsonl) to
 see how a valid prediction file should look like.
+
+This is how we write our prediction file:
+
+```python
+import json
+
+# Fake predictions
+predictions = [
+    {
+        "SubjectEntity": "Dominican republic",
+        "Relation": "CountryBordersWithCountry",
+        "ObjectEntity": ["Haiti"]
+    },
+    {
+        "SubjectEntity": "Eritrea",
+        "Relation": "CountryBordersWithCountry",
+        "ObjectEntity": ["Ethiopia"]
+    },
+    {
+        "SubjectEntity": "Estonia",
+        "Relation": "CountryBordersWithCountry",
+        "ObjectEntity": []
+    }
+
+]
+
+fp = "/path/to/your/prediction/file.jsonl"
+
+with open(fp, "w") as f:
+    for pred in predictions:
+        f.write(json.dumps(pred) + "\n")
+```
