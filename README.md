@@ -10,6 +10,7 @@ We also provide:
 ## Clone or download the dataset
 
 ```
+$ mkdir lm-kbc ; cd lm-kbc
 $ git clone https://github.com/lm-kbc/dataset.git
 $ cd dataset
 ```
