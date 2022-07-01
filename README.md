@@ -56,3 +56,64 @@ Parameters of the evaluation script:
 
 - ``-g``: the ground truth file
 - ``-p``: the prediction file
+
+## Data format
+
+### Ground truth ([``data/dev.jsonl``](data/dev.jsonl) and [``data/train.jsonl``](data/train.jsonl) and our private test files)
+
+Each line of a ground-truth file constitutes a JSON object with the following
+fields:
+
+- ``SubjectEntity``: the subject entity (string)
+- ``Relation``: the relation (string)
+- ``ObjectEntity``: ground truth object entities
+
+The ``ObjectEntity`` filed could be ``null`` such as:
+
+```json
+{
+  "SubjectEntity": "Hwang Chansung",
+  "Relation": "PersonInstrument",
+  "ObjectEntity": null
+}
+```
+
+Otherwise, it should be a list of objects, each of which is a list of an
+entity's aliases, such as:
+
+```json
+{
+  "SubjectEntity": "Dominican republic",
+  "Relation": "CountryBordersWithCountry",
+  "ObjectEntity": [
+    [
+      "usa",
+      "united states of america"
+    ],
+    [
+      "venezuela"
+    ],
+    [
+      "haiti"
+    ]
+  ]
+}
+```
+
+### YOUR prediction files
+
+Your prediction files should be in the jsonl (json lines) format as described
+above.
+Each line of a prediction file constitutes a JSON object which should contains
+at least 3 fields to be used by the evaluation script:
+
+- ``SubjectEntity``: the subject entity (string)
+- ``Relation``: the relation (string)
+- ``ObjectEntity``: the predicted object entities, which should be
+  either ``null`` or a list of entities (string). An empty list ``[]`` will be
+  treated as ``null`` by the evaluation script (see the
+  function [``is_none_preds``](evaluate.py) for how we determine if a prediction
+  is ``None``).
+
+You can take a look at the [example prediction file](data/dev.pred.jsonl) to
+see how the prediction file should look like.
