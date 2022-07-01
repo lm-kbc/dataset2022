@@ -44,7 +44,7 @@ You can also modify the following parameters of the baseline:
 
 - ``--model``: the name of the HuggingFace model to use (
   default: ``bert-large-cased``)
-- ``--top_k``: the number of top-k predictions that the model should output (
+- ``--top_k``: the number of top predictions that the model should output (
   default: ``100``)
 - ``--threshold``: the probability threshold for choosing final output (
   default: ``0.5``)
