@@ -1,159 +1,234 @@
 import argparse
-import pprint
-import sys
-from ast import literal_eval
-from pathlib import Path
+import string
+from typing import List, Dict, Union
 
-import numpy as np
 import pandas as pd
 
-RELATIONS = {
-    "CountryBordersWithCountry",
-    "CountryOfficialLanguage",
-    "StateSharesBorderState",
-    "RiverBasinsCountry",
-    "ChemicalCompoundElement",
-    "PersonLanguage",
-    "PersonProfession",
-    "PersonInstrument",
-    "PersonEmployer",
-    "PersonPlaceOfDeath",
-    "PersonCauseOfDeath",
-    "CompanyParentOrganization",
-}
-
-### Precision = how much of the LM's predictions match with ground truth (GT) - |LM intersection GT| / |LM|
-def precision(x, y):
-    count = 0
-    for pred in x:
-        ### if the prediction is substring of any of the ground truth object-entity strings, count is incremented
-        count += 1 if any(pred in string for string in y) else 0
-    return count / len(x)
+from file_io import read_lm_kbc_jsonl
 
 
-### Recall = how much of the LM's predictions match are within ground truth (GT) - |LM intersection GT| / |GT|
-def recall(x, y):
-    count = 0
-    for pred in x:
-        ### if the prediction is substring of any of the ground truth object-entity strings, count is incremented
-        count += 1 if any(pred in string for string in y) else 0
-    return count / len(y)
+def clean_object(obj: str) -> Union[str, None]:
+    """
+    Cleans the object by removing punctuation and lower-casing.
+    """
+
+    if not obj:
+        return None
+
+    for punctuation in string.punctuation:
+        obj = obj.replace(punctuation, "")
+
+    return obj.lower().strip()
 
 
-#### ref: https://en.wikipedia.org/wiki/F-score
-#### F1 = (2 * P * R)) / (P + R)
-def f1_score(x, y):
-    p = precision(x, y)
-    r = recall(x, y)
-    if p == r == 0:
-        return 0
-    return (2 * p * r) / (p + r)
+def is_none_gts(gts: List[List[str]]) -> bool:
+    """
+    Checks if the ground truth object is none.
+    """
+    return gts is None
 
 
-### converting the LM predictions into lower case and removing punctuations
-def clean_predictions(x):
-    return x.lower().strip().replace(".", "").replace(",", "").replace("-", "")
+def is_none_preds(preds: List[str]) -> bool:
+    """
+    Checks if the prediction object is none (with relaxing rules).
+    """
+    return preds is None or len(preds) == 0 or (
+            len(preds) == 1 and (
+            preds[0].lower() in {"", "none", "null"} or preds[0] is None))
 
 
-def evaluate(input_dir: Path, ground_truth_dir: Path, results_dir: Path):
-    if results_dir.exists():
-        assert results_dir.is_dir()
-    else:
-        results_dir.mkdir(parents=True, exist_ok=True)
+def true_positives(preds: List[str], gts: List[List[str]]) -> int:
+    """
+    Calculates the number of true positives
+    for a given pair of subject and relation.
+    Method:
+        Iterate over the ground truth objects, each is a list of possible
+        aliases. For each ground truth object, check if the prediction
+        contains any of its aliases. If so, increment the true positives by 1.
 
-    ### dictionary (key:relation, val:F1-score) to store average F1 scores across all subject-entities for a given relation
-    average_f1 = {}
+    Args:
+        preds: list of predictions
+        gts: list of ground truth objects
 
-    ### looping over all the files in the input directory
-    for fname in input_dir.glob("*.csv"):
-        prompt_df = pd.read_csv(fname)
-        ### getting the relation name from the file name
-        # relation = fname.split("/")[-1].split(".")[0]
-        relation = fname.stem
+    Returns:
+        true_positives: int
+    """
 
-        if relation not in RELATIONS:
-            sys.stderr.write(
-                f'\nWARNING: Ignored: Filename: "{fname.absolute()}" --- "{relation}" is not a valid relation\n\n'
-            )
-            continue
+    normalized_preds = [clean_object(p) for p in preds]
+    tp = 0
+    for gt in gts:
+        gt_set = set([clean_object(g) for g in gt])
+        if any(pred in gt_set for pred in normalized_preds):
+            tp += 1
 
-        ground_truth_df = pd.read_csv(ground_truth_dir / f"{relation}.csv")
-        ground_truth_df["ObjectEntity"] = ground_truth_df["ObjectEntity"].apply(
-            literal_eval
-        )
+    return tp
 
-        res_df = []
-        for entity, ground_truth_objects in ground_truth_df.groupby(["SubjectEntity"])[
-            "ObjectEntity"
-        ]:
-            ground_truth_objects = ground_truth_objects.tolist()
-            predictions = prompt_df[prompt_df["SubjectEntity"] == entity][
-                "ObjectEntity"
-            ].tolist()
-            # print ('SubjectEntity: %s' % entity, 'Ground Truth: %s' % ground_truth_objects, 'Predictions: %s' % predictions)
-            if len(predictions) == 0:
-                ### if no predictions obtained for the subject-entity, then F1-score is 0
-                res_df.append(
-                    {"SubjectEntity": entity, "Relation": relation, "F1-score": 0}
-                )
-            else:
-                predictions = [clean_predictions(x) for x in predictions]
-                f1 = f1_score(
-                    predictions, ground_truth_objects
-                )  ### calculating F1-score for the given subject-entity
-                res_df.append(
-                    {"SubjectEntity": entity, "Relation": relation, "F1-score": f1}
-                )
 
-        ### storing the results separately for each relation
-        res_df = pd.DataFrame(res_df)
-        res_df.to_csv(results_dir / f"{relation}_results.csv", index=False)
+def precision(preds: List[str], gts: List[List[str]]) -> float:
+    """
+    Calculates the precision of the predictions
+    for a given pair of subject and relation.
 
-        ### calculating the averaged F1-score across all subject-entities
-        average_f1[relation] = res_df["F1-score"].mean()
+    Args:
+        preds: list of predictions
+        gts: list of ground truth objects
 
-    ### calculating the final F1-score averaged across all the relations
-    ### NOTE: this score will be used to rank the participating systems
-    f1 = round(np.mean(list(average_f1.values())) * 100, 2)
+    Returns:
+        precision: float
+    """
 
-    print("average F1-score for each relation:")
-    pprint.pprint(average_f1)
+    # When the ground truth object is none
+    if is_none_gts(gts):
+        return 1.0 if is_none_preds(preds) else 0.0
 
-    print("Final F1-score: {} %".format(f1))
+    # When the ground truth object is not none
+    try:
+        return min(true_positives(preds, gts) / len(preds), 1.0)
+    except (ZeroDivisionError, TypeError):
+        return 0.0
+
+
+def recall(preds: List[str], gts: List[List[str]]) -> float:
+    """
+    Calculates the recall of the predictions
+    for a given pair of subject and relation.
+
+    Args:
+        preds: list of predictions
+        gts: list of ground truth objects
+
+    Returns:
+        recall: float
+    """
+
+    # When the ground truth object is none
+    if is_none_gts(gts):
+        return 1.0 if is_none_preds(preds) else 0.0
+
+    # When the ground truth object is not none
+    try:
+        return true_positives(preds, gts) / len(gts)
+    except TypeError:
+        return 0.0
+
+
+def f1_score(p: float, r: float) -> float:
+    """
+    Calculates the F1-score of the predictions
+    for a given pair of subject and relation.
+
+    Args:
+        p: precision
+        r: recall
+
+    Returns:
+        f1_score: float
+    """
+
+    try:
+        return (2 * p * r) / (p + r)
+    except ZeroDivisionError:
+        return 0.0
+
+
+def rows_to_dict(rows: List[Dict]) -> Dict:
+    """
+    Index the ground truth/prediction rows by subject entity and relation.
+    """
+
+    return {(r["SubjectEntity"], r["Relation"]): r["ObjectEntity"] for r in
+            rows}
+
+
+def evaluate_per_sr_pair(predictions_fp, ground_truth_fp) \
+        -> List[Dict[str, float]]:
+    pred_rows = read_lm_kbc_jsonl(predictions_fp)
+    gt_rows = read_lm_kbc_jsonl(ground_truth_fp)
+
+    pred_dict = rows_to_dict(pred_rows)
+    gt_dict = rows_to_dict(gt_rows)
+
+    results = []
+
+    for subj, rel in gt_dict:
+        gts: List[List[str]] = gt_dict[(subj, rel)]
+        preds: List[str] = pred_dict.get((subj, rel), [])
+
+        p = precision(preds, gts)
+        r = recall(preds, gts)
+        f1 = f1_score(p, r)
+
+        results.append({
+            "SubjectEntity": subj,
+            "Relation": rel,
+            "p": p,
+            "r": r,
+            "f1": f1
+        })
+
+        # if p > 1.0 or r > 1.0:
+        #     print(f"{subj} {rel} {p} {r} {f1} {gts} {preds}")
+
+    return sorted(results, key=lambda x: (x["Relation"], x["SubjectEntity"]))
+
+
+def combine_scores_per_relation(scores_per_sr: List[Dict[str, float]]) -> dict:
+    scores = {}
+    for r in scores_per_sr:
+        if r["Relation"] not in scores:
+            scores[r["Relation"]] = []
+        scores[r["Relation"]].append({
+            "p": r["p"],
+            "r": r["r"],
+            "f1": r["f1"],
+        })
+
+    for rel in scores:
+        scores[rel] = {
+            "p": sum([x["p"] for x in scores[rel]]) / len(scores[rel]),
+            "r": sum([x["r"] for x in scores[rel]]) / len(scores[rel]),
+            "f1": sum([x["f1"] for x in scores[rel]]) / len(scores[rel]),
+        }
+
+    return scores
 
 
 def main():
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description="Evaluate Precision, Recall and F1-score of predictions"
+    )
+
     parser.add_argument(
-        "--input_dir",
+        "-p",
+        "--predictions",
         type=str,
-        default="./baseline/",
-        help="input directory containing the baseline or your method output",
+        required=True,
+        help="Path to the predictions file (required)"
     )
     parser.add_argument(
-        "--ground_truth_dir",
+        "-g",
+        "--ground_truth",
         type=str,
-        default="./dev/",
-        help="ground truth directory containing true object-entities for the subject-entities for which the LM was probed and then baseline or your method was applied",
+        required=True,
+        help="Path to the ground truth file (required)"
     )
-    parser.add_argument(
-        "--results_dir",
-        type=str,
-        default="./results/",
-        help="results directory for storing the F1 scores for baseline or your method",
-    )
+
     args = parser.parse_args()
-    print(args)
 
-    input_dir = Path(args.input_dir)
-    gt_dir = Path(args.ground_truth_dir)
+    scores_per_sr_pair = evaluate_per_sr_pair(args.predictions,
+                                              args.ground_truth)
+    scores_per_relation = combine_scores_per_relation(scores_per_sr_pair)
 
-    assert input_dir.exists() and input_dir.is_dir()
-    assert gt_dir.exists() and gt_dir.is_dir()
+    scores_per_relation["*** Average ***"] = {
+        "p": sum([x["p"] for x in scores_per_relation.values()]) / len(
+            scores_per_relation),
+        "r": sum([x["r"] for x in scores_per_relation.values()]) / len(
+            scores_per_relation),
+        "f1": sum([x["f1"] for x in scores_per_relation.values()]) / len(
+            scores_per_relation),
+    }
 
-    results_dir = Path(args.results_dir)
-
-    evaluate(input_dir, gt_dir, results_dir)
+    print(pd.DataFrame(scores_per_relation).transpose().round(3))
 
 
 if __name__ == "__main__":
