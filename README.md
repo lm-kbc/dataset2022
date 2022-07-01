@@ -7,6 +7,9 @@ We also provide:
 - ``baseline.py``: our baseline for this challenge
 - ``getting_started.ipynb``: a notebook to help you get started
 
+🌟 Please directly go to [**File format**](#data-format) if you are ready to
+start with your own solutions.
+
 ## Clone or download the dataset
 
 ```
@@ -78,7 +81,7 @@ The ``ObjectEntity`` filed could be ``null`` such as:
 }
 ```
 
-Otherwise, it should be a list of objects, each of which is a list of an
+Otherwise, it must be a list of objects, each of which is a list of an
 entity's aliases, such as:
 
 ```json
@@ -100,11 +103,11 @@ entity's aliases, such as:
 }
 ```
 
-### YOUR prediction files
+### 🌟🌟🌟 YOUR prediction files
 
 Your prediction files should be in the jsonl (json lines) format as described
 above.
-Each line of a prediction file constitutes a JSON object which should contains
+Each line of a prediction file constitutes a JSON object which must contain
 at least 3 fields to be used by the evaluation script:
 
 - ``SubjectEntity``: the subject entity (string)
