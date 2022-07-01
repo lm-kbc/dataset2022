@@ -48,61 +48,61 @@
 {"SubjectEntity": "Triphenylphosphine", "Relation": "ChemicalCompoundElement", "ObjectEntity": [["phosphorus"], ["carbon"]]}
 {"SubjectEntity": "Vinylidene fluoride", "Relation": "ChemicalCompoundElement", "ObjectEntity": [["carbon"], ["fluorine"]]}
 {"SubjectEntity": "Zeaxanthin", "Relation": "ChemicalCompoundElement", "ObjectEntity": [["carbon"]]}
-{"SubjectEntity": "Abadal", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Aixam", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Alex von falkenhausen motorenbau", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Alvis car and engineering company ltd", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Amphicar", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Art\u00e9s de arcos", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Aston martin lagonda", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Austro-daimler", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Automobilwerk eisenach", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Bell", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Bertone", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Abadal", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Aixam", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Alex von falkenhausen motorenbau", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Alvis car and engineering company ltd", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Amphicar", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Art\u00e9s de arcos", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Aston martin lagonda", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Austro-daimler", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Automobilwerk eisenach", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Bell", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Bertone", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Cadillac", "Relation": "CompanyParentOrganization", "ObjectEntity": [["general motors"]]}
-{"SubjectEntity": "Central motors", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Central motors", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Changan automobile", "Relation": "CompanyParentOrganization", "ObjectEntity": [["china south industries group", "china south industries"]]}
-{"SubjectEntity": "Delage", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Duesenberg", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "F\u00e1brica nacional de motores", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Delage", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Duesenberg", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "F\u00e1brica nacional de motores", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Gaz", "Relation": "CompanyParentOrganization", "ObjectEntity": [["gaz group", "gaz"]]}
 {"SubjectEntity": "Gucci", "Relation": "CompanyParentOrganization", "ObjectEntity": [["kering"]]}
-{"SubjectEntity": "Guerry et bourguignon", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Guerry et bourguignon", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Hanomag", "Relation": "CompanyParentOrganization", "ObjectEntity": [["komatsu limited", "komatsu"]]}
 {"SubjectEntity": "Hyundai motor company", "Relation": "CompanyParentOrganization", "ObjectEntity": [["hyundai"]]}
-{"SubjectEntity": "Industrieverband fahrzeugbau", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Industrija motornih vozil", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Itala", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Jensen motors", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Kaipan", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Industrieverband fahrzeugbau", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Industrija motornih vozil", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Itala", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Jensen motors", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Kaipan", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Kia", "Relation": "CompanyParentOrganization", "ObjectEntity": [["hyundai motor", "hyundai motor group", "hyundai"]]}
-{"SubjectEntity": "Kojima engineering", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "La ponette", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Kojima engineering", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "La ponette", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Lada zapad tolyatti", "Relation": "CompanyParentOrganization", "ObjectEntity": [["avtovaz"]]}
 {"SubjectEntity": "Lagonda", "Relation": "CompanyParentOrganization", "ObjectEntity": [["aston martin lagonda", "aston martin", "aston", "martin"]]}
-{"SubjectEntity": "Locomobile company of america", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Locomobile company of america", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Lotus cars", "Relation": "CompanyParentOrganization", "ObjectEntity": [["geely"]]}
-{"SubjectEntity": "Mg car company limited", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Moskvitch", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Nardi", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Mg car company limited", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Moskvitch", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Nardi", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Nsu", "Relation": "CompanyParentOrganization", "ObjectEntity": [["volkswagen"]]}
 {"SubjectEntity": "Peugeot", "Relation": "CompanyParentOrganization", "ObjectEntity": [["stellantis"]]}
-{"SubjectEntity": "Saipa", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Saipa", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Scripps-booth", "Relation": "CompanyParentOrganization", "ObjectEntity": [["general motors"]]}
 {"SubjectEntity": "Simca", "Relation": "CompanyParentOrganization", "ObjectEntity": [["chrysler europe", "chrysler"]]}
-{"SubjectEntity": "Societ\u00e0 torinese automobili elettrici", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Towarzystwo budowy samochod\u00f3w as", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Valmet automotive", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "Velorex", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Societ\u00e0 torinese automobili elettrici", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Towarzystwo budowy samochod\u00f3w as", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Valmet automotive", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "Velorex", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Volkswagen", "Relation": "CompanyParentOrganization", "ObjectEntity": [["volkswagen group", "volkswagen"]]}
 {"SubjectEntity": "Yamaha motor company", "Relation": "CompanyParentOrganization", "ObjectEntity": [["yamaha corporation", "yamaha"]]}
-{"SubjectEntity": "Zanella fratelli", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
-{"SubjectEntity": "\u00c9lan motorsport technologies", "Relation": "CompanyParentOrganization", "ObjectEntity": null}
+{"SubjectEntity": "Zanella fratelli", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
+{"SubjectEntity": "\u00c9lan motorsport technologies", "Relation": "CompanyParentOrganization", "ObjectEntity": []}
 {"SubjectEntity": "Andorra", "Relation": "CountryBordersWithCountry", "ObjectEntity": [["france"], ["spain"]]}
 {"SubjectEntity": "Angola", "Relation": "CountryBordersWithCountry", "ObjectEntity": [["republic of the congo", "congo"], ["congo", "democratic republic of the congo"], ["gabon"], ["namibia"], ["zambia"]]}
 {"SubjectEntity": "Australia", "Relation": "CountryBordersWithCountry", "ObjectEntity": [["papua new guinea"], ["indonesia"], ["east timor", "timor"], ["new zealand"]]}
 {"SubjectEntity": "Bahrain", "Relation": "CountryBordersWithCountry", "ObjectEntity": [["iran"], ["saudi arabia"]]}
-{"SubjectEntity": "Barbados", "Relation": "CountryBordersWithCountry", "ObjectEntity": null}
+{"SubjectEntity": "Barbados", "Relation": "CountryBordersWithCountry", "ObjectEntity": []}
 {"SubjectEntity": "Belize", "Relation": "CountryBordersWithCountry", "ObjectEntity": [["mexico"], ["guatemala"]]}
 {"SubjectEntity": "Bolivia", "Relation": "CountryBordersWithCountry", "ObjectEntity": [["brazil"], ["paraguay"], ["peru"], ["argentina"], ["chile"]]}
 {"SubjectEntity": "Bosnia and herzegovina", "Relation": "CountryBordersWithCountry", "ObjectEntity": [["montenegro"], ["serbia"], ["croatia"]]}
@@ -192,56 +192,56 @@
 {"SubjectEntity": "Zimbabwe", "Relation": "CountryOfficialLanguage", "ObjectEntity": [["english"], ["shona"], ["sesotho"], ["kalanga"], ["chewa"], ["venda"], ["ndau"], ["khoisan"], ["tsonga"], ["barwe"], ["northern ndebele", "ndebele"], ["tswana"], ["nambya"], ["xhosa"], ["tonga"]]}
 {"SubjectEntity": "bahamas", "Relation": "CountryOfficialLanguage", "ObjectEntity": [["english"]]}
 {"SubjectEntity": "gambia", "Relation": "CountryOfficialLanguage", "ObjectEntity": [["english"]]}
-{"SubjectEntity": "Adele", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Adele", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Ahmed zewail", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["lymphoma", "spinal cord lymphoma"]]}
 {"SubjectEntity": "Aretha franklin", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["pancreatic cancer", "cancer"]]}
 {"SubjectEntity": "Avicii", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["exsanguination"]]}
-{"SubjectEntity": "Benjamin Netanyahu", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Bill Gates", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Boris Johnson", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Benjamin Netanyahu", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Bill Gates", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Boris Johnson", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Christina grimmie", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["ballistic trauma", "trauma"]]}
-{"SubjectEntity": "Christine Lagarde", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Christine Lagarde", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Cory monteith", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["drug overdose", "overdose"]]}
 {"SubjectEntity": "Dilip kumar", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["cancer", "prostate cancer"]]}
-{"SubjectEntity": "Donald Knuth", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Emmanuel Macron", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Donald Knuth", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Emmanuel Macron", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Ennio morricone", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["femoral fracture", "fracture"]]}
-{"SubjectEntity": "Francois Hollande", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Francois Hollande", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Frank sinatra", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["myocardial infarction", "infarction"]]}
 {"SubjectEntity": "George h. w. bush", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["parkinson's disease", "parkinson"]]}
 {"SubjectEntity": "George harrison", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["cancer", "lung cancer"]]}
-{"SubjectEntity": "Ginni Rometty", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Ginni Rometty", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Haruma miura", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["hanging"]]}
-{"SubjectEntity": "Hu Jintao", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Hu Jintao", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Hugh hefner", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["sepsis"]]}
 {"SubjectEntity": "Idriss d\u00e9by", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["ballistic trauma", "trauma"]]}
-{"SubjectEntity": "Indra Nooyi", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Indra Nooyi", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Jim rohn", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["pulmonary fibrosis", "fibrosis"]]}
 {"SubjectEntity": "John magufuli", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["arrhythmia", "heart arrhythmia"]]}
 {"SubjectEntity": "Johnny cash", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["diabetes"]]}
-{"SubjectEntity": "Larry Page", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Larry Page", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Larry king", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["sepsis"]]}
 {"SubjectEntity": "Maurane", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["falling"]]}
 {"SubjectEntity": "Maya angelou", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["disease"]]}
-{"SubjectEntity": "Melinda Gates", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Michelle Obama", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Melinda Gates", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Michelle Obama", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Mikhail zadornov", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["brain cancer", "cancer"]]}
 {"SubjectEntity": "Miles davis", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["stroke"], ["pneumonia"]]}
 {"SubjectEntity": "Nelson mandela", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["respiratory disease"]]}
-{"SubjectEntity": "Paul Pogba", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Pitbull", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Richard Dawkins", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Rihanna", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Paul Pogba", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Pitbull", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Richard Dawkins", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Rihanna", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Rishi kapoor", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["leukemia"]]}
-{"SubjectEntity": "Robert Lewandowsk", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Robert downey jr.", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Robert Lewandowsk", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Robert downey jr.", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Roddy piper", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["cardiac arrest"]]}
-{"SubjectEntity": "Ronaldinho", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Ronaldinho", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Roy orbison", "Relation": "PersonCauseOfDeath", "ObjectEntity": [["myocardial infarction", "infarction"]]}
-{"SubjectEntity": "Russell Crowe", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Sandra Bullock", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Ursula von der leyen", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Victoria Beckham", "Relation": "PersonCauseOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Russell Crowe", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Sandra Bullock", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Ursula von der leyen", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Victoria Beckham", "Relation": "PersonCauseOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Adam Savage", "Relation": "PersonEmployer", "ObjectEntity": [["academy of art university"]]}
 {"SubjectEntity": "Alexis Ohanian", "Relation": "PersonEmployer", "ObjectEntity": [["reddit inc.", "reddit"], ["initialized capital"]]}
 {"SubjectEntity": "Amber Rudd", "Relation": "PersonEmployer", "ObjectEntity": [["j.p. morgan & co.", "j.p. morgan", "jp morgan"]]}
@@ -294,12 +294,12 @@
 {"SubjectEntity": "Wishnutama", "Relation": "PersonEmployer", "ObjectEntity": [["net."], ["detik.com"], ["kumparan"], ["new england cable news"], ["indosiar"], ["whdh"], ["trans7"], ["trans tv"]]}
 {"SubjectEntity": "A. J. McLean", "Relation": "PersonInstrument", "ObjectEntity": [["lyric spinto tenor", "tenor"]]}
 {"SubjectEntity": "Arnel Pineda", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"]]}
-{"SubjectEntity": "Bang Yong-guk", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Bang Yong-guk", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "Billie Joe Armstrong", "Relation": "PersonInstrument", "ObjectEntity": [["piano"], ["guitar"], ["harmonica"], ["saxophone"], ["mandolin"], ["percussion instrument", "percussion"]]}
 {"SubjectEntity": "Billy Corgan", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"]]}
 {"SubjectEntity": "Bj\u00f6rk", "Relation": "PersonInstrument", "ObjectEntity": [["keyboard instrument", "keyboard"], ["harp"], ["celesta"], ["sets of free reeds", "reeds"], ["clavichord"], ["clarinet"], ["saxophone"], ["piano"], ["pipe organ"], ["flute"]]}
-{"SubjectEntity": "Byun Baek-hyun", "Relation": "PersonInstrument", "ObjectEntity": null}
-{"SubjectEntity": "Chester Bennington", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Byun Baek-hyun", "Relation": "PersonInstrument", "ObjectEntity": []}
+{"SubjectEntity": "Chester Bennington", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "China Anne McClain", "Relation": "PersonInstrument", "ObjectEntity": [["piano"], ["guitar"], ["bass"]]}
 {"SubjectEntity": "Cho Kyuhyun", "Relation": "PersonInstrument", "ObjectEntity": [["piano"]]}
 {"SubjectEntity": "Chris Daughtry", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"]]}
@@ -310,38 +310,38 @@
 {"SubjectEntity": "Gerard Way", "Relation": "PersonInstrument", "ObjectEntity": [["electric guitar", "guitar"]]}
 {"SubjectEntity": "Heo Young-saeng", "Relation": "PersonInstrument", "ObjectEntity": [["piano"]]}
 {"SubjectEntity": "Hisashi", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"]]}
-{"SubjectEntity": "Hwang Chansung", "Relation": "PersonInstrument", "ObjectEntity": null}
-{"SubjectEntity": "Hyomin", "Relation": "PersonInstrument", "ObjectEntity": null}
-{"SubjectEntity": "JAY B", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Hwang Chansung", "Relation": "PersonInstrument", "ObjectEntity": []}
+{"SubjectEntity": "Hyomin", "Relation": "PersonInstrument", "ObjectEntity": []}
+{"SubjectEntity": "JAY B", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "Joe Perry", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"], ["bass guitar", "guitar"]]}
 {"SubjectEntity": "John Lennon", "Relation": "PersonInstrument", "ObjectEntity": [["keyboard instrument", "keyboard"], ["piano"], ["bass guitar", "guitar"], ["guitar"], ["harmonica"]]}
 {"SubjectEntity": "Joseph Hahn", "Relation": "PersonInstrument", "ObjectEntity": [["keyboard instrument", "keyboard"]]}
-{"SubjectEntity": "Jun. K", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Jun. K", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "Kangin", "Relation": "PersonInstrument", "ObjectEntity": [["piano"]]}
-{"SubjectEntity": "Kim Junsu", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Kim Junsu", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "Lay", "Relation": "PersonInstrument", "ObjectEntity": [["electric guitar", "guitar"], ["piano"], ["cello"], ["drum"], ["ney"], ["hulusi"]]}
 {"SubjectEntity": "Lee Jung-shin", "Relation": "PersonInstrument", "ObjectEntity": [["bass guitar", "guitar"]]}
 {"SubjectEntity": "Logan Henderson", "Relation": "PersonInstrument", "ObjectEntity": [["piano"]]}
 {"SubjectEntity": "Morrissey", "Relation": "PersonInstrument", "ObjectEntity": [["piano"]]}
 {"SubjectEntity": "Nichkhun", "Relation": "PersonInstrument", "ObjectEntity": [["keyboard instrument", "keyboard"]]}
-{"SubjectEntity": "Nicole Jung", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Nicole Jung", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "Noel Gallagher", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"]]}
-{"SubjectEntity": "Park Bom", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Park Bom", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "Paul McCartney", "Relation": "PersonInstrument", "ObjectEntity": [["mandolin"], ["sitar"], ["recorder"], ["melodica"], ["percussion instrument", "percussion"], ["ukulele"], ["keyboard instrument", "keyboard"], ["violin"], ["cello"], ["trumpet"], ["guitar"], ["bass", "double bass"], ["piano"], ["bass guitar", "guitar"]]}
 {"SubjectEntity": "Rea Garvey", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"]]}
 {"SubjectEntity": "Robert Plant", "Relation": "PersonInstrument", "ObjectEntity": [["harmonica"]]}
 {"SubjectEntity": "Roger Taylor", "Relation": "PersonInstrument", "ObjectEntity": [["bass guitar", "guitar"], ["drum machine", "drum"], ["guitar"], ["drum", "drum kit"], ["keyboard instrument", "keyboard"]]}
-{"SubjectEntity": "Ronan Keating", "Relation": "PersonInstrument", "ObjectEntity": null}
-{"SubjectEntity": "Sakura Miyawaki", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Ronan Keating", "Relation": "PersonInstrument", "ObjectEntity": []}
+{"SubjectEntity": "Sakura Miyawaki", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "Shindong", "Relation": "PersonInstrument", "ObjectEntity": [["piano"]]}
 {"SubjectEntity": "Slash", "Relation": "PersonInstrument", "ObjectEntity": [["bass guitar", "guitar"], ["guitar"]]}
 {"SubjectEntity": "Sting", "Relation": "PersonInstrument", "ObjectEntity": [["keyboard instrument", "keyboard"], ["mandolin"], ["bass", "double bass"], ["harmonica"], ["bass guitar", "guitar"], ["acoustic guitar", "guitar"], ["guitar"], ["bass"]]}
-{"SubjectEntity": "Taeyang", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Taeyang", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "Tom Morello", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"]]}
 {"SubjectEntity": "Tony Iommi", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"]]}
-{"SubjectEntity": "Victoria Beckham", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Victoria Beckham", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "Yoshiki", "Relation": "PersonInstrument", "ObjectEntity": [["guitar"], ["keyboard instrument", "keyboard"], ["piano"], ["arp 2500", "arp"], ["drum", "drum kit"]]}
-{"SubjectEntity": "Zayn Malik", "Relation": "PersonInstrument", "ObjectEntity": null}
+{"SubjectEntity": "Zayn Malik", "Relation": "PersonInstrument", "ObjectEntity": []}
 {"SubjectEntity": "A. R. Rahman", "Relation": "PersonLanguage", "ObjectEntity": [["tamil"], ["hindi"], ["telugu"]]}
 {"SubjectEntity": "Abdullah G\u00fcl", "Relation": "PersonLanguage", "ObjectEntity": [["turkish"]]}
 {"SubjectEntity": "Adele", "Relation": "PersonLanguage", "ObjectEntity": [["english"]]}
@@ -394,54 +394,54 @@
 {"SubjectEntity": "Zlatan Ibrahimovi\u0107", "Relation": "PersonLanguage", "ObjectEntity": [["italian"], ["swedish"], ["spanish"], ["bosnian"], ["english"]]}
 {"SubjectEntity": "Abdul rehman malik", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["islamabad"]]}
 {"SubjectEntity": "Adam west", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["los angeles", "la"]]}
-{"SubjectEntity": "Adele", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Adele", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Alan garc\u00eda", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["lima"]]}
 {"SubjectEntity": "Alfredo gonz\u00e1lez flores", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["heredia"]]}
 {"SubjectEntity": "Almudena grandes", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["madrid"]]}
 {"SubjectEntity": "Anne rice", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["rancho mirage"]]}
 {"SubjectEntity": "Aretha franklin", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["detroit"]]}
 {"SubjectEntity": "Avicii", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["muscat"]]}
-{"SubjectEntity": "Benjamin Netanyahu", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Bill Gates", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Boris Johnson", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Benjamin Netanyahu", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Bill Gates", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Boris Johnson", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Cameron boyce", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["los angeles", "la"]]}
 {"SubjectEntity": "Chespirito", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["cancun"]]}
 {"SubjectEntity": "Chick corea", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["tampa bay area", "tampa"]]}
 {"SubjectEntity": "Chris cornell", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["detroit"]]}
-{"SubjectEntity": "Christine Lagarde", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Donald Knuth", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Christine Lagarde", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Donald Knuth", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Elijah cummings", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["baltimore"]]}
-{"SubjectEntity": "Emmanuel Macron", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Francois Hollande", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Emmanuel Macron", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Francois Hollande", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "George h. w. bush", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["houston"]]}
-{"SubjectEntity": "Ginni Rometty", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Ginni Rometty", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Glenn fredly", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["jakarta"]]}
-{"SubjectEntity": "Hu Jintao", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Hu Jintao", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Hugo ch\u00e1vez", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["hospital militar de caracas", "caracas"]]}
-{"SubjectEntity": "Indra Nooyi", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Indra Nooyi", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "John coltrane", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["huntington"]]}
 {"SubjectEntity": "John lennon", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["new york city", "nyc"]]}
 {"SubjectEntity": "Ken robinson", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["london"]]}
 {"SubjectEntity": "Kurt vonnegut", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["new york city", "nyc"]]}
-{"SubjectEntity": "Larry Page", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Melinda Gates", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Larry Page", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Melinda Gates", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Michael collins", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["naples"]]}
 {"SubjectEntity": "Michael jackson", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["los angeles", "la"]]}
-{"SubjectEntity": "Michelle Obama", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Paul Pogba", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Michelle Obama", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Paul Pogba", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Paul g. allen", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["seattle"]]}
-{"SubjectEntity": "Pitbull", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Pitbull", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Rachel caine", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["texas"]]}
-{"SubjectEntity": "Richard Dawkins", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Rihanna", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Richard Dawkins", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Rihanna", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Roald dahl", "Relation": "PersonPlaceOfDeath", "ObjectEntity": [["oxford"]]}
-{"SubjectEntity": "Robert Lewandowsk", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Robert downey jr.", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Ronaldinho", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Russell Crowe", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Sandra Bullock", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Ursula von der leyen", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
-{"SubjectEntity": "Victoria Beckham", "Relation": "PersonPlaceOfDeath", "ObjectEntity": null}
+{"SubjectEntity": "Robert Lewandowsk", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Robert downey jr.", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Ronaldinho", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Russell Crowe", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Sandra Bullock", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Ursula von der leyen", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
+{"SubjectEntity": "Victoria Beckham", "Relation": "PersonPlaceOfDeath", "ObjectEntity": []}
 {"SubjectEntity": "Akon", "Relation": "PersonProfession", "ObjectEntity": [["songwriter"], ["producer", "record producer"], ["singer"], ["entrepreneur"], ["philanthropist"]]}
 {"SubjectEntity": "Akshay Kumar", "Relation": "PersonProfession", "ObjectEntity": [["actor"], ["voice actor", "actor"], ["producer", "film producer"], ["actor", "film actor"], ["martial artist", "artist"]]}
 {"SubjectEntity": "Al Gore", "Relation": "PersonProfession", "ObjectEntity": [["financier"], ["activist", "climate activist"], ["environmentalist"], ["businessperson"], ["politician"], ["writer"], ["journalist"]]}

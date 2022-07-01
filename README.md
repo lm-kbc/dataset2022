@@ -75,13 +75,13 @@ fields:
 - ``Relation``: the relation (string)
 - ``ObjectEntity``: ground truth object entities
 
-The ``ObjectEntity`` filed could be ``null`` such as:
+The ``ObjectEntity`` filed could be an empty list (``[]``) such as:
 
 ```json
 {
   "SubjectEntity": "Hwang Chansung",
   "Relation": "PersonInstrument",
-  "ObjectEntity": null
+  "ObjectEntity": []
 }
 ```
 
@@ -116,12 +116,7 @@ contain at least 3 fields to be used by the evaluation script:
 
 - ``SubjectEntity``: the subject entity (string)
 - ``Relation``: the relation (string)
-- ``ObjectEntity``: the predicted object entities, which should be
-  either ``null`` or a list of entities (string). An empty list ``[]`` will be
-  treated as ``null`` by the evaluation script (see the
-  function [``is_none_preds``](evaluate.py#L31) for how we determine if a
-  prediction
-  is ``None``).
+- ``ObjectEntity``: the predicted object entities, which should be a list of entities (string).
 
 You can take a look at the [example prediction file](data/dev.pred.jsonl) to
 see how a valid prediction file should look like.

@@ -25,7 +25,7 @@ def is_none_gts(gts: List[List[str]]) -> bool:
     """
     Checks if the ground truth object is none.
     """
-    return gts is None
+    return not gts
 
 
 def is_none_preds(preds: List[str]) -> bool:
@@ -33,7 +33,8 @@ def is_none_preds(preds: List[str]) -> bool:
     Checks if the prediction object is none (with relaxing rules).
     """
     return preds is None or len(preds) == 0 or (len(preds) == 1 and (
-                preds[0].lower() in {"", "none", "null"} or preds[0] is None))
+            list(preds)[0].lower() in {"", "none", "null"} or
+            list(preds)[0] is None))
 
 
 def true_positives(preds: List[str], gts: List[List[str]]) -> int:
@@ -46,18 +47,17 @@ def true_positives(preds: List[str], gts: List[List[str]]) -> int:
         contains any of its aliases. If so, increment the true positives by 1.
 
     Args:
-        preds: list of predictions
-        gts: list of ground truth objects
+        preds: list of normalized predictions
+        gts: list of ground truth objects (lists of normalized aliases)
 
     Returns:
         true_positives: int
     """
 
-    normalized_preds = [clean_object(p) for p in preds]
     tp = 0
     for gt in gts:
-        gt_set = set([clean_object(g) for g in gt])
-        if any(pred in gt_set for pred in normalized_preds):
+        gt_set = set(gt)
+        if any(pred in gt_set for pred in preds):
             tp += 1
 
     return tp
@@ -150,9 +150,16 @@ def evaluate_per_sr_pair(predictions_fp, ground_truth_fp) \
     results = []
 
     for subj, rel in gt_dict:
-        gts: List[List[str]] = gt_dict[(subj, rel)]
-        preds: List[str] = pred_dict.get((subj, rel), [])
+        # get and normalize the ground truth objects
+        gts = []
+        for gt in gt_dict[(subj, rel)]:
+            gts.append([clean_object(obj) for obj in gt])
 
+        # get and normalize the predictions
+        preds = list(set(
+            clean_object(obj) for obj in pred_dict.get((subj, rel), [])))
+
+        # calculate the scores
         p = precision(preds, gts)
         r = recall(preds, gts)
         f1 = f1_score(p, r)
