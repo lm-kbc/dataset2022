@@ -32,3 +32,17 @@ var/
 
 .vscode
 .ipynb_checkpoints
+.idea
+
+evaluate_bak.py
+baseline_bak.py
+*_bak/
+
+getting_started_bak.ipynb
+
+dev/
+train/
+
+tmp/
+
+convert.py
