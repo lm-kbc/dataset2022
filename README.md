@@ -73,15 +73,15 @@ fields:
 
 - ``SubjectEntity``: the subject entity (string)
 - ``Relation``: the relation (string)
-- ``ObjectEntity``: ground truth object entities
+- ``ObjectEntities``: ground truth object entities
 
-The ``ObjectEntity`` filed could be an empty list (``[]``) such as:
+The ``ObjectEntities`` filed could be an empty list (``[]``) such as:
 
 ```json
 {
   "SubjectEntity": "Hwang Chansung",
   "Relation": "PersonInstrument",
-  "ObjectEntity": []
+  "ObjectEntities": []
 }
 ```
 
@@ -92,7 +92,7 @@ entity's aliases, such as:
 {
   "SubjectEntity": "Dominican republic",
   "Relation": "CountryBordersWithCountry",
-  "ObjectEntity": [
+  "ObjectEntities": [
     [
       "usa",
       "united states of america"
@@ -116,7 +116,7 @@ contain at least 3 fields to be used by the evaluation script:
 
 - ``SubjectEntity``: the subject entity (string)
 - ``Relation``: the relation (string)
-- ``ObjectEntity``: the predicted object entities, which should be a list of entities (string).
+- ``ObjectEntities``: the predicted object entities, which should be a list of entities (string).
 
 You can take a look at the [example prediction file](data/dev.pred.jsonl) to
 see how a valid prediction file should look like.
@@ -131,17 +131,17 @@ predictions = [
     {
         "SubjectEntity": "Dominican republic",
         "Relation": "CountryBordersWithCountry",
-        "ObjectEntity": ["Haiti"]
+        "ObjectEntities": ["Haiti"]
     },
     {
         "SubjectEntity": "Eritrea",
         "Relation": "CountryBordersWithCountry",
-        "ObjectEntity": ["Ethiopia"]
+        "ObjectEntities": ["Ethiopia"]
     },
     {
         "SubjectEntity": "Estonia",
         "Relation": "CountryBordersWithCountry",
-        "ObjectEntity": []
+        "ObjectEntities": []
     }
 
 ]

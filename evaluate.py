@@ -135,7 +135,7 @@ def rows_to_dict(rows: List[Dict]) -> Dict:
     Index the ground truth/prediction rows by subject entity and relation.
     """
 
-    return {(r["SubjectEntity"], r["Relation"]): r["ObjectEntity"] for r in
+    return {(r["SubjectEntity"], r["Relation"]): r["ObjectEntities"] for r in
             rows}
 
 

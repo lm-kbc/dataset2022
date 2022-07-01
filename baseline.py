@@ -107,7 +107,7 @@ def run(args):
             "SubjectEntity": row["SubjectEntity"],
             "Relation": row["Relation"],
             "Prompt": prompt,
-            "ObjectEntity": [
+            "ObjectEntities": [
                 seq["token_str"]
                 for seq in output if seq["score"] > args.threshold],
         }

@@ -13,7 +13,7 @@ def read_lm_kbc_jsonl(file_path: Union[str, Path]) -> List[Dict]:
         file_path: path to the jsonl file
 
     Returns:
-        list of dictionaries, each has the following keys:
+        list of dictionaries, each possibly has the following keys:
         - "SubjectEntity": str
         - "Relation": str
         - "ObjectEntities":
