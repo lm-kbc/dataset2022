@@ -68,7 +68,7 @@ Please take a look at [``file_io.py``](file_io.py) for how we read the files.
 
 ### Ground truth ([``data/dev.jsonl``](data/dev.jsonl) and [``data/train.jsonl``](data/train.jsonl) and our private test files)
 
-Each line of a ground-truth file constitutes a JSON object with the following
+Each line of a ground-truth file contains a JSON object with the following
 fields:
 
 - ``SubjectEntity``: the subject entity (string)
@@ -111,7 +111,7 @@ entity's aliases, such as:
 
 Your prediction file should be in the jsonl format as described
 above.
-Each line of a valid prediction file constitutes a JSON object which must
+Each line of a valid prediction file contains a JSON object which must
 contain at least 3 fields to be used by the evaluation script:
 
 - ``SubjectEntity``: the subject entity (string)
