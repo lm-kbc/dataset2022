@@ -115,7 +115,7 @@ at least 3 fields to be used by the evaluation script:
 - ``ObjectEntity``: the predicted object entities, which should be
   either ``null`` or a list of entities (string). An empty list ``[]`` will be
   treated as ``null`` by the evaluation script (see the
-  function [``is_none_preds``](evaluate.py) for how we determine if a prediction
+  function [``is_none_preds``](evaluate.py#L31) for how we determine if a prediction
   is ``None``).
 
 You can take a look at the [example prediction file](data/dev.pred.jsonl) to
