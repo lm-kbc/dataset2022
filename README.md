@@ -56,10 +56,29 @@ You can also modify the following parameters of the baseline:
 $ python evaluate.py -g data/dev.jsonl -p data/dev.pred.jsonl
 ```
 
-Parameters of the evaluation script:
+Required parameters of the evaluation script:
 
 - ``-g``: the ground truth file
 - ``-p``: the prediction file
+
+Results for our baseline should be:
+
+```text
+                               p      r     f1
+ChemicalCompoundElement    0.160  0.077  0.100
+CompanyParentOrganization  0.640  0.640  0.640
+CountryBordersWithCountry  0.255  0.087  0.121
+CountryOfficialLanguage    0.787  0.639  0.674
+PersonCauseOfDeath         0.400  0.400  0.400
+PersonEmployer             0.000  0.000  0.000
+PersonInstrument           0.340  0.340  0.340
+PersonLanguage             0.480  0.412  0.431
+PersonPlaceOfDeath         0.500  0.500  0.500
+PersonProfession           0.000  0.000  0.000
+RiverBasinsCountry         0.500  0.362  0.401
+StateSharesBorderState     0.000  0.000  0.000
+*** Average ***            0.339  0.288  0.301
+```
 
 ## Data format
 
