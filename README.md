@@ -42,12 +42,12 @@ Required parameters:
 
 You can also modify the following parameters of the baseline:
 
-- ``--model``: the name of the HuggingFace model to use (
-  default: ``bert-large-cased``)
-- ``--top_k``: the number of top predictions that the model should output (
-  default: ``100``)
-- ``--threshold``: the probability threshold for choosing final output (
-  default: ``0.5``)
+- ``--model``: the name of the HuggingFace model to
+  use (default: ``bert-large-cased``)
+- ``--top_k``: the number of top predictions that the model should output
+  (default: ``100``)
+- ``--threshold``: the probability threshold for choosing final output
+  (default: ``0.5``)
 - ``--gpu``: id of the GPU to use (default: ``-1``, i.e. using CPU)
 
 ### Step 2: Run the evaluation script
@@ -75,7 +75,7 @@ fields:
 - ``Relation``: the relation (string)
 - ``ObjectEntities``: ground truth object entities
 
-The ``ObjectEntities`` filed could be an empty list (``[]``) such as:
+The ``ObjectEntities`` field could be an empty list (``[]``) such as:
 
 ```json
 {
@@ -116,7 +116,8 @@ contain at least 3 fields to be used by the evaluation script:
 
 - ``SubjectEntity``: the subject entity (string)
 - ``Relation``: the relation (string)
-- ``ObjectEntities``: the predicted object entities, which should be a list of entities (string).
+- ``ObjectEntities``: the predicted object entities, which should be a list of
+  entities (string).
 
 You can take a look at the [example prediction file](data/dev.pred.jsonl) to
 see how a valid prediction file should look like.
@@ -131,7 +132,7 @@ predictions = [
     {
         "SubjectEntity": "Dominican republic",
         "Relation": "CountryBordersWithCountry",
-        "ObjectEntities": ["Haiti"]
+        "ObjectEntities": ["Haiti", "Venezuela", "USA", "Germany"]
     },
     {
         "SubjectEntity": "Eritrea",
