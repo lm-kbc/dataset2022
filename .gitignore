@@ -34,6 +34,7 @@ var/
 .ipynb_checkpoints
 
 *_bak.py
+*_bak.ipynb
 
 .idea/
 *_bak/
