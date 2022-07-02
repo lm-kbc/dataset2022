@@ -3,9 +3,11 @@
 This repository contains dataset for the LM-KBC challenge at ISWC 2022.
 We also provide:
 
-- ``evaluate.py``: a script to evaluate the performance of LMs' predictions
-- ``baseline.py``: our baseline for this challenge
-- ``getting_started.ipynb``: a notebook to help you get started with LM-probing
+- [``evaluate.py``](evaluate.py): a script to evaluate the performance of LMs'
+  predictions
+- [``baseline.py``](baseline.py): our baseline for this challenge
+- [``getting_started.ipynb``](getting_started.ipynb): a notebook to help you get
+  started with LM-probing
   and the baseline method
 
 🌟 Please directly go to [**File format**](#data-format) if you are ready to
