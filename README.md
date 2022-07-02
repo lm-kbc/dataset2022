@@ -10,7 +10,7 @@ We also provide:
   started with LM-probing
   and the baseline method
 
-🌟 Please directly go to [**File format**](#data-format) if you are ready to
+🌟 Please directly go to [**Data format**](#data-format) if you are ready to
 start with your own solutions.
 
 ## Clone or download the dataset
