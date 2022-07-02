@@ -138,7 +138,7 @@ contain at least 3 fields to be used by the evaluation script:
 - ``SubjectEntity``: the subject entity (string)
 - ``Relation``: the relation (string)
 - ``ObjectEntities``: the predicted object entities, which should be a list of
-  entities (string).
+  entities (strings).
 
 You can take a look at the [example prediction file](data/dev.pred.jsonl) to
 see how a valid prediction file should look like.
