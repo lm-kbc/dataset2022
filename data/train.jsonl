@@ -1,205 +1,204 @@
 {"SubjectEntity": "Acetaldehyde", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["carbon"], ["oxygen"]]}
-{"SubjectEntity": "Amitriptyline", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
-{"SubjectEntity": "Ammonium nitrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"], ["nitrogen"]]}
-{"SubjectEntity": "Arsenic trioxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["arsenic"], ["oxygen"]]}
-{"SubjectEntity": "Aspartame", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"]]}
+{"SubjectEntity": "Amitriptyline", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"]]}
+{"SubjectEntity": "Ammonium Nitrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"], ["nitrogen"]]}
+{"SubjectEntity": "Arsenic Trioxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["arsenic"], ["oxygen"]]}
+{"SubjectEntity": "Aspartame", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"], ["nitrogen"]]}
 {"SubjectEntity": "Aspirin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"]]}
-{"SubjectEntity": "Benzyl alcohol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"]]}
-{"SubjectEntity": "Biguanide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"]]}
+{"SubjectEntity": "Benzyl Alcohol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Biguanide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"], ["hydrogen"]]}
 {"SubjectEntity": "Biotin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["sulfur"], ["oxygen"], ["nitrogen"], ["hydrogen"], ["carbon"]]}
-{"SubjectEntity": "Bismuth subsalicylate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["bismuth"]]}
-{"SubjectEntity": "Borax", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["boron"], ["oxygen"], ["sodium"]]}
-{"SubjectEntity": "Budipine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"]]}
-{"SubjectEntity": "Calcium carbonate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["calcium"], ["oxygen"], ["carbon"]]}
-{"SubjectEntity": "Calcium peroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["calcium"], ["oxygen"]]}
+{"SubjectEntity": "Bismuth Subsalicylate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["bismuth"], ["oxygen"], ["hydrogen"], ["carbon"]]}
+{"SubjectEntity": "Borax", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["boron"], ["oxygen"], ["sodium"], ["hydrogen"]]}
+{"SubjectEntity": "Budipine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Calcium Carbonate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["calcium"], ["oxygen"], ["carbon"]]}
+{"SubjectEntity": "Calcium Peroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["calcium"], ["oxygen"]]}
 {"SubjectEntity": "Calomel", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["mercury"]]}
-{"SubjectEntity": "Cesium fluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["fluorine"], ["caesium"]]}
-{"SubjectEntity": "Cesium iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["iodine"], ["caesium"]]}
+{"SubjectEntity": "Cesium Fluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["fluorine"], ["caesium"]]}
+{"SubjectEntity": "Cesium Iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["iodine"], ["caesium"]]}
 {"SubjectEntity": "Chloric acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["chlorine"]]}
-{"SubjectEntity": "Chlorophyll d", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["oxygen"], ["hydrogen"], ["magnesium"]]}
-{"SubjectEntity": "Codeine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"]]}
-{"SubjectEntity": "Copper hydride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"]]}
-{"SubjectEntity": "Cupric sulfate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["copper"], ["sulfur"], ["oxygen"]]}
+{"SubjectEntity": "Chlorophyll D", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["oxygen"], ["hydrogen"], ["magnesium"]]}
+{"SubjectEntity": "Codeine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"], ["oxygen"], ["hydrogen"]]}
+{"SubjectEntity": "Copper Hydride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["copper"], ["hydrogen"]]}
+{"SubjectEntity": "Cupric Sulfate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["copper"], ["sulfur"], ["oxygen"]]}
 {"SubjectEntity": "Cyclobutane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["carbon"]]}
-{"SubjectEntity": "Decene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
+{"SubjectEntity": "Decene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
 {"SubjectEntity": "Disilane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["silicon"]]}
-{"SubjectEntity": "Docosane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
-{"SubjectEntity": "Dodecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
-{"SubjectEntity": "Droperidol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"], ["fluorine"], ["oxygen"]]}
-{"SubjectEntity": "Ethane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
-{"SubjectEntity": "Ethylidene chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["carbon"]]}
-{"SubjectEntity": "Eucalyptol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
+{"SubjectEntity": "Docosane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Dodecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Droperidol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"], ["fluorine"], ["oxygen"], ["hydrogen"]]}
+{"SubjectEntity": "Ethane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Ethylidene Chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Eucalyptol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["oxygen"], ["hydrogen"]]}
 {"SubjectEntity": "Formic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"]]}
-{"SubjectEntity": "Gallium trichloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["gallium"], ["chlorine"]]}
+{"SubjectEntity": "Gallium Trichloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["gallium"], ["chlorine"]]}
 {"SubjectEntity": "Gluconolactone", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"], ["carbon"]]}
-{"SubjectEntity": "Glycerol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["glyceryl"], ["oxygen"], ["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Glycerol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"]]}
 {"SubjectEntity": "Guanine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["carbon"], ["nitrogen"], ["oxygen"]]}
-{"SubjectEntity": "Harmaline", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["nitrogen"]]}
+{"SubjectEntity": "Harmaline", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["nitrogen"], ["hydrogen"]]}
 {"SubjectEntity": "Hexane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
-{"SubjectEntity": "Hydrogen bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["bromine"]]}
-{"SubjectEntity": "Hydrogen fluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["fluorine"]]}
-{"SubjectEntity": "Hydrogen iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["iodine"]]}
-{"SubjectEntity": "Hydrogen peroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"]]}
-{"SubjectEntity": "Hydrogen sulfide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["sulfur"]]}
-{"SubjectEntity": "Ibandronic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["phosphorus"], ["carbon"]]}
-{"SubjectEntity": "Inositol trisphosphate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
+{"SubjectEntity": "Hydrogen Bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["bromine"]]}
+{"SubjectEntity": "Hydrogen Fluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["fluorine"]]}
+{"SubjectEntity": "Hydrogen Iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["iodine"]]}
+{"SubjectEntity": "Hydrogen Peroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"]]}
+{"SubjectEntity": "Hydrogen Sulfide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["sulfur"]]}
+{"SubjectEntity": "Ibandronic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["phosphorus"], ["carbon"], ["hydrogen"], ["oxygen"], ["sodium"], ["nitrogen"]]}
+{"SubjectEntity": "Inositol Trisphosphate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"], ["phosphorus"]]}
 {"SubjectEntity": "Isocyanic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"], ["nitrogen"]]}
-{"SubjectEntity": "Lead azide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["lead"], ["nitrogen"]]}
+{"SubjectEntity": "Lead Azide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["lead"], ["nitrogen"]]}
 {"SubjectEntity": "Levomenol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"], ["carbon"]]}
-{"SubjectEntity": "Manganese acetate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["manganese"], ["oxygen"], ["carbon"]]}
-{"SubjectEntity": "Melatonin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"]]}
-{"SubjectEntity": "Mercuric chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["mercury"], ["chlorine"]]}
-{"SubjectEntity": "Mercurous bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["mercury"], ["bromine"]]}
+{"SubjectEntity": "Manganese Acetate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["manganese"], ["oxygen"], ["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Melatonin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Mercuric Chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["mercury"], ["chlorine"]]}
+{"SubjectEntity": "Mercurous Bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["mercury"], ["bromine"]]}
 {"SubjectEntity": "Methane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
 {"SubjectEntity": "Methanol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
 {"SubjectEntity": "Methenamine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"]]}
-{"SubjectEntity": "Methylacetylene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
+{"SubjectEntity": "Methylacetylene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
 {"SubjectEntity": "Morphine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["nitrogen"], ["oxygen"], ["carbon"]]}
 {"SubjectEntity": "Niacin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["carbon"], ["nitrogen"], ["oxygen"]]}
-{"SubjectEntity": "Nifedipine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Nifedipine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"], ["oxygen"], ["hydrogen"]]}
 {"SubjectEntity": "Nitric acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["nitrogen"], ["hydrogen"]]}
-{"SubjectEntity": "Nitroglycerin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["carbon"], ["glyceryl"], ["oxygen"], ["nitrogen"]]}
-{"SubjectEntity": "Octadecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
+{"SubjectEntity": "Nitroglycerin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["carbon"], ["oxygen"], ["nitrogen"]]}
+{"SubjectEntity": "Octadecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
 {"SubjectEntity": "Oleamide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["carbon"], ["oxygen"], ["nitrogen"]]}
-{"SubjectEntity": "Oxepin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"]]}
-{"SubjectEntity": "Oxytocin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"]]}
-{"SubjectEntity": "Phytane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
-{"SubjectEntity": "Pimozide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["fluorine"], ["carbon"]]}
-{"SubjectEntity": "Potassium bitartrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["potassium"]]}
-{"SubjectEntity": "Potassium bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"]]}
-{"SubjectEntity": "Potassium hydride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["hydrogen"]]}
-{"SubjectEntity": "Potassium hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["hydrogen"], ["oxygen"]]}
-{"SubjectEntity": "Potassium iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["iodine"]]}
-{"SubjectEntity": "Potassium nitrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["oxygen"], ["nitrogen"]]}
-{"SubjectEntity": "Progesterone", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"]]}
-{"SubjectEntity": "Propylene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["oxygen"], ["hydrogen"]]}
-{"SubjectEntity": "Selenium trioxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["selenium"]]}
+{"SubjectEntity": "Oxepin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Oxytocin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"], ["oxygen"], ["sulfur"]]}
+{"SubjectEntity": "Phytane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Pimozide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["fluorine"], ["carbon"], ["hydrogen"], ["oxygen"], ["nitrogen"]]}
+{"SubjectEntity": "Potassium Bitartrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["potassium"], ["hydrogen"]]}
+{"SubjectEntity": "Potassium Bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["bromine"]]}
+{"SubjectEntity": "Potassium Hydride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["hydrogen"]]}
+{"SubjectEntity": "Potassium Hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Potassium Iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["iodine"]]}
+{"SubjectEntity": "Potassium Nitrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["potassium"], ["oxygen"], ["nitrogen"]]}
+{"SubjectEntity": "Progesterone", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Propylene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Selenium Trioxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["selenium"]]}
 {"SubjectEntity": "Serotonin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"], ["oxygen"]]}
 {"SubjectEntity": "Sirolimus", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["nitrogen"], ["hydrogen"], ["carbon"]]}
-{"SubjectEntity": "Sodium bicarbonate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["sodium"], ["carbon"]]}
-{"SubjectEntity": "Sodium chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["sodium"]]}
-{"SubjectEntity": "Strontium hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["strontium"]]}
-{"SubjectEntity": "Tetrasulfur tetranitride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["sulfur"]]}
+{"SubjectEntity": "Sodium Bicarbonate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["sodium"], ["carbon"]]}
+{"SubjectEntity": "Sodium Chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["sodium"]]}
+{"SubjectEntity": "Strontium Hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["strontium"]]}
+{"SubjectEntity": "Tetrasulfur Tetranitride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["sulfur"]]}
 {"SubjectEntity": "Thiocyanic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["sulfur"], ["hydrogen"], ["nitrogen"], ["carbon"]]}
-{"SubjectEntity": "Thioridazine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["sulfur"]]}
+{"SubjectEntity": "Thioridazine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["sulfur"], ["hydrogen"], ["chlorine"], ["nitrogen"]]}
 {"SubjectEntity": "Thymine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["nitrogen"], ["carbon"]]}
-{"SubjectEntity": "Titanium tetrafluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["fluorine"], ["titanium"]]}
-{"SubjectEntity": "Triacetin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["oxygen"]]}
+{"SubjectEntity": "Titanium Tetrafluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["fluorine"], ["titanium"]]}
+{"SubjectEntity": "Triacetin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["oxygen"], ["hydrogen"]]}
 {"SubjectEntity": "Tridecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
-{"SubjectEntity": "Trimethyl phosphite", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"], ["phosphorus"]]}
-{"SubjectEntity": "Tropisetron", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["oxygen"], ["carbon"]]}
+{"SubjectEntity": "Trimethyl Phosphite", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["hydrogen"], ["phosphorus"]]}
+{"SubjectEntity": "Tropisetron", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["oxygen"], ["carbon"], ["hydrogen"]]}
 {"SubjectEntity": "Tyramine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["hydrogen"], ["oxygen"], ["carbon"]]}
 {"SubjectEntity": "Undecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
-{"SubjectEntity": "Urea", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"]]}
-{"SubjectEntity": "Valsartan", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"]]}
-{"SubjectEntity": "Vanillin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["oxygen"]]}
+{"SubjectEntity": "Urea", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["nitrogen"], ["hydrogen"]]}
+{"SubjectEntity": "Valsartan", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["nitrogen"], ["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Vanillin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["oxygen"], ["hydrogen"]]}
 {"SubjectEntity": "Water", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["hydrogen"]]}
-{"SubjectEntity": "Xanthine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"]]}
-{"SubjectEntity": "Zanamivir", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"]]}
-{"SubjectEntity": "Zinc phosphate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["zinc"], ["oxygen"], ["phosphorus"]]}
-{"SubjectEntity": "Zirconyl chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["oxygen"], ["zirconium"]]}
+{"SubjectEntity": "Xanthine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["carbon"], ["nitrogen"], ["hydrogen"]]}
+{"SubjectEntity": "Zanamivir", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["nitrogen"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Zinc Phosphate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["zinc"], ["oxygen"], ["phosphorus"]]}
+{"SubjectEntity": "Zirconyl Chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["oxygen"], ["zirconium"]]}
+{"SubjectEntity": "AC Cars", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "ALDI", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "ARO", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "ASUS", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "AT&T", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Abarth", "Relation": "CompanyParentOrganization", "ObjectEntities": [["stellantis", "stellantis italy"]]}
-{"SubjectEntity": "Abbott-detroit", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Ac cars", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Abbott-Detroit", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Adler", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Aero", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Aichi", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Alcoa", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Aldi", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Alfa romeo", "Relation": "CompanyParentOrganization", "ObjectEntities": [["stellantis"]]}
+{"SubjectEntity": "Alfa Romeo", "Relation": "CompanyParentOrganization", "ObjectEntities": [["stellantis"]]}
 {"SubjectEntity": "Alphi", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Alpine", "Relation": "CompanyParentOrganization", "ObjectEntities": [["renault"]]}
-{"SubjectEntity": "Apple inc.", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Apple Inc.", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Ari\u00e8s", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Aro", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Asus", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "At&t", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Audi", "Relation": "CompanyParentOrganization", "ObjectEntities": [["volkswagen group", "volkswagen"]]}
-{"SubjectEntity": "Auto union", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Auto Union", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Autobianchi", "Relation": "CompanyParentOrganization", "ObjectEntities": [["fiat"]]}
-{"SubjectEntity": "Automobiles gonfaronnaises sportives", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Automobili turismo e sport", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Automobiles Gonfaronnaises Sportives", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Automobili Turismo e Sport", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Avia", "Relation": "CompanyParentOrganization", "ObjectEntities": [["daewoo"], ["ashok leyland"], ["czechoslovak group", "czechoslovak"]]}
+{"SubjectEntity": "BMW M", "Relation": "CompanyParentOrganization", "ObjectEntities": [[], ["bmw"]]}
+{"SubjectEntity": "BYD Auto", "Relation": "CompanyParentOrganization", "ObjectEntities": [["byd", "byd company"]]}
 {"SubjectEntity": "Barkas", "Relation": "CompanyParentOrganization", "ObjectEntities": [["industrieverband fahrzeugbau"]]}
 {"SubjectEntity": "Bentley", "Relation": "CompanyParentOrganization", "ObjectEntities": [["volkswagen group", "volkswagen"]]}
-{"SubjectEntity": "Bitter automobile", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Bitter Automobile", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Blu", "Relation": "CompanyParentOrganization", "ObjectEntities": [["wind (italy)", "wind"]]}
-{"SubjectEntity": "Bmw", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Bmw m", "Relation": "CompanyParentOrganization", "ObjectEntities": [["bmw"]]}
 {"SubjectEntity": "Borgward", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Bristol cars", "Relation": "CompanyParentOrganization", "ObjectEntities": [["kamkorp"]]}
-{"SubjectEntity": "Byd auto", "Relation": "CompanyParentOrganization", "ObjectEntities": [["byd", "byd company"]]}
+{"SubjectEntity": "Bristol Cars", "Relation": "CompanyParentOrganization", "ObjectEntities": [["kamkorp"]]}
 {"SubjectEntity": "Chrysler", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Cl\u00e9net coachworks", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "DAF", "Relation": "CompanyParentOrganization", "ObjectEntities": [["paccar"]]}
 {"SubjectEntity": "Dacia", "Relation": "CompanyParentOrganization", "ObjectEntities": [["renault-nissan-mitsubishi", "renault\u2013nissan\u2013mitsubishi alliance"], ["renault"]]}
 {"SubjectEntity": "Daewoo", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Daf", "Relation": "CompanyParentOrganization", "ObjectEntities": [["paccar"]]}
 {"SubjectEntity": "Daihatsu", "Relation": "CompanyParentOrganization", "ObjectEntities": [["toyota"]]}
-{"SubjectEntity": "Daimler company", "Relation": "CompanyParentOrganization", "ObjectEntities": [["tata motors", "tata motors ltd", "tata"], ["daimler motorsoration", "daimler motors corporation", "daimler"], ["ford", "ford of europe"], ["birmingham small arms", "birmingham small arms company"], ["jaguar cars"]]}
-{"SubjectEntity": "David", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "De tomaso", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Daimler Company", "Relation": "CompanyParentOrganization", "ObjectEntities": [["tata motors", "tata motors ltd", "tata"], ["daimler motorsoration", "daimler motors corporation", "daimler"], ["ford", "ford of europe"], ["birmingham small arms", "birmingham small arms company"], ["jaguar cars"]]}
+{"SubjectEntity": "De Tomaso", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Dodge", "Relation": "CompanyParentOrganization", "ObjectEntities": [["stellantis", "stellantis north america"]]}
-{"SubjectEntity": "English racing automobiles", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Eraz", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "English Racing Automobiles", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "ErAZ", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Ericsson", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Fabryka samochod\u00f3w ma\u0142olitra\u017cowych", "Relation": "CompanyParentOrganization", "ObjectEntities": [["fiat"]]}
-{"SubjectEntity": "Ferrari s.p.a.", "Relation": "CompanyParentOrganization", "ObjectEntities": [["ferrari", "ferrari n.v."]]}
+{"SubjectEntity": "Fabryka Samochod\u00f3W Ma\u0142olitra\u017cowych", "Relation": "CompanyParentOrganization", "ObjectEntities": [["fiat"]]}
+{"SubjectEntity": "Facebook", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Ferrari S.p.A.", "Relation": "CompanyParentOrganization", "ObjectEntities": [["ferrari", "ferrari n.v."]]}
 {"SubjectEntity": "Fiat", "Relation": "CompanyParentOrganization", "ObjectEntities": [["stellantis"]]}
-{"SubjectEntity": "Ford motor company", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Ginetta cars", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Ford Motor Company", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Ginetta Cars", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Gordini", "Relation": "CompanyParentOrganization", "ObjectEntities": [["renault"]]}
 {"SubjectEntity": "Hexe", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Hitachi", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Holden", "Relation": "CompanyParentOrganization", "ObjectEntities": [["general motors", "gm"]]}
 {"SubjectEntity": "Huawei", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Hyundai motor group", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Ibm", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Hyundai Motor Group", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "IBM", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Isuzu", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Koenigsegg", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Lamborghini", "Relation": "CompanyParentOrganization", "ObjectEntities": [["audi"]]}
 {"SubjectEntity": "Lancia", "Relation": "CompanyParentOrganization", "ObjectEntities": [["stellantis italy", "stellantis"]]}
-{"SubjectEntity": "Land rover", "Relation": "CompanyParentOrganization", "ObjectEntities": [["tata motors", "tata motors ltd", "tata"], ["bmw"], ["ford motor company", "ford motor", "ford"], ["british leyland"]]}
-{"SubjectEntity": "Lea-francis", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Louis vuitton", "Relation": "CompanyParentOrganization", "ObjectEntities": [["lvmh"]]}
-{"SubjectEntity": "Max motors", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Mercedes-amg", "Relation": "CompanyParentOrganization", "ObjectEntities": [["mercedes-benz", "mercedes-benz group"]]}
-{"SubjectEntity": "Mercedes-benz group", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Land Rover", "Relation": "CompanyParentOrganization", "ObjectEntities": [["tata motors", "tata motors ltd", "tata"], ["bmw"], ["ford motor company", "ford motor", "ford"], ["british leyland"]]}
+{"SubjectEntity": "Lea-Francis", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Louis Vuitton", "Relation": "CompanyParentOrganization", "ObjectEntities": [["lvmh"]]}
+{"SubjectEntity": "MTX", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Max Motors", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Mercedes-AMG", "Relation": "CompanyParentOrganization", "ObjectEntities": [["mercedes-benz", "mercedes-benz group"]]}
+{"SubjectEntity": "Mercedes-Benz Group", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Messerschmitt", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Microsoft", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Mitsubishi motors", "Relation": "CompanyParentOrganization", "ObjectEntities": [["mitsubishi group", "mitsubishi"]]}
-{"SubjectEntity": "Mtx", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Nedcar", "Relation": "CompanyParentOrganization", "ObjectEntities": [["vdl groep"]]}
+{"SubjectEntity": "Mitsubishi Motors", "Relation": "CompanyParentOrganization", "ObjectEntities": [["mitsubishi group", "mitsubishi"]]}
+{"SubjectEntity": "NedCar", "Relation": "CompanyParentOrganization", "ObjectEntities": [["vdl groep"]]}
 {"SubjectEntity": "Oltcit", "Relation": "CompanyParentOrganization", "ObjectEntities": [["citroen", "citro\u00ebn"]]}
+{"SubjectEntity": "Oracle", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Osella", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Pope-toledo", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Pope-Toledo", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Porsche", "Relation": "CompanyParentOrganization", "ObjectEntities": [["volkswagen group", "volkswagen"]]}
 {"SubjectEntity": "Prada", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Praga", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Rayton fissore", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Rayton Fissore", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Ruxton", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Saab", "Relation": "CompanyParentOrganization", "ObjectEntities": [["saab", "saab group"], ["saab-scania"], ["spyker n.v."], ["national electric vehicle sweden", "nevs"], ["general motors"]]}
-{"SubjectEntity": "Seat", "Relation": "CompanyParentOrganization", "ObjectEntities": [["volkswagen group", "volkswagen"]]}
+{"SubjectEntity": "SEAT", "Relation": "CompanyParentOrganization", "ObjectEntities": [["volkswagen group", "volkswagen"]]}
+{"SubjectEntity": "Saab", "Relation": "CompanyParentOrganization", "ObjectEntities": [["saab", "saab group"], ["saab-scania"], ["spyker n.v.", "spyker"], ["national electric vehicle sweden", "nevs"], ["general motors", "gm"]]}
 {"SubjectEntity": "Sony", "Relation": "CompanyParentOrganization", "ObjectEntities": [["sony group", "sony"]]}
-{"SubjectEntity": "Stellantis north america", "Relation": "CompanyParentOrganization", "ObjectEntities": [["stellantis"], ["fiat chrysler automobiles", "fiat", "chrysler"], ["fiat s.p.a.", "fiat"], ["mercedes-benz", "mercedes-benz group"], ["cerberus capital management", "cerberus"]]}
+{"SubjectEntity": "Stellantis North America", "Relation": "CompanyParentOrganization", "ObjectEntities": [["stellantis"], ["fiat chrysler automobiles", "fiat", "chrysler"], ["fiat s.p.a.", "fiat"], ["mercedes-benz", "mercedes-benz group"], ["cerberus capital management", "cerberus"]]}
 {"SubjectEntity": "Subaru", "Relation": "CompanyParentOrganization", "ObjectEntities": [["subaruoration", "subaru corporation", "subaru"]]}
 {"SubjectEntity": "Suzuki", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Tata motors ltd", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Texas instruments", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Tvr", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Umm", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "TVR", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Tata Motors Ltd", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Texas Instruments", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "UMM", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Unic", "Relation": "CompanyParentOrganization", "ObjectEntities": [["fiat industrial vehicles", "fiat"]]}
 {"SubjectEntity": "Velie", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Vignale", "Relation": "CompanyParentOrganization", "ObjectEntities": [["ford motor company", "ford motor", "ford"]]}
 {"SubjectEntity": "Waymo", "Relation": "CompanyParentOrganization", "ObjectEntities": [["alphabet inc.", "alphabet"]]}
+{"SubjectEntity": "ZAZ", "Relation": "CompanyParentOrganization", "ObjectEntities": [["ukrainian automobile corporation", "ukrainian automobileoration"]]}
 {"SubjectEntity": "Zato vehicles", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Zaz", "Relation": "CompanyParentOrganization", "ObjectEntities": [["ukrainian automobile corporation", "ukrainian automobileoration"]]}
 {"SubjectEntity": "Zeddeco", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Zeiller & fournier", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Zeno galassi", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Zeiller & Fournier", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
+{"SubjectEntity": "Zeno Galassi", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Zentralmobil", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Zetgelette", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
 {"SubjectEntity": "Afghanistan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["pakistan"], ["iran"], ["uzbekistan"], ["china", "people's republic of china"], ["tajikistan"], ["turkmenistan"]]}
-{"SubjectEntity": "Albania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["greece"], ["north macedonia", "macedonia"], ["montenegro"], ["serbia"], ["kosovo"]]}
+{"SubjectEntity": "Albania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["greece"], ["north macedonia", "macedonia"], ["montenegro"], ["serbia"]]}
 {"SubjectEntity": "Argentina", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["bolivia"], ["brazil"], ["paraguay"], ["chile"], ["uruguay"]]}
 {"SubjectEntity": "Armenia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["iran"], ["georgia"], ["azerbaijan"], ["turkey"]]}
 {"SubjectEntity": "Austria", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["italy"], ["liechtenstein"], ["germany"], ["switzerland"], ["slovakia"], ["slovenia"], ["hungary"], ["czechia", "czech republic"]]}
@@ -219,13 +218,13 @@
 {"SubjectEntity": "Colombia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["nicaragua"], ["ecuador"], ["venezuela"], ["peru"], ["panama"], ["brazil"]]}
 {"SubjectEntity": "Croatia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["slovenia"], ["hungary"], ["serbia"], ["montenegro"], ["bosnia and herzegovina"], ["liberland"]]}
 {"SubjectEntity": "Cyprus", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["turkish republic of northern cyprus"], ["akrotiri and dhekelia"], ["israel"]]}
-{"SubjectEntity": "Democratic republic of the congo", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["burundi"], ["zambia"], ["africa", "central african republic"], ["tanzania"], ["rwanda"], ["cameroon"], ["sudan"], ["republic of the congo", "congo"], ["uganda"], ["south sudan", "sudan"], ["angola"]]}
+{"SubjectEntity": "Democratic Republic of the Congo", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["burundi"], ["zambia"], ["africa", "central african republic"], ["tanzania"], ["rwanda"], ["cameroon"], ["sudan"], ["republic of the congo", "congo"], ["uganda"], ["south sudan", "sudan"], ["angola"]]}
 {"SubjectEntity": "Dominica", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
-{"SubjectEntity": "East timor", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["australia"], ["indonesia"], ["asean"]]}
+{"SubjectEntity": "East Timor", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["australia"], ["indonesia"], ["asean"]]}
 {"SubjectEntity": "Ecuador", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["peru"], ["colombia"]]}
-{"SubjectEntity": "Egypt", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["israel"], ["sudan"], ["libya"], ["bir tawil"], ["gaza strip"]]}
-{"SubjectEntity": "El salvador", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["honduras"], ["guatemala"]]}
-{"SubjectEntity": "Equatorial guinea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["cameroon"], ["gabon"]]}
+{"SubjectEntity": "Egypt", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["israel"], ["sudan"], ["libya"], ["bir tawil"]]}
+{"SubjectEntity": "El Salvador", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["honduras"], ["guatemala"]]}
+{"SubjectEntity": "Equatorial Guinea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["cameroon"], ["gabon"]]}
 {"SubjectEntity": "Ethiopia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["kenya"], ["djibouti"], ["south sudan", "sudan"], ["sudan"], ["eritrea"], ["somalia"]]}
 {"SubjectEntity": "Fiji", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
 {"SubjectEntity": "Finland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["norway"], ["sweden"], ["russia"]]}
@@ -244,7 +243,7 @@
 {"SubjectEntity": "Jamaica", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
 {"SubjectEntity": "Jordan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["syria"], ["saudi arabia"], ["iraq"], ["israel"]]}
 {"SubjectEntity": "Kenya", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ethiopia"], ["uganda"], ["south sudan", "sudan"], ["tanzania"], ["somalia"], ["sudan"]]}
-{"SubjectEntity": "Kingdom of africa", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["sudan"], ["egypt"]]}
+{"SubjectEntity": "Kingdom of Africa", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["sudan"], ["egypt"]]}
 {"SubjectEntity": "Kyrgyzstan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["china", "people's republic of china"], ["kazakhstan"], ["tajikistan"], ["uzbekistan"]]}
 {"SubjectEntity": "Lebanon", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["israel"], ["syria"]]}
 {"SubjectEntity": "Lesotho", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["africa", "south africa"]]}
@@ -255,53 +254,53 @@
 {"SubjectEntity": "Malawi", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["zambia"], ["mozambique"], ["tanzania"]]}
 {"SubjectEntity": "Malaysia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["philippines"], ["brunei"], ["thailand"], ["singapore"], ["indonesia"]]}
 {"SubjectEntity": "Mali", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["niger"], ["burkina faso"], ["algeria"], ["senegal"], ["guinea"], ["ivory coast"], ["mauritania"]]}
-{"SubjectEntity": "Marshall islands", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["nauru"], ["usa", "united states of america"], ["kiribati"], ["micronesia", "federated states of micronesia"]]}
+{"SubjectEntity": "Marshall Islands", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["nauru"], ["usa", "united states of america"], ["kiribati"], ["micronesia", "federated states of micronesia"]]}
 {"SubjectEntity": "Mauritius", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
 {"SubjectEntity": "Moldova", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["romania"], ["ukraine"]]}
 {"SubjectEntity": "Monaco", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["france"]]}
 {"SubjectEntity": "Mongolia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["russia"], ["china", "people's republic of china"]]}
-{"SubjectEntity": "Montenegro", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["serbia"], ["bosnia and herzegovina"], ["kosovo"], ["croatia"], ["albania"]]}
+{"SubjectEntity": "Montenegro", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["serbia"], ["bosnia and herzegovina"], ["croatia"], ["albania"]]}
 {"SubjectEntity": "Namibia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["zambia"], ["angola"], ["africa", "south africa"], ["botswana"]]}
 {"SubjectEntity": "Nauru", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
 {"SubjectEntity": "Nepal", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["india"], ["china", "people's republic of china"]]}
 {"SubjectEntity": "Nicaragua", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["costa rica"], ["colombia"], ["honduras"]]}
 {"SubjectEntity": "Niger", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["burkina faso"], ["benin"], ["libya"], ["mali"], ["algeria"], ["chad"], ["nigeria"]]}
-{"SubjectEntity": "North korea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["korea", "south korea"], ["china", "people's republic of china"], ["russia"]]}
-{"SubjectEntity": "North macedonia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["albania"], ["greece"], ["bulgaria"], ["serbia"], ["kosovo"]]}
+{"SubjectEntity": "North Korea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["korea", "south korea"], ["china", "people's republic of china"], ["russia"]]}
+{"SubjectEntity": "North Macedonia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["albania"], ["greece"], ["bulgaria"], ["serbia"]]}
 {"SubjectEntity": "Norway", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["sweden"], ["russia"], ["finland"]]}
 {"SubjectEntity": "Oman", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["iran"], ["yemen"], ["united arab emirates", "uae"], ["saudi arabia"]]}
 {"SubjectEntity": "Palau", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["philippines"], ["micronesia", "federated states of micronesia"], ["indonesia"]]}
-{"SubjectEntity": "Papua new guinea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["indonesia"], ["micronesia", "federated states of micronesia"], ["australia"]]}
-{"SubjectEntity": "People's republic of china", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["korea", "south korea"], ["afghanistan"], ["india"], ["nepal"], ["mongolia"], ["bhutan"], ["tajikistan"], ["vietnam"], ["myanmar"], ["korea", "north korea"], ["laos"], ["japan"], ["russia"], ["kazakhstan"], ["kyrgyzstan"], ["pakistan"]]}
+{"SubjectEntity": "Papua New Guinea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["indonesia"], ["micronesia", "federated states of micronesia"], ["australia"]]}
+{"SubjectEntity": "People's Republic of China", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["korea", "south korea"], ["afghanistan"], ["india"], ["nepal"], ["mongolia"], ["bhutan"], ["tajikistan"], ["vietnam"], ["myanmar"], ["korea", "north korea"], ["laos"], ["japan"], ["russia"], ["kazakhstan"], ["kyrgyzstan"], ["pakistan"]]}
 {"SubjectEntity": "Philippines", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["taiwan"], ["malaysia"], ["palau"], ["indonesia"]]}
 {"SubjectEntity": "Qatar", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["iran"], ["saudi arabia"]]}
-{"SubjectEntity": "Republic of ireland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ireland", "northern ireland"], ["united kingdom", "uk"]]}
+{"SubjectEntity": "Republic of Ireland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ireland", "northern ireland"], ["united kingdom", "uk"]]}
 {"SubjectEntity": "Romania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ukraine"], ["bulgaria"], ["serbia"], ["hungary"], ["moldova"]]}
-{"SubjectEntity": "Russia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["donetsk people's republic", "donetsk"], ["luhansk", "luhansk people's republic"], ["china", "people's republic of china"], ["republic of abkhazia", "abkhazia"], ["lithuania"], ["mongolia"], ["azerbaijan"], ["belarus"], ["japan"], ["finland"], ["usa", "united states of america"], ["estonia"], ["latvia"], ["poland"], ["ukraine"], ["korea", "north korea"], ["kazakhstan"], ["georgia"], ["norway"]]}
-{"SubjectEntity": "Saint lucia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
-{"SubjectEntity": "Sao tome and principe", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["nigeria"], ["gabon"], ["equatorial guinea", "guinea"]]}
+{"SubjectEntity": "Russia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["china", "people's republic of china"], ["republic of abkhazia", "abkhazia"], ["lithuania"], ["mongolia"], ["azerbaijan"], ["belarus"], ["japan"], ["finland"], ["usa", "united states of america"], ["estonia"], ["latvia"], ["poland"], ["ukraine"], ["korea", "north korea"], ["kazakhstan"], ["georgia"], ["norway"]]}
+{"SubjectEntity": "Saint Lucia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
 {"SubjectEntity": "Senegal", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["the gambia", "gambia"], ["guinea-bissau"], ["mali"], ["guinea"], ["mauritania"]]}
-{"SubjectEntity": "Serbia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["montenegro"], ["kosovo"], ["bosnia and herzegovina"], ["hungary"], ["croatia"], ["bulgaria"], ["north macedonia", "macedonia"], ["albania"], ["romania"]]}
+{"SubjectEntity": "Serbia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["montenegro"], ["bosnia and herzegovina"], ["hungary"], ["croatia"], ["bulgaria"], ["north macedonia", "macedonia"], ["albania"], ["romania"]]}
 {"SubjectEntity": "Seychelles", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["france"], ["tanzania"], ["comoros"], ["madagascar"], ["mauritius"]]}
-{"SubjectEntity": "Sierra leone", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["guinea"], ["liberia"]]}
+{"SubjectEntity": "Sierra Leone", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["guinea"], ["liberia"]]}
 {"SubjectEntity": "Singapore", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["malaysia"], ["indonesia"]]}
-{"SubjectEntity": "South sudan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["sudan"], ["uganda"], ["congo", "democratic republic of the congo"], ["kenya"], ["ethiopia"], ["africa", "central african republic"]]}
+{"SubjectEntity": "South Sudan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["sudan"], ["uganda"], ["congo", "democratic republic of the congo"], ["kenya"], ["ethiopia"], ["africa", "central african republic"]]}
 {"SubjectEntity": "Sri Lanka", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "State of palestine", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["israel"]]}
+{"SubjectEntity": "State of Palestine", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["israel"]]}
 {"SubjectEntity": "Suriname", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["brazil"], ["guyana"], ["french guiana"], ["france"]]}
 {"SubjectEntity": "Switzerland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["austria"], ["france"], ["italy"], ["germany"], ["liechtenstein"]]}
+{"SubjectEntity": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["nigeria"], ["gabon"], ["equatorial guinea", "guinea"]]}
 {"SubjectEntity": "Taiwan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["japan"], ["china", "people's republic of china"], ["philippines"]]}
 {"SubjectEntity": "Tonga", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["usa", "united states of america"]]}
 {"SubjectEntity": "Tuvalu", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
 {"SubjectEntity": "Ukraine", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["moldova"], ["slovakia"], ["hungary"], ["romania"], ["poland"], ["belarus"], ["russia"]]}
-{"SubjectEntity": "United arab emirates", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["saudi arabia"], ["iran"], ["oman"]]}
-{"SubjectEntity": "United states of america", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["mexico"], ["canada"]]}
+{"SubjectEntity": "United Arab Emirates", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["saudi arabia"], ["iran"], ["oman"]]}
+{"SubjectEntity": "United States of America", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["mexico"], ["canada"]]}
 {"SubjectEntity": "Vietnam", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["china", "people's republic of china"], ["laos"], ["cambodia"]]}
 {"SubjectEntity": "Zambia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["namibia"], ["botswana"], ["congo", "democratic republic of the congo"], ["malawi"], ["zimbabwe"], ["angola"], ["tanzania"], ["mozambique"]]}
 {"SubjectEntity": "Albania", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["albanian"]]}
 {"SubjectEntity": "Andorra", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["catalan"]]}
 {"SubjectEntity": "Angola", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"]]}
-{"SubjectEntity": "Antigua and barbuda", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Antigua and Barbuda", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
 {"SubjectEntity": "Armenia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["armenian"]]}
 {"SubjectEntity": "Azerbaijan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["azerbaijani"]]}
 {"SubjectEntity": "Bahrain", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
@@ -309,7 +308,7 @@
 {"SubjectEntity": "Belarus", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["belarusian"], ["russian"]]}
 {"SubjectEntity": "Benin", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
 {"SubjectEntity": "Bhutan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["dzongkha"]]}
-{"SubjectEntity": "Bosnia and herzegovina", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["bosnian"], ["serbian"], ["croatian"]]}
+{"SubjectEntity": "Bosnia and Herzegovina", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["bosnian"], ["serbian"], ["croatian"]]}
 {"SubjectEntity": "Bulgaria", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["bulgarian"]]}
 {"SubjectEntity": "Cambodia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["khmer"]]}
 {"SubjectEntity": "Canada", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"], ["english"]]}
@@ -317,14 +316,14 @@
 {"SubjectEntity": "Comoros", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"], ["comorian"], ["arabic"]]}
 {"SubjectEntity": "Cuba", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["cuban spanish"], ["spanish"]]}
 {"SubjectEntity": "Cyprus", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["turkish"], ["greek"], ["modern greek", "greek"]]}
-{"SubjectEntity": "Czech republic", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["czech"]]}
-{"SubjectEntity": "Democratic republic of the congo", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
+{"SubjectEntity": "Czech Republic", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["czech"]]}
+{"SubjectEntity": "Democratic Republic of the Congo", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
 {"SubjectEntity": "Djibouti", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"], ["arabic"]]}
 {"SubjectEntity": "Dominica", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
-{"SubjectEntity": "Dominican republic", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
+{"SubjectEntity": "Dominican Republic", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
 {"SubjectEntity": "Egypt", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
-{"SubjectEntity": "El salvador", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
-{"SubjectEntity": "Equatorial guinea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"], ["spanish"], ["french"]]}
+{"SubjectEntity": "El Salvador", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
+{"SubjectEntity": "Equatorial Guinea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"], ["spanish"], ["french"]]}
 {"SubjectEntity": "Eritrea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"], ["english"], ["tigrinya"]]}
 {"SubjectEntity": "Estonia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["estonian"]]}
 {"SubjectEntity": "Eswatini", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["swazi"], ["english"]]}
@@ -334,13 +333,13 @@
 {"SubjectEntity": "Ghana", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
 {"SubjectEntity": "Greece", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["demotic greek"], ["greek"]]}
 {"SubjectEntity": "Guinea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
-{"SubjectEntity": "Guinea-bissau", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"]]}
+{"SubjectEntity": "Guinea-Bissau", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"]]}
 {"SubjectEntity": "Honduras", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
 {"SubjectEntity": "Indonesia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["javanese"], ["indonesian"]]}
 {"SubjectEntity": "Iraq", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"], ["kurdish"]]}
 {"SubjectEntity": "Italy", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["italian"]]}
-{"SubjectEntity": "Kingdom of denmark", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["faroese"], ["greenlandic"], ["danish"]]}
-{"SubjectEntity": "Kingdom of the netherlands", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["dutch"]]}
+{"SubjectEntity": "Kingdom of Denmark", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["faroese"], ["greenlandic"], ["danish"]]}
+{"SubjectEntity": "Kingdom of the Netherlands", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["dutch"]]}
 {"SubjectEntity": "Kiribati", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["gilbertese"], ["english"]]}
 {"SubjectEntity": "Lesotho", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["sesotho"]]}
 {"SubjectEntity": "Libya", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
@@ -349,130 +348,130 @@
 {"SubjectEntity": "Mali", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
 {"SubjectEntity": "Malta", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["maltese"]]}
 {"SubjectEntity": "Mauritania", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
-{"SubjectEntity": "Mexico", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["nahuatl"], ["spanish"], ["mexican"], ["yucatec maya"]]}
+{"SubjectEntity": "Mexico", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["nahuatl"], ["spanish"], ["mexican"], ["yucatec maya", "maya"]]}
 {"SubjectEntity": "Moldova", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["romanian"], ["moldovan"]]}
 {"SubjectEntity": "Mongolia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["mongolian"]]}
 {"SubjectEntity": "Myanmar", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["burmese"]]}
 {"SubjectEntity": "Namibia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
 {"SubjectEntity": "Nauru", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["nauruan"]]}
 {"SubjectEntity": "Nepal", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["nepali"]]}
-{"SubjectEntity": "New zealand", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["m\u0101ori", "maori"]]}
-{"SubjectEntity": "North korea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["korean"]]}
+{"SubjectEntity": "New Zealand", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["m\u0101ori", "maori"]]}
+{"SubjectEntity": "North Korea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["korean"]]}
 {"SubjectEntity": "Palau", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["japanese"], ["palauan"]]}
-{"SubjectEntity": "Papua new guinea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["hiri motu"], ["english"], ["tok pisin"]]}
+{"SubjectEntity": "Papua New Guinea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["hiri motu", "hiri"], ["english"], ["tok pisin", "pidgin"]]}
 {"SubjectEntity": "Paraguay", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["guarani"], ["spanish"]]}
 {"SubjectEntity": "Peru", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["quechua"], ["spanish"], ["aymara"]]}
 {"SubjectEntity": "Poland", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["polish"]]}
 {"SubjectEntity": "Portugal", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"], ["mirandese"]]}
-{"SubjectEntity": "Republic of ireland", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["irish"]]}
+{"SubjectEntity": "Republic of Ireland", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["irish"]]}
 {"SubjectEntity": "Romania", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["romanian"]]}
 {"SubjectEntity": "Russia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["russian"]]}
-{"SubjectEntity": "Saint kitts and nevis", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
-{"SubjectEntity": "Saint lucia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
-{"SubjectEntity": "Saint vincent and the grenadines", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
-{"SubjectEntity": "Saudi arabia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Saint Kitts and Nevis", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Saint Lucia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Saint Vincent and the Grenadines", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Saudi Arabia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
 {"SubjectEntity": "Senegal", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["badyara"], ["french"], ["wolof"], ["balanta"]]}
 {"SubjectEntity": "Serbia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["serbian"]]}
 {"SubjectEntity": "Seychelles", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["french"], ["seychellois creole", "creole"]]}
 {"SubjectEntity": "Singapore", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["malay"], ["standard mandarin", "mandarin"], ["tamil"]]}
 {"SubjectEntity": "Slovakia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["slovak"]]}
 {"SubjectEntity": "Slovenia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["slovene"]]}
-{"SubjectEntity": "South korea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["korean"]]}
-{"SubjectEntity": "South sudan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["arabic"]]}
-{"SubjectEntity": "Sri lanka", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["sinhala"], ["tamil"]]}
-{"SubjectEntity": "State of palestine", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "South Korea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["korean"]]}
+{"SubjectEntity": "South Sudan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["arabic"]]}
+{"SubjectEntity": "Sri Lanka", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["sinhala"], ["tamil"]]}
+{"SubjectEntity": "State of Palestine", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
 {"SubjectEntity": "Suriname", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["dutch"]]}
 {"SubjectEntity": "Tanzania", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["swahili"], ["english"]]}
 {"SubjectEntity": "Thailand", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["thai"]]}
 {"SubjectEntity": "Togo", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
-{"SubjectEntity": "Trinidad and tobago", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Trinidad and Tobago", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
 {"SubjectEntity": "Tunisia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
 {"SubjectEntity": "Turkmenistan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["turkmen"]]}
 {"SubjectEntity": "Tuvalu", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["tuvaluan"], ["english"]]}
 {"SubjectEntity": "Uganda", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["swahili"], ["english"]]}
 {"SubjectEntity": "Ukraine", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["ukrainian"]]}
-{"SubjectEntity": "United arab emirates", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
-{"SubjectEntity": "United kingdom", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
-{"SubjectEntity": "United states of america", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english", "american english"]]}
+{"SubjectEntity": "United Arab Emirates", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "United Kingdom", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "United States of America", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english", "american english"]]}
 {"SubjectEntity": "Uzbekistan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["uzbek"]]}
 {"SubjectEntity": "Vanuatu", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["bislama"], ["french"], ["english"]]}
 {"SubjectEntity": "Venezuela", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
 {"SubjectEntity": "Zambia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
 {"SubjectEntity": "Adam Levine", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Adam west", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["leukemia"]]}
-{"SubjectEntity": "Andr\u00e9 leon talley", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["myocardial infarction", "infarction"], ["covid-19", "covid"]]}
+{"SubjectEntity": "Adam West", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["leukemia"]]}
+{"SubjectEntity": "Andr\u00e9 Leon Talley", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["myocardial infarction", "infarction"], ["covid-19", "covid"]]}
 {"SubjectEntity": "Angela Merkel", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Angelina Jolie", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Antoine Griezmann", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Ant\u00f3nio Guterres", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Ban Ki-moon", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Barack Obama", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Bob marley", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["melanoma"]]}
-{"SubjectEntity": "Bob saget", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["head injury", "injury"], ["blunt trauma", "trauma"]]}
+{"SubjectEntity": "Bob Marley", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["melanoma"]]}
+{"SubjectEntity": "Bob Saget", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["head injury", "injury"], ["blunt trauma", "trauma"]]}
 {"SubjectEntity": "Brad Pitt", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Bruce Willis", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Cameron boyce", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["sudden unexpected death in epilepsy", "epilepsy"]]}
+{"SubjectEntity": "Cameron Boyce", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["sudden unexpected death in epilepsy", "epilepsy"]]}
 {"SubjectEntity": "Camila Cabello", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Chadwick boseman", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["colorectal cancer", "cancer"]]}
-{"SubjectEntity": "Charlie daniels", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["stroke"]]}
-{"SubjectEntity": "Dan kaminsky", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["diabetic ketoacidosis", "ketoacidosis"]]}
+{"SubjectEntity": "Chadwick Boseman", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["colorectal cancer", "cancer"]]}
+{"SubjectEntity": "Charlie Daniels", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["stroke"]]}
+{"SubjectEntity": "Dan Kaminsky", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["diabetic ketoacidosis", "ketoacidosis"]]}
 {"SubjectEntity": "David Beckham", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "David Cameron", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "David graeber", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["internal bleeding"], ["acute pancreatitis", "pancreatitis"]]}
+{"SubjectEntity": "David Graeber", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["internal bleeding"], ["acute pancreatitis", "pancreatitis"]]}
 {"SubjectEntity": "Elizabeth Warren", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Elon musk", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Elon Musk", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Elton John", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Fred willard", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["coronary artery disease"], ["cardiac arrest"], ["myelodysplastic syndrome"]]}
-{"SubjectEntity": "George michael", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["fatty liver disease"], ["dilated cardiomyopathy", "cardiomyopathy"]]}
-{"SubjectEntity": "Gilbert gottfried", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["ventricular tachycardia", "tachycardia"]]}
-{"SubjectEntity": "Glenn fredly", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["meningitis"]]}
-{"SubjectEntity": "Grant imahara", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["intracranial aneurysm", "aneurysm"]]}
-{"SubjectEntity": "Irrfan khan", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["tumor", "neuroendocrine tumor"]]}
-{"SubjectEntity": "Jamal khashoggi", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["murder"]]}
+{"SubjectEntity": "Fred Willard", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["myelodysplastic syndrome"], ["coronary artery disease"], ["cardiac arrest"]]}
+{"SubjectEntity": "George Michael", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["fatty liver disease"], ["dilated cardiomyopathy", "cardiomyopathy"]]}
+{"SubjectEntity": "Gilbert Gottfried", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["ventricular tachycardia", "tachycardia"]]}
+{"SubjectEntity": "Glenn Fredly", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["meningitis"]]}
+{"SubjectEntity": "Grant Imahara", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["intracranial aneurysm", "aneurysm"]]}
+{"SubjectEntity": "Irrfan Khan", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["tumor", "neuroendocrine tumor"]]}
+{"SubjectEntity": "Jamal Khashoggi", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["murder"]]}
 {"SubjectEntity": "Jane Goodall", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Jeff bezos", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Jenni rivera", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["aircraft crash", "crash"]]}
+{"SubjectEntity": "Jeff Bezos", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Jenni Rivera", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["aircraft crash", "crash"]]}
 {"SubjectEntity": "Jennifer Aniston", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Jennifer Lopez", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Jimi hendrix", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pulmonary emphysema", "emphysema"]]}
+{"SubjectEntity": "Jimi Hendrix", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pulmonary emphysema", "emphysema"]]}
 {"SubjectEntity": "Joaquin Phoenix", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Joe biden", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Joe Biden", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "John Grisham", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "John mcafee", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["hanging"]]}
-{"SubjectEntity": "John mccain", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["glioblastoma"]]}
+{"SubjectEntity": "John McAfee", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["hanging"]]}
+{"SubjectEntity": "John McCain", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["glioblastoma"]]}
 {"SubjectEntity": "Johnny Depp", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Jonah lomu", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cardiac arrest"], ["nephrotic syndrome"], ["kidney failure"]]}
-{"SubjectEntity": "Jules bianchi", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["diffuse axonal injury", "injury"]]}
+{"SubjectEntity": "Jonah Lomu", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cardiac arrest"], ["nephrotic syndrome"], ["kidney failure"]]}
+{"SubjectEntity": "Jules Bianchi", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["diffuse axonal injury", "injury"]]}
 {"SubjectEntity": "Julia Roberts", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Kylie jenner", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Leon allen white", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["heart failure"], ["pneumonia"]]}
-{"SubjectEntity": "Lina ben mhenni", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["kidney failure"]]}
-{"SubjectEntity": "Lorin maazel", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pneumonia"]]}
-{"SubjectEntity": "Mac miller", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["drug overdose", "overdose"]]}
-{"SubjectEntity": "Martin mcguinness", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["amyloidosis"]]}
-{"SubjectEntity": "Mar\u00edlia mendon\u00e7a", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["accident", "aviation accident"]]}
-{"SubjectEntity": "Meat loaf", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["covid-19", "covid"]]}
-{"SubjectEntity": "Merle haggard", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pneumonia"]]}
-{"SubjectEntity": "Michael jackson", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["combined drug intoxication", "intoxication"], ["myocardial infarction", "infarction"]]}
-{"SubjectEntity": "Mike fitzpatrick", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["melanoma"]]}
+{"SubjectEntity": "Kylie Jenner", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Leon Allen White", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pneumonia"], ["heart failure"]]}
+{"SubjectEntity": "Lina Ben Mhenni", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["kidney failure"]]}
+{"SubjectEntity": "Lorin Maazel", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pneumonia"]]}
+{"SubjectEntity": "Mac Miller", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["drug overdose", "overdose"]]}
+{"SubjectEntity": "Martin McGuinness", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["amyloidosis"]]}
+{"SubjectEntity": "Mar\u00edlia Mendon\u00e7a", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["accident", "aviation accident"]]}
+{"SubjectEntity": "Merle Haggard", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pneumonia"]]}
+{"SubjectEntity": "Michael Jackson", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["combined drug intoxication", "intoxication"], ["myocardial infarction", "infarction"]]}
+{"SubjectEntity": "Michael Lee Aday", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["covid-19", "covid"]]}
+{"SubjectEntity": "Mike Fitzpatrick", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["melanoma"]]}
 {"SubjectEntity": "Miley Cyrus", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Muhammad ali", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["respiratory disease"]]}
+{"SubjectEntity": "Muhammad Ali", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["respiratory disease"]]}
 {"SubjectEntity": "Natalie Portman", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Naya rivera", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["drowning"]]}
+{"SubjectEntity": "Naya Rivera", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["drowning"]]}
 {"SubjectEntity": "Neil Young", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Neil deGrasse Tyson", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Neymar", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Nipsey hussle", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["ballistic trauma", "trauma"]]}
-{"SubjectEntity": "Norm macdonald", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cancer"]]}
-{"SubjectEntity": "Paul g. allen", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["non-hodgkin lymphoma", "lymphoma"]]}
-{"SubjectEntity": "Philipp mi\u00dffelder", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pulmonary embolism", "embolism"]]}
-{"SubjectEntity": "Pierre nkurunziza", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["covid-19", "covid"], ["cardiac arrest"]]}
+{"SubjectEntity": "Nipsey Hussle", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["ballistic trauma", "trauma"]]}
+{"SubjectEntity": "Norm Macdonald", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cancer"]]}
+{"SubjectEntity": "Paul G. Allen", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["non-hodgkin lymphoma", "lymphoma"]]}
+{"SubjectEntity": "Philipp Mi\u00dffelder", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pulmonary embolism", "embolism"]]}
+{"SubjectEntity": "Pierre Nkurunziza", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["covid-19", "covid"], ["cardiac arrest"]]}
 {"SubjectEntity": "Prince", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["fentanyl toxicity", "toxicity"]]}
-{"SubjectEntity": "Raffaella carr\u00e0", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cancer", "lung cancer"]]}
-{"SubjectEntity": "Roger ebert", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["thyroid cancer", "cancer"]]}
-{"SubjectEntity": "Roh hoe-chan", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["falling", "suicide"]]}
+{"SubjectEntity": "Raffaella Carr\u00e0", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cancer", "lung cancer"]]}
+{"SubjectEntity": "Roger Ebert", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["thyroid cancer", "cancer"]]}
+{"SubjectEntity": "Roh Hoe-chan", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["falling", "suicide"]]}
 {"SubjectEntity": "Satya Nadella", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Sayaka kanda", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["shock"], ["suicide by jumping from height", "suicide"]]}
+{"SubjectEntity": "Sayaka Kanda", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["shock"], ["suicide by jumping from height", "suicide"]]}
 {"SubjectEntity": "Selena Gomez", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Sergio Ag\u00fcero", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Shakira", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
@@ -480,22 +479,22 @@
 {"SubjectEntity": "Sheryl Sandberg", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Shintar\u014d ishihara", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["pancreatic cancer", "cancer"]]}
 {"SubjectEntity": "Shinzo Abe", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Stan lee", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["infarction", "acute myocardial infarction"]]}
+{"SubjectEntity": "Stan Lee", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["infarction", "acute myocardial infarction"]]}
 {"SubjectEntity": "Stephen King", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Sundar Pichai", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Susan Wojcicki", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Sushant singh rajput", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["asphyxia"]]}
-{"SubjectEntity": "Sushma swaraj", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cardiac arrest"]]}
-{"SubjectEntity": "Tabar\u00e9 v\u00e1zquez", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cancer", "lung cancer"]]}
-{"SubjectEntity": "Taylor swift", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Terry jones", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["frontotemporal dementia", "dementia"]]}
+{"SubjectEntity": "Sushant Singh Rajput", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["asphyxia"]]}
+{"SubjectEntity": "Sushma Swaraj", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cardiac arrest"]]}
+{"SubjectEntity": "Tabar\u00e9 V\u00e1zquez", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["cancer", "lung cancer"]]}
+{"SubjectEntity": "Taylor Swift", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Terry Jones", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["frontotemporal dementia", "dementia"]]}
 {"SubjectEntity": "Tim Cook", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Tim-Berners Lee", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Tom Hanks", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Tupac shakur", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["drive-by", "homicide", "murder"]]}
+{"SubjectEntity": "Tupac Shakur", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["drive-by", "homicide", "murder"]]}
 {"SubjectEntity": "Warren Buffett", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Wes craven", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["brain cancer", "cancer"]]}
-{"SubjectEntity": "Will smith", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Wes Craven", "Relation": "PersonCauseOfDeath", "ObjectEntities": [["brain cancer", "cancer"]]}
+{"SubjectEntity": "Will Smith", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Xi Jinping", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Zayn Malik", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Adam Back", "Relation": "PersonEmployer", "ObjectEntities": [["blockstream"]]}
@@ -805,99 +804,99 @@
 {"SubjectEntity": "Ant\u00f3nio Guterres", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Ban Ki-moon", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Barack Obama", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Bell hooks", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["berea"]]}
-{"SubjectEntity": "Bettie page", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
-{"SubjectEntity": "Bob saget", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["orlando"]]}
+{"SubjectEntity": "Bell Hooks", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["berea"]]}
+{"SubjectEntity": "Bettie Page", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
+{"SubjectEntity": "Bob Saget", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["orlando"]]}
 {"SubjectEntity": "Brad Pitt", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Brodie lee", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["jacksonville"]]}
+{"SubjectEntity": "Brodie Lee", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["jacksonville"]]}
 {"SubjectEntity": "Bruce Willis", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Camila Cabello", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Carrie fisher", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles, california, estados unufos", "la", "california"]]}
-{"SubjectEntity": "Chadwick boseman", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
-{"SubjectEntity": "Chester bennington", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["palos verdes estates", "palos verdes"]]}
-{"SubjectEntity": "Chuck yeager", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
-{"SubjectEntity": "Cory monteith", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["vancouver"]]}
-{"SubjectEntity": "Dan kaminsky", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["san francisco"]]}
+{"SubjectEntity": "Carrie Fisher", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles, california, estados unufos", "la", "california"]]}
+{"SubjectEntity": "Chadwick Boseman", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
+{"SubjectEntity": "Chester Bennington", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["palos verdes estates", "palos verdes"]]}
+{"SubjectEntity": "Chuck Yeager", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
+{"SubjectEntity": "Cory Monteith", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["vancouver"]]}
+{"SubjectEntity": "Dan Kaminsky", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["san francisco"]]}
 {"SubjectEntity": "David Beckham", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "David Cameron", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Dusty rhodes", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["orlando"]]}
-{"SubjectEntity": "Eduard punset", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["barcelona"]]}
+{"SubjectEntity": "Dusty Rhodes", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["orlando"]]}
+{"SubjectEntity": "Eduard Punset", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["barcelona"]]}
 {"SubjectEntity": "Elizabeth Warren", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Elon musk", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Elon Musk", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Elton John", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Elvis presley", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["graceland"]]}
-{"SubjectEntity": "Ennio morricone", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["rome"]]}
-{"SubjectEntity": "Garry shandling", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
-{"SubjectEntity": "Gilbert gottfried", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["manhattan"]]}
-{"SubjectEntity": "Herman cain", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["atlanta"]]}
-{"SubjectEntity": "Irrfan khan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["mumbai"]]}
+{"SubjectEntity": "Elvis Presley", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["graceland"]]}
+{"SubjectEntity": "Ennio Morricone", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["rome"]]}
+{"SubjectEntity": "Garry Shandling", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
+{"SubjectEntity": "Gilbert Gottfried", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["manhattan"]]}
+{"SubjectEntity": "Herman Cain", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["atlanta"]]}
+{"SubjectEntity": "Irrfan Khan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["mumbai"]]}
 {"SubjectEntity": "Jane Goodall", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Jeff bezos", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Jenni rivera", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["monterrey"]]}
+{"SubjectEntity": "Jeff Bezos", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Jenni Rivera", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["monterrey"]]}
 {"SubjectEntity": "Jennifer Aniston", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Jennifer Lopez", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Joaquin Phoenix", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Joe biden", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Joe Biden", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "John Grisham", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "John mccain", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["cornville"]]}
+{"SubjectEntity": "John McCain", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["cornville"]]}
 {"SubjectEntity": "Johnny Depp", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Julia Roberts", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Kazuo koike", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["tokyo"]]}
-{"SubjectEntity": "Kofi annan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["bern"]]}
-{"SubjectEntity": "Kylie jenner", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Lata mangeshkar", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["mumbai"]]}
-{"SubjectEntity": "Leo burnett", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["lake zurich", "zurich"]]}
-{"SubjectEntity": "Leon allen white", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["denver"]]}
-{"SubjectEntity": "Louis armstrong", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["new york city", "nyc"]]}
-{"SubjectEntity": "Meat loaf", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["nashville"]]}
-{"SubjectEntity": "Mf doom", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["london"]]}
-{"SubjectEntity": "Mikhail zadornov", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["moscow"]]}
+{"SubjectEntity": "Kazuo Koike", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["tokyo"]]}
+{"SubjectEntity": "Kofi Annan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["bern"]]}
+{"SubjectEntity": "Kylie Jenner", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Lata Mangeshkar", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["mumbai"]]}
+{"SubjectEntity": "Leo Burnett", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["lake zurich", "zurich"]]}
+{"SubjectEntity": "Leon Allen White", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["denver"]]}
+{"SubjectEntity": "Louis Armstrong", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["new york city", "nyc"]]}
+{"SubjectEntity": "MF DOOM", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["london"]]}
+{"SubjectEntity": "Michael Lee Aday", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["nashville"]]}
+{"SubjectEntity": "Mikhail Zadornov", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["moscow"]]}
 {"SubjectEntity": "Miley Cyrus", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Mourid barghouti", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["amman"]]}
+{"SubjectEntity": "Mourid Barghouti", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["amman"]]}
 {"SubjectEntity": "Natalie Portman", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Nawal el saadawi", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["cairo"]]}
+{"SubjectEntity": "Nawal El Saadawi", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["cairo"]]}
 {"SubjectEntity": "Neil Young", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Neil deGrasse Tyson", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Neymar", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Paul walker", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["valencia"]]}
-{"SubjectEntity": "Peaches geldof", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["wrotham"]]}
-{"SubjectEntity": "Pierre nkurunziza", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["karuzi"]]}
+{"SubjectEntity": "Paul Walker", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["valencia"]]}
+{"SubjectEntity": "Peaches Geldof", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["wrotham"]]}
+{"SubjectEntity": "Pierre Nkurunziza", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["karuzi"]]}
 {"SubjectEntity": "Prince", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["chanhassen"]]}
 {"SubjectEntity": "Prodigy", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["las vegas", "vegas"]]}
-{"SubjectEntity": "Ram dass", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["maui"]]}
-{"SubjectEntity": "Roger ebert", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["chicago"]]}
-{"SubjectEntity": "Roh hoe-chan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["seoul"]]}
-{"SubjectEntity": "Ronnie james dio", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["houston"]]}
+{"SubjectEntity": "Ram Dass", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["maui"]]}
+{"SubjectEntity": "Roger Ebert", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["chicago"]]}
+{"SubjectEntity": "Roh Hoe-chan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["seoul"]]}
+{"SubjectEntity": "Ronnie James Dio", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["houston"]]}
 {"SubjectEntity": "Satya Nadella", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Selena Gomez", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Sergio Ag\u00fcero", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Shakira", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Shane warne", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["ko samui"]]}
+{"SubjectEntity": "Shane Warne", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["ko samui"]]}
 {"SubjectEntity": "Shawn Mendes", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Sheryl Sandberg", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Shinzo Abe", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Shyla stylez", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["armstrong"]]}
+{"SubjectEntity": "Shyla Stylez", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["armstrong"]]}
 {"SubjectEntity": "Stephen King", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Sundar Pichai", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Susan Wojcicki", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Sushma swaraj", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["new delhi", "delhi"]]}
-{"SubjectEntity": "Taylor swift", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Terry jones", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["north london", "london"]]}
-{"SubjectEntity": "Terry pratchett", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["broad chalke"]]}
-{"SubjectEntity": "Thomas s. monson", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["salt lake city"]]}
+{"SubjectEntity": "Sushma Swaraj", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["new delhi", "delhi"]]}
+{"SubjectEntity": "Taylor Swift", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
+{"SubjectEntity": "Terry Jones", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["north london", "london"]]}
+{"SubjectEntity": "Terry Pratchett", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["broad chalke"]]}
+{"SubjectEntity": "Thomas S. Monson", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["salt lake city"]]}
 {"SubjectEntity": "Tim Cook", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Tim-Berners Lee", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Tom Hanks", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Tupac shakur", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["university medical center of southern nevada", "nevada"]]}
-{"SubjectEntity": "Vicente fern\u00e1ndez", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["guadalajara"]]}
+{"SubjectEntity": "Tupac Shakur", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["university medical center of southern nevada", "nevada"]]}
+{"SubjectEntity": "Vicente Fern\u00e1ndez", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["guadalajara"]]}
 {"SubjectEntity": "Vivek", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["chennai"]]}
-{"SubjectEntity": "Vladimir zhirinovsky", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["moscow"]]}
+{"SubjectEntity": "Vladimir Zhirinovsky", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["moscow"]]}
 {"SubjectEntity": "Warren Buffett", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Wes craven", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
+{"SubjectEntity": "Wes Craven", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["los angeles", "la"]]}
 {"SubjectEntity": "Will smith", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Xi Jinping", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
 {"SubjectEntity": "Zayn Malik", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Zindzi mandela", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["johannesburg"]]}
+{"SubjectEntity": "Zindzi Mandela", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [["johannesburg"]]}
 {"SubjectEntity": "\"Weird Al\" Yankovic", "Relation": "PersonProfession", "ObjectEntities": [["singer-songwriter", "singer", "songwriter"], ["actor"], ["comedian"]]}
 {"SubjectEntity": "Aamir Khan", "Relation": "PersonProfession", "ObjectEntities": [["producer", "film producer"], ["actor", "film actor"], ["screenwriter"], ["presenter", "television presenter"], ["director", "film director"]]}
 {"SubjectEntity": "Alessandro Del Piero", "Relation": "PersonProfession", "ObjectEntities": [["journalist"], ["association football player", "footballer"]]}
@@ -991,17 +990,17 @@
 {"SubjectEntity": "Snoop Dogg", "Relation": "PersonProfession", "ObjectEntities": [["rapper"], ["actor"], ["television producer", "producer"], ["producer", "film producer"], ["actor", "television actor"], ["actor", "film actor"], ["manufacturer"], ["songwriter"], ["director", "film director"], ["singer-songwriter", "singer", "songwriter"], ["voice actor", "actor"], ["producer", "record producer"], ["singer"], ["screenwriter"], ["businessperson"], ["musician"]]}
 {"SubjectEntity": "Stephen Harper", "Relation": "PersonProfession", "ObjectEntities": [["pianist"], ["economist"], ["politician"]]}
 {"SubjectEntity": "Tablo", "Relation": "PersonProfession", "ObjectEntities": [["dj", "disc jockey"], ["poet"], ["composer"], ["singer"], ["artist", "recording artist"], ["songwriter"], ["actor", "television actor"], ["actor"], ["producer", "record producer"]]}
+{"SubjectEntity": "Tanayo", "Relation": "PersonProfession", "ObjectEntities": [["musician"], ["guitarist"], ["composer"], ["singer"], ["music arranger"]]}
 {"SubjectEntity": "Taylor Swift", "Relation": "PersonProfession", "ObjectEntities": [["singer"]]}
 {"SubjectEntity": "Tyra Banks", "Relation": "PersonProfession", "ObjectEntities": [["television producer", "producer"], ["actor"], ["businessperson"], ["presenter", "television presenter"], ["actor", "television actor"], ["singer"], ["model"], ["host", "game show host"], ["talk show host", "host"], ["entrepreneur"], ["actor", "film actor"], ["musician"]]}
 {"SubjectEntity": "Usain Bolt", "Relation": "PersonProfession", "ObjectEntities": [["sprinter"], ["association football player", "footballer"]]}
 {"SubjectEntity": "Victoria Beckham", "Relation": "PersonProfession", "ObjectEntities": [["model"], ["designer", "fashion designer"], ["singer-songwriter", "singer", "songwriter"], ["singer"], ["entrepreneur"], ["blogger"], ["actor"]]}
 {"SubjectEntity": "William Bonner", "Relation": "PersonProfession", "ObjectEntities": [["presenter", "news presenter"], ["writer"], ["journalist"]]}
 {"SubjectEntity": "Zedd", "Relation": "PersonProfession", "ObjectEntities": [["composer"], ["dj", "disc jockey"], ["artist", "recording artist"], ["producer", "record producer"], ["music producer", "producer"], ["musician"], ["pianist"], ["manufacturer"]]}
-{"SubjectEntity": "tanayo", "Relation": "PersonProfession", "ObjectEntities": [["musician"], ["guitarist"], ["composer"], ["singer"], ["music arranger"]]}
 {"SubjectEntity": "Abakan", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
 {"SubjectEntity": "Adige", "Relation": "RiverBasinsCountry", "ObjectEntities": [["italy"]]}
 {"SubjectEntity": "Alazani", "Relation": "RiverBasinsCountry", "ObjectEntities": [["azerbaijan"], ["georgia"]]}
-{"SubjectEntity": "Amu darya", "Relation": "RiverBasinsCountry", "ObjectEntities": [["uzbekistan"], ["afghanistan"], ["tajikistan"], ["turkmenistan"]]}
+{"SubjectEntity": "Amu Darya", "Relation": "RiverBasinsCountry", "ObjectEntities": [["uzbekistan"], ["afghanistan"], ["tajikistan"], ["turkmenistan"]]}
 {"SubjectEntity": "Amur", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"], ["russia"]]}
 {"SubjectEntity": "Angara", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
 {"SubjectEntity": "Araguaia river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["brazil"]]}
@@ -1010,8 +1009,8 @@
 {"SubjectEntity": "Athabasca river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["canada"]]}
 {"SubjectEntity": "Berezina river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["belarus"]]}
 {"SubjectEntity": "Brahmaputra river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"], ["india"], ["bangladesh"], ["nepal"]]}
-{"SubjectEntity": "B\u00edo b\u00edo river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["chile"]]}
-{"SubjectEntity": "Chao phraya river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["thailand"]]}
+{"SubjectEntity": "B\u00edo B\u00edo river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["chile"]]}
+{"SubjectEntity": "Chao Phraya", "Relation": "RiverBasinsCountry", "ObjectEntities": [["thailand"]]}
 {"SubjectEntity": "Chari river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["central african republic", "africa"], ["cameroon"], ["chad"]]}
 {"SubjectEntity": "Colorado river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["mexico"], ["usa", "united states of america"]]}
 {"SubjectEntity": "Columbia river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["canada"], ["usa", "united states of america"]]}
@@ -1040,7 +1039,7 @@
 {"SubjectEntity": "Kama", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
 {"SubjectEntity": "Kamchatka river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
 {"SubjectEntity": "Liffey", "Relation": "RiverBasinsCountry", "ObjectEntities": [["ireland", "republic of ireland"]]}
-{"SubjectEntity": "Lusatian neisse", "Relation": "RiverBasinsCountry", "ObjectEntities": [["germany"], ["poland"], ["czech republic", "czechia"]]}
+{"SubjectEntity": "Lusatian Neisse", "Relation": "RiverBasinsCountry", "ObjectEntities": [["germany"], ["poland"], ["czech republic", "czechia"]]}
 {"SubjectEntity": "Madeira rivel", "Relation": "RiverBasinsCountry", "ObjectEntities": [["bolivia"], ["peru"], ["brazil"]]}
 {"SubjectEntity": "Main", "Relation": "RiverBasinsCountry", "ObjectEntities": [["germany"]]}
 {"SubjectEntity": "Mamor\u00e9 river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["bolivia"], ["brazil"]]}
@@ -1061,17 +1060,17 @@
 {"SubjectEntity": "Pearl river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"]]}
 {"SubjectEntity": "Pilcomayo", "Relation": "RiverBasinsCountry", "ObjectEntities": [["paraguay"], ["argentina"], ["bolivia"]]}
 {"SubjectEntity": "Po", "Relation": "RiverBasinsCountry", "ObjectEntities": [["switzerland"], ["italy"], ["france"]]}
-{"SubjectEntity": "Posof \u00e7ay\u0131", "Relation": "RiverBasinsCountry", "ObjectEntities": [["georgia"], ["turkey"]]}
+{"SubjectEntity": "Posof \u00c7ay\u0131", "Relation": "RiverBasinsCountry", "ObjectEntities": [["georgia"], ["turkey"]]}
 {"SubjectEntity": "Potomac river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["usa", "united states of america"]]}
 {"SubjectEntity": "Pregolya", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
 {"SubjectEntity": "Prypiat river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["ukraine"], ["belarus"]]}
 {"SubjectEntity": "Purus river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["peru"], ["brazil"]]}
 {"SubjectEntity": "Red river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["vietnam"], ["china", "people's republic of china"]]}
+{"SubjectEntity": "Rio Negro", "Relation": "RiverBasinsCountry", "ObjectEntities": [["venezuela"], ["brazil"], ["colombia"]]}
 {"SubjectEntity": "Rio grande", "Relation": "RiverBasinsCountry", "ObjectEntities": [["mexico"], ["colorado"], ["usa", "united states of america"]]}
-{"SubjectEntity": "Rio negro", "Relation": "RiverBasinsCountry", "ObjectEntities": [["venezuela"], ["brazil"], ["colombia"]]}
-{"SubjectEntity": "River shannon", "Relation": "RiverBasinsCountry", "ObjectEntities": [["ireland", "republic of ireland"]]}
+{"SubjectEntity": "River Shannon", "Relation": "RiverBasinsCountry", "ObjectEntities": [["ireland", "republic of ireland"]]}
 {"SubjectEntity": "Rubicon", "Relation": "RiverBasinsCountry", "ObjectEntities": [["italy"]]}
-{"SubjectEntity": "R\u00edo de la plata", "Relation": "RiverBasinsCountry", "ObjectEntities": [["uruguay"], ["argentina"]]}
+{"SubjectEntity": "R\u00edo de la Plata", "Relation": "RiverBasinsCountry", "ObjectEntities": [["uruguay"], ["argentina"]]}
 {"SubjectEntity": "Saar", "Relation": "RiverBasinsCountry", "ObjectEntities": [["france"], ["germany"]]}
 {"SubjectEntity": "Salzach", "Relation": "RiverBasinsCountry", "ObjectEntities": [["austria"], ["germany"]]}
 {"SubjectEntity": "Sa\u00f4ne", "Relation": "RiverBasinsCountry", "ObjectEntities": [["france"]]}
@@ -1090,7 +1089,7 @@
 {"SubjectEntity": "Vyatka", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
 {"SubjectEntity": "V\u00e1h", "Relation": "RiverBasinsCountry", "ObjectEntities": [["slovakia"]]}
 {"SubjectEntity": "Wabash river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["ohio"], ["usa", "united states of america"]]}
-{"SubjectEntity": "Western bug", "Relation": "RiverBasinsCountry", "ObjectEntities": [["poland"], ["ukraine"], ["belarus"]]}
+{"SubjectEntity": "Western Bug", "Relation": "RiverBasinsCountry", "ObjectEntities": [["poland"], ["ukraine"], ["belarus"]]}
 {"SubjectEntity": "Willamette river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["usa", "united states of america"]]}
 {"SubjectEntity": "Yalu river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"]]}
 {"SubjectEntity": "Zangmar river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["iran"]]}
@@ -1099,71 +1098,71 @@
 {"SubjectEntity": "\u00c7oruh river", "Relation": "RiverBasinsCountry", "ObjectEntities": [["turkey"], ["georgia"]]}
 {"SubjectEntity": "\u00dej\u00f3rs\u00e1", "Relation": "RiverBasinsCountry", "ObjectEntities": [["iceland"]]}
 {"SubjectEntity": "Alaska", "Relation": "StateSharesBorderState", "ObjectEntities": [["chukotka autonomous okrug", "okrug"], ["british columbia"], ["yukon"]]}
-{"SubjectEntity": "Antofagasta region", "Relation": "StateSharesBorderState", "ObjectEntities": [["catamarca province", "catamarca"], ["atacama region", "atacama"], ["tarapaca", "tarapac\u00e1 region"], ["potosi", "potos\u00ed department"], ["jujuy", "province of jujuy"], ["salta", "salta province"]]}
-{"SubjectEntity": "Appenzell ausserrhoden", "Relation": "StateSharesBorderState", "ObjectEntities": [["st. gallen", "canton of st. gallen"], ["appenzell innerrhoden"]]}
-{"SubjectEntity": "Appenzell innerrhoden", "Relation": "StateSharesBorderState", "ObjectEntities": [["appenzell ausserrhoden"], ["st. gallen", "canton of st. gallen"]]}
+{"SubjectEntity": "Antofagasta Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["catamarca province", "catamarca"], ["atacama region", "atacama"], ["tarapaca", "tarapac\u00e1 region"], ["potosi", "potos\u00ed department"], ["jujuy", "province of jujuy"], ["salta", "salta province"]]}
+{"SubjectEntity": "Appenzell Ausserrhoden", "Relation": "StateSharesBorderState", "ObjectEntities": [["st. gallen", "canton of st. gallen"], ["appenzell innerrhoden", "appenzell"]]}
+{"SubjectEntity": "Appenzell Innerrhoden", "Relation": "StateSharesBorderState", "ObjectEntities": [["appenzell ausserrhoden", "appenzell"], ["st. gallen", "canton of st. gallen"]]}
 {"SubjectEntity": "Apulia", "Relation": "StateSharesBorderState", "ObjectEntities": [["campania"], ["molise"], ["molise, campobasso"], ["basilicata"]]}
 {"SubjectEntity": "Aragon", "Relation": "StateSharesBorderState", "ObjectEntities": [["land of valencia", "valencia"], ["occitania"], ["nouvelle-aquitaine"], ["pyrenees-atlantiques", "pyr\u00e9n\u00e9es-atlantiques"], ["hautes-pyrenees", "hautes-pyr\u00e9n\u00e9es"], ["castile and le\u00f3n", "castile and leon", "leon"], ["la rioja"], ["catalonia"], ["navarre"], ["haute-garonne"], ["castile-la mancha"]]}
-{"SubjectEntity": "Araucan\u00eda region", "Relation": "StateSharesBorderState", "ObjectEntities": [["neuquen", "neuqu\u00e9n province"], ["biob\u00edo region", "biobio"], ["los rios", "los r\u00edos region"]]}
-{"SubjectEntity": "Arica y parinacota region", "Relation": "StateSharesBorderState", "ObjectEntities": [["tarapaca", "tarapac\u00e1 region"], ["tacna"], ["oruro department", "oruro"], ["la paz", "la paz department"]]}
+{"SubjectEntity": "Araucan\u00eda Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["neuquen", "neuqu\u00e9n province"], ["biob\u00edo region", "biobio"], ["los rios", "los r\u00edos region"]]}
+{"SubjectEntity": "Arica y Parinacota Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["tarapaca", "tarapac\u00e1 region"], ["tacna"], ["oruro department", "oruro"], ["la paz", "la paz department"]]}
 {"SubjectEntity": "Arkansas", "Relation": "StateSharesBorderState", "ObjectEntities": [["tennessee"], ["missouri"], ["mississippi"], ["texas"], ["louisiana"], ["oklahoma"]]}
 {"SubjectEntity": "Asturias", "Relation": "StateSharesBorderState", "ObjectEntities": [["cantabria"], ["galicia"], ["castile and le\u00f3n", "castile and leon", "leon"], ["le\u00f3n province", "leon"]]}
-{"SubjectEntity": "Atacama region", "Relation": "StateSharesBorderState", "ObjectEntities": [["antofagasta region", "antofagasta"], ["catamarca province", "catamarca"], ["coquimbo region", "coquimbo"], ["san juan", "san juan province"], ["la rioja province", "la rioja"]]}
-{"SubjectEntity": "Baden-w\u00fcrttemberg", "Relation": "StateSharesBorderState", "ObjectEntities": [["vorarlberg"], ["rhineland-palatinate"], ["canton of z\u00fcrich", "zurich"], ["basel-landschaft", "basel"], ["canton aargau"], ["hesse"], ["bavaria"], ["switzerland"], ["canton of schaffhausen", "schaffhausen"], ["thurgau"], ["basel-stadt", "basel"], ["bas-rhin"], ["haut-rhin"], ["grand est"]]}
-{"SubjectEntity": "Basel-landschaft", "Relation": "StateSharesBorderState", "ObjectEntities": [["alsace"], ["canton aargau"], ["baden-wurttemberg", "baden-w\u00fcrttemberg"], ["solothurn", "canton of solothurn"], ["haut-rhin"], ["basel-stadt"], ["canton of jura", "jura"]]}
+{"SubjectEntity": "Atacama Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["antofagasta region", "antofagasta"], ["catamarca province", "catamarca"], ["coquimbo region", "coquimbo"], ["san juan", "san juan province"], ["la rioja province", "la rioja"]]}
+{"SubjectEntity": "Baden-W\u00fcrttemberg", "Relation": "StateSharesBorderState", "ObjectEntities": [["vorarlberg"], ["rhineland-palatinate"], ["canton of z\u00fcrich", "zurich"], ["basel-landschaft", "basel"], ["canton aargau"], ["hesse"], ["bavaria"], ["switzerland"], ["canton of schaffhausen", "schaffhausen"], ["thurgau"], ["basel-stadt", "basel"], ["bas-rhin"], ["haut-rhin"], ["grand est"]]}
+{"SubjectEntity": "Basel-Landschaft", "Relation": "StateSharesBorderState", "ObjectEntities": [["alsace"], ["canton aargau"], ["baden-wurttemberg", "baden-w\u00fcrttemberg"], ["solothurn", "canton of solothurn"], ["haut-rhin"], ["basel-stadt"], ["canton of jura", "jura"]]}
 {"SubjectEntity": "Berlin", "Relation": "StateSharesBorderState", "ObjectEntities": [["dahme-spreewald district", "dahme-spreewald"], ["teltow-flaming", "teltow-fl\u00e4ming district"], ["oder-spree", "oder-spree district"], ["markisch-oderland", "m\u00e4rkisch-oderland district"], ["potsdam"], ["kleinmachnow"], ["oberhavel", "oberhavel district"], ["barnim district", "barnim"], ["havelland", "havelland district"], ["stahnsdorf"], ["brandenburg"], ["potsdam-mittelmark district", "potsdam-mittelmark"]]}
 {"SubjectEntity": "California", "Relation": "StateSharesBorderState", "ObjectEntities": [["nevada"], ["oregon"], ["arizona"], ["baja california"]]}
 {"SubjectEntity": "Campania", "Relation": "StateSharesBorderState", "ObjectEntities": [["molise"], ["basilicata"], ["apulia"], ["lazio"]]}
-{"SubjectEntity": "Canelones department", "Relation": "StateSharesBorderState", "ObjectEntities": [["florida", "florida department"], ["montevideo department", "montevideo"], ["maldonado department", "maldonado"], ["lavalleja", "lavalleja department"], ["san jos\u00e9 department", "san jose"]]}
+{"SubjectEntity": "Canelones Department", "Relation": "StateSharesBorderState", "ObjectEntities": [["florida", "florida department"], ["montevideo department", "montevideo"], ["maldonado department", "maldonado"], ["lavalleja", "lavalleja department"], ["san jos\u00e9 department", "san jose"]]}
 {"SubjectEntity": "Cantabria", "Relation": "StateSharesBorderState", "ObjectEntities": [["le\u00f3n province", "leon"], ["burgos province", "burgos"], ["asturias"], ["basque autonomous community"], ["palencia province", "palencia"], ["castile and le\u00f3n", "castile and leon", "leon"]]}
-{"SubjectEntity": "Canton aargau", "Relation": "StateSharesBorderState", "ObjectEntities": [["solothurn", "canton of solothurn"], ["canton of zug", "zug"], ["canton of z\u00fcrich", "zurich"], ["canton of bern"], ["basel-landschaft"], ["canton of lucerne", "lucerne"], ["baden-wurttemberg", "baden-w\u00fcrttemberg"]]}
-{"SubjectEntity": "Canton of fribourg", "Relation": "StateSharesBorderState", "ObjectEntities": [["neuchatel", "canton of neuch\u00e2tel"], ["vaud", "canton of vaud"], ["canton of bern"]]}
-{"SubjectEntity": "Canton of geneva", "Relation": "StateSharesBorderState", "ObjectEntities": [["auvergne-rhone-alpes", "auvergne-rh\u00f4ne-alpes"], ["vaud", "canton of vaud"], ["haute-savoie"], ["rhone-alpes", "rh\u00f4ne-alpes"], ["ain"]]}
-{"SubjectEntity": "Canton of st. gallen", "Relation": "StateSharesBorderState", "ObjectEntities": [["schwyz"], ["vorarlberg"], ["thurgau"], ["appenzell innerrhoden"], ["appenzell ausserrhoden"], ["canton of z\u00fcrich", "zurich"], ["grisons"], ["canton of glarus"], ["bavaria"]]}
-{"SubjectEntity": "Canton of ticino", "Relation": "StateSharesBorderState", "ObjectEntities": [["lombardy"], ["canton of valais"], ["grisons"], ["piedmont"], ["como", "province of como"], ["province of verbano-cusio-ossola", "verbano-cusio-ossola"], ["uri"], ["province of varese", "varese"]]}
-{"SubjectEntity": "Castile and le\u00f3n", "Relation": "StateSharesBorderState", "ObjectEntities": [["portugal"], ["la rioja"], ["asturias"], ["cantabria"], ["castile-la mancha"], ["galicia"], ["community of madrid"], ["extremadura"], ["basque autonomous community"], ["aragon"]]}
-{"SubjectEntity": "Castile-la mancha", "Relation": "StateSharesBorderState", "ObjectEntities": [["extremadura"], ["land of valencia", "valencia"], ["community of madrid", "madrid"], ["region of murcia", "murcia"], ["andalusia"], ["castile and le\u00f3n", "castile and leon", "leon"], ["aragon"]]}
+{"SubjectEntity": "Canton Aargau", "Relation": "StateSharesBorderState", "ObjectEntities": [["solothurn", "canton of solothurn"], ["canton of zug", "zug"], ["canton of z\u00fcrich", "zurich"], ["canton of bern"], ["basel-landschaft"], ["canton of lucerne", "lucerne"], ["baden-wurttemberg", "Baden-W\u00fcrttemberg"]]}
+{"SubjectEntity": "Canton of Fribourg", "Relation": "StateSharesBorderState", "ObjectEntities": [["neuchatel", "canton of neuch\u00e2tel"], ["vaud", "canton of vaud"], ["canton of bern"]]}
+{"SubjectEntity": "Canton of Geneva", "Relation": "StateSharesBorderState", "ObjectEntities": [["auvergne-rhone-alpes", "auvergne-rh\u00f4ne-alpes"], ["vaud", "canton of vaud"], ["haute-savoie"], ["rhone-alpes", "rh\u00f4ne-alpes"], ["ain"]]}
+{"SubjectEntity": "Canton of St. Gallen", "Relation": "StateSharesBorderState", "ObjectEntities": [["schwyz"], ["vorarlberg"], ["thurgau"], ["appenzell innerrhoden"], ["appenzell ausserrhoden"], ["canton of z\u00fcrich", "zurich"], ["grisons"], ["canton of glarus"], ["bavaria"]]}
+{"SubjectEntity": "Canton of Ticino", "Relation": "StateSharesBorderState", "ObjectEntities": [["lombardy"], ["canton of valais"], ["grisons"], ["piedmont"], ["como", "province of como"], ["province of verbano-cusio-ossola", "verbano-cusio-ossola"], ["uri"], ["province of varese", "varese"]]}
+{"SubjectEntity": "Castile and Le\u00f3n", "Relation": "StateSharesBorderState", "ObjectEntities": [["portugal"], ["la rioja"], ["asturias"], ["cantabria"], ["castile-la mancha"], ["galicia"], ["community of madrid"], ["extremadura"], ["basque autonomous community"], ["aragon"]]}
+{"SubjectEntity": "Castile-La Mancha", "Relation": "StateSharesBorderState", "ObjectEntities": [["extremadura"], ["land of valencia", "valencia"], ["community of madrid", "madrid"], ["region of murcia", "murcia"], ["andalusia"], ["castile and le\u00f3n", "castile and leon", "leon"], ["aragon"]]}
 {"SubjectEntity": "Catalonia", "Relation": "StateSharesBorderState", "ObjectEntities": [["aragon"], ["occitania"], ["land of valencia", "valencia"], ["andorra"]]}
 {"SubjectEntity": "Colorado", "Relation": "StateSharesBorderState", "ObjectEntities": [["arizona"], ["utah"], ["wyoming"], ["new mexico", "mexico"], ["kansas"], ["nebraska"], ["oklahoma"]]}
-{"SubjectEntity": "Coquimbo region", "Relation": "StateSharesBorderState", "ObjectEntities": [["atacama region", "atacama"], ["valpara\u00edso region", "valparaiso"], ["san juan", "san juan province"]]}
-{"SubjectEntity": "Dakahlia governorate", "Relation": "StateSharesBorderState", "ObjectEntities": [["gharbia", "gharbia governorate"], ["qalyubia governorate", "qalyubia"], ["al sharqia governorate", "al sharqia"], ["damietta governorate", "damietta"], ["port said governorate", "port said"], ["kafr el-sheikh governorate", "kafr el-sheikh"]]}
-{"SubjectEntity": "Durazno department", "Relation": "StateSharesBorderState", "ObjectEntities": [["florida", "florida department"], ["rio negro", "r\u00edo negro department"], ["flores", "flores department"], ["cerro largo", "cerro largo department"], ["treinta y tres department", "treinta y tres"], ["tacuarembo", "tacuaremb\u00f3 department"]]}
-{"SubjectEntity": "Emirate of dubai", "Relation": "StateSharesBorderState", "ObjectEntities": [["oman"], ["emirate of sharjah", "sharjah"], ["emirate of abu dhabi", "abu dhabi"], ["ajman", "emirate of ajman"], ["ras al khaimah", "emirate of ras al khaimah"]]}
+{"SubjectEntity": "Coquimbo Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["atacama region", "atacama"], ["valpara\u00edso region", "valparaiso"], ["san juan", "san juan province"]]}
+{"SubjectEntity": "Dakahlia Governorate", "Relation": "StateSharesBorderState", "ObjectEntities": [["gharbia", "gharbia governorate"], ["qalyubia governorate", "qalyubia"], ["al sharqia governorate", "al sharqia"], ["damietta governorate", "damietta"], ["port said governorate", "port said"], ["kafr el-sheikh governorate", "kafr el-sheikh"]]}
+{"SubjectEntity": "Durazno Department", "Relation": "StateSharesBorderState", "ObjectEntities": [["florida", "florida department"], ["rio negro", "r\u00edo negro department"], ["flores", "flores department"], ["cerro largo", "cerro largo department"], ["treinta y tres department", "treinta y tres"], ["tacuarembo", "tacuaremb\u00f3 department"]]}
+{"SubjectEntity": "Emirate of Dubai", "Relation": "StateSharesBorderState", "ObjectEntities": [["oman"], ["emirate of sharjah", "sharjah"], ["emirate of abu dhabi", "abu dhabi"], ["ajman", "emirate of ajman"], ["ras al khaimah", "emirate of ras al khaimah"]]}
 {"SubjectEntity": "England", "Relation": "StateSharesBorderState", "ObjectEntities": [["wales"], ["scotland"]]}
 {"SubjectEntity": "Extremadura", "Relation": "StateSharesBorderState", "ObjectEntities": [["portalegre"], ["guarda"], ["castile and le\u00f3n", "castile and leon", "leon"], ["castelo branco"], ["castile-la mancha"], ["andalusia"], ["evora", "\u00e9vora"], ["beja"]]}
 {"SubjectEntity": "Florida", "Relation": "StateSharesBorderState", "ObjectEntities": [["georgia"], ["alabama"]]}
-{"SubjectEntity": "Florida department", "Relation": "StateSharesBorderState", "ObjectEntities": [["canelones", "canelones department"], ["san jos\u00e9 department", "san jose"], ["flores", "flores department"], ["lavalleja", "lavalleja department"], ["durazno", "durazno department"], ["treinta y tres department", "treinta y tres"]]}
+{"SubjectEntity": "Florida Department", "Relation": "StateSharesBorderState", "ObjectEntities": [["canelones", "canelones department"], ["san jos\u00e9 department", "san jose"], ["flores", "flores department"], ["lavalleja", "lavalleja department"], ["durazno", "durazno department"], ["treinta y tres department", "treinta y tres"]]}
 {"SubjectEntity": "Gelderland", "Relation": "StateSharesBorderState", "ObjectEntities": [["brabant", "north brabant"], ["limburg"], ["utrecht"], ["overijssel"], ["flevoland"], ["north rhine-westphalia", "rhine-westphalia"], ["holland", "south holland"]]}
 {"SubjectEntity": "Georgia", "Relation": "StateSharesBorderState", "ObjectEntities": [["tennessee"], ["south carolina", "carolina"], ["north carolina", "carolina"], ["alabama"], ["florida"]]}
 {"SubjectEntity": "Gibraltar", "Relation": "StateSharesBorderState", "ObjectEntities": [["spain"], ["andalusia"]]}
-{"SubjectEntity": "Greater poland voivodeship", "Relation": "StateSharesBorderState", "ObjectEntities": [["pomeranian", "west pomeranian voivodeship"], ["\u0142\u00f3d\u017a voivodeship", "lodz"], ["kuyavian-pomeranian", "kuyavian-pomeranian voivodeship"], ["lubusz voivodeship", "lubusz"], ["pomeranian voivodeship", "pomeranian"], ["opole", "opole voivodeship"], ["lower silesian voivodeship", "lower silesian", "silesian"]]}
+{"SubjectEntity": "Greater Poland Voivodeship", "Relation": "StateSharesBorderState", "ObjectEntities": [["pomeranian", "west pomeranian voivodeship"], ["\u0142\u00f3d\u017a voivodeship", "lodz"], ["kuyavian-pomeranian", "kuyavian-pomeranian voivodeship"], ["lubusz voivodeship", "lubusz"], ["pomeranian voivodeship", "pomeranian"], ["opole", "opole voivodeship"], ["lower silesian voivodeship", "lower silesian", "silesian"]]}
 {"SubjectEntity": "Grisons", "Relation": "StateSharesBorderState", "ObjectEntities": [["st. gallen", "canton of st. gallen"], ["trentino-south tyrol", "tyrol"], ["canton of glarus"], ["lombardy"], ["canton of ticino", "ticino"], ["como", "province of como"], ["uri"], ["province of sondrio", "sondrio"], ["vorarlberg"], ["tyrol"], ["gravedona ed uniti"], ["livo"], ["tyrol", "south tyrol"], ["dosso del liro"]]}
 {"SubjectEntity": "Guam", "Relation": "StateSharesBorderState", "ObjectEntities": [["mariana islands", "northern mariana islands"], ["federateds of micronesia", "federated states of micronesia"]]}
 {"SubjectEntity": "Hamburg", "Relation": "StateSharesBorderState", "ObjectEntities": [["pinneberg"], ["bonningstedt", "b\u00f6nningstedt"], ["halstenbek"], ["neu wulmstorf"], ["seevetal"], ["stade"], ["reinbek"], ["harburg"], ["stormarn"], ["segeberg"], ["lower saxony", "saxony"], ["schleswig-holstein"], ["herzogtum lauenburg"], ["norderstedt"]]}
-{"SubjectEntity": "Iwate prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["akita prefecture", "akita"], ["aomori", "aomori prefecture"], ["miyagi prefecture", "miyagi"]]}
-{"SubjectEntity": "Kagoshima prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["miyazaki", "miyazaki prefecture"], ["kumamoto", "kumamoto prefecture"], ["okinawa", "okinawa prefecture"]]}
+{"SubjectEntity": "Iwate Prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["akita prefecture", "akita"], ["aomori", "aomori prefecture"], ["miyagi prefecture", "miyagi"]]}
+{"SubjectEntity": "Kagoshima Prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["miyazaki", "miyazaki prefecture"], ["kumamoto", "kumamoto prefecture"], ["okinawa", "okinawa prefecture"]]}
 {"SubjectEntity": "Kainuu", "Relation": "StateSharesBorderState", "ObjectEntities": [["ostrobothnia", "northern ostrobothnia"], ["northern savonia", "savonia"], ["north karelia", "karelia"], ["karelia"]]}
 {"SubjectEntity": "Kansas", "Relation": "StateSharesBorderState", "ObjectEntities": [["oklahoma"], ["nebraska"], ["colorado"], ["missouri"]]}
-{"SubjectEntity": "La rioja", "Relation": "StateSharesBorderState", "ObjectEntities": [["sierra de urbion", "sierra de urbi\u00f3n"], ["burgos province", "burgos"], ["castile and le\u00f3n", "castile and leon", "leon"], ["aragon"], ["navarre"], ["basque autonomous community", "basque"]]}
+{"SubjectEntity": "La Rioja", "Relation": "StateSharesBorderState", "ObjectEntities": [["sierra de urbion", "sierra de urbi\u00f3n"], ["burgos province", "burgos"], ["castile and le\u00f3n", "castile and leon", "leon"], ["aragon"], ["navarre"], ["basque autonomous community", "basque"]]}
 {"SubjectEntity": "Lapland", "Relation": "StateSharesBorderState", "ObjectEntities": [["finnmark"], ["ostrobothnia", "northern ostrobothnia"], ["karelia"], ["troms"], ["troms og finnmark fylke"], ["norrbotten county", "norrbotten"], ["murmansk oblast"]]}
 {"SubjectEntity": "Lazio", "Relation": "StateSharesBorderState", "ObjectEntities": [["umbria"], ["tuscany"], ["marche"], ["molise"], ["abruzzo"], ["campania"]]}
 {"SubjectEntity": "Liguria", "Relation": "StateSharesBorderState", "ObjectEntities": [["tuscany"], ["auvergne-rhone-alpes", "auvergne-rh\u00f4ne-alpes"], ["piedmont"], ["emilia-romagna"]]}
-{"SubjectEntity": "Los r\u00edos region", "Relation": "StateSharesBorderState", "ObjectEntities": [["araucan\u00eda region", "araucania"], ["neuquen", "neuqu\u00e9n province"], ["los lagos region", "los lagos"]]}
+{"SubjectEntity": "Los R\u00edos Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["araucan\u00eda region", "araucania"], ["neuquen", "neuqu\u00e9n province"], ["los lagos region", "los lagos"]]}
 {"SubjectEntity": "Louisiana", "Relation": "StateSharesBorderState", "ObjectEntities": [["texas"], ["mississippi"], ["arkansas"]]}
-{"SubjectEntity": "Magellan and the chilean antarctic region", "Relation": "StateSharesBorderState", "ObjectEntities": [["aysen", "ays\u00e9n region"], ["tierra del fuego, antarctica and south atlantic islands province"], ["santa cruz province", "santa cruz"]]}
+{"SubjectEntity": "Magellan and the Chilean Antarctic Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["aysen", "ays\u00e9n region"], ["tierra del fuego, antarctica and south atlantic islands province"], ["santa cruz province", "santa cruz"]]}
 {"SubjectEntity": "Maine", "Relation": "StateSharesBorderState", "ObjectEntities": [["new hampshire"], ["quebec"], ["new brunswick"]]}
 {"SubjectEntity": "Marche", "Relation": "StateSharesBorderState", "ObjectEntities": [["emilia-romagna"], ["tuscany"], ["lazio"], ["abruzzo"], ["umbria"]]}
-{"SubjectEntity": "Mecklenburg-western pomerania", "Relation": "StateSharesBorderState", "ObjectEntities": [["brandenburg"], ["pomeranian", "west pomeranian voivodeship"], ["lower saxony", "saxony"], ["schleswig-holstein"]]}
+{"SubjectEntity": "Mecklenburg-Western Pomerania", "Relation": "StateSharesBorderState", "ObjectEntities": [["brandenburg"], ["pomeranian", "west pomeranian voivodeship"], ["lower saxony", "saxony"], ["schleswig-holstein"]]}
 {"SubjectEntity": "Mexico city", "Relation": "StateSharesBorderState", "ObjectEntities": [["state of mexico", "mexico"], ["morelos"]]}
 {"SubjectEntity": "Michigan", "Relation": "StateSharesBorderState", "ObjectEntities": [["ontario"], ["indiana"], ["ohio"], ["illinois"], ["wisconsin"], ["minnesota"]]}
 {"SubjectEntity": "Minnesota", "Relation": "StateSharesBorderState", "ObjectEntities": [["dakota", "south dakota"], ["iowa"], ["ontario"], ["manitoba"], ["wisconsin"], ["north dakota", "dakota"], ["michigan"]]}
-{"SubjectEntity": "Miyagi prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["fukushima prefecture", "fukushima"], ["yamagata"], ["iwate prefecture", "iwate"], ["akita prefecture", "akita"]]}
+{"SubjectEntity": "Miyagi Prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["fukushima prefecture", "fukushima"], ["yamagata"], ["iwate prefecture", "iwate"], ["akita prefecture", "akita"]]}
 {"SubjectEntity": "Molise", "Relation": "StateSharesBorderState", "ObjectEntities": [["apulia"], ["lazio"], ["abruzzo"], ["campania"]]}
 {"SubjectEntity": "Montana", "Relation": "StateSharesBorderState", "ObjectEntities": [["alberta"], ["north dakota", "dakota"], ["british columbia"], ["saskatchewan"], ["idaho"], ["wyoming"], ["dakota", "south dakota"]]}
-{"SubjectEntity": "M\u00f8re og romsdal", "Relation": "StateSharesBorderState", "ObjectEntities": [["vestland"], ["oppland"], ["innlandet"], ["sor-trondelag", "s\u00f8r-tr\u00f8ndelag"], ["tr\u00f8ndelag", "trondelag"], ["sogn og fjordane"]]}
+{"SubjectEntity": "M\u00f8re og Romsdal", "Relation": "StateSharesBorderState", "ObjectEntities": [["vestland"], ["oppland"], ["innlandet"], ["sor-trondelag", "s\u00f8r-tr\u00f8ndelag"], ["tr\u00f8ndelag", "trondelag"], ["sogn og fjordane"]]}
 {"SubjectEntity": "Navarre", "Relation": "StateSharesBorderState", "ObjectEntities": [["basque autonomous community"], ["aragon"], ["nouvelle-aquitaine"], ["la rioja"]]}
 {"SubjectEntity": "Nevada", "Relation": "StateSharesBorderState", "ObjectEntities": [["idaho"], ["oregon"], ["utah"], ["california"], ["arizona"]]}
-{"SubjectEntity": "New york", "Relation": "StateSharesBorderState", "ObjectEntities": [["new jersey"], ["vermont"], ["ontario"], ["pennsylvania"], ["connecticut"], ["quebec"], ["massachusetts"]]}
+{"SubjectEntity": "New York", "Relation": "StateSharesBorderState", "ObjectEntities": [["new jersey"], ["vermont"], ["ontario"], ["pennsylvania"], ["connecticut"], ["quebec"], ["massachusetts"]]}
 {"SubjectEntity": "Nordland", "Relation": "StateSharesBorderState", "ObjectEntities": [["nord-tr\u00f8ndelag", "nord-trondelag"], ["troms"], ["troms og finnmark fylke"], ["norrbotten county", "norrbotten"], ["vasterbotten", "v\u00e4sterbotten county"], ["tr\u00f8ndelag", "trondelag"]]}
 {"SubjectEntity": "Oklahoma", "Relation": "StateSharesBorderState", "ObjectEntities": [["new mexico", "mexico"], ["texas"], ["kansas"], ["missouri"], ["arkansas"], ["colorado"]]}
 {"SubjectEntity": "Oregon", "Relation": "StateSharesBorderState", "ObjectEntities": [["washington"], ["nevada"], ["idaho"], ["california"]]}
@@ -1171,29 +1170,29 @@
 {"SubjectEntity": "Pennsylvania", "Relation": "StateSharesBorderState", "ObjectEntities": [["ontario"], ["new york"], ["delaware"], ["maryland"], ["ohio"], ["virginia", "west virginia"], ["new jersey"]]}
 {"SubjectEntity": "Pirkanmaa", "Relation": "StateSharesBorderState", "ObjectEntities": [["southern ostrobothnia", "ostrobothnia"], ["finland", "central finland"], ["tavastia proper"], ["satakunta"], ["finland proper"], ["paijanne tavastia", "p\u00e4ij\u00e4nne tavastia"]]}
 {"SubjectEntity": "P\u00e9cs", "Relation": "StateSharesBorderState", "ObjectEntities": [["koz\u00e1rmisleny", "kozarmisleny"], ["cserk\u00fat", "cserkut"], ["nagykoz\u00e1r", "nagykozar"], ["orf\u0171", "orfu"], ["p\u00e9csudvard", "pecsudvard"], ["keszu", "kesz\u00fc"], ["bog\u00e1d", "bogad"]]}
-{"SubjectEntity": "Region of murcia", "Relation": "StateSharesBorderState", "ObjectEntities": [["comunidad valenciana", "valenciana"], ["new castile"], ["land of valencia", "valenciana"], ["andalusia"], ["castile-la mancha"]]}
+{"SubjectEntity": "Region of Murcia", "Relation": "StateSharesBorderState", "ObjectEntities": [["comunidad valenciana", "valenciana"], ["new castile"], ["land of valencia", "valenciana"], ["andalusia"], ["castile-la mancha"]]}
 {"SubjectEntity": "Rogaland", "Relation": "StateSharesBorderState", "ObjectEntities": [["vestland"], ["vestfold og telemark"], ["agder"], ["hordaland"], ["vest-agder"], ["aust-agder"], ["telemark"]]}
 {"SubjectEntity": "Saarland", "Relation": "StateSharesBorderState", "ObjectEntities": [["luxembourg"], ["lorraine"], ["rhineland-palatinate"], ["moselle"]]}
-{"SubjectEntity": "Saint petersburg", "Relation": "StateSharesBorderState", "ObjectEntities": [["vsevolozhsky", "vsevolozhsky district"], ["gatchinsky district", "gatchinsky"], ["tosnensky", "tosnensky district"], ["kirishsky district", "kirishsky"], ["vyborgsky district", "vyborgsky"], ["leningrad oblast"], ["lomonosovsky district", "lomonosovsky"]]}
+{"SubjectEntity": "Saint Petersburg", "Relation": "StateSharesBorderState", "ObjectEntities": [["vsevolozhsky", "vsevolozhsky district"], ["gatchinsky district", "gatchinsky"], ["tosnensky", "tosnensky district"], ["kirishsky district", "kirishsky"], ["vyborgsky district", "vyborgsky"], ["leningrad oblast"], ["lomonosovsky district", "lomonosovsky"]]}
 {"SubjectEntity": "Salzburg", "Relation": "StateSharesBorderState", "ObjectEntities": [["carinthia"], ["styria"], ["upper austria"], ["tyrol"], ["tyrol", "south tyrol"], ["trentino-south tyrol"], ["bavaria"]]}
-{"SubjectEntity": "San marino", "Relation": "StateSharesBorderState", "ObjectEntities": [["san leo"], ["acquaviva"], ["borgo maggiore"], ["chiesanuova"], ["fiorentino"]]}
+{"SubjectEntity": "San Marino", "Relation": "StateSharesBorderState", "ObjectEntities": [["san leo"], ["acquaviva"], ["borgo maggiore"], ["chiesanuova"], ["fiorentino"]]}
 {"SubjectEntity": "Satakunta", "Relation": "StateSharesBorderState", "ObjectEntities": [["pirkanmaa"], ["finland proper"], ["southern ostrobothnia", "ostrobothnia"], ["ostrobothnia"]]}
-{"SubjectEntity": "Saxony-anhalt", "Relation": "StateSharesBorderState", "ObjectEntities": [["lower saxony", "saxony"], ["saxony"], ["thuringia"], ["brandenburg"]]}
+{"SubjectEntity": "Saxony-Anhalt", "Relation": "StateSharesBorderState", "ObjectEntities": [["lower saxony", "saxony"], ["saxony"], ["thuringia"], ["brandenburg"]]}
 {"SubjectEntity": "Schwyz", "Relation": "StateSharesBorderState", "ObjectEntities": [["nidwalden"], ["canton of z\u00fcrich", "zurich"], ["canton of zug", "zug"], ["obwalden"], ["st. gallen", "canton of st. gallen"], ["uri"], ["canton of lucerne", "lucerne"], ["canton of glarus"]]}
-{"SubjectEntity": "Tarapac\u00e1 region", "Relation": "StateSharesBorderState", "ObjectEntities": [["oruro department", "oruro"], ["potosi", "potos\u00ed department"], ["antofagasta region", "antofagasta"], ["arica y parinacota", "arica y parinacota region"]]}
+{"SubjectEntity": "Tarapac\u00e1 Region", "Relation": "StateSharesBorderState", "ObjectEntities": [["oruro department", "oruro"], ["potosi", "potos\u00ed department"], ["antofagasta region", "antofagasta"], ["arica y parinacota", "arica y parinacota region"]]}
 {"SubjectEntity": "Tennessee", "Relation": "StateSharesBorderState", "ObjectEntities": [["alabama"], ["virginia"], ["georgia"], ["north carolina", "carolina"], ["mississippi"], ["kentucky"], ["arkansas"], ["missouri"]]}
 {"SubjectEntity": "Texas", "Relation": "StateSharesBorderState", "ObjectEntities": [["chihuahua"], ["new mexico", "mexico"], ["nuevo le\u00f3n", "nuevo leon", "leon"], ["tamaulipas", "tamaulipas state"], ["coahuila"], ["louisiana"], ["arkansas"], ["oklahoma"]]}
-{"SubjectEntity": "Thurgau", "Relation": "StateSharesBorderState", "ObjectEntities": [["baden-wurttemberg", "baden-w\u00fcrttemberg"], ["canton of schaffhausen", "schaffhausen"], ["st. gallen", "canton of st. gallen"], ["canton of z\u00fcrich", "zurich"]]}
-{"SubjectEntity": "Tochigi prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["fukushima prefecture", "fukushima"], ["ibaraki prefecture", "ibaraki"], ["saitama prefecture", "saitama"], ["gunma", "gunma prefecture"]]}
+{"SubjectEntity": "Thurgau", "Relation": "StateSharesBorderState", "ObjectEntities": [["baden-wurttemberg", "Baden-W\u00fcrttemberg"], ["canton of schaffhausen", "schaffhausen"], ["st. gallen", "canton of st. gallen"], ["canton of z\u00fcrich", "zurich"]]}
+{"SubjectEntity": "Tochigi Prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [["fukushima prefecture", "fukushima"], ["ibaraki prefecture", "ibaraki"], ["saitama prefecture", "saitama"], ["gunma", "gunma prefecture"]]}
 {"SubjectEntity": "Tuscany", "Relation": "StateSharesBorderState", "ObjectEntities": [["liguria"], ["lazio"], ["umbria"], ["marche"], ["emilia-romagna"]]}
 {"SubjectEntity": "Tyrol", "Relation": "StateSharesBorderState", "ObjectEntities": [["bavaria"], ["trentino-south tyrol"], ["grisons"], ["tyrol", "south tyrol"], ["veneto"], ["carinthia"], ["vorarlberg"], ["salzburg"], ["province of belluno", "belluno"]]}
 {"SubjectEntity": "Umbria", "Relation": "StateSharesBorderState", "ObjectEntities": [["marche"], ["tuscany"], ["lazio"]]}
-{"SubjectEntity": "United states virgin islands", "Relation": "StateSharesBorderState", "ObjectEntities": [["puerto rico"], ["british virgin islands"]]}
+{"SubjectEntity": "United States Virgin Islands", "Relation": "StateSharesBorderState", "ObjectEntities": [["puerto rico"], ["british virgin islands"]]}
 {"SubjectEntity": "Uusimaa", "Relation": "StateSharesBorderState", "ObjectEntities": [["finland proper"], ["paijanne tavastia", "p\u00e4ij\u00e4nne tavastia"], ["tavastia proper"], ["kymenlaakso"]]}
 {"SubjectEntity": "Vaduz", "Relation": "StateSharesBorderState", "ObjectEntities": [["eschen"], ["triesen"], ["schaan"], ["triesenberg"], ["gamprin"], ["balzers"], ["buchs"], ["sevelen"], ["planken"]]}
 {"SubjectEntity": "Veneto", "Relation": "StateSharesBorderState", "ObjectEntities": [["lombardy"], ["friuli venezia giulia", "giulia"], ["trentino-south tyrol", "tyrol"], ["emilia-romagna"], ["tyrol"], ["carinthia"]]}
 {"SubjectEntity": "Vienna", "Relation": "StateSharesBorderState", "ObjectEntities": [["lower austria", "austria"]]}
-{"SubjectEntity": "Vorarlberg", "Relation": "StateSharesBorderState", "ObjectEntities": [["tyrol"], ["grisons"], ["baden-wurttemberg", "baden-w\u00fcrttemberg"], ["bavaria"], ["st. gallen", "canton of st. gallen"], ["liechtenstein"]]}
+{"SubjectEntity": "Vorarlberg", "Relation": "StateSharesBorderState", "ObjectEntities": [["tyrol"], ["grisons"], ["baden-wurttemberg", "Baden-W\u00fcrttemberg"], ["bavaria"], ["st. gallen", "canton of st. gallen"], ["liechtenstein"]]}
 {"SubjectEntity": "Wales", "Relation": "StateSharesBorderState", "ObjectEntities": [["england"]]}
 {"SubjectEntity": "Washington", "Relation": "StateSharesBorderState", "ObjectEntities": [["idaho"], ["oregon"], ["british columbia"]]}
 {"SubjectEntity": "Wyoming", "Relation": "StateSharesBorderState", "ObjectEntities": [["nebraska"], ["colorado"], ["utah"], ["montana"], ["idaho"], ["dakota", "south dakota"]]}

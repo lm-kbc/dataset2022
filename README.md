@@ -7,7 +7,7 @@ We also provide:
   predictions
 - [``baseline.py``](baseline.py): our baseline for this challenge
 - [``getting_started.ipynb``](getting_started.ipynb): a notebook to help you get
-  started with LM-probing
+  started with LM probing
   and the baseline method
 
 🌟 Please directly go to [**Data format**](#data-format) if you are ready to
@@ -87,7 +87,7 @@ StateSharesBorderState     0.000  0.000  0.000
 We use the json-lines (*.jsonl) format (https://jsonlines.org/).
 Please take a look at [``file_io.py``](file_io.py) for how we read the files.
 
-### Ground truth ([``data/dev.jsonl``](data/dev.jsonl) and [``data/train.jsonl``](data/train.jsonl) and our private test files)
+### Ground truth ([``data/train.jsonl``](data/train.jsonl) and [``data/dev.jsonl``](data/dev.jsonl) and our private test files)
 
 Each line of a ground-truth file contains a JSON object with the following
 fields:
@@ -106,12 +106,11 @@ The ``ObjectEntities`` field could be an empty list (``[]``) such as:
 }
 ```
 
-Otherwise, it must be a list of objects, each of which is a list of an
-entity's aliases, such as:
+Otherwise, it will be a list of objects. In case of multi-token objects, a list of an entity's aliases will be given whenever possible. For example:
 
 ```json
 {
-  "SubjectEntity": "Dominican republic",
+  "SubjectEntity": "Dominican Republic",
   "Relation": "CountryBordersWithCountry",
   "ObjectEntities": [
     [
@@ -153,12 +152,12 @@ predictions = [
     {
         "SubjectEntity": "Dominican republic",
         "Relation": "CountryBordersWithCountry",
-        "ObjectEntities": ["Haiti", "Venezuela", "USA", "Germany"]
+        "ObjectEntities": ["haiti", "venezuela", "usa", "germany"]
     },
     {
         "SubjectEntity": "Eritrea",
         "Relation": "CountryBordersWithCountry",
-        "ObjectEntities": ["Ethiopia"]
+        "ObjectEntities": ["ethiopia"]
     },
     {
         "SubjectEntity": "Estonia",
