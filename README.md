@@ -67,19 +67,19 @@ Results for our baseline should be:
 
 ```text
                                p      r     f1
-ChemicalCompoundElement    0.160  0.077  0.100
-CompanyParentOrganization  0.640  0.640  0.640
-CountryBordersWithCountry  0.255  0.087  0.121
-CountryOfficialLanguage    0.787  0.639  0.674
-PersonCauseOfDeath         0.400  0.400  0.400
+ChemicalCompoundElement    0.140  0.060  0.083
+CompanyParentOrganization  0.680  0.680  0.680
+CountryBordersWithCountry  0.255  0.087  0.122
+CountryOfficialLanguage    0.894  0.703  0.752
+PersonCauseOfDeath         0.420  0.420  0.420
 PersonEmployer             0.000  0.000  0.000
 PersonInstrument           0.340  0.340  0.340
 PersonLanguage             0.480  0.412  0.431
 PersonPlaceOfDeath         0.500  0.500  0.500
 PersonProfession           0.000  0.000  0.000
-RiverBasinsCountry         0.500  0.362  0.401
+RiverBasinsCountry         0.480  0.342  0.381
 StateSharesBorderState     0.000  0.000  0.000
-*** Average ***            0.339  0.288  0.301
+*** Average ***            0.349  0.295  0.309
 ```
 
 ## Data format
