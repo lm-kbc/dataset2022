@@ -3,6 +3,7 @@ import string
 from typing import List, Dict, Union
 
 import pandas as pd
+import numpy as np
 
 from file_io import read_lm_kbc_jsonl
 
@@ -36,6 +37,7 @@ def is_none_preds(preds: List[str]) -> bool:
             len(preds) == 1 and
             (
                     list(preds)[0] is None or
+                    list(preds)[0] is np.nan or
                     list(preds)[0].lower() in {"", "none", "null"}
             )
     )
