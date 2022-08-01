@@ -1,600 +1,600 @@
-{"SubjectEntity": "Adenine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Adiponitrile", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Alfacalcidol", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Benzene", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Benzylpiperazine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Bilirubin", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Butyrolactone", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Cadaverine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Cadmium sulfide", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Caffeine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Calcitriol", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Cholesterol", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Citric acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Cocaine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Corrin", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Cyclopentane", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Cytosine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "DDT", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Decane", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Dopamine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Epinephrine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Fluphenazine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Formaldehyde", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Fucoxanthin", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Fulminic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Fumaric acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Halothane", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Harmine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Histamine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Hydrogen cyanide", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Lauryl alcohol", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Lithium hydride", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Lithium iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Magnesium citrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Nonane", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Octane", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Phenol", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Propyl alcohol", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Riboflavin", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Silver iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Sodium bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Sphingosine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Stibine", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Styphnic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Styrene", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Sulfur dioxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Tetradecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Toluene", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Uric acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Zirconium dioxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": []}
-{"SubjectEntity": "Adamson", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Arduino", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Avtovaz", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Brasier", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Briggs Automotive Company", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Bugatti", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Carbodies", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Citro\u00ebn", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Danvignes", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Donkervoort", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Espenlaub", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Fabryka Samochod\u00f3w Ci\u0119\u017carowych", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Fabryka Samochod\u00f3w Osobowych", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "General Motors", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Google", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Hermes-Simplex", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Honda", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Horch", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Hyundai", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Intermeccanica", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Jaguar Cars", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "LG Corporation", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Laurin & Klement", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Ligier", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "March Engineering", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Maserati", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Mathis", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Matra", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Mazda", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Mitsubishi Group", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Opel", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Packard", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Pierce-Arrow", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Renault", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Richard-Brasier", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Riga Autobus Factory", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Thyssenkrupp AG", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Tim Group", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Toyota", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Toyota Group", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Vauxhall", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Vodafone", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Volkswagen Group", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Wanderer", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Wikov", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Yahoo", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "ZSD nysa", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Zastava Automobiles", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Zena Fabbrica Automobili", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "\u0160koda Auto", "Relation": "CompanyParentOrganization", "ObjectEntities": []}
-{"SubjectEntity": "Algeria", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Antigua and Barbuda", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Bahamas", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Belgium", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Botswana", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Brunei", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Burkina Faso", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Czech Republic", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Eswatini", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Federated States of Micronesia", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Guatemala", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Guinea-Bissau", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Haiti", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Hungary", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Kazakhstan", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Kiribati", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Kuwait", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Laos", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Latvia", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Liberia", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Lithuania", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Maldives", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Malta", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Mauritania", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Mexico", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "New Zealand", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Nigeria", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Panama", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Paraguay", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Peru", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Republic of the Congo", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Saint Kitts and Nevis", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Slovakia", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Slovenia", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Solomon Islands", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "South Africa", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "South Korea", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Spain", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Sudan", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Sweden", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Syria", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Tajikistan", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Tanzania", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Trinidad and Tobago", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Tunisia", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Turkmenistan", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Uruguay", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Vanuatu", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Vatican City", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Yemen", "Relation": "CountryBordersWithCountry", "ObjectEntities": []}
-{"SubjectEntity": "Algeria", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Barbados", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Belgium", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Belize", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Bolivia", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Brazil", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Cape Verde", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Chad", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Ecuador", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Federated States of Micronesia", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Gabon", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Germany", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Guatemala", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Haiti", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Hungary", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Iran", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Ivory Coast", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Japan", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Kenya", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Kingdom of Africa", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Kuwait", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Kyrgyzstan", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Laos", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Lebanon", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Liberia", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Lithuania", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Luxembourg", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Malawi", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Marshall Islands", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Mauritius", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Monaco", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Montenegro", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Morocco", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Nigeria", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Oman", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Republic of the Congo", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Samoa", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Solomon Islands", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Somalia", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "South Africa", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Spain", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Sudan", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Sweden", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Switzerland", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Syria", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Tonga", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Turkey", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Uruguay", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Vatican City", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Vietnam", "Relation": "CountryOfficialLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Abdul Rehman Malik", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Alan Garc\u00eda", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Alan Guth", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Anthony Bourdain", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Arun Jaitley", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Bernie Sanders", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Betty White", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Beyonc\u00e9", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Bill Clinton", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Carlos Ruiz Zaf\u00f3n", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Caroline Flack", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Dean Martin", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Drake", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Dwayne Johnson", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Eddie van Halen", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Elvis Presley", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Enrique Pe\u00f1a Nieto", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Gustavo Cerati", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Joan Rivers", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "John Coltrane", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Justin Bieber", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Justin Timberlake", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Justin Trudeau", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Katy Perry", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Kim Jong-un", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Kobe Bryant", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Kylian Mbapp\u00e9", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "LeBron James", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Leonardo DiCaprio", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Lionel Messi", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Madonna", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Mark Zuckerberg", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Mike Enzi", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Nicky Hayden", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Noam Chomsky", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Pat Summitt", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Patrice O'Neal", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Paul Bocuse", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Peter R. de Vries", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Pope Francis", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Ravi Zacharias", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Ren\u00e9 Auberjonois", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Rituparno Ghosh", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Terry Pratchett", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Vladimir Putin", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Vladimir Zhirinovsky", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Volodymyr Zelenskyy", "Relation": "PersonCauseOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Alexander Lebedev", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Anatoly Chubais", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Angela Ahrendts", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Bobak Ferdowsi", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Buzz Aldrin", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Caterina Fake", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Cory Barlog", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Donald Trump Jr.", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Eddy Cue", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Elon Musk", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Eric Cantor", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Eric Schmidt", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Eric Trump", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Guy Kawasaki", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Herbert Fisk Johnson III", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Herman Cain", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Hikakin", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Howard Stern", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Ian Bremmer", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Indra Nooyi", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Jack Welch", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Jens Bergensten", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Joan Laporta", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "John Resig", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Joi Ito", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Josep Borrell", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Kailash Satyarthi", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Kazuyo Katsuma", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Kiran Mazumdar-Shaw", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Larry Brilliant", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Madonna", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Marc Andreessen", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Margaret Atwood", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Marissa Mayer", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Mark Zuckerberg", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Martha Stewart", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Max Levchin", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Meg Whitman", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Michael Morhaime", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Omarosa Manigault Newman", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Pavel Durov", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Peter Schiff", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Rahm Emanuel", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Robert L. Behnken", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Scott Kelly", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Stephanie McMahon", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Suze Orman", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Thomas Pesquet", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Tim Berners-Lee", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Tyler, the Creator", "Relation": "PersonEmployer", "ObjectEntities": []}
-{"SubjectEntity": "Atsuko Maeda", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Aviv Geffen", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Bae Suzy", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Billy Joel", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Brian Littrell", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "CL", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Chad Smith", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Choi Jong-hoon", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Dave Farrell", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Eunhyuk", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Frank Iero", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "G-Dragon", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "G.NA", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "George Harrison", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Geri Halliwell", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Goo Hara", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Gustavo Cerati", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Hahm Eun-jung", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Howard Donald", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Hyuna", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Jang Wooyoung", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Jimmy Page", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Julian Casablancas", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Kim Hyo-yeon", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Kim Jae-joong", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Kim Jong-hyun", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Lee Jong-hyun", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Lee Jun-ho", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Mayu Watanabe", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Melanie Brown", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Mike Shinoda", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Nadya Tolokonnikova", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Nick Carter", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Nikki Sixx", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Park Cho-rong", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Park Ji-yeon", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Peter Hook", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Rino Sashihara", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Rivers Cuomo", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Robbie Williams", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Roger Waters", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Ryo Nishikido", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Seo Joo-hyun", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Snoop Dogg", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Steven Van Zandt", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Stevie Nicks", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Tiffany Young", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Tionne Watkins", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Tommy Lee", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Tomomi Itano", "Relation": "PersonInstrument", "ObjectEntities": []}
-{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Ana Ivanovic", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Andrew Cuomo", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Bill Gates", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Carles Puyol", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Carly Rae Jepsen", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Cesc F\u00e0bregas", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Chris Hemsworth", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Coco Austin", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "David Guetta", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "David Villa", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Demi Lovato", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Dr. Dre", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Dwayne Johnson", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Ellie Goulding", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Elon Musk", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Franz Beckenbauer", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Harbhajan Singh", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Imran Khan", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "J. K. Rowling", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Jennifer Lopez", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Jenson Button", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "John Cleese", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "John Legend", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "John McCain", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Justin Bieber", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Justin Timberlake", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "LeBron James", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Lindsey Vonn", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Malala Yousafzai", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Manuel Valls", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Mesut \u00d6zil", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Michael Bloomberg", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Michael Jackson", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Miley Cyrus", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Psy", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Rachel Maddow", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Rajinikanth", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Recep Tayyip Erdo\u011fan", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Ricky Martin", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Rob Kardashian", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Roger Federer", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Sasha Grey", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Serena Williams", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Usain Bolt", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "V. V. S. Laxman", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Victoria Beckham", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "tanayo", "Relation": "PersonLanguage", "ObjectEntities": []}
-{"SubjectEntity": "Alan Guth", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Bernie Sanders", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Beyonc\u00e9", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Bill Clinton", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Bruce Lee", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Charles Robinson", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Christina Grimmie", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "David Bowie", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Drake", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Dwayne Johnson", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Elizabeth Taylor", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Enrique Pe\u00f1a Nieto", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Erick Morillo", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Gustavo Cerati", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Hank Aaron", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Hans Rosling", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Harry Reid", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Jimi Hendrix", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Jules Bianchi", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Justin Bieber", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Justin Timberlake", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Justin Trudeau", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Katy Perry", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Kim Jong-un", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Kobe Bryant", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Kylian Mbapp\u00e9", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "LeBron James", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Leonardo DiCaprio", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Lina Ben Mhenni", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Lionel Messi", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Louise hay", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Madeleine Albright", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Madonna", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Manohar Parrikar", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Mark Zuckerberg", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Merle Haggard", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Michael K. Williams", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Muhammad Ali", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Nelson Mandela", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Noam Chomsky", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Philipp Mi\u00dffelder", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Pope Francis", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Raffaella Carr\u00e0", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Sayaka Kanda", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Thomas Oppermann", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Vladimir Putin", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "Volodymyr Zelenskyy", "Relation": "PersonPlaceOfDeath", "ObjectEntities": []}
-{"SubjectEntity": "A. R. Rahman", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Adele", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Asha Bhosle", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Ashton Kutcher", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Avril Lavigne", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Barack Obama", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Bill Gates", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Britney Spears", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Carles Puyol", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Carly Rae Jepsen", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "CeeLo Green", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Cher", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Chlo\u00eb Grace Moretz", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Chris Rock", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Claire Holt", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "David Cameron", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Demi Moore", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Dr. Dre", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Ellie Goulding", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Elton John", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Hugh Jackman", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Iker Casillas", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Jennette McCurdy", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Jessie J", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Joe Biden", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "John Cleese", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Justin Timberlake", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Katy Perry", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Kylie Minogue", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Lance Armstrong", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Leonardo DiCaprio", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Maria Sharapova", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Mitt Romney", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Nelson Mandela", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Paris Hilton", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Pink", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Priyanka Chopra", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Richard Dawkins", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Samir Nasri", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Sean Combs", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Seth MacFarlane", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Seth Meyers", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Shah Rukh Khan", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Shaquille O'Neal", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Tom Hanks", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Troian Bellisario", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "William Shatner", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Wiz Khalifa", "Relation": "PersonProfession", "ObjectEntities": []}
-{"SubjectEntity": "Aare", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Amazon", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Aras river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Arge\u0219 river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Beni river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Black Drin", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Bosna", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Chenab river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Daugava", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Don", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "D\u00e2mbovi\u021ba river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Ems", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Eurotas", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Hakari river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Irtysh", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Is\u00e8re", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Kara Darya", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Kasai river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "K\u0131z\u0131l\u0131rmak river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Lech", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Leie", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Lena river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Limmat", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Mississippi river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Missouri river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Mondego river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Neva", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Nev\u0117\u017eis", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Nile", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Oka", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Olt river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Orinoco river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Prut", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Rhine", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Rioni", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "River Thames", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Sava", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Segura", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Seimare river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Spree", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "St. Lawrence river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Terek", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Tocantins river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Tone river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Volga", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Volta river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Yenisey", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Zayandeh river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Zeya river", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "\u00d6lfus\u00e1", "Relation": "RiverBasinsCountry", "ObjectEntities": []}
-{"SubjectEntity": "Abruzzo", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Alabama", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Arizona", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Ays\u00e9n Region", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Calabria", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Canton of Bern", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Canton of Jura", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Canton of Lucerne", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Canton of Solothurn", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Canton of Valais", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Carinthia", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Cerro Largo Department", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Colonia Department", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Community of Madrid", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Delaware", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Emilia-Romagna", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Eschen", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Finland Proper", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Flevoland", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Friesland", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Groningen", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Idaho", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Illinois", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Indiana", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Kentucky", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Kymenlaakso", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Limburg", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Lublin Voivodeship", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Maryland", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Maule Region", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Mississippi", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Missouri", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Nagano Prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "New Mexico", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Nidwalden", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Overijssel", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Rhode Island", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Riga", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Rivera Department", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Saxony", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Schleswig-Holstein", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "S\u00e3o Paulo", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Thuringia", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Treinta y Tres Department", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Uri", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Utah", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Utrecht", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Vermont", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Wisconsin", "Relation": "StateSharesBorderState", "ObjectEntities": []}
-{"SubjectEntity": "Zeeland", "Relation": "StateSharesBorderState", "ObjectEntities": []}
+{"SubjectEntity": "Adenine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 15277}
+{"SubjectEntity": "Adiponitrile", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 84062}
+{"SubjectEntity": "Alfacalcidol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 155883}
+{"SubjectEntity": "Benzene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 2270}
+{"SubjectEntity": "Benzylpiperazine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 161585}
+{"SubjectEntity": "Bilirubin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 104219}
+{"SubjectEntity": "Butyrolactone", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 79739}
+{"SubjectEntity": "Cadaverine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 161555}
+{"SubjectEntity": "Cadmium sulfide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 179619}
+{"SubjectEntity": "Caffeine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 60235}
+{"SubjectEntity": "Calcitriol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 139195}
+{"SubjectEntity": "Cholesterol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 43656}
+{"SubjectEntity": "Citric acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 159683}
+{"SubjectEntity": "Cocaine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 41576}
+{"SubjectEntity": "Corrin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 120384}
+{"SubjectEntity": "Cyclopentane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 80260}
+{"SubjectEntity": "Cytosine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 178425}
+{"SubjectEntity": "DDT", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 163648}
+{"SubjectEntity": "Decane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 150717}
+{"SubjectEntity": "Dopamine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 170304}
+{"SubjectEntity": "Epinephrine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 132621}
+{"SubjectEntity": "Fluphenazine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 58376}
+{"SubjectEntity": "Formaldehyde", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 161210}
+{"SubjectEntity": "Fucoxanthin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 96385}
+{"SubjectEntity": "Fulminic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 45143}
+{"SubjectEntity": "Fumaric acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 139857}
+{"SubjectEntity": "Halothane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 32921}
+{"SubjectEntity": "Harmine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 128381}
+{"SubjectEntity": "Histamine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 61233}
+{"SubjectEntity": "Hydrogen cyanide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 26075}
+{"SubjectEntity": "Lauryl alcohol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 161617}
+{"SubjectEntity": "Lithium hydride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 79583}
+{"SubjectEntity": "Lithium iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 79566}
+{"SubjectEntity": "Magnesium citrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 45044}
+{"SubjectEntity": "Nonane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 150694}
+{"SubjectEntity": "Octane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 150681}
+{"SubjectEntity": "Phenol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 130336}
+{"SubjectEntity": "Propyl alcohol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 14985}
+{"SubjectEntity": "Riboflavin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 130365}
+{"SubjectEntity": "Silver iodide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 19052}
+{"SubjectEntity": "Sodium bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 15768}
+{"SubjectEntity": "Sphingosine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 46298}
+{"SubjectEntity": "Stibine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 59712}
+{"SubjectEntity": "Styphnic acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 82432}
+{"SubjectEntity": "Styrene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 28917}
+{"SubjectEntity": "Sulfur dioxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 5282}
+{"SubjectEntity": "Tetradecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 150808}
+{"SubjectEntity": "Toluene", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 15779}
+{"SubjectEntity": "Uric acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 105522}
+{"SubjectEntity": "Zirconium dioxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [], "WikidataID": 36200}
+{"SubjectEntity": "Adamson", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 133496}
+{"SubjectEntity": "Arduino", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 175957}
+{"SubjectEntity": "Avtovaz", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 2309}
+{"SubjectEntity": "Brasier", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 27385}
+{"SubjectEntity": "Briggs Automotive Company", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 151310}
+{"SubjectEntity": "Bugatti", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 27401}
+{"SubjectEntity": "Carbodies", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 183040}
+{"SubjectEntity": "Citro\u00ebn", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 6746}
+{"SubjectEntity": "Danvignes", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 165379}
+{"SubjectEntity": "Donkervoort", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 27571}
+{"SubjectEntity": "Espenlaub", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 185432}
+{"SubjectEntity": "Fabryka Samochod\u00f3w Ci\u0119\u017carowych", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 27717}
+{"SubjectEntity": "Fabryka Samochod\u00f3w Osobowych", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 27786}
+{"SubjectEntity": "General Motors", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 81965}
+{"SubjectEntity": "Google", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 95}
+{"SubjectEntity": "Hermes-Simplex", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 163668}
+{"SubjectEntity": "Honda", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 9584}
+{"SubjectEntity": "Horch", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 29296}
+{"SubjectEntity": "Hyundai", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 29311}
+{"SubjectEntity": "Intermeccanica", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 162434}
+{"SubjectEntity": "Jaguar Cars", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 30055}
+{"SubjectEntity": "LG Corporation", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 136778}
+{"SubjectEntity": "Laurin & Klement", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 35914}
+{"SubjectEntity": "Ligier", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 35931}
+{"SubjectEntity": "March Engineering", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 173177}
+{"SubjectEntity": "Maserati", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 35962}
+{"SubjectEntity": "Mathis", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 35971}
+{"SubjectEntity": "Matra", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 35982}
+{"SubjectEntity": "Mazda", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 35996}
+{"SubjectEntity": "Mitsubishi Group", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 183275}
+{"SubjectEntity": "Opel", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 40966}
+{"SubjectEntity": "Packard", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 40971}
+{"SubjectEntity": "Pierce-Arrow", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 40978}
+{"SubjectEntity": "Renault", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 6686}
+{"SubjectEntity": "Richard-Brasier", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 41007}
+{"SubjectEntity": "Riga Autobus Factory", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 81243}
+{"SubjectEntity": "Thyssenkrupp AG", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 137910}
+{"SubjectEntity": "Tim Group", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 144617}
+{"SubjectEntity": "Toyota", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 53268}
+{"SubjectEntity": "Toyota Group", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 40794}
+{"SubjectEntity": "Vauxhall", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 59187}
+{"SubjectEntity": "Vodafone", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 122141}
+{"SubjectEntity": "Volkswagen Group", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 156578}
+{"SubjectEntity": "Wanderer", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 59183}
+{"SubjectEntity": "Wikov", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 59182}
+{"SubjectEntity": "Yahoo", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 37093}
+{"SubjectEntity": "ZSD nysa", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 136404}
+{"SubjectEntity": "Zastava Automobiles", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 15770}
+{"SubjectEntity": "Zena Fabbrica Automobili", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 189442}
+{"SubjectEntity": "\u0160koda Auto", "Relation": "CompanyParentOrganization", "ObjectEntities": [], "WikidataID": 29637}
+{"SubjectEntity": "Algeria", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 262}
+{"SubjectEntity": "Antigua and Barbuda", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 781}
+{"SubjectEntity": "Bahamas", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 778}
+{"SubjectEntity": "Belgium", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 31}
+{"SubjectEntity": "Botswana", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 963}
+{"SubjectEntity": "Brunei", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 921}
+{"SubjectEntity": "Burkina Faso", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 965}
+{"SubjectEntity": "Czech Republic", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 213}
+{"SubjectEntity": "Eswatini", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 1050}
+{"SubjectEntity": "Federated States of Micronesia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 702}
+{"SubjectEntity": "Guatemala", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 774}
+{"SubjectEntity": "Guinea-Bissau", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 1007}
+{"SubjectEntity": "Haiti", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 790}
+{"SubjectEntity": "Hungary", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 28}
+{"SubjectEntity": "Kazakhstan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 232}
+{"SubjectEntity": "Kiribati", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 710}
+{"SubjectEntity": "Kuwait", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 817}
+{"SubjectEntity": "Laos", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 819}
+{"SubjectEntity": "Latvia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 211}
+{"SubjectEntity": "Liberia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 1014}
+{"SubjectEntity": "Lithuania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 37}
+{"SubjectEntity": "Maldives", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 826}
+{"SubjectEntity": "Malta", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 233}
+{"SubjectEntity": "Mauritania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 1025}
+{"SubjectEntity": "Mexico", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 96}
+{"SubjectEntity": "New Zealand", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 664}
+{"SubjectEntity": "Nigeria", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 1033}
+{"SubjectEntity": "Panama", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 804}
+{"SubjectEntity": "Paraguay", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 733}
+{"SubjectEntity": "Peru", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 419}
+{"SubjectEntity": "Republic of the Congo", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 971}
+{"SubjectEntity": "Saint Kitts and Nevis", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 763}
+{"SubjectEntity": "Slovakia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 214}
+{"SubjectEntity": "Slovenia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 215}
+{"SubjectEntity": "Solomon Islands", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 685}
+{"SubjectEntity": "South Africa", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 258}
+{"SubjectEntity": "South Korea", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 884}
+{"SubjectEntity": "Spain", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 29}
+{"SubjectEntity": "Sudan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 1049}
+{"SubjectEntity": "Sweden", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 34}
+{"SubjectEntity": "Syria", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 858}
+{"SubjectEntity": "Tajikistan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 863}
+{"SubjectEntity": "Tanzania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 924}
+{"SubjectEntity": "Trinidad and Tobago", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 754}
+{"SubjectEntity": "Tunisia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 948}
+{"SubjectEntity": "Turkmenistan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 874}
+{"SubjectEntity": "Uruguay", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 77}
+{"SubjectEntity": "Vanuatu", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 686}
+{"SubjectEntity": "Vatican City", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 237}
+{"SubjectEntity": "Yemen", "Relation": "CountryBordersWithCountry", "ObjectEntities": [], "WikidataID": 805}
+{"SubjectEntity": "Algeria", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 262}
+{"SubjectEntity": "Barbados", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 244}
+{"SubjectEntity": "Belgium", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 31}
+{"SubjectEntity": "Belize", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 242}
+{"SubjectEntity": "Bolivia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 750}
+{"SubjectEntity": "Brazil", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 155}
+{"SubjectEntity": "Cape Verde", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1011}
+{"SubjectEntity": "Chad", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 657}
+{"SubjectEntity": "Ecuador", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 736}
+{"SubjectEntity": "Federated States of Micronesia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 702}
+{"SubjectEntity": "Gabon", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1000}
+{"SubjectEntity": "Germany", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 183}
+{"SubjectEntity": "Guatemala", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 774}
+{"SubjectEntity": "Haiti", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 790}
+{"SubjectEntity": "Hungary", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 28}
+{"SubjectEntity": "Iran", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 794}
+{"SubjectEntity": "Ivory Coast", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1008}
+{"SubjectEntity": "Japan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 17}
+{"SubjectEntity": "Kenya", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 114}
+{"SubjectEntity": "Kingdom of Africa", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 105082407}
+{"SubjectEntity": "Kuwait", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 817}
+{"SubjectEntity": "Kyrgyzstan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 813}
+{"SubjectEntity": "Laos", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 819}
+{"SubjectEntity": "Lebanon", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 822}
+{"SubjectEntity": "Liberia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1014}
+{"SubjectEntity": "Lithuania", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 37}
+{"SubjectEntity": "Luxembourg", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 32}
+{"SubjectEntity": "Malawi", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1020}
+{"SubjectEntity": "Marshall Islands", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 709}
+{"SubjectEntity": "Mauritius", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1027}
+{"SubjectEntity": "Monaco", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 235}
+{"SubjectEntity": "Montenegro", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 236}
+{"SubjectEntity": "Morocco", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1028}
+{"SubjectEntity": "Nigeria", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1033}
+{"SubjectEntity": "Oman", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 842}
+{"SubjectEntity": "Republic of the Congo", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 971}
+{"SubjectEntity": "Samoa", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 683}
+{"SubjectEntity": "Solomon Islands", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 685}
+{"SubjectEntity": "Somalia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1045}
+{"SubjectEntity": "South Africa", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 258}
+{"SubjectEntity": "Spain", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 29}
+{"SubjectEntity": "Sudan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 1049}
+{"SubjectEntity": "Sweden", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 34}
+{"SubjectEntity": "Switzerland", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 39}
+{"SubjectEntity": "Syria", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 858}
+{"SubjectEntity": "Tonga", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 678}
+{"SubjectEntity": "Turkey", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 43}
+{"SubjectEntity": "Uruguay", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 77}
+{"SubjectEntity": "Vatican City", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 237}
+{"SubjectEntity": "Vietnam", "Relation": "CountryOfficialLanguage", "ObjectEntities": [], "WikidataID": 881}
+{"SubjectEntity": "Abdul Rehman Malik", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 567965}
+{"SubjectEntity": "Alan Garc\u00eda", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 167211}
+{"SubjectEntity": "Alan Guth", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 323316}
+{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 9570}
+{"SubjectEntity": "Anthony Bourdain", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 426582}
+{"SubjectEntity": "Arun Jaitley", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 3629480}
+{"SubjectEntity": "Bernie Sanders", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 359442}
+{"SubjectEntity": "Betty White", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 373895}
+{"SubjectEntity": "Beyonc\u00e9", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 36153}
+{"SubjectEntity": "Bill Clinton", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 1124}
+{"SubjectEntity": "Carlos Ruiz Zaf\u00f3n", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 296752}
+{"SubjectEntity": "Caroline Flack", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 2939998}
+{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 11571}
+{"SubjectEntity": "Dean Martin", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 215359}
+{"SubjectEntity": "Drake", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 33240}
+{"SubjectEntity": "Dwayne Johnson", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 10738}
+{"SubjectEntity": "Eddie van Halen", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 272012}
+{"SubjectEntity": "Elvis Presley", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 303}
+{"SubjectEntity": "Enrique Pe\u00f1a Nieto", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 296741}
+{"SubjectEntity": "Gustavo Cerati", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 533284}
+{"SubjectEntity": "Joan Rivers", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 240933}
+{"SubjectEntity": "John Coltrane", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 7346}
+{"SubjectEntity": "Justin Bieber", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 34086}
+{"SubjectEntity": "Justin Timberlake", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 43432}
+{"SubjectEntity": "Justin Trudeau", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 3099714}
+{"SubjectEntity": "Katy Perry", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 42493}
+{"SubjectEntity": "Kim Jong-un", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 56226}
+{"SubjectEntity": "Kobe Bryant", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 25369}
+{"SubjectEntity": "Kylian Mbapp\u00e9", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 21621995}
+{"SubjectEntity": "LeBron James", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 36159}
+{"SubjectEntity": "Leonardo DiCaprio", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 38111}
+{"SubjectEntity": "Lionel Messi", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 615}
+{"SubjectEntity": "Madonna", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 1744}
+{"SubjectEntity": "Mark Zuckerberg", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 36215}
+{"SubjectEntity": "Mike Enzi", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 432431}
+{"SubjectEntity": "Nicky Hayden", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 319553}
+{"SubjectEntity": "Noam Chomsky", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 9049}
+{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 55800}
+{"SubjectEntity": "Pat Summitt", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 460394}
+{"SubjectEntity": "Patrice O'Neal", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 4145}
+{"SubjectEntity": "Paul Bocuse", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 8159}
+{"SubjectEntity": "Peter R. de Vries", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 1944867}
+{"SubjectEntity": "Pope Francis", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 450675}
+{"SubjectEntity": "Ravi Zacharias", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 1399671}
+{"SubjectEntity": "Ren\u00e9 Auberjonois", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 348445}
+{"SubjectEntity": "Rituparno Ghosh", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 32923}
+{"SubjectEntity": "Terry Pratchett", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 46248}
+{"SubjectEntity": "Vladimir Putin", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 7747}
+{"SubjectEntity": "Vladimir Zhirinovsky", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 200015}
+{"SubjectEntity": "Volodymyr Zelenskyy", "Relation": "PersonCauseOfDeath", "ObjectEntities": [], "WikidataID": 3874799}
+{"SubjectEntity": "Alexander Lebedev", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 370787}
+{"SubjectEntity": "Anatoly Chubais", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 201005}
+{"SubjectEntity": "Angela Ahrendts", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 529233}
+{"SubjectEntity": "Bobak Ferdowsi", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 4595122}
+{"SubjectEntity": "Buzz Aldrin", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 2252}
+{"SubjectEntity": "Caterina Fake", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 37195}
+{"SubjectEntity": "Cory Barlog", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 5173545}
+{"SubjectEntity": "Donald Trump Jr.", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 3713655}
+{"SubjectEntity": "Eddy Cue", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 224628}
+{"SubjectEntity": "Elon Musk", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 317521}
+{"SubjectEntity": "Eric Cantor", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 497271}
+{"SubjectEntity": "Eric Schmidt", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 92747}
+{"SubjectEntity": "Eric Trump", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 3731533}
+{"SubjectEntity": "Guy Kawasaki", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 507469}
+{"SubjectEntity": "Herbert Fisk Johnson III", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 5734095}
+{"SubjectEntity": "Herman Cain", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 491019}
+{"SubjectEntity": "Hikakin", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 11222605}
+{"SubjectEntity": "Howard Stern", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 348603}
+{"SubjectEntity": "Ian Bremmer", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 5980992}
+{"SubjectEntity": "Indra Nooyi", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 264913}
+{"SubjectEntity": "Jack Welch", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 355314}
+{"SubjectEntity": "Jens Bergensten", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 167056}
+{"SubjectEntity": "Joan Laporta", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 311611}
+{"SubjectEntity": "John Resig", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 1316196}
+{"SubjectEntity": "Joi Ito", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 934616}
+{"SubjectEntity": "Josep Borrell", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 312901}
+{"SubjectEntity": "Kailash Satyarthi", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 3442375}
+{"SubjectEntity": "Kazuyo Katsuma", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 6381786}
+{"SubjectEntity": "Kiran Mazumdar-Shaw", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 467215}
+{"SubjectEntity": "Larry Brilliant", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 2301314}
+{"SubjectEntity": "Madonna", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 1744}
+{"SubjectEntity": "Marc Andreessen", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 62882}
+{"SubjectEntity": "Margaret Atwood", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 183492}
+{"SubjectEntity": "Marissa Mayer", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 14086}
+{"SubjectEntity": "Mark Zuckerberg", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 36215}
+{"SubjectEntity": "Martha Stewart", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 234606}
+{"SubjectEntity": "Max Levchin", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 93014}
+{"SubjectEntity": "Meg Whitman", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 55174}
+{"SubjectEntity": "Michael Morhaime", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 52994}
+{"SubjectEntity": "Omarosa Manigault Newman", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 542489}
+{"SubjectEntity": "Pavel Durov", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 149067}
+{"SubjectEntity": "Peter Schiff", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 512741}
+{"SubjectEntity": "Rahm Emanuel", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 298443}
+{"SubjectEntity": "Robert L. Behnken", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 523835}
+{"SubjectEntity": "Scott Kelly", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 362190}
+{"SubjectEntity": "Stephanie McMahon", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 842633}
+{"SubjectEntity": "Suze Orman", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 465633}
+{"SubjectEntity": "Thomas Pesquet", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 512266}
+{"SubjectEntity": "Tim Berners-Lee", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 80}
+{"SubjectEntity": "Tyler, the Creator", "Relation": "PersonEmployer", "ObjectEntities": [], "WikidataID": 167635}
+{"SubjectEntity": "Atsuko Maeda", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 1154232}
+{"SubjectEntity": "Aviv Geffen", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 733103}
+{"SubjectEntity": "Bae Suzy", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 464645}
+{"SubjectEntity": "Billy Joel", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 194333}
+{"SubjectEntity": "Brian Littrell", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 313941}
+{"SubjectEntity": "CL", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 483683}
+{"SubjectEntity": "Chad Smith", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 269500}
+{"SubjectEntity": "Choi Jong-hoon", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 490438}
+{"SubjectEntity": "Dave Farrell", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 19202}
+{"SubjectEntity": "Eunhyuk", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 483161}
+{"SubjectEntity": "Frank Iero", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 723430}
+{"SubjectEntity": "G-Dragon", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 495577}
+{"SubjectEntity": "G.NA", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 292717}
+{"SubjectEntity": "George Harrison", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 2643}
+{"SubjectEntity": "Geri Halliwell", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 19845}
+{"SubjectEntity": "Goo Hara", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 494996}
+{"SubjectEntity": "Gustavo Cerati", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 533284}
+{"SubjectEntity": "Hahm Eun-jung", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 140099}
+{"SubjectEntity": "Howard Donald", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 130565}
+{"SubjectEntity": "Hyuna", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 234066}
+{"SubjectEntity": "Jang Wooyoung", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 488344}
+{"SubjectEntity": "Jimmy Page", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 165467}
+{"SubjectEntity": "Julian Casablancas", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 350511}
+{"SubjectEntity": "Kim Hyo-yeon", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 253619}
+{"SubjectEntity": "Kim Jae-joong", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 169717}
+{"SubjectEntity": "Kim Jong-hyun", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 484484}
+{"SubjectEntity": "Lee Jong-hyun", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 488057}
+{"SubjectEntity": "Lee Jun-ho", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 488423}
+{"SubjectEntity": "Mayu Watanabe", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 187662}
+{"SubjectEntity": "Melanie Brown", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 236005}
+{"SubjectEntity": "Mike Shinoda", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 19201}
+{"SubjectEntity": "Nadya Tolokonnikova", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 288956}
+{"SubjectEntity": "Nick Carter", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 214466}
+{"SubjectEntity": "Nikki Sixx", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 362516}
+{"SubjectEntity": "Park Cho-rong", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 492738}
+{"SubjectEntity": "Park Ji-yeon", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 483563}
+{"SubjectEntity": "Peter Hook", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 431244}
+{"SubjectEntity": "Rino Sashihara", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 181881}
+{"SubjectEntity": "Rivers Cuomo", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 343069}
+{"SubjectEntity": "Robbie Williams", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 47875}
+{"SubjectEntity": "Roger Waters", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 180861}
+{"SubjectEntity": "Ryo Nishikido", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 1154184}
+{"SubjectEntity": "Seo Joo-hyun", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 240082}
+{"SubjectEntity": "Snoop Dogg", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 6096}
+{"SubjectEntity": "Steven Van Zandt", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 354181}
+{"SubjectEntity": "Stevie Nicks", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 234691}
+{"SubjectEntity": "Tiffany Young", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 236355}
+{"SubjectEntity": "Tionne Watkins", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 273981}
+{"SubjectEntity": "Tommy Lee", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 331748}
+{"SubjectEntity": "Tomomi Itano", "Relation": "PersonInstrument", "ObjectEntities": [], "WikidataID": 1154210}
+{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 9570}
+{"SubjectEntity": "Ana Ivanovic", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 30758}
+{"SubjectEntity": "Andrew Cuomo", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 11673}
+{"SubjectEntity": "Bill Gates", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 5284}
+{"SubjectEntity": "Carles Puyol", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 17158}
+{"SubjectEntity": "Carly Rae Jepsen", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 52583}
+{"SubjectEntity": "Cesc F\u00e0bregas", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 17499}
+{"SubjectEntity": "Chris Hemsworth", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 54314}
+{"SubjectEntity": "Coco Austin", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 814}
+{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 11571}
+{"SubjectEntity": "David Guetta", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 8298}
+{"SubjectEntity": "David Villa", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 83006}
+{"SubjectEntity": "Demi Lovato", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 41173}
+{"SubjectEntity": "Dr. Dre", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 6078}
+{"SubjectEntity": "Dwayne Johnson", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 10738}
+{"SubjectEntity": "Ellie Goulding", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 31164}
+{"SubjectEntity": "Elon Musk", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 317521}
+{"SubjectEntity": "Franz Beckenbauer", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 4457}
+{"SubjectEntity": "Harbhajan Singh", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 9475}
+{"SubjectEntity": "Imran Khan", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 155164}
+{"SubjectEntity": "J. K. Rowling", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 34660}
+{"SubjectEntity": "Jennifer Lopez", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 40715}
+{"SubjectEntity": "Jenson Button", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 10510}
+{"SubjectEntity": "John Cleese", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 25014}
+{"SubjectEntity": "John Legend", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 44857}
+{"SubjectEntity": "John McCain", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 10390}
+{"SubjectEntity": "Justin Bieber", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 34086}
+{"SubjectEntity": "Justin Timberlake", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 43432}
+{"SubjectEntity": "LeBron James", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 36159}
+{"SubjectEntity": "Lindsey Vonn", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 10068}
+{"SubjectEntity": "Malala Yousafzai", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 32732}
+{"SubjectEntity": "Manuel Valls", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 10287}
+{"SubjectEntity": "Mesut \u00d6zil", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 83488}
+{"SubjectEntity": "Michael Bloomberg", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 607}
+{"SubjectEntity": "Michael Jackson", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 2831}
+{"SubjectEntity": "Miley Cyrus", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 4235}
+{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 55800}
+{"SubjectEntity": "Psy", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 20150}
+{"SubjectEntity": "Rachel Maddow", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 555}
+{"SubjectEntity": "Rajinikanth", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 60068}
+{"SubjectEntity": "Recep Tayyip Erdo\u011fan", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 39259}
+{"SubjectEntity": "Ricky Martin", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 128799}
+{"SubjectEntity": "Rob Kardashian", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 26318}
+{"SubjectEntity": "Roger Federer", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 1426}
+{"SubjectEntity": "Sasha Grey", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 2709}
+{"SubjectEntity": "Serena Williams", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 11459}
+{"SubjectEntity": "Usain Bolt", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 1189}
+{"SubjectEntity": "V. V. S. Laxman", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 10233}
+{"SubjectEntity": "Victoria Beckham", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 19810}
+{"SubjectEntity": "tanayo", "Relation": "PersonLanguage", "ObjectEntities": [], "WikidataID": 43189}
+{"SubjectEntity": "Alan Guth", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 323316}
+{"SubjectEntity": "Amitabh Bachchan", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 9570}
+{"SubjectEntity": "Bernie Sanders", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 359442}
+{"SubjectEntity": "Beyonc\u00e9", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 36153}
+{"SubjectEntity": "Bill Clinton", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 1124}
+{"SubjectEntity": "Bruce Lee", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 16397}
+{"SubjectEntity": "Charles Robinson", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 456258}
+{"SubjectEntity": "Christina Grimmie", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 231713}
+{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 11571}
+{"SubjectEntity": "David Bowie", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 5383}
+{"SubjectEntity": "Drake", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 33240}
+{"SubjectEntity": "Dwayne Johnson", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 10738}
+{"SubjectEntity": "Elizabeth Taylor", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 34851}
+{"SubjectEntity": "Enrique Pe\u00f1a Nieto", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 296741}
+{"SubjectEntity": "Erick Morillo", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 739896}
+{"SubjectEntity": "Gustavo Cerati", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 533284}
+{"SubjectEntity": "Hank Aaron", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 215777}
+{"SubjectEntity": "Hans Rosling", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 588259}
+{"SubjectEntity": "Harry Reid", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 314459}
+{"SubjectEntity": "Jimi Hendrix", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 5928}
+{"SubjectEntity": "Jules Bianchi", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 281294}
+{"SubjectEntity": "Justin Bieber", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 34086}
+{"SubjectEntity": "Justin Timberlake", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 43432}
+{"SubjectEntity": "Justin Trudeau", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 3099714}
+{"SubjectEntity": "Katy Perry", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 42493}
+{"SubjectEntity": "Kim Jong-un", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 56226}
+{"SubjectEntity": "Kobe Bryant", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 25369}
+{"SubjectEntity": "Kylian Mbapp\u00e9", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 21621995}
+{"SubjectEntity": "LeBron James", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 36159}
+{"SubjectEntity": "Leonardo DiCaprio", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 38111}
+{"SubjectEntity": "Lina Ben Mhenni", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 468864}
+{"SubjectEntity": "Lionel Messi", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 615}
+{"SubjectEntity": "Louise hay", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 255945}
+{"SubjectEntity": "Madeleine Albright", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 174438}
+{"SubjectEntity": "Madonna", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 1744}
+{"SubjectEntity": "Manohar Parrikar", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 1391309}
+{"SubjectEntity": "Mark Zuckerberg", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 36215}
+{"SubjectEntity": "Merle Haggard", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 183092}
+{"SubjectEntity": "Michael K. Williams", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 921518}
+{"SubjectEntity": "Muhammad Ali", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 36107}
+{"SubjectEntity": "Nelson Mandela", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 8023}
+{"SubjectEntity": "Noam Chomsky", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 9049}
+{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 55800}
+{"SubjectEntity": "Philipp Mi\u00dffelder", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 73500}
+{"SubjectEntity": "Pope Francis", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 450675}
+{"SubjectEntity": "Raffaella Carr\u00e0", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 266640}
+{"SubjectEntity": "Sayaka Kanda", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 430602}
+{"SubjectEntity": "Thomas Oppermann", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 90833}
+{"SubjectEntity": "Vladimir Putin", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 7747}
+{"SubjectEntity": "Volodymyr Zelenskyy", "Relation": "PersonPlaceOfDeath", "ObjectEntities": [], "WikidataID": 3874799}
+{"SubjectEntity": "A. R. Rahman", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 108560}
+{"SubjectEntity": "Adele", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 23215}
+{"SubjectEntity": "Asha Bhosle", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 38393}
+{"SubjectEntity": "Ashton Kutcher", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 164782}
+{"SubjectEntity": "Avril Lavigne", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 30449}
+{"SubjectEntity": "Barack Obama", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 76}
+{"SubjectEntity": "Bill Gates", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 5284}
+{"SubjectEntity": "Britney Spears", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 11975}
+{"SubjectEntity": "Carles Puyol", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 17158}
+{"SubjectEntity": "Carly Rae Jepsen", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 52583}
+{"SubjectEntity": "CeeLo Green", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 4042}
+{"SubjectEntity": "Cher", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 12003}
+{"SubjectEntity": "Chlo\u00eb Grace Moretz", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 4509}
+{"SubjectEntity": "Chris Rock", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 4109}
+{"SubjectEntity": "Claire Holt", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 4189}
+{"SubjectEntity": "Cristiano Ronaldo", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 11571}
+{"SubjectEntity": "David Cameron", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 192}
+{"SubjectEntity": "Demi Moore", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 43044}
+{"SubjectEntity": "Dr. Dre", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 6078}
+{"SubjectEntity": "Ellie Goulding", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 31164}
+{"SubjectEntity": "Elton John", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 2808}
+{"SubjectEntity": "Hugh Jackman", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 129591}
+{"SubjectEntity": "Iker Casillas", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 11584}
+{"SubjectEntity": "Jennette McCurdy", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 4473}
+{"SubjectEntity": "Jessie J", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 18814}
+{"SubjectEntity": "Joe Biden", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 6279}
+{"SubjectEntity": "John Cleese", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 25014}
+{"SubjectEntity": "Justin Timberlake", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 43432}
+{"SubjectEntity": "Katy Perry", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 42493}
+{"SubjectEntity": "Kylie Minogue", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 11998}
+{"SubjectEntity": "Lance Armstrong", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 2172}
+{"SubjectEntity": "Leonardo DiCaprio", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 38111}
+{"SubjectEntity": "Maria Sharapova", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 11666}
+{"SubjectEntity": "Mitt Romney", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 4496}
+{"SubjectEntity": "Nelson Mandela", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 8023}
+{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 55800}
+{"SubjectEntity": "Paris Hilton", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 47899}
+{"SubjectEntity": "Pink", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 160009}
+{"SubjectEntity": "Priyanka Chopra", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 158957}
+{"SubjectEntity": "Richard Dawkins", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 44461}
+{"SubjectEntity": "Samir Nasri", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 1920}
+{"SubjectEntity": "Sean Combs", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 216936}
+{"SubjectEntity": "Seth MacFarlane", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 188492}
+{"SubjectEntity": "Seth Meyers", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 14536}
+{"SubjectEntity": "Shah Rukh Khan", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 9535}
+{"SubjectEntity": "Shaquille O'Neal", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 169452}
+{"SubjectEntity": "Tom Hanks", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 2263}
+{"SubjectEntity": "Troian Bellisario", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 4461}
+{"SubjectEntity": "William Shatner", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 16297}
+{"SubjectEntity": "Wiz Khalifa", "Relation": "PersonProfession", "ObjectEntities": [], "WikidataID": 117139}
+{"SubjectEntity": "Aare", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 1675}
+{"SubjectEntity": "Amazon", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 3783}
+{"SubjectEntity": "Aras river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 179751}
+{"SubjectEntity": "Arge\u0219 river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 214811}
+{"SubjectEntity": "Beni river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 142604}
+{"SubjectEntity": "Black Drin", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 158924}
+{"SubjectEntity": "Bosna", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 208367}
+{"SubjectEntity": "Chenab river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 216875}
+{"SubjectEntity": "Daugava", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 8197}
+{"SubjectEntity": "Don", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 1229}
+{"SubjectEntity": "D\u00e2mbovi\u021ba river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 214646}
+{"SubjectEntity": "Ems", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 1648}
+{"SubjectEntity": "Eurotas", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 119152}
+{"SubjectEntity": "Hakari river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 154226}
+{"SubjectEntity": "Irtysh", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 128102}
+{"SubjectEntity": "Is\u00e8re", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 201341}
+{"SubjectEntity": "Kara Darya", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 155298}
+{"SubjectEntity": "Kasai river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 186541}
+{"SubjectEntity": "K\u0131z\u0131l\u0131rmak river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 257785}
+{"SubjectEntity": "Lech", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 155841}
+{"SubjectEntity": "Leie", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 208493}
+{"SubjectEntity": "Lena river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 46841}
+{"SubjectEntity": "Limmat", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 14338}
+{"SubjectEntity": "Mississippi river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 1497}
+{"SubjectEntity": "Missouri river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 5419}
+{"SubjectEntity": "Mondego river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 15656}
+{"SubjectEntity": "Neva", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 645}
+{"SubjectEntity": "Nev\u0117\u017eis", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 138925}
+{"SubjectEntity": "Nile", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 3392}
+{"SubjectEntity": "Oka", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 172089}
+{"SubjectEntity": "Olt river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 126822}
+{"SubjectEntity": "Orinoco river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 131792}
+{"SubjectEntity": "Prut", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 182445}
+{"SubjectEntity": "Rhine", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 584}
+{"SubjectEntity": "Rioni", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 203409}
+{"SubjectEntity": "River Thames", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 19686}
+{"SubjectEntity": "Sava", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 14383}
+{"SubjectEntity": "Segura", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 18612}
+{"SubjectEntity": "Seimare river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 283245}
+{"SubjectEntity": "Spree", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 1684}
+{"SubjectEntity": "St. Lawrence river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 134750}
+{"SubjectEntity": "Terek", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 82776}
+{"SubjectEntity": "Tocantins river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 156054}
+{"SubjectEntity": "Tone river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 177452}
+{"SubjectEntity": "Volga", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 626}
+{"SubjectEntity": "Volta river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 192415}
+{"SubjectEntity": "Yenisey", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 78707}
+{"SubjectEntity": "Zayandeh river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 167814}
+{"SubjectEntity": "Zeya river", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 210220}
+{"SubjectEntity": "\u00d6lfus\u00e1", "Relation": "RiverBasinsCountry", "ObjectEntities": [], "WikidataID": 297018}
+{"SubjectEntity": "Abruzzo", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1284}
+{"SubjectEntity": "Alabama", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 173}
+{"SubjectEntity": "Arizona", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 816}
+{"SubjectEntity": "Ays\u00e9n Region", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 2181}
+{"SubjectEntity": "Calabria", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1458}
+{"SubjectEntity": "Canton of Bern", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 11911}
+{"SubjectEntity": "Canton of Jura", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 12755}
+{"SubjectEntity": "Canton of Lucerne", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 12121}
+{"SubjectEntity": "Canton of Solothurn", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 11929}
+{"SubjectEntity": "Canton of Valais", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 834}
+{"SubjectEntity": "Carinthia", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 37985}
+{"SubjectEntity": "Cerro Largo Department", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 16575}
+{"SubjectEntity": "Colonia Department", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 16580}
+{"SubjectEntity": "Community of Madrid", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 5756}
+{"SubjectEntity": "Delaware", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1393}
+{"SubjectEntity": "Emilia-Romagna", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1263}
+{"SubjectEntity": "Eschen", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 4540}
+{"SubjectEntity": "Finland Proper", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 5712}
+{"SubjectEntity": "Flevoland", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 707}
+{"SubjectEntity": "Friesland", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 770}
+{"SubjectEntity": "Groningen", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 752}
+{"SubjectEntity": "Idaho", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1221}
+{"SubjectEntity": "Illinois", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1204}
+{"SubjectEntity": "Indiana", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1415}
+{"SubjectEntity": "Kentucky", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1603}
+{"SubjectEntity": "Kymenlaakso", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 5698}
+{"SubjectEntity": "Limburg", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1093}
+{"SubjectEntity": "Lublin Voivodeship", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 54155}
+{"SubjectEntity": "Maryland", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1391}
+{"SubjectEntity": "Maule Region", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 2166}
+{"SubjectEntity": "Mississippi", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1494}
+{"SubjectEntity": "Missouri", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1581}
+{"SubjectEntity": "Nagano Prefecture", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 127877}
+{"SubjectEntity": "New Mexico", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1522}
+{"SubjectEntity": "Nidwalden", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 12592}
+{"SubjectEntity": "Overijssel", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 773}
+{"SubjectEntity": "Rhode Island", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1387}
+{"SubjectEntity": "Riga", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1773}
+{"SubjectEntity": "Rivera Department", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 16609}
+{"SubjectEntity": "Saxony", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1202}
+{"SubjectEntity": "Schleswig-Holstein", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1194}
+{"SubjectEntity": "S\u00e3o Paulo", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 175}
+{"SubjectEntity": "Thuringia", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1205}
+{"SubjectEntity": "Treinta y Tres Department", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 16610}
+{"SubjectEntity": "Uri", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 12404}
+{"SubjectEntity": "Utah", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 829}
+{"SubjectEntity": "Utrecht", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 776}
+{"SubjectEntity": "Vermont", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 16551}
+{"SubjectEntity": "Wisconsin", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 1537}
+{"SubjectEntity": "Zeeland", "Relation": "StateSharesBorderState", "ObjectEntities": [], "WikidataID": 705}
